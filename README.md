@@ -1,11 +1,7 @@
+Cycling Uptake and Road Lighting: A Review
+================
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-<!-- badges: start -->
-<!-- badges: end -->
-
-# Cycling Uptake and Road Lighting: A Review
-
-## Abstract
+# Abstract
 
 Linear cycling infrastructure at ground level, such as cycle lanes, have
 received the bulk of research and policy attention in relation to
@@ -22,7 +18,7 @@ harmful ecological effects due to excess light pollution, raising the
 question: what is the optimal use of lighting to enable safe cycling
 uptake, at all times and in all seasons?
 
-## Introduction
+# Introduction
 
 The problem: Darkness seems to negatively influence cycling uptake. This
 paper answers the question: How does road lighting/darkness affect
@@ -33,7 +29,7 @@ review not international or in a related area? Fotios & Castleton, 2017.
 Concepts to define? E.g. road lighting or cycling. cycling includes
 cycling, walking, and wheeling. Review structure:
 
-## Methodology
+# Methodology
 
 Good practice review methodology: Scheepers et al., 2014. Selection of
 papers: SCOPUS search engine (any other? e.g. Google Scholar). How have
@@ -55,9 +51,9 @@ and independent variables are related (conceptual model?).
 
 Table with a summary of the most relevant literature.
 
-## Discussion and research gaps
+# Discussion and research gaps
 
-## Conclusions
+# Conclusions
 
 Interpretation of the material.
 
@@ -80,8 +76,20 @@ lighting influence cycling rates and cyclist safety. To ensure the
 policy relevance of future work into road lighting and cycling, it is
 important that the findings feed into larger models of cycling uptake to
 support cost effective investment in road and path lighting (Fotios et
-al., 2017), as part of balanced packages of interventions, for the
+al. 2017), as part of balanced packages of interventions, for the
 benefit of people who stand to benefit from better walking, cycling and
 wheeling provision worldwide.
 
 # References
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-fotios_pilot_2017" class="csl-entry">
+
+Fotios, S, H Qasem, C Cheal, and J Uttley. 2017. “A Pilot Study of Road
+Lighting, Cycle Lighting and Obstacle Detection.” *Lighting Research &
+Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
+
+</div>
+
+</div>
