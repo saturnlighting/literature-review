@@ -27,10 +27,12 @@ Research suggests that darkness influences negatively cycling uptake.
 But to what extent?
 Is this applicable to all groups of cyclists equally?
 Is this due to fear of suffering a road collision or fear of another type of threat (crime)?
+Does road lighting increase cycling uptake during dark hours?
+If so, what type of road lighting would be the most suitable to increase cycling uptake and cycling safety?
 
 To the best of our knowledge, there is no academic paper that has reviewed the international literature available on this specific area of research. 
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists.
-However, @fotios_lighting_2017 focuses on cycling safety and lighting in the UK.
+However, @fotios_lighting_2017 focuses on cycling safety and lighting (for both bicycle lighting and road lighting) in the UK.
 
 This paper aims to review international research on the relationship between cycling uptake and road lighting.
 
@@ -58,7 +60,7 @@ Potential outputs of this section: state of knowledge, gaps in literature, weakn
 
 # Discussion and research gaps 
 
-Table with a summary of the most relevant literature.
+<!-- Table with a summary of the most relevant literature. -->
 
 ```{r tab1, echo=FALSE}
 library(kableExtra)
@@ -71,7 +73,7 @@ kbl(tab) %>%
 
 # Conclusions
 
-Interpretation of the material.
+<!-- Interpretation of the material. -->
 
 The review presented above highlights the need for more empirical work in the area of cycling uptake (which means tackling the barriers to cycling including road safety and perceived personal safety) and lighting.
 We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body.

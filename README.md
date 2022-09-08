@@ -24,14 +24,16 @@ all times and in all seasons?
 Research suggests that darkness influences negatively cycling uptake.
 But to what extent? Is this applicable to all groups of cyclists
 equally? Is this due to fear of suffering a road collision or fear of
-another type of threat (crime)?
+another type of threat (crime)? Does road lighting increase cycling
+uptake during dark hours? If so, what type of road lighting would be the
+most suitable to increase cycling uptake and cycling safety?
 
 To the best of our knowledge, there is no academic paper that has
 reviewed the international literature available on this specific area of
 research. Fotios and Castleton (2017) provide a review of suggested
 actions to enable cycling lighting to contribute to the safety of
 cyclists. However, Fotios and Castleton (2017) focuses on cycling safety
-and lighting in the UK.
+and lighting (for both bicycle lighting and road lighting) in the UK.
 
 This paper aims to review international research on the relationship
 between cycling uptake and road lighting.
@@ -66,8 +68,7 @@ and independent variables are related (conceptual model?).
 
 # Discussion and research gaps
 
-Table with a summary of the most relevant literature.
-
+<!-- Table with a summary of the most relevant literature. -->
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -133,7 +134,7 @@ Uttley, Fotios, and Lovelace (2020)
 
 # Conclusions
 
-Interpretation of the material.
+<!-- Interpretation of the material. -->
 
 The review presented above highlights the need for more empirical work
 in the area of cycling uptake (which means tackling the barriers to
