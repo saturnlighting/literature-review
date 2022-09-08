@@ -23,13 +23,13 @@ Research suggests that darkness influences negatively cycling uptake,
 but to what extent? To the best of our knowledge, there is no academic
 paper in the transport literature that reviews this specific area of
 research. <!-- This paper aims to fill this gap. --> Fotios and
-Castleton (2017) provided a review of suggested actions to enable
-cycling lighting to contribute to the safety of cyclists. “Lighting to
-see and lighting to be seen by”. However, this review focuses road
-lighting and lighting for cycling and road safety rather than cycling
-levels. The relation between cycling uptake, road safety, and lighting
-is clear. This review focuses on road lighting and cycling levels.
-Concepts to define? E.g. road lighting? Review structure:
+Castleton (2017) provide a review of suggested actions to enable cycling
+lighting to contribute to the safety of cyclists. “Lighting to see and
+lighting to be seen by”. However, this review focuses road lighting and
+lighting for cycling and road safety rather than cycling levels. The
+relation between cycling uptake, road safety, and lighting is clear.
+This review focuses on road lighting and cycling levels. Concepts to
+define? E.g. road lighting? Review structure:
 
 # Methodology
 
