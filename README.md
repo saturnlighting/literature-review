@@ -1,38 +1,35 @@
 Cycling Uptake and Road Lighting: A Review
 ================
 
-Previous version and response to feedback:
-<https://docs.google.com/document/d/1Qz2JyYFur8CkTK05Ouyrd4mwo_6BdFNvTp8ncdNEpI4/edit#heading=h.dy6ha5pk5eg5>
-
-Test
-
 # Abstract
 
-Linear cycling infrastructure at ground level, such as cycle lanes, have
-received the bulk of research and policy attention in relation to
-investment in walking and cycling. However, localised treatments such as
-appropriate lighting and cycle parking can have a major impact on
-cyclability. There is much evidence suggesting darkness puts people off
-from cycling, and increases the risk of being involved in a collision
-whilst cycling. Appropriate road or path lighting can increase feelings
-of reassurance, make hazards more visible, and make the cyclist more
-visible to other road users. However, there is to date little evidence
-on the lighting interventions that work best, in combination with other
-measures. Lighting after dark has costs, both in terms of energy use and
-harmful ecological effects due to excess light pollution, raising the
-question: what is the optimal use of lighting to enable safe cycling
-uptake, at all times and in all seasons?
+<!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in walking and cycling. -->
+<!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. -->
+
+There is evidence suggesting darkness puts people off from cycling, and
+increases the risk of being involved in a collision whilst cycling.
+Appropriate road or path lighting can increase feelings of reassurance,
+make hazards more visible, and make the cyclist more visible to other
+road users. However, there is to date little evidence on the lighting
+interventions that work best, in combination with other measures.
+Lighting after dark has costs, both in terms of energy use and harmful
+ecological effects due to excess light pollution, raising the question:
+what is the optimal use of lighting to enable safe cycling uptake, at
+all times and in all seasons?
 
 # Introduction
 
-The problem: Darkness seems to negatively influence cycling uptake. This
-paper answers the question: How does road lighting/darkness affect
-cycling uptake?. To the best of our knowledge, there is no academic
+Research suggests that darkness influences negatively cycling uptake,
+but to what extent? To the best of our knowledge, there is no academic
 paper in the transport literature that reviews this specific area of
-research. This paper aims to fill this gap. Any previous literature
-review not international or in a related area? Fotios & Castleton, 2017.
-Concepts to define? E.g. road lighting or cycling. cycling includes
-cycling, walking, and wheeling. Review structure:
+research. <!-- This paper aims to fill this gap. --> Fotios and
+Castleton (2017) provided a review of suggested actions to enable
+cycling lighting to contribute to the safety of cyclists. “Lighting to
+see and lighting to be seen by”. However, this review focuses road
+lighting and lighting for cycling and road safety rather than cycling
+levels. The relation between cycling uptake, road safety, and lighting
+is clear. This review focuses on road lighting and cycling levels.
+Concepts to define? E.g. road lighting? Review structure:
 
 # Methodology
 
@@ -88,6 +85,14 @@ wheeling provision worldwide.
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-fotios_lighting_2017" class="csl-entry">
+
+Fotios, S, and Hf Castleton. 2017. “Lighting for Cycling in the UK—A
+Review.” *Lighting Research & Technology* 49 (3): 381–95.
+<https://doi.org/10.1177/1477153515609391>.
+
+</div>
 
 <div id="ref-fotios_pilot_2017" class="csl-entry">
 
