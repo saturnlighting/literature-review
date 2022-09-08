@@ -5,6 +5,7 @@ editor_options:
     wrap: sentence
 title: 'Cycling Uptake and Road Lighting: A Review'
 bibliography: saturn.bib
+always_allow_html: true
 ---
 
 # Abstract
@@ -55,9 +56,18 @@ Results (or state of knowledge) What is already known in this area (and maybe wh
 Present the literature in a logical way, commenting on the differences and similarities between the material cited.
 Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?).
 
+# Discussion and research gaps 
+
 Table with a summary of the most relevant literature.
 
-# Discussion and research gaps
+```{r tab1, echo=FALSE}
+library(kableExtra)
+tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 4)
+colnames(tab) <- c('County, area or city', 'Cycling uptake measure', 'sign of association', 'Reference')
+tab <- as.data.frame(tab)
+kbl(tab) %>%
+  kable_styling()
+```
 
 # Conclusions
 

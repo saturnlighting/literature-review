@@ -64,9 +64,72 @@ cited. Potential outputs of this section: state of knowledge, gaps in
 literature, weakness of methodologies used, structure on how dependent
 and independent variables are related (conceptual model?).
 
+# Discussion and research gaps
+
 Table with a summary of the most relevant literature.
 
-# Discussion and research gaps
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+County, area or city
+</th>
+<th style="text-align:left;">
+Cycling uptake measure
+</th>
+<th style="text-align:left;">
+sign of association
+</th>
+<th style="text-align:left;">
+Reference
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+UK
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+Fotios and Castleton (2017)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UK
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+Fotios et al. (2017)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UK
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+Uttley, Fotios, and Lovelace (2020)
+</td>
+</tr>
+</tbody>
+</table>
 
 # Conclusions
 
@@ -112,6 +175,15 @@ Review.” *Lighting Research & Technology* 49 (3): 381–95.
 Fotios, S, H Qasem, C Cheal, and J Uttley. 2017. “A Pilot Study of Road
 Lighting, Cycle Lighting and Obstacle Detection.” *Lighting Research &
 Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
+
+</div>
+
+<div id="ref-uttley_road_2020" class="csl-entry">
+
+Uttley, Jim, Steve Fotios, and Robin Lovelace. 2020. “Road Lighting
+Density and Brightness Linked with Increased Cycling Rates After-Dark.”
+Edited by Quan Yuan. *PLOS ONE* 15 (5): e0233105.
+<https://doi.org/10.1371/journal.pone.0233105>.
 
 </div>
 
