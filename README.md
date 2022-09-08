@@ -17,19 +17,32 @@ ecological effects due to excess light pollution, raising the question:
 what is the optimal use of lighting to enable safe cycling uptake, at
 all times and in all seasons?
 
+<!-- "Lighting to see and lighting to be seen by".-->
+
 # Introduction
 
-Research suggests that darkness influences negatively cycling uptake,
-but to what extent? To the best of our knowledge, there is no academic
-paper in the transport literature that reviews this specific area of
-research. <!-- This paper aims to fill this gap. --> Fotios and
-Castleton (2017) provide a review of suggested actions to enable cycling
-lighting to contribute to the safety of cyclists. “Lighting to see and
-lighting to be seen by”. However, this review focuses road lighting and
-lighting for cycling and road safety rather than cycling levels. The
-relation between cycling uptake, road safety, and lighting is clear.
-This review focuses on road lighting and cycling levels. Concepts to
-define? E.g. road lighting? Review structure:
+Research suggests that darkness influences negatively cycling uptake.
+But to what extent? Is this applicable to all groups of cyclists
+equally? Is this due to fear of suffering a road collision or fear of
+another type of threat (crime)?
+
+To the best of our knowledge, there is no academic paper that has
+reviewed the international literature available on this specific area of
+research. Fotios and Castleton (2017) provide a review of suggested
+actions to enable cycling lighting to contribute to the safety of
+cyclists. However, Fotios and Castleton (2017) focuses on cycling safety
+and lighting in the UK.
+
+This paper aims to review international research on the relationship
+between cycling uptake and road lighting.
+
+<!-- Concepts to define? -->
+<!-- E.g. road lighting? -->
+
+The review is organized as follows. Chapter 2 describes the methodology
+used for the selection of papers. Chapter 3 critically analyzes the
+reviewed articles and identifies gaps in the research. Chapter 4 closes
+the work with the conclusions.
 
 # Methodology
 
