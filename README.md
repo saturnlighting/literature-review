@@ -32,8 +32,8 @@ To the best of our knowledge, there is no academic paper that has
 reviewed the international literature available on this specific area of
 research. Fotios and Castleton (2017) provide a review of suggested
 actions to enable cycling lighting to contribute to the safety of
-cyclists. However, Fotios and Castleton (2017) focuses on cycling safety
-and lighting (for both bicycle lighting and road lighting) in the UK.
+cyclists. However, Fotios and Castleton (2017) focus on cycling safety
+and lighting (for both bicycles and roads) in the UK.
 
 This paper aims to review international research on the relationship
 between cycling uptake and road lighting.
@@ -42,31 +42,39 @@ between cycling uptake and road lighting.
 <!-- E.g. road lighting? -->
 
 The review is organized as follows. Chapter 2 describes the methodology
-used for the selection of papers. Chapter 3 critically analyzes the
+used for the selection of papers. Chapter 3 critically analyses the
 reviewed articles and identifies gaps in the research. Chapter 4 closes
 the work with the conclusions.
 
 # Methodology
 
-Good practice review methodology: Scheepers et al., 2014. Selection of
-papers: SCOPUS search engine (any other? e.g. Google Scholar). How have
-been systematically ‘searched’? Keywords used. Boolean operators (AND,
-OR, NOT). Information to provide: Databases Languages included Keywords
-Search strategy
+<!-- Good practice review methodology: Scheepers et al., 2014. -->
+
+## Search strategy
+
+Selection of papers: SCOPUS search engine (any other? e.g. Google
+Scholar). How have been systematically ‘searched?’ Keywords used.
+Boolean operators (AND, OR, NOT). Information to provide: Databases
+Languages included Keywords Search strategy
 
 We need to define scope of the review - we are looking at papers that:
 Investigate the effects of light and lighting in some way, including
 road lighting or ambient light, but excluding other types of lighting
 such as cycle-mounted lighting Relate to cycling rates or cycling
 propensity, i.e. not related to cyclist safety? Other parameters for
-scope? Results (or state of knowledge) What is already known in this
-area (and maybe what is not)? Present the literature in a logical way,
-commenting on the differences and similarities between the material
-cited. Potential outputs of this section: state of knowledge, gaps in
-literature, weakness of methodologies used, structure on how dependent
-and independent variables are related (conceptual model?).
+scope?
 
-# Discussion and research gaps
+## Data extration
+
+# Results (or state of knowledge)
+
+What is already known in this area (and maybe what is not)?
+
+Present the literature in a logical way, commenting on the differences
+and similarities between the material cited. Potential outputs of this
+section: state of knowledge, gaps in literature, weakness of
+methodologies used, structure on how dependent and independent variables
+are related (conceptual model?).
 
 <!-- Table with a summary of the most relevant literature. -->
 <table class="table" style="margin-left: auto; margin-right: auto;">
@@ -131,6 +139,8 @@ Uttley, Fotios, and Lovelace (2020)
 </tr>
 </tbody>
 </table>
+
+# Discussion and research gaps
 
 # Conclusions
 
