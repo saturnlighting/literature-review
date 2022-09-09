@@ -73,19 +73,14 @@ excluded (Fig 2).
 ## Data extraction
 
 From the included studies, we extracted information regarding: location
-of study, methodology, cycling uptake and lighting measurements, Authors
-and year.
+of study, methodology, cycling uptake and lighting measurements, sign of
+association, and authors and year.
 
 # Results (or state of knowledge)
 
-What is already known in this area (and maybe what is not)?
-
-Present the literature in a logical way, commenting on the differences
-and similarities between the material cited. Potential outputs of this
-section: state of knowledge, gaps in literature, weakness of
-methodologies used, structure on how dependent and independent variables
-are related (conceptual model?).
-
+<!-- What is already known in this area (and maybe what is not)? -->
+<!-- Present the literature in a logical way, commenting on the differences and similarities between the material cited. -->
+<!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 <!-- Table with a summary of the most relevant literature. -->
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <thead>
