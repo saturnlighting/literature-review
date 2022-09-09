@@ -78,10 +78,10 @@ Potential outputs of this section: state of knowledge, gaps in literature, weakn
 
 <!-- Table with a summary of the most relevant literature. -->
 
-```{r tab1, echo=FALSE}
+```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(kableExtra)
-tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 6)
-colnames(tab) <- c('Location of study', 'methodology', 'Cycling uptake measure', 'Lighting measure', 'sign of association', 'Authors and year')
+tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x','x','@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 6)
+colnames(tab) <- c('Location of study', 'Methodology', 'Cycling uptake measure', 'Lighting measure', 'Sign of association', 'Authors and year')
 tab <- as.data.frame(tab)
 kbl(tab) %>%
   kable_styling()
