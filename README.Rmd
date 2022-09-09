@@ -48,12 +48,23 @@ Chapter 5 closes the work with the conclusions.
 
 ## Search strategy
 
-We searched two electronic databased (SCOPUS and Google Scholar) for studies investigating the impact of road lighting on cycling uptake. 
+We searched in the electronic databased SCOPUS for studies investigating the impact of road lighting on cycling uptake. 
 The search strategy is shown in Fig 1. 
-Articles published in English and Spanish were included. 
+<!-- Articles published in English and Spanish were included.  -->
+```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(kableExtra)
+tab <- matrix(c( 'TITLE-ABS-KEY ( "ACTIVE COMMUT*"  OR  "ACTIVE TRANSPORT*"  OR  "ACTIVETRAVEL*"  OR  bicycl*  OR  bike*  OR  biking  OR  "CYCLE HIRE"  OR  "CYCLING"  OR  "CYCLIST*"  OR  "ECOLOGICAL COMMUT*"  OR  "ECOLOGICAL TRANSPORT*"  OR  "ECOLOGICAL TRAVEL*"  OR  "GREEN* COMMUT*"  OR  "GREEN TRANSPORT*"  OR  "GREEN TRAVEL*"  OR  greenway*  OR  nonauto )  AND  ( "ROAD LIGHTING"  OR  "STREET LIGHTING" )'), ncol = 1)
+colnames(tab) <- c('Search strategy')
+tab <- as.data.frame(tab)
+kbl(tab) %>%
+  kable_styling()
+```
+
 We identified the suitable articles first by reading the abstract, then the whole paper.
-The search strategy resulted in x records. Based on the examination of abstract x studies were excluded. 
+The search strategy resulted in 163 records. Based on the examination of abstract x studies were excluded. 
 A flow chart of included studies is shown in Fig 2.
+
+
 
 <!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
 <!-- How have been systematically 'searched'? -->
@@ -77,7 +88,7 @@ From the included studies, we extracted information regarding: location of study
 
 <!-- Table with a summary of the most relevant literature. -->
 
-```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+```{r tab2, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(kableExtra)
 tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x','x',  'x', 'x','x','@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 6)
 colnames(tab) <- c('Location of study', 'Methodology', 'Cycling uptake measure', 'Lighting measure', 'Sign of association', 'Authors and year')

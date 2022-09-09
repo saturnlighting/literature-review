@@ -54,13 +54,36 @@ closes the work with the conclusions.
 
 ## Search strategy
 
-We searched two electronic databased (SCOPUS and Google Scholar) for
-studies investigating the impact of road lighting on cycling uptake. The
-search strategy is shown in Fig 1. Articles published in English and
-Spanish were included. We identified the suitable articles first by
-reading the abstract, then the whole paper. The search strategy resulted
-in x records. Based on the examination of abstract x studies were
-excluded. A flow chart of included studies is shown in Fig 2.
+We searched in the electronic databased SCOPUS for studies investigating
+the impact of road lighting on cycling uptake. The search strategy is
+shown in Fig 1.
+<!-- Articles published in English and Spanish were included.  -->
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Search strategy
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+TITLE-ABS-KEY ( “ACTIVE COMMUT*” OR ”ACTIVE TRANSPORT*” OR
+“ACTIVETRAVEL*” OR bicycl* OR bike\* OR biking OR”CYCLE HIRE” OR
+“CYCLING” OR “CYCLIST*” OR ”ECOLOGICAL COMMUT*” OR “ECOLOGICAL
+TRANSPORT*” OR ”ECOLOGICAL TRAVEL*” OR “GREEN\* COMMUT*” OR ”GREEN
+TRANSPORT*” OR “GREEN TRAVEL*” OR greenway* OR nonauto ) AND (”ROAD
+LIGHTING” OR “STREET LIGHTING” )
+</td>
+</tr>
+</tbody>
+</table>
+
+We identified the suitable articles first by reading the abstract, then
+the whole paper. The search strategy resulted in 163 records. Based on
+the examination of abstract x studies were excluded. A flow chart of
+included studies is shown in Fig 2.
 
 <!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
 <!-- How have been systematically 'searched'? -->
