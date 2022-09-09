@@ -36,31 +36,38 @@ However, @fotios_lighting_2017 focus on cycling safety and lighting (for both bi
 
 This paper aims to review international research on the relationship between cycling uptake and road lighting.
 
-
-
-
 <!-- Concepts to define? --> <!-- E.g. road lighting? -->
 
 The review is organized as follows.
 Chapter 2 describes the methodology used for the selection of papers.
-Chapter 3 critically analyses the reviewed articles and identifies gaps in the research.
-Chapter 4 closes the work with the conclusions.
+Chapter 3 presents the results of the papers reviewed.
+Chapter 4 critically analyses the results and identifies gaps in the research.
+Chapter 5 closes the work with the conclusions.
 
 # Methodology
 
 <!-- Good practice review methodology: Scheepers et al., 2014. -->
+
 ## Search strategy
 
-Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar).
-How have been systematically 'searched'?
-Keywords used.
-Boolean operators (AND, OR, NOT).
-Information to provide: Databases Languages included Keywords Search strategy
+We searched two electronic databased (SCOPUS and Google Scholar) for studies investigating the impact of road lighting on cycling uptake. 
+The search strategy is shown in Fig 1. 
+Articles published in English and Spanish were included. 
+We identified the suitable articles first by reading the abstract, then the whole paper.
+The search strategy resulted in x records. Based on the examination of abstract x studies were excluded (Fig 2).
 
-We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety?
-Other parameters for scope?
+<!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
+<!-- How have been systematically 'searched'? -->
+<!-- Keywords used. -->
+<!-- Boolean operators (AND, OR, NOT). -->
+<!-- Information to provide: Databases Languages included Keywords Search strategy -->
 
-## Data extration
+<!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
+<!-- Other parameters for scope? -->
+
+## Data extraction
+
+From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, Authors and year.
 
 # Results (or state of knowledge) 
 
@@ -73,8 +80,8 @@ Potential outputs of this section: state of knowledge, gaps in literature, weakn
 
 ```{r tab1, echo=FALSE}
 library(kableExtra)
-tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 4)
-colnames(tab) <- c('County, area or city', 'Cycling uptake measure', 'sign of association', 'Reference')
+tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 6)
+colnames(tab) <- c('Location of study', 'methodology', 'Cycling uptake measure', 'Lighting measure', 'sign of association', 'Authors and year')
 tab <- as.data.frame(tab)
 kbl(tab) %>%
   kable_styling()

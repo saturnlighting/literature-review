@@ -42,9 +42,10 @@ between cycling uptake and road lighting.
 <!-- E.g. road lighting? -->
 
 The review is organized as follows. Chapter 2 describes the methodology
-used for the selection of papers. Chapter 3 critically analyses the
-reviewed articles and identifies gaps in the research. Chapter 4 closes
-the work with the conclusions.
+used for the selection of papers. Chapter 3 presents the results of the
+papers reviewed. Chapter 4 critically analyses the results and
+identifies gaps in the research. Chapter 5 closes the work with the
+conclusions.
 
 # Methodology
 
@@ -52,19 +53,27 @@ the work with the conclusions.
 
 ## Search strategy
 
-Selection of papers: SCOPUS search engine (any other? e.g. Google
-Scholar). How have been systematically ‘searched?’ Keywords used.
-Boolean operators (AND, OR, NOT). Information to provide: Databases
-Languages included Keywords Search strategy
+We searched two electronic databased (SCOPUS and Google Scholar) for
+studies investigating the impact of road lighting on cycling uptake. The
+search strategy is shown in Fig 1. Articles published in English and
+Spanish were included. We identified the suitable articles first by
+reading the abstract, then the whole paper. The search strategy resulted
+in x records. Based on the examination of abstract x studies were
+excluded (Fig 2).
 
-We need to define scope of the review - we are looking at papers that:
-Investigate the effects of light and lighting in some way, including
-road lighting or ambient light, but excluding other types of lighting
-such as cycle-mounted lighting Relate to cycling rates or cycling
-propensity, i.e. not related to cyclist safety? Other parameters for
-scope?
+<!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
+<!-- How have been systematically 'searched'? -->
+<!-- Keywords used. -->
+<!-- Boolean operators (AND, OR, NOT). -->
+<!-- Information to provide: Databases Languages included Keywords Search strategy -->
+<!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
+<!-- Other parameters for scope? -->
 
-## Data extration
+## Data extraction
+
+From the included studies, we extracted information regarding: location
+of study, methodology, cycling uptake and lighting measurements, Authors
+and year.
 
 # Results (or state of knowledge)
 
@@ -81,16 +90,22 @@ are related (conceptual model?).
 <thead>
 <tr>
 <th style="text-align:left;">
-County, area or city
+Location of study
+</th>
+<th style="text-align:left;">
+methodology
 </th>
 <th style="text-align:left;">
 Cycling uptake measure
 </th>
 <th style="text-align:left;">
+Lighting measure
+</th>
+<th style="text-align:left;">
 sign of association
 </th>
 <th style="text-align:left;">
-Reference
+Authors and year
 </th>
 </tr>
 </thead>
@@ -100,18 +115,10 @@ Reference
 UK
 </td>
 <td style="text-align:left;">
-x
-</td>
-<td style="text-align:left;">
-x
-</td>
-<td style="text-align:left;">
-Fotios and Castleton (2017)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 UK
+</td>
+<td style="text-align:left;">
+x
 </td>
 <td style="text-align:left;">
 x
@@ -132,6 +139,12 @@ x
 </td>
 <td style="text-align:left;">
 x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+Fotios and Castleton (2017)
 </td>
 <td style="text-align:left;">
 Uttley, Fotios, and Lovelace (2020)
