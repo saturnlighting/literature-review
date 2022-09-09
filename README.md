@@ -54,37 +54,73 @@ closes the work with the conclusions.
 
 ## Search strategy
 
-We searched in the electronic databased SCOPUS for studies investigating
-the impact of road lighting on cycling uptake. The search strategy is
-shown in Fig 1.
-<!-- Articles published in English and Spanish were included.  -->
+We searched in two electronic databased (SCOPUS and Web of Science) for
+studies investigating the impact of road lighting on cycling uptake. The
+query string used for the search is as follows:
+
+> TITLE-ABS-KEY ( “ACTIVE COMMUT*” OR ”ACTIVE TRANSPORT*” OR
+> “ACTIVETRAVEL*” OR bicycl* OR bike\* OR biking OR”CYCLE HIRE” OR
+> “CYCLING” OR “CYCLIST*” OR ”ECOLOGICAL COMMUT*” OR “ECOLOGICAL
+> TRANSPORT*” OR ”ECOLOGICAL TRAVEL*” OR “GREEN\* COMMUT*” OR ”GREEN
+> TRANSPORT*” OR “GREEN TRAVEL*” OR greenway* OR nonauto ) AND (”CITY
+> LIGHT*” OR “PUBLIC LIGHT*” OR ”ROAD LIGHT*” OR “ROAD ILLUMINATION” OR
+> “STREET LIGHT*” OR ”STREET LAMP*” OR “LAMP POST*” OR ”LIGHT POST*” OR
+> “LIGHT POLE*” )
+
+We identified the suitable articles first by reading the abstract, then
+the whole paper. The search strategy resulted in 281 records. Based on
+the examination of abstract x studies were selected. A flow chart of
+included studies is shown in Table 1.
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+Table 1: Chart flow of included studies
+</caption>
 <thead>
 <tr>
 <th style="text-align:left;">
-Search strategy
+Stages
+</th>
+<th style="text-align:left;">
+Number of papers left
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left;">
-TITLE-ABS-KEY ( “ACTIVE COMMUT*” OR ”ACTIVE TRANSPORT*” OR
-“ACTIVETRAVEL*” OR bicycl* OR bike\* OR biking OR”CYCLE HIRE” OR
-“CYCLING” OR “CYCLIST*” OR ”ECOLOGICAL COMMUT*” OR “ECOLOGICAL
-TRANSPORT*” OR ”ECOLOGICAL TRAVEL*” OR “GREEN\* COMMUT*” OR ”GREEN
-TRANSPORT*” OR “GREEN TRAVEL*” OR greenway* OR nonauto ) AND (”ROAD
-LIGHTING” OR “STREET LIGHTING” )
+Combining search and results and excluding duplicates
+</td>
+<td style="text-align:left;">
+281
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Reviewing abstracts, excluding papers out of scope of review
+</td>
+<td style="text-align:left;">
+x
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Reading full paper
+</td>
+<td style="text-align:left;">
+x
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Review of full papers
+</td>
+<td style="text-align:left;">
+x
 </td>
 </tr>
 </tbody>
 </table>
-
-We identified the suitable articles first by reading the abstract, then
-the whole paper. The search strategy resulted in 163 records. Based on
-the examination of abstract x studies were excluded. A flow chart of
-included studies is shown in Fig 2.
-
 <!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
 <!-- How have been systematically 'searched'? -->
 <!-- Keywords used. -->
@@ -106,6 +142,9 @@ association, and authors and year.
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 <!-- Table with a summary of the most relevant literature. -->
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+Table 2: Overview of papers on cycling uptake and road lighting
+</caption>
 <thead>
 <tr>
 <th style="text-align:left;">

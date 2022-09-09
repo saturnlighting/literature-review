@@ -48,21 +48,24 @@ Chapter 5 closes the work with the conclusions.
 
 ## Search strategy
 
-We searched in the electronic databased SCOPUS for studies investigating the impact of road lighting on cycling uptake. 
-The search strategy is shown in Fig 1. 
-<!-- Articles published in English and Spanish were included.  -->
-```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-library(kableExtra)
-tab <- matrix(c( 'TITLE-ABS-KEY ( "ACTIVE COMMUT*"  OR  "ACTIVE TRANSPORT*"  OR  "ACTIVETRAVEL*"  OR  bicycl*  OR  bike*  OR  biking  OR  "CYCLE HIRE"  OR  "CYCLING"  OR  "CYCLIST*"  OR  "ECOLOGICAL COMMUT*"  OR  "ECOLOGICAL TRANSPORT*"  OR  "ECOLOGICAL TRAVEL*"  OR  "GREEN* COMMUT*"  OR  "GREEN TRANSPORT*"  OR  "GREEN TRAVEL*"  OR  greenway*  OR  nonauto )  AND  ( "ROAD LIGHTING"  OR  "STREET LIGHTING" )'), ncol = 1)
-colnames(tab) <- c('Search strategy')
-tab <- as.data.frame(tab)
-kbl(tab) %>%
-  kable_styling()
-```
+We searched in two electronic databased (SCOPUS and Web of Science) for studies investigating the impact of road lighting on cycling uptake. 
+The query string used for the search is as follows:
+
+>TITLE-ABS-KEY ( "ACTIVE COMMUT*"  OR  "ACTIVE TRANSPORT*"  OR  "ACTIVETRAVEL*"  OR  bicycl*  OR  bike*  OR  biking  OR  "CYCLE HIRE"  OR  "CYCLING"  OR  "CYCLIST*"  OR  "ECOLOGICAL COMMUT*"  OR  "ECOLOGICAL TRANSPORT*"  OR  "ECOLOGICAL TRAVEL*"  OR  "GREEN* COMMUT*"  OR  "GREEN TRANSPORT*"  OR  "GREEN TRAVEL*"  OR  greenway*  OR  nonauto )  AND  ( "CITY LIGHT*"  OR  "PUBLIC LIGHT*"  OR  "ROAD LIGHT*"  OR  "ROAD ILLUMINATION"  OR  "STREET LIGHT*"  OR  "STREET LAMP*"  OR  "LAMP POST*"  OR  "LIGHT POST*"  OR  "LIGHT POLE*" )
 
 We identified the suitable articles first by reading the abstract, then the whole paper.
-The search strategy resulted in 163 records. Based on the examination of abstract x studies were excluded. 
-A flow chart of included studies is shown in Fig 2.
+The search strategy resulted in 281 records. Based on the examination of abstract x studies were selected. 
+A flow chart of included studies is shown in Table 1.
+
+```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(kableExtra)
+tab <- matrix(c( 'Combining search and results and excluding duplicates', 'Reviewing abstracts, excluding papers out of scope of review', 'Reading full paper', 'Review of full papers', '281', 'x', 'x', 'x'), ncol = 2)
+colnames(tab) <- c('Stages', 'Number of papers left')
+tab <- as.data.frame(tab)
+kbl(tab,
+    caption = "Table 1: Chart flow of included studies") %>%
+    kable_styling()
+```
 
 
 
@@ -93,8 +96,9 @@ library(kableExtra)
 tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x','x',  'x', 'x','x','@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 6)
 colnames(tab) <- c('Location of study', 'Methodology', 'Cycling uptake measure', 'Lighting measure', 'Sign of association', 'Authors and year')
 tab <- as.data.frame(tab)
-kbl(tab) %>%
-  kable_styling()
+kbl(tab,
+    caption = "Table 2: Overview of papers on cycling uptake and road lighting") %>%
+    kable_styling()
 ```
 
 # Discussion and research gaps 
