@@ -67,9 +67,8 @@ query string used for the search is as follows:
 > “STREET LIGHT*” OR ”STREET LAMP*” OR “LAMP POST*” OR ”LIGHT POST*” OR
 > “LIGHT POLE*” )
 
-We identified the suitable articles first by reading the abstract, then
-the whole paper. The search strategy resulted in 281 records. Based on
-the examination of abstract x studies were selected. A flow chart of
+The search strategy resulted in 281 records. Based on the examination of
+abstract and then full papers x studies were selected. A flow chart of
 included studies is shown in Table 1.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
