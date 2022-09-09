@@ -42,11 +42,11 @@ between cycling uptake and road lighting.
 <!-- Concepts to define? -->
 <!-- E.g. road lighting? -->
 
-The review is organized as follows. Chapter 2 describes the methodology
-used for the selection of papers. Chapter 3 presents the results of the
-papers reviewed. Chapter 4 critically analyses the results and
-identifies gaps in the research. Chapter 5 closes the work with the
-conclusions.
+The review is organized as follows. Chapter 2 describes the search
+strategy and the information extracted from the papers. Chapter 3
+presents the results of the papers reviewed. Chapter 4 critically
+analyses the results and identifies gaps in the research. Chapter 5
+closes the work with the conclusions.
 
 # Methodology
 
@@ -60,7 +60,7 @@ search strategy is shown in Fig 1. Articles published in English and
 Spanish were included. We identified the suitable articles first by
 reading the abstract, then the whole paper. The search strategy resulted
 in x records. Based on the examination of abstract x studies were
-excluded (Fig 2).
+excluded. A flow chart of included studies is shown in Fig 2.
 
 <!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
 <!-- How have been systematically 'searched'? -->
