@@ -28,6 +28,11 @@ Is this due to fear of suffering a road collision or fear of another type of thr
 Does road lighting increase cycling uptake during dark hours?
 If so, what type of road lighting would be the most suitable to increase cycling uptake and cycling safety?
 
+Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]: 
+@abasahl_gender_2018,
+@agarwal_encouraging_2022, and
+@akar_influence_2009.
+
 To the best of our knowledge, there is no academic paper that has reviewed the international literature available on this specific area of research. 
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists.
 However, @fotios_lighting_2017 focus on cycling safety and lighting (for both bicycles and roads) in the UK.
@@ -37,7 +42,7 @@ This paper aims to review international research on the relationship between cyc
 <!-- Concepts to define? --> <!-- E.g. road lighting? -->
 
 The review is organized as follows.
-Chapter 2 describes the search strategy and the information extracted from the papers.
+Chapter 2 describes the search strategy and information extracted from the papers.
 Chapter 3 presents the results of the papers reviewed.
 Chapter 4 critically analyses the results and identifies gaps in the research.
 Chapter 5 closes the work with the conclusions.

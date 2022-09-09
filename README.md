@@ -29,6 +29,10 @@ another type of threat (crime)? Does road lighting increase cycling
 uptake during dark hours? If so, what type of road lighting would be the
 most suitable to increase cycling uptake and cycling safety?
 
+Papers that include darkness as a perceived barrier to cycling (Pearson
+et al. 2022): Abasahl, Kelarestaghi, and Ermagun (2018), Agarwal and
+North (2022), and Akar and Clifton (2009).
+
 To the best of our knowledge, there is no academic paper that has
 reviewed the international literature available on this specific area of
 research. Fotios and Castleton (2017) provide a review of suggested
@@ -43,10 +47,10 @@ between cycling uptake and road lighting.
 <!-- E.g. road lighting? -->
 
 The review is organized as follows. Chapter 2 describes the search
-strategy and the information extracted from the papers. Chapter 3
-presents the results of the papers reviewed. Chapter 4 critically
-analyses the results and identifies gaps in the research. Chapter 5
-closes the work with the conclusions.
+strategy and information extracted from the papers. Chapter 3 presents
+the results of the papers reviewed. Chapter 4 critically analyses the
+results and identifies gaps in the research. Chapter 5 closes the work
+with the conclusions.
 
 # Methodology
 
@@ -263,6 +267,31 @@ wheeling provision worldwide.
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
+<div id="ref-abasahl_gender_2018" class="csl-entry">
+
+Abasahl, Farhad, Kaveh Bakhsh Kelarestaghi, and Alireza Ermagun. 2018.
+“Gender Gap Generators for Bicycle Mode Choice in Baltimore College
+Campuses.” *Travel Behaviour and Society* 11 (April): 78–85.
+<https://doi.org/10.1016/j.tbs.2018.01.002>.
+
+</div>
+
+<div id="ref-agarwal_encouraging_2022" class="csl-entry">
+
+Agarwal, Ajay, and Ashley North. 2022. “Encouraging Bicycling Among
+University Students.” *Canadian Journal of Urban Research*, 19.
+
+</div>
+
+<div id="ref-akar_influence_2009" class="csl-entry">
+
+Akar, Gulsah, and Kelly J. Clifton. 2009. “Influence of Individual
+Perceptions and Bicycle Infrastructure on Decision to Bike.”
+*Transportation Research Record: Journal of the Transportation Research
+Board* 2140 (1): 165–72. <https://doi.org/10.3141/2140-18>.
+
+</div>
+
 <div id="ref-fotios_lighting_2017" class="csl-entry">
 
 Fotios, S, and Hf Castleton. 2017. “Lighting for Cycling in the UK—A
@@ -276,6 +305,15 @@ Review.” *Lighting Research & Technology* 49 (3): 381–95.
 Fotios, S, H Qasem, C Cheal, and J Uttley. 2017. “A Pilot Study of Road
 Lighting, Cycle Lighting and Obstacle Detection.” *Lighting Research &
 Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
+
+</div>
+
+<div id="ref-pearson_adults_2022" class="csl-entry">
+
+Pearson, Lauren, Danielle Berkovic, Sandy Reeder, Belinda Gabbe, and Ben
+Beck. 2022. “Adults’ Self-Reported Barriers and Enablers to Riding a
+Bike for Transport: A Systematic Review.” *Transport Reviews*, August,
+1–29. <https://doi.org/10.1080/01441647.2022.2113570>.
 
 </div>
 
