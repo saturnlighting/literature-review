@@ -124,15 +124,18 @@ x
 x
 </td>
 <td style="text-align:left;">
-Fotios and Castleton (2017)
+x
 </td>
 <td style="text-align:left;">
-UK
+Fotios and Castleton (2017)
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 UK
+</td>
+<td style="text-align:left;">
+x
 </td>
 <td style="text-align:left;">
 x
@@ -146,9 +149,6 @@ x
 <td style="text-align:left;">
 Fotios et al. (2017)
 </td>
-<td style="text-align:left;">
-UK
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -164,10 +164,10 @@ x
 x
 </td>
 <td style="text-align:left;">
-Uttley, Fotios, and Lovelace (2020)
+x
 </td>
 <td style="text-align:left;">
-UK
+Uttley, Fotios, and Lovelace (2020)
 </td>
 </tr>
 </tbody>
