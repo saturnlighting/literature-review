@@ -3,19 +3,20 @@ Cycling Uptake and Road Lighting: A Review
 
 # Abstract
 
-<!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in walking and cycling. -->
-<!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. -->
-
-There is evidence suggesting darkness puts people off from cycling, and
-increases the risk of being involved in a collision whilst cycling.
-Appropriate road or path lighting can increase feelings of reassurance,
-make hazards more visible, and make the cyclist more visible to other
-road users. However, there is to date little evidence on the lighting
-interventions that work best, in combination with other measures.
-Lighting after dark has costs, both in terms of energy use and harmful
-ecological effects due to excess light pollution, raising the question:
-what is the optimal use of lighting to enable safe cycling uptake, at
-all times and in all seasons?
+Linear cycling infrastructure at ground level, such as cycle lanes, have
+received the bulk of research and policy attention in relation to
+investment in walking and cycling. However, localised treatments such as
+appropriate lighting and cycle parking can have a major impact on
+cyclability. There is evidence suggesting darkness puts people off from
+cycling, and increases the risk of being involved in a collision whilst
+cycling. Appropriate road or path lighting can increase feelings of
+reassurance, make hazards more visible, and make the cyclist more
+visible to other road users. However, there is to date little evidence
+on the lighting interventions that work best, in combination with other
+measures. Lighting after dark has costs, both in terms of energy use and
+harmful ecological effects due to excess light pollution, raising the
+question: what is the optimal use of lighting to enable safe cycling
+uptake, at all times and in all seasons?
 
 <!-- "Lighting to see and lighting to be seen by".-->
 
