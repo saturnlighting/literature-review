@@ -28,10 +28,10 @@ Is this due to fear of suffering a road collision or fear of another type of thr
 Does road lighting increase cycling uptake during dark hours?
 If so, what type of road lighting would be the most suitable to increase cycling uptake and cycling safety?
 
-Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]: 
-@abasahl_gender_2018,
-@agarwal_encouraging_2022, and
-@akar_influence_2009.
+<!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
+<!-- @abasahl_gender_2018, -->
+<!-- @agarwal_encouraging_2022, and -->
+<!-- @akar_influence_2009. -->
 
 To the best of our knowledge, there is no academic paper that has reviewed the international literature available on this specific area of research. 
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists.
@@ -63,10 +63,13 @@ A flow chart of included studies is shown in Table 1.
 
 ```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(kableExtra)
-tab <- matrix(c( 'Combining search and results and excluding duplicates', 'Reviewing abstracts, excluding papers out of scope of review', 'Reading full paper', 'Review of full papers', '281', 'x', 'x', 'x'), ncol = 2)
-colnames(tab) <- c('Stages', 'Number of papers left')
-tab <- as.data.frame(tab)
-kbl(tab,
+
+stages <- c( 'Combining search and results and excluding duplicates', 'Reviewing abstracts, excluding papers out of scope of review', 'Reading full paper', 'Review of full papers')
+papers <- c('281', 'x', 'x', 'x')
+
+df <- data.frame(stages, papers)
+colnames(df) <- c('Stages', 'Number of papers left')
+kbl(df,
     caption = "Table 1: Chart flow of included studies") %>%
     kable_styling()
 ```
@@ -97,10 +100,17 @@ From the included studies, we extracted information regarding: location of study
 
 ```{r tab2, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(kableExtra)
-tab <- matrix(c( 'UK', 'UK', 'UK', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x','x',  'x', 'x','x','@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020'), ncol = 6)
-colnames(tab) <- c('Location of study', 'Methodology', 'Cycling uptake measure', 'Lighting measure', 'Sign of association', 'Authors and year')
-tab <- as.data.frame(tab)
-kbl(tab,
+
+location <- c('x', 'x', 'x', 'UK', 'UK', 'UK')
+method <-  c('x', 'x', 'x', 'x', 'x', 'x')
+cyc <- c('x', 'x', 'x', 'x', 'x', 'x')
+light <- c('x', 'x', 'x', 'x', 'x', 'x')
+sign <- c('x', 'x', 'x', 'x', 'x', 'x')
+authors <- c('@abasahl_gender_2018', '@agarwal_encouraging_2022', '@akar_influence_2009', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020')
+
+df <- data.frame(location, method, cyc, light, sign, authors)
+colnames(df) <- c('Location', 'Method', 'Cycling \nmeasurement', 'Lighting \nmeasurement', 'Sign of\nassociation', 'Author and year')
+kbl(df,
     caption = "Table 2: Overview of papers on cycling uptake and road lighting") %>%
     kable_styling()
 ```

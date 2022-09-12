@@ -29,9 +29,10 @@ another type of threat (crime)? Does road lighting increase cycling
 uptake during dark hours? If so, what type of road lighting would be the
 most suitable to increase cycling uptake and cycling safety?
 
-Papers that include darkness as a perceived barrier to cycling (Pearson
-et al. 2022): Abasahl, Kelarestaghi, and Ermagun (2018), Agarwal and
-North (2022), and Akar and Clifton (2009).
+<!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
+<!-- @abasahl_gender_2018, -->
+<!-- @agarwal_encouraging_2022, and -->
+<!-- @akar_influence_2009. -->
 
 To the best of our knowledge, there is no academic paper that has
 reviewed the international literature available on this specific area of
@@ -151,26 +152,86 @@ Table 2: Overview of papers on cycling uptake and road lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-Location of study
+Location
 </th>
 <th style="text-align:left;">
-Methodology
+Method
 </th>
 <th style="text-align:left;">
-Cycling uptake measure
+Cycling measurement
 </th>
 <th style="text-align:left;">
-Lighting measure
+Lighting measurement
 </th>
 <th style="text-align:left;">
 Sign of association
 </th>
 <th style="text-align:left;">
-Authors and year
+Author and year
 </th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+Abasahl, Kelarestaghi, and Ermagun (2018)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+Agarwal and North (2022)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
+Akar and Clifton (2009)
+</td>
+</tr>
 <tr>
 <td style="text-align:left;">
 UK
@@ -305,15 +366,6 @@ Review.” *Lighting Research & Technology* 49 (3): 381–95.
 Fotios, S, H Qasem, C Cheal, and J Uttley. 2017. “A Pilot Study of Road
 Lighting, Cycle Lighting and Obstacle Detection.” *Lighting Research &
 Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
-
-</div>
-
-<div id="ref-pearson_adults_2022" class="csl-entry">
-
-Pearson, Lauren, Danielle Berkovic, Sandy Reeder, Belinda Gabbe, and Ben
-Beck. 2022. “Adults’ Self-Reported Barriers and Enablers to Riding a
-Bike for Transport: A Systematic Review.” *Transport Reviews*, August,
-1–29. <https://doi.org/10.1080/01441647.2022.2113570>.
 
 </div>
 
