@@ -22,7 +22,15 @@ uptake, at all times and in all seasons?
 
 # Introduction
 
-Research suggests that darkness influences negatively cycling uptake.
+Cycling is very beneficial. Investment increasing in recent years.
+Covid…
+
+The majority of studies focus on linear infrastructure.
+
+Other types of infrastructure such as lighting has been less researched.
+There is research although much less than in linear infrastructure that
+suggests that that darkness influences negatively cycling uptake.
+
 But to what extent? Is this applicable to all groups of cyclists
 equally? Is this due to fear of suffering a road collision or fear of
 another type of threat (crime)? Does road lighting increase cycling
