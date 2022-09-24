@@ -39,7 +39,7 @@ If so, what type of road lighting would be the most suitable to increase cycling
 <!-- @agarwal_encouraging_2022, and -->
 <!-- @akar_influence_2009. -->
 
-To the best of our knowledge, there is no academic paper that has reviewed the international literature available on this specific area of research. 
+Until now, there has been no academic paper that has reviewed the international literature available on this specific area of research. 
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists.
 However, @fotios_lighting_2017 focus on cycling safety and lighting (for both bicycles and roads) in the UK.
 

@@ -42,12 +42,12 @@ most suitable to increase cycling uptake and cycling safety?
 <!-- @agarwal_encouraging_2022, and -->
 <!-- @akar_influence_2009. -->
 
-To the best of our knowledge, there is no academic paper that has
-reviewed the international literature available on this specific area of
-research. Fotios and Castleton (2017) provide a review of suggested
-actions to enable cycling lighting to contribute to the safety of
-cyclists. However, Fotios and Castleton (2017) focus on cycling safety
-and lighting (for both bicycles and roads) in the UK.
+Until now, there has been no academic paper that has reviewed the
+international literature available on this specific area of research.
+Fotios and Castleton (2017) provide a review of suggested actions to
+enable cycling lighting to contribute to the safety of cyclists.
+However, Fotios and Castleton (2017) focus on cycling safety and
+lighting (for both bicycles and roads) in the UK.
 
 This paper aims to review international research on the relationship
 between cycling uptake and road lighting.
