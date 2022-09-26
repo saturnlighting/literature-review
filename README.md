@@ -22,20 +22,22 @@ uptake, at all times and in all seasons?
 
 # Introduction
 
-Cycling is very beneficial. Investment increasing in recent years.
-Covid…
+Cycling benefits.
 
-The majority of studies focus on linear infrastructure.
+Why aren’t more people using bikes?
 
-Other types of infrastructure such as lighting has been less researched.
-There is research although much less than in linear infrastructure that
-suggests that that darkness influences negatively cycling uptake.
+Research: lack of segregated cycleways – \> more investment in recent
+years
 
-But to what extent? Is this applicable to all groups of cyclists
-equally? Is this due to fear of suffering a road collision or fear of
-another type of threat (crime)? Does road lighting increase cycling
-uptake during dark hours? If so, what type of road lighting would be the
-most suitable to increase cycling uptake and cycling safety?
+But what about nonlinear infrastructure? (under-researched)
+
+There is research suggesting that darkness influences negatively cycling
+uptake.
+
+To what extent? Is this equally applicable to all groups of cyclists? Is
+this due to fear of suffering a road collision or another type of threat
+(crime)? If road lighting increase cycling uptake, what type of road
+lighting would be the most suitable to do so?
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 <!-- @abasahl_gender_2018, -->
@@ -76,9 +78,9 @@ query string used for the search is as follows:
 > “CYCLING” OR “CYCLIST*” OR ”ECOLOGICAL COMMUT*” OR “ECOLOGICAL
 > TRANSPORT*” OR ”ECOLOGICAL TRAVEL*” OR “GREEN\* COMMUT*” OR ”GREEN
 > TRANSPORT*” OR “GREEN TRAVEL*” OR greenway* OR nonauto ) AND (”CITY
-> LIGHT*” OR “PUBLIC LIGHT*” OR ”ROAD LIGHT*” OR “ROAD ILLUMINATION” OR
-> “STREET LIGHT*” OR ”STREET LAMP*” OR “LAMP POST*” OR ”LIGHT POST*” OR
-> “LIGHT POLE*” )
+> LIGHT*” OR “PUBLIC LIGHT” OR “ROAD LIGHT” OR “ROAD ILLUMINATION” OR
+> “STREET LIGHT” OR “STREET LAMP*” OR “LAMP POST” OR “LIGHT POST” OR
+> “LIGHT POLE” )
 
 The search strategy resulted in 281 records. Based on the examination of
 abstract and then full papers x studies were selected. A flow chart of

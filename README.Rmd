@@ -21,31 +21,39 @@ Lighting after dark has costs, both in terms of energy use and harmful ecologica
 
 # Introduction
 
-Cycling is very beneficial. Investment increasing in recent years. Covid...
+Cycling benefits.
 
-The majority of studies focus on linear infrastructure.
+Why aren't more people using bikes?
 
-Other types of infrastructure such as lighting has been less researched.
-There is research although much less than in linear infrastructure that suggests that that darkness influences negatively cycling uptake.
+Research: lack of segregated cycleways -- \> more investment in recent years
 
-But to what extent?
-Is this applicable to all groups of cyclists equally?
-Is this due to fear of suffering a road collision or fear of another type of threat (crime)?
-Does road lighting increase cycling uptake during dark hours?
-If so, what type of road lighting would be the most suitable to increase cycling uptake and cycling safety?
+But what about nonlinear infrastructure?
+(under-researched)
+
+There is research suggesting that darkness influences negatively cycling uptake.
+
+To what extent?
+Is this equally applicable to all groups of cyclists?
+Is this due to fear of suffering a road collision or another type of threat (crime)?
+If road lighting increase cycling uptake, what type of road lighting would be the most suitable to do so?
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
+
 <!-- @abasahl_gender_2018, -->
+
 <!-- @agarwal_encouraging_2022, and -->
+
 <!-- @akar_influence_2009. -->
 
-Until now, there has been no academic paper that has reviewed the international literature available on this specific area of research. 
+Until now, there has been no academic paper that has reviewed the international literature available on this specific area of research.
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists.
 However, @fotios_lighting_2017 focus on cycling safety and lighting (for both bicycles and roads) in the UK.
 
 This paper aims to review international research on the relationship between cycling uptake and road lighting.
 
-<!-- Concepts to define? --> <!-- E.g. road lighting? -->
+<!-- Concepts to define? -->
+
+<!-- E.g. road lighting? -->
 
 The review is organized as follows.
 Chapter 2 describes the search strategy and information extracted from the papers.
@@ -59,12 +67,13 @@ Chapter 5 closes the work with the conclusions.
 
 ## Search strategy
 
-We searched in two electronic databased (SCOPUS and Web of Science) for studies investigating the impact of road lighting on cycling uptake. 
+We searched in two electronic databased (SCOPUS and Web of Science) for studies investigating the impact of road lighting on cycling uptake.
 The query string used for the search is as follows:
 
->TITLE-ABS-KEY ( "ACTIVE COMMUT*"  OR  "ACTIVE TRANSPORT*"  OR  "ACTIVETRAVEL*"  OR  bicycl*  OR  bike*  OR  biking  OR  "CYCLE HIRE"  OR  "CYCLING"  OR  "CYCLIST*"  OR  "ECOLOGICAL COMMUT*"  OR  "ECOLOGICAL TRANSPORT*"  OR  "ECOLOGICAL TRAVEL*"  OR  "GREEN* COMMUT*"  OR  "GREEN TRANSPORT*"  OR  "GREEN TRAVEL*"  OR  greenway*  OR  nonauto )  AND  ( "CITY LIGHT*"  OR  "PUBLIC LIGHT*"  OR  "ROAD LIGHT*"  OR  "ROAD ILLUMINATION"  OR  "STREET LIGHT*"  OR  "STREET LAMP*"  OR  "LAMP POST*"  OR  "LIGHT POST*"  OR  "LIGHT POLE*" )
+> TITLE-ABS-KEY ( "ACTIVE COMMUT*" OR "ACTIVE TRANSPORT*" OR "ACTIVETRAVEL*" OR bicycl* OR bike\* OR biking OR"CYCLE HIRE" OR "CYCLING" OR "CYCLIST*" OR "ECOLOGICAL COMMUT*" OR "ECOLOGICAL TRANSPORT*" OR "ECOLOGICAL TRAVEL*" OR "GREEN\* COMMUT*" OR "GREEN TRANSPORT*" OR "GREEN TRAVEL*" OR greenway* OR nonauto ) AND ("CITY LIGHT*" OR "PUBLIC LIGHT" OR "ROAD LIGHT" OR "ROAD ILLUMINATION" OR "STREET LIGHT" OR "STREET LAMP*" OR "LAMP POST" OR "LIGHT POST" OR "LIGHT POLE" )
 
-The search strategy resulted in 281 records. Based on the examination of abstract and then full papers x studies were selected. 
+The search strategy resulted in 281 records.
+Based on the examination of abstract and then full papers x studies were selected.
 A flow chart of included studies is shown in Table 1.
 
 ```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
@@ -80,26 +89,30 @@ kbl(df,
     kable_styling()
 ```
 
-
-
 <!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
+
 <!-- How have been systematically 'searched'? -->
+
 <!-- Keywords used. -->
+
 <!-- Boolean operators (AND, OR, NOT). -->
+
 <!-- Information to provide: Databases Languages included Keywords Search strategy -->
 
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
+
 <!-- Other parameters for scope? -->
 
 ## Data extraction
 
 From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, sign of association, and authors and year.
 
-# Results (or state of knowledge) 
+# Results (or state of knowledge)
 
 <!-- What is already known in this area (and maybe what is not)? -->
 
 <!-- Present the literature in a logical way, commenting on the differences and similarities between the material cited. -->
+
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 
 <!-- Table with a summary of the most relevant literature. -->
@@ -121,7 +134,7 @@ kbl(df,
     kable_styling()
 ```
 
-# Discussion and research gaps 
+# Discussion and research gaps
 
 # Conclusions
 
