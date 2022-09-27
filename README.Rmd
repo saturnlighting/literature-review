@@ -21,21 +21,26 @@ Lighting after dark has costs, both in terms of energy use and harmful ecologica
 
 # Introduction
 
-Cycling benefits.
+-   Cycling benefits
 
-Why aren't more people using bikes?
+-   Why aren't more people cycling?
 
-Research: lack of segregated cycleways -- \> more investment in recent years
+-   One of the main barriers: lack of (segregated) cycleways -- \> investment in recent years
 
-But what about nonlinear infrastructure?
-(under-researched)
+-   But what about nonlinear infrastructure?
 
-There is research suggesting that darkness influences negatively cycling uptake.
+-   There is research suggesting that darkness influences negatively cycling uptake.
+    Potential gaps:
 
-To what extent?
-Is this equally applicable to all groups of cyclists?
-Is this due to fear of suffering a road collision or another type of threat (crime)?
-If road lighting increase cycling uptake, what type of road lighting would be the most suitable to do so?
+    -   To what extent darkness influences negatively cycling uptake?
+
+    -   Is this influence equally applicable to all groups of cyclists?
+        Women more sensitive to dark spaces when cycling than men [@xie_i_2018].
+
+    -   Is this negative influence of darkness due to fear of suffering a road collision or another type of threat (crime)?
+        How does this relate with the previous question?
+
+    -   If darkness influences cycling levels, what type of road lighting would be the most suitable to increase cycling uptake?
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 
@@ -45,7 +50,7 @@ If road lighting increase cycling uptake, what type of road lighting would be th
 
 <!-- @akar_influence_2009. -->
 
-Until now, there has been no academic paper that has reviewed the international literature available on this specific area of research.
+There is no academic paper that reviews the international literature available on this specific area of research.
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists.
 However, @fotios_lighting_2017 focus on cycling safety and lighting (for both bicycles and roads) in the UK.
 

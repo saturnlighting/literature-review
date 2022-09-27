@@ -22,34 +22,42 @@ uptake, at all times and in all seasons?
 
 # Introduction
 
-Cycling benefits.
+- Cycling benefits
 
-Why aren’t more people using bikes?
+- Why aren’t more people cycling?
 
-Research: lack of segregated cycleways – \> more investment in recent
-years
+- One of the main barriers: lack of (segregated) cycleways – \>
+  investment in recent years
 
-But what about nonlinear infrastructure? (under-researched)
+- But what about nonlinear infrastructure?
 
-There is research suggesting that darkness influences negatively cycling
-uptake.
+- There is research suggesting that darkness influences negatively
+  cycling uptake. Potential gaps:
 
-To what extent? Is this equally applicable to all groups of cyclists? Is
-this due to fear of suffering a road collision or another type of threat
-(crime)? If road lighting increase cycling uptake, what type of road
-lighting would be the most suitable to do so?
+  - To what extent darkness influences negatively cycling uptake?
+
+  - Is this influence equally applicable to all groups of cyclists?
+    Women more sensitive to dark spaces when cycling than men (Xie and
+    Spinney 2018).
+
+  - Is this negative influence of darkness due to fear of suffering a
+    road collision or another type of threat (crime)? How does this
+    relate with the previous question?
+
+  - If darkness influences cycling levels, what type of road lighting
+    would be the most suitable to increase cycling uptake?
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 <!-- @abasahl_gender_2018, -->
 <!-- @agarwal_encouraging_2022, and -->
 <!-- @akar_influence_2009. -->
 
-Until now, there has been no academic paper that has reviewed the
-international literature available on this specific area of research.
-Fotios and Castleton (2017) provide a review of suggested actions to
-enable cycling lighting to contribute to the safety of cyclists.
-However, Fotios and Castleton (2017) focus on cycling safety and
-lighting (for both bicycles and roads) in the UK.
+There is no academic paper that reviews the international literature
+available on this specific area of research. Fotios and Castleton (2017)
+provide a review of suggested actions to enable cycling lighting to
+contribute to the safety of cyclists. However, Fotios and Castleton
+(2017) focus on cycling safety and lighting (for both bicycles and
+roads) in the UK.
 
 This paper aims to review international research on the relationship
 between cycling uptake and road lighting.
@@ -385,6 +393,16 @@ Uttley, Jim, Steve Fotios, and Robin Lovelace. 2020. “Road Lighting
 Density and Brightness Linked with Increased Cycling Rates After-Dark.”
 Edited by Quan Yuan. *PLOS ONE* 15 (5): e0233105.
 <https://doi.org/10.1371/journal.pone.0233105>.
+
+</div>
+
+<div id="ref-xie_i_2018" class="csl-entry">
+
+Xie, Linjun, and Justin Spinney. 2018. “‘I Won’t Cycle on a Route Like
+This; I Don’t Think I Fully Understood What Isolation Meant’: A Critical
+Evaluation of the Safety Principles in Cycling Level of Service (CLoS)
+Tools from a Gender Perspective.” *Travel Behaviour and Society* 13
+(October): 197–213. <https://doi.org/10.1016/j.tbs.2018.07.002>.
 
 </div>
 
