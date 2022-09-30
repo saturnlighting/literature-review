@@ -75,13 +75,13 @@ Chapter 5 closes the work with the conclusions.
 We searched in two electronic databased (SCOPUS and Web of Science) for studies investigating the impact of road lighting on cycling uptake.
 The query string used for the search is as follows:
 
-> TITLE-ABS-KEY ( "ACTIVE COMMUT*" OR "ACTIVE TRANSPORT*" OR "ACTIVETRAVEL*" OR bicycl* OR bike\* OR biking OR"CYCLE HIRE" OR "CYCLING" OR "CYCLIST*" OR "ECOLOGICAL COMMUT*" OR "ECOLOGICAL TRANSPORT*" OR "ECOLOGICAL TRAVEL*" OR "GREEN\* COMMUT*" OR "GREEN TRANSPORT*" OR "GREEN TRAVEL*" OR greenway* OR nonauto ) AND ("CITY LIGHT*" OR "PUBLIC LIGHT" OR "ROAD LIGHT" OR "ROAD ILLUMINATION" OR "STREET LIGHT" OR "STREET LAMP*" OR "LAMP POST" OR "LIGHT POST" OR "LIGHT POLE" )
+> TITLE-ABS-KEY("WALK*" OR "FOOT" OR "PEDESTRIAN*" OR "BICYCL*" OR "BIK*" OR "CYCLING" OR "CYCLIST*" OR "CYCLE HIRE" OR "WHEEL*" OR "SCOOTER*" OR "ROLLATOR*" OR "ACTIVE COMMUT*" OR "ACTIVE TRANSPORT*" OR "ACTIVETRAVEL*" OR "ECOLOGICAL COMMUT*" OR "ECOLOGICAL TRANSPORT*" OR "ECOLOGICAL TRAVEL*" OR "GREEN* COMMUT*" OR "GREEN TRANSPORT*" OR "GREEN TRAVEL*" OR "GREENWAY*" ) AND ("CITY LIGHT*" OR "PUBLIC LIGHT*" OR "ROAD LIGHT*" OR "ROAD ILLUMINATION" OR "STREET LIGHT*" OR "STREET LAMP*" OR "LAMP POST*" OR "LIGHT POST*" OR "LIGHT POLE*")
 
-The search strategy resulted in 281 records.
-Based on the examination of abstract and then full papers x studies were selected.
-A flow chart of included studies is shown in Table 1.
+The search strategy resulted in 1227 records.
+Based on the examination of titles, abstract, and then full papers x studies were selected.
+A flow chart of included studies is shown in Figure 1.
 
-```{r tab1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+```{r tab1, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
 library(kableExtra)
 
 stages <- c( 'Combining search and results and excluding duplicates', 'Reviewing abstracts, excluding papers out of scope of review', 'Reading full paper', 'Review of full papers')
@@ -92,6 +92,10 @@ colnames(df) <- c('Stages', 'Number of papers left')
 kbl(df,
     caption = "Table 1: Chart flow of included studies") %>%
     kable_styling()
+```
+
+```{r fig1, echo=FALSE, fig.align="center", fig.cap="Review flow chart", out.width = '50%'}
+knitr::include_graphics("flow-chart.png")
 ```
 
 <!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->

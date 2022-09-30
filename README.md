@@ -22,30 +22,30 @@ uptake, at all times and in all seasons?
 
 # Introduction
 
-- Cycling benefits
+-   Cycling benefits
 
-- Why aren’t more people cycling?
+-   Why aren’t more people cycling?
 
-- One of the main barriers: lack of (segregated) cycleways – \>
-  investment in recent years
+-   One of the main barriers: lack of (segregated) cycleways – >
+    investment in recent years
 
-- But what about nonlinear infrastructure?
+-   But what about nonlinear infrastructure?
 
-- There is research suggesting that darkness influences negatively
-  cycling uptake. Potential gaps:
+-   There is research suggesting that darkness influences negatively
+    cycling uptake. Potential gaps:
 
-  - To what extent darkness influences negatively cycling uptake?
+    -   To what extent darkness influences negatively cycling uptake?
 
-  - Is this influence equally applicable to all groups of cyclists?
-    Women more sensitive to dark spaces when cycling than men (Xie and
-    Spinney 2018).
+    -   Is this influence equally applicable to all groups of cyclists?
+        Women more sensitive to dark spaces when cycling than men (Xie
+        and Spinney 2018).
 
-  - Is this negative influence of darkness due to fear of suffering a
-    road collision or another type of threat (crime)? How does this
-    relate with the previous question?
+    -   Is this negative influence of darkness due to fear of suffering
+        a road collision or another type of threat (crime)? How does
+        this relate with the previous question?
 
-  - If darkness influences cycling levels, what type of road lighting
-    would be the most suitable to increase cycling uptake?
+    -   If darkness influences cycling levels, what type of road
+        lighting would be the most suitable to increase cycling uptake?
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 <!-- @abasahl_gender_2018, -->
@@ -81,68 +81,21 @@ We searched in two electronic databased (SCOPUS and Web of Science) for
 studies investigating the impact of road lighting on cycling uptake. The
 query string used for the search is as follows:
 
-> TITLE-ABS-KEY ( “ACTIVE COMMUT*” OR ”ACTIVE TRANSPORT*” OR
-> “ACTIVETRAVEL*” OR bicycl* OR bike\* OR biking OR”CYCLE HIRE” OR
-> “CYCLING” OR “CYCLIST*” OR ”ECOLOGICAL COMMUT*” OR “ECOLOGICAL
-> TRANSPORT*” OR ”ECOLOGICAL TRAVEL*” OR “GREEN\* COMMUT*” OR ”GREEN
-> TRANSPORT*” OR “GREEN TRAVEL*” OR greenway* OR nonauto ) AND (”CITY
-> LIGHT*” OR “PUBLIC LIGHT” OR “ROAD LIGHT” OR “ROAD ILLUMINATION” OR
-> “STREET LIGHT” OR “STREET LAMP*” OR “LAMP POST” OR “LIGHT POST” OR
-> “LIGHT POLE” )
+> TITLE-ABS-KEY(“WALK*” OR ”FOOT” OR ”PEDESTRIAN*” OR “BICYCL*” OR
+> ”BIK*” OR “CYCLING” OR “CYCLIST*” OR ”CYCLE HIRE” OR ”WHEEL*” OR
+> “SCOOTER*” OR ”ROLLATOR*” OR “ACTIVE COMMUT*” OR ”ACTIVE TRANSPORT*”
+> OR “ACTIVETRAVEL*” OR ”ECOLOGICAL COMMUT*” OR “ECOLOGICAL TRANSPORT*”
+> OR ”ECOLOGICAL TRAVEL*” OR “GREEN\* COMMUT*” OR ”GREEN TRANSPORT*” OR
+> “GREEN TRAVEL*” OR ”GREENWAY*” ) AND (“CITY LIGHT*” OR ”PUBLIC LIGHT*”
+> OR “ROAD LIGHT*” OR ”ROAD ILLUMINATION” OR ”STREET LIGHT*” OR “STREET
+> LAMP*” OR ”LAMP POST*” OR “LIGHT POST*” OR ”LIGHT POLE*”)
 
-The search strategy resulted in 281 records. Based on the examination of
-abstract and then full papers x studies were selected. A flow chart of
-included studies is shown in Table 1.
+The search strategy resulted in 1227 records. Based on the examination
+of titles, abstract, and then full papers x studies were selected. A
+flow chart of included studies is shown in Figure 1.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>
-Table 1: Chart flow of included studies
-</caption>
-<thead>
-<tr>
-<th style="text-align:left;">
-Stages
-</th>
-<th style="text-align:left;">
-Number of papers left
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-Combining search and results and excluding duplicates
-</td>
-<td style="text-align:left;">
-281
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Reviewing abstracts, excluding papers out of scope of review
-</td>
-<td style="text-align:left;">
-x
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Reading full paper
-</td>
-<td style="text-align:left;">
-x
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Review of full papers
-</td>
-<td style="text-align:left;">
-x
-</td>
-</tr>
-</tbody>
-</table>
+<img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
+
 <!-- Selection of papers: SCOPUS search engine (any other? e.g. Google Scholar). -->
 <!-- How have been systematically 'searched'? -->
 <!-- Keywords used. -->
