@@ -3,7 +3,7 @@ output: github_document
 editor_options:
   markdown:
     wrap: sentence
-title: 'Cycling Uptake and Road Lighting: A Review'
+title: 'Active Travel Uptake and Road Lighting: A Review'
 bibliography: saturn.bib
 always_allow_html: true
 ---
@@ -21,26 +21,19 @@ Lighting after dark has costs, both in terms of energy use and harmful ecologica
 
 # Introduction
 
--   Cycling benefits
+-   Active travel benefits
 
--   Why aren't more people cycling?
-
--   One of the main barriers: lack of (segregated) cycleways -- \> investment in recent years
-
--   But what about nonlinear infrastructure?
-
--   There is research suggesting that darkness influences negatively cycling uptake.
+-   Research suggests darkness influences negatively active travel uptake.
     Potential gaps:
 
-    -   To what extent darkness influences negatively cycling uptake?
+    -   To what extent darkness influences negatively active travel uptake?
 
-    -   Is this influence equally applicable to all groups of cyclists?
-        Women more sensitive to dark spaces when cycling than men [@xie_i_2018].
+    -   Is this negative influence equally applicable to all groups?
+        Women more sensitive to dark spaces when walking and cycling than men [@xie_i_2018].
 
     -   Is this negative influence of darkness due to fear of suffering a road collision or another type of threat (crime)?
-        How does this relate with the previous question?
-
-    -   If darkness influences cycling levels, what type of road lighting would be the most suitable to increase cycling uptake?
+        
+    -   If darkness influences negatively active travel uptake, what type of road lighting would be the most suitable to avoid this influence?
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 
@@ -54,7 +47,7 @@ There is no academic paper that reviews the international literature available o
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists.
 However, @fotios_lighting_2017 focus on cycling safety and lighting (for both bicycles and roads) in the UK.
 
-This paper aims to review international research on the relationship between cycling uptake and road lighting.
+This paper aims to review international research on the relationship between active travel uptake and road lighting.
 
 <!-- Concepts to define? -->
 
@@ -72,7 +65,7 @@ Chapter 5 closes the work with the conclusions.
 
 ## Search strategy
 
-We searched in two electronic databased (SCOPUS and Web of Science) for studies investigating the impact of road lighting on cycling uptake.
+We searched in two electronic databased (SCOPUS and Web of Science) for studies investigating the impact of road lighting on active travel uptake.
 The query string used for the search is as follows:
 
 > TITLE-ABS-KEY("WALK*" OR "FOOT" OR "PEDESTRIAN*" OR "BICYCL*" OR "BIK*" OR "CYCLING" OR "CYCLIST*" OR "CYCLE HIRE" OR "WHEEL*" OR "SCOOTER*" OR "ROLLATOR*" OR "ACTIVE COMMUT*" OR "ACTIVE TRANSPORT*" OR "ACTIVETRAVEL*" OR "ECOLOGICAL COMMUT*" OR "ECOLOGICAL TRANSPORT*" OR "ECOLOGICAL TRAVEL*" OR "GREEN* COMMUT*" OR "GREEN TRANSPORT*" OR "GREEN TRAVEL*" OR "GREENWAY*" ) AND ("CITY LIGHT*" OR "PUBLIC LIGHT*" OR "ROAD LIGHT*" OR "ROAD ILLUMINATION" OR "STREET LIGHT*" OR "STREET LAMP*" OR "LAMP POST*" OR "LIGHT POST*" OR "LIGHT POLE*")
@@ -114,7 +107,7 @@ knitr::include_graphics("flow-chart.png")
 
 ## Data extraction
 
-From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, sign of association, and authors and year.
+From the included studies, we extracted information regarding: location of study, methodology, active travel uptake and lighting measurements, mode, sign of association, and authors and year.
 
 # Results (or state of knowledge)
 
@@ -131,15 +124,16 @@ library(kableExtra)
 
 location <- c('x', 'x', 'x', 'UK', 'UK', 'UK')
 method <-  c('x', 'x', 'x', 'x', 'x', 'x')
-cyc <- c('x', 'x', 'x', 'x', 'x', 'x')
+mode <- c('x', 'x', 'x', 'x', 'x', 'x')
+uptake <- c('x', 'x', 'x', 'x', 'x', 'x')
 light <- c('x', 'x', 'x', 'x', 'x', 'x')
 sign <- c('x', 'x', 'x', 'x', 'x', 'x')
 authors <- c('@abasahl_gender_2018', '@agarwal_encouraging_2022', '@akar_influence_2009', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020')
 
-df <- data.frame(location, method, cyc, light, sign, authors)
-colnames(df) <- c('Location', 'Method', 'Cycling \nmeasurement', 'Lighting \nmeasurement', 'Sign of\nassociation', 'Author and year')
+df <- data.frame(location, method, mode, uptake, light, sign, authors)
+colnames(df) <- c('Location', 'Method', 'Mode', 'Uptake\nMeasurement', 'Lighting\nmeasurement', 'Sign of\nassociation', 'Author and year')
 kbl(df,
-    caption = "Table 2: Overview of papers on cycling uptake and road lighting") %>%
+    caption = "Table 2: Overview of papers on active travel uptake and road lighting") %>%
     kable_styling()
 ```
 

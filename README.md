@@ -1,4 +1,4 @@
-Cycling Uptake and Road Lighting: A Review
+Active Travel Uptake and Road Lighting: A Review
 ================
 
 # Abstract
@@ -22,30 +22,24 @@ uptake, at all times and in all seasons?
 
 # Introduction
 
--   Cycling benefits
+-   Active travel benefits
 
--   Why aren’t more people cycling?
+-   Research suggests darkness influences negatively active travel
+    uptake. Potential gaps:
 
--   One of the main barriers: lack of (segregated) cycleways – >
-    investment in recent years
+    -   To what extent darkness influences negatively active travel
+        uptake?
 
--   But what about nonlinear infrastructure?
-
--   There is research suggesting that darkness influences negatively
-    cycling uptake. Potential gaps:
-
-    -   To what extent darkness influences negatively cycling uptake?
-
-    -   Is this influence equally applicable to all groups of cyclists?
-        Women more sensitive to dark spaces when cycling than men (Xie
-        and Spinney 2018).
+    -   Is this negative influence equally applicable to all groups?
+        Women more sensitive to dark spaces when walking and cycling
+        than men (Xie and Spinney 2018).
 
     -   Is this negative influence of darkness due to fear of suffering
-        a road collision or another type of threat (crime)? How does
-        this relate with the previous question?
+        a road collision or another type of threat (crime)?
 
-    -   If darkness influences cycling levels, what type of road
-        lighting would be the most suitable to increase cycling uptake?
+    -   If darkness influences negatively active travel uptake, what
+        type of road lighting would be the most suitable to avoid this
+        influence?
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 <!-- @abasahl_gender_2018, -->
@@ -60,7 +54,7 @@ contribute to the safety of cyclists. However, Fotios and Castleton
 roads) in the UK.
 
 This paper aims to review international research on the relationship
-between cycling uptake and road lighting.
+between active travel uptake and road lighting.
 
 <!-- Concepts to define? -->
 <!-- E.g. road lighting? -->
@@ -78,8 +72,8 @@ with the conclusions.
 ## Search strategy
 
 We searched in two electronic databased (SCOPUS and Web of Science) for
-studies investigating the impact of road lighting on cycling uptake. The
-query string used for the search is as follows:
+studies investigating the impact of road lighting on active travel
+uptake. The query string used for the search is as follows:
 
 > TITLE-ABS-KEY(“WALK*” OR ”FOOT” OR ”PEDESTRIAN*” OR “BICYCL*” OR
 > ”BIK*” OR “CYCLING” OR “CYCLIST*” OR ”CYCLE HIRE” OR ”WHEEL*” OR
@@ -107,8 +101,8 @@ flow chart of included studies is shown in Figure 1.
 ## Data extraction
 
 From the included studies, we extracted information regarding: location
-of study, methodology, cycling uptake and lighting measurements, sign of
-association, and authors and year.
+of study, methodology, active travel uptake and lighting measurements,
+mode, sign of association, and authors and year.
 
 # Results (or state of knowledge)
 
@@ -118,7 +112,7 @@ association, and authors and year.
 <!-- Table with a summary of the most relevant literature. -->
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 2: Overview of papers on cycling uptake and road lighting
+Table 2: Overview of papers on active travel uptake and road lighting
 </caption>
 <thead>
 <tr>
@@ -129,7 +123,10 @@ Location
 Method
 </th>
 <th style="text-align:left;">
-Cycling measurement
+Mode
+</th>
+<th style="text-align:left;">
+Uptake Measurement
 </th>
 <th style="text-align:left;">
 Lighting measurement
@@ -144,6 +141,9 @@ Author and year
 </thead>
 <tbody>
 <tr>
+<td style="text-align:left;">
+x
+</td>
 <td style="text-align:left;">
 x
 </td>
@@ -180,10 +180,16 @@ x
 x
 </td>
 <td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
 Agarwal and North (2022)
 </td>
 </tr>
 <tr>
+<td style="text-align:left;">
+x
+</td>
 <td style="text-align:left;">
 x
 </td>
@@ -220,6 +226,9 @@ x
 x
 </td>
 <td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
 Fotios and Castleton (2017)
 </td>
 </tr>
@@ -240,12 +249,18 @@ x
 x
 </td>
 <td style="text-align:left;">
+x
+</td>
+<td style="text-align:left;">
 Fotios et al. (2017)
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 UK
+</td>
+<td style="text-align:left;">
+x
 </td>
 <td style="text-align:left;">
 x
