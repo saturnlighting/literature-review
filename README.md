@@ -8,7 +8,9 @@ aim).*\>
 
 # Abstract
 
-\<*Adapt this to active travel in general*\>
+\<*Scope: Cycling or Active travel and Road Lighting? It makes more
+sense to focus on Active Travel (more impact, more people walk). Adapt
+this to active travel in general*\>
 
 Linear cycling infrastructure at ground level, such as cycle lanes, have
 received the bulk of research and policy attention in relation to
