@@ -1,6 +1,11 @@
 Active Travel Uptake and Road Lighting: A Review
 ================
 
+\<*Does it make sense to write a systematic literature review on this
+topic? In any case, this work will help us to identify research gaps and
+give context to potential empirical papers (which remain the main
+aim).*\>
+
 # Abstract
 
 \<*Adapt this to active travel in general*\>
