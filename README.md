@@ -2,15 +2,15 @@ Active Travel Uptake and Road Lighting: A Review
 ================
 
 \<*Does it make sense to write a systematic literature review on this
-topic? In any case, this work will help us to identify research gaps and
-give context to potential empirical papers (which remain the main
-aim).*\>
+topic? I am not sure yet. In any case, this work will help us to
+identify research gaps and give context to potential empirical papers
+(which remain the main aim).*\>
 
 # Abstract
 
 \<*Scope: Cycling or Active travel and Road Lighting? It makes more
 sense to focus on Active Travel (more impact, more people walk). Adapt
-this to active travel in general*\>
+this to active travel in general (walking, cycling, and wheeling)*\>
 
 Linear cycling infrastructure at ground level, such as cycle lanes, have
 received the bulk of research and policy attention in relation to
