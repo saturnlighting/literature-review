@@ -3,6 +3,8 @@ Active Travel Uptake and Road Lighting: A Review
 
 # Abstract
 
+<FONT COLOR="red">Adapt this to active travel in general.</FONT>
+
 Linear cycling infrastructure at ground level, such as cycle lanes, have
 received the bulk of research and policy attention in relation to
 investment in walking and cycling. However, localised treatments such as
@@ -286,6 +288,8 @@ Uttley, Fotios, and Lovelace (2020)
 # Conclusions
 
 <!-- Interpretation of the material. -->
+
+<FONT COLOR="red">Adapt this to active travel in general.</FONT>
 
 The review presented above highlights the need for more empirical work
 in the area of cycling uptake (which means tackling the barriers to
