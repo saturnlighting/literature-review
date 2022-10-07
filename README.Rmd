@@ -38,6 +38,8 @@ Lighting after dark has costs, both in terms of energy use and harmful ecologica
     -   Is this negative influence of darkness due to fear of suffering a road collision or another type of threat (crime)?
         
     -   If darkness influences negatively active travel uptake, what type of road lighting would be the most suitable to avoid this influence?
+    
+    -   No research on wheeling and lighting
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 
