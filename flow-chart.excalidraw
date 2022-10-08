@@ -311,8 +311,8 @@
     },
     {
       "type": "text",
-      "version": 1546,
-      "versionNonce": 134028868,
+      "version": 1551,
+      "versionNonce": 1587005293,
       "isDeleted": false,
       "id": "C3GnlEjqAc2ZCz4yrawiD",
       "fillStyle": "hachure",
@@ -331,17 +331,17 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElements": [],
-      "updated": 1664535689268,
+      "updated": 1665256033377,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Reading abstracts; excluding papers out of \nscope (N= )",
+      "text": "Reading abstracts; excluding papers out of \nscope (N= 105)",
       "baseline": 41,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "eRDBBAaTGjTEN3zC6z-tF",
-      "originalText": "Reading abstracts; excluding papers out of scope (N= )"
+      "originalText": "Reading abstracts; excluding papers out of scope (N= 105)"
     },
     {
       "type": "rectangle",
@@ -607,41 +607,30 @@
       "originalText": "Reading full papers; excluding papers out of scope (N= )"
     },
     {
-      "id": "VmMSSU0nyQxJVSGrs0Gg_",
       "type": "arrow",
-      "x": 1152.1315789473686,
-      "y": 266.0833333333333,
-      "width": 0.16228070175384346,
-      "height": 21.41666666666663,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 113,
+      "versionNonce": 1045338820,
+      "isDeleted": false,
+      "id": "VmMSSU0nyQxJVSGrs0Gg_",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 0,
       "opacity": 100,
+      "angle": 0,
+      "x": 1152.1315789473686,
+      "y": 266.0833333333333,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 0.16228070175384346,
+      "height": 21.41666666666663,
+      "seed": 1304368508,
       "groupIds": [],
       "strokeSharpness": "round",
-      "seed": 1304368508,
-      "version": 113,
-      "versionNonce": 1045338820,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1664535684956,
       "link": null,
       "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          0.16228070175384346,
-          21.41666666666663
-        ]
-      ],
-      "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "LRek7VChDnC5tHWs9xBiq",
         "focus": 0.5107559348599108,
@@ -652,8 +641,19 @@
         "focus": -0.510536248276464,
         "gap": 1.25
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "triangle"
+      "endArrowhead": "triangle",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.16228070175384346,
+          21.41666666666663
+        ]
+      ]
     },
     {
       "type": "arrow",

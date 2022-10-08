@@ -77,7 +77,7 @@ The query string used for the search is as follows:
 > TITLE-ABS-KEY("WALK*" OR "FOOT" OR "PEDESTRIAN*" OR "BICYCL*" OR "BIK*" OR "CYCLING" OR "CYCLIST*" OR "CYCLE HIRE" OR "WHEEL*" OR "SCOOTER*" OR "ROLLATOR*" OR "ACTIVE COMMUT*" OR "ACTIVE TRANSPORT*" OR "ACTIVETRAVEL*" OR "ECOLOGICAL COMMUT*" OR "ECOLOGICAL TRANSPORT*" OR "ECOLOGICAL TRAVEL*" OR "GREEN* COMMUT*" OR "GREEN TRANSPORT*" OR "GREEN TRAVEL*" OR "GREENWAY*" ) AND ("CITY LIGHT*" OR "PUBLIC LIGHT*" OR "ROAD LIGHT*" OR "ROAD ILLUMINATION" OR "STREET LIGHT*" OR "STREET LAMP*" OR "LAMP POST*" OR "LIGHT POST*" OR "LIGHT POLE*")
 
 The search strategy resulted in 1227 records.
-Based on the examination of titles, abstract, and then full papers x studies were selected.
+Based on the examination of titles, abstract, and then full papers TBD studies were selected.
 A flow chart of included studies is shown in Figure 1.
 
 ```{r tab1, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
@@ -128,12 +128,12 @@ From the included studies, we extracted information regarding: location of study
 ```{r tab2, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(kableExtra)
 
-location <- c('x', 'x', 'x', 'UK', 'UK', 'UK')
-method <-  c('x', 'x', 'x', 'x', 'x', 'x')
-mode <- c('x', 'x', 'x', 'x', 'x', 'x')
-uptake <- c('x', 'x', 'x', 'x', 'x', 'x')
-light <- c('x', 'x', 'x', 'x', 'x', 'x')
-sign <- c('x', 'x', 'x', 'x', 'x', 'x')
+location <- c('TBD', 'TBD', 'TBD', 'UK', 'UK', 'UK')
+method <-  c('', '', '', '', '', '')
+mode <- c('', '', '', '', '', '')
+uptake <- c('', '', '', '', '', '')
+light <- c('', '', '', '', '', '')
+sign <- c('', '', '', '', '', '')
 authors <- c('@abasahl_gender_2018', '@agarwal_encouraging_2022', '@akar_influence_2009', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020')
 
 df <- data.frame(location, method, mode, uptake, light, sign, authors)

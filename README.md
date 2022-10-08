@@ -50,6 +50,8 @@ uptake, at all times and in all seasons?
         type of road lighting would be the most suitable to avoid this
         influence?
 
+    -   No research on wheeling and lighting
+
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 <!-- @abasahl_gender_2018, -->
 <!-- @agarwal_encouraging_2022, and -->
@@ -94,7 +96,7 @@ uptake. The query string used for the search is as follows:
 > LAMP*” OR ”LAMP POST*” OR “LIGHT POST*” OR ”LIGHT POLE*”)
 
 The search strategy resulted in 1227 records. Based on the examination
-of titles, abstract, and then full papers x studies were selected. A
+of titles, abstract, and then full papers TBD studies were selected. A
 flow chart of included studies is shown in Figure 1.
 
 <img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
@@ -151,22 +153,17 @@ Author and year
 <tbody>
 <tr>
 <td style="text-align:left;">
-x
+TBD
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
 Abasahl, Kelarestaghi, and Ermagun (2018)
@@ -174,22 +171,17 @@ Abasahl, Kelarestaghi, and Ermagun (2018)
 </tr>
 <tr>
 <td style="text-align:left;">
-x
+TBD
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
 Agarwal and North (2022)
@@ -197,22 +189,17 @@ Agarwal and North (2022)
 </tr>
 <tr>
 <td style="text-align:left;">
-x
+TBD
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
 Akar and Clifton (2009)
@@ -223,19 +210,14 @@ Akar and Clifton (2009)
 UK
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
 Fotios and Castleton (2017)
@@ -246,19 +228,14 @@ Fotios and Castleton (2017)
 UK
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
 Fotios et al. (2017)
@@ -269,19 +246,14 @@ Fotios et al. (2017)
 UK
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
-x
 </td>
 <td style="text-align:left;">
 Uttley, Fotios, and Lovelace (2020)
