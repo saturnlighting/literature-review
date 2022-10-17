@@ -113,7 +113,7 @@ inequalities.
 <!-- Table with a summary of the most relevant literature. -->
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 2: Overview of papers on active travel and road lighting
+Table 1: Overview of papers on active travel and road lighting
 </caption>
 <thead>
 <tr>

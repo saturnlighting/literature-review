@@ -139,7 +139,7 @@ authors <- c('@abasahl_gender_2018', '@agarwal_encouraging_2022', '@akar_influen
 df <- data.frame(location, method, mode, uptake, light, sign, authors)
 colnames(df) <- c('Location', 'Method', 'Mode', 'Uptake\nMeasurement', 'Lighting\nmeasurement', 'Sign of\nassociation', 'Author and year')
 kbl(df,
-    caption = "Table 2: Overview of papers on active travel and road lighting") %>%
+    caption = "Table 1: Overview of papers on active travel and road lighting") %>%
     kable_styling()
 ```
 
