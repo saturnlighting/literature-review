@@ -1,90 +1,77 @@
-Active Travel Uptake and Road Lighting: A Review
+Active Travel and Road Lighting: A Review
 ================
-
-\<*Does it make sense to write a systematic literature review on this
-topic? I am not sure yet. In any case, this work will help us to
-identify research gaps and give context to potential empirical papers
-(which remain the main aim).*\>
 
 # Abstract
 
-\<*Scope: Cycling or Active travel and Road Lighting? It makes more
-sense to focus on Active Travel (more impact, more people walk). Adapt
-this to active travel in general (walking, cycling, and wheeling)*\>
+<!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in walking and cycling. -->
+<!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. -->
 
-Linear cycling infrastructure at ground level, such as cycle lanes, have
-received the bulk of research and policy attention in relation to
-investment in walking and cycling. However, localised treatments such as
-appropriate lighting and cycle parking can have a major impact on
-cyclability. There is evidence suggesting darkness puts people off from
-cycling, and increases the risk of being involved in a collision whilst
-cycling. Appropriate road or path lighting can increase feelings of
-reassurance, make hazards more visible, and make the cyclist more
-visible to other road users. However, there is to date little evidence
-on the lighting interventions that work best, in combination with other
-measures. Lighting after dark has costs, both in terms of energy use and
-harmful ecological effects due to excess light pollution, raising the
-question: what is the optimal use of lighting to enable safe cycling
-uptake, at all times and in all seasons?
+There is evidence that darkness deters people from walking and cycling.
+It increases the risk of being involved in a collision on the road as a
+pedestrian or cyclist, and also increases the risk of being victim to
+certain crimes. This disproportionately affects different social groups.
 
-<!-- "Lighting to see and lighting to be seen by".-->
+Appropriate road lighting can increase feelings of reassurance, make
+hazards more visible, and make the pedestrians and cyclist more visible
+to other road users. However, there is to date little evidence on the
+lighting interventions that work best, in combination with other
+measures.
+
+This paper provides a review on the scientific literature that
+intersections between active travel and road lighting.
+
+<!-- Lighting after dark has costs, both in terms of energy use and harmful ecological effects due to excess light pollution, raising the question: what is the optimal use of lighting to enable safe cycling uptake, at all times and in all seasons? -->
 
 # Introduction
 
--   Active travel benefits
-
--   Research suggests darkness influences negatively active travel
-    uptake. Potential gaps:
-
-    -   To what extent darkness influences negatively active travel
-        uptake?
-
-    -   Is this negative influence equally applicable to all groups?
-        Women more sensitive to dark spaces when walking and cycling
-        than men (Xie and Spinney 2018).
-
-    -   Is this negative influence of darkness due to fear of suffering
-        a road collision or another type of threat (crime)?
-
-    -   If darkness influences negatively active travel uptake, what
-        type of road lighting would be the most suitable to avoid this
-        influence?
-
-    -   No research on wheeling and lighting
-
+<!-- - What type of street lighting is the most suitable for active trips at night to increase and be safer? -->
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
 <!-- @abasahl_gender_2018, -->
 <!-- @agarwal_encouraging_2022, and -->
 <!-- @akar_influence_2009. -->
 
 There is no academic paper that reviews the international literature
-available on this specific area of research. Fotios and Castleton (2017)
-provide a review of suggested actions to enable cycling lighting to
-contribute to the safety of cyclists. However, Fotios and Castleton
-(2017) focus on cycling safety and lighting (for both bicycles and
-roads) in the UK.
+available on the relationship between active travel and road lighting.
+Fotios and Castleton (2017) provide a review of suggested actions to
+enable cycling lighting to contribute to the safety of cyclists.
+However, Fotios and Castleton (2017) focus on cycling safety and on
+lighting for both bicycles and roads in the UK.
 
-This paper aims to review international research on the relationship
-between active travel uptake and road lighting.
+This paper aims to review international research on the intersection
+between active travel and road lighting.
 
-<!-- Concepts to define? -->
+The review answers the following questions:
+
+1.- To what extent darkness influences negatively active travel uptake?
+
+2.- To what degree darkness is associated with higher risk on road
+collisions among active travellers?
+
+3.- To what extent darkness is associated with higher crime rates or
+fear to crime among active travellers?
+
+4.- Is this negative association between active travel and darkness
+equally applicable to all groups?
+
+Outside the scope of this review are technical engineering or smart
+cities papers on the most suitable type of road lighting for active
+travel. <!-- Concepts to define? -->
+
 <!-- E.g. road lighting? -->
 
 The review is organized as follows. Chapter 2 describes the search
-strategy and information extracted from the papers. Chapter 3 presents
-the results of the papers reviewed. Chapter 4 critically analyses the
-results and identifies gaps in the research. Chapter 5 closes the work
-with the conclusions.
+strategy. Chapter 3 presents the results of the papers reviewed. Chapter
+4 critically analyses the results and identifies gaps in the research.
+Chapter 5 closes the work with the conclusions.
 
 # Methodology
 
 <!-- Good practice review methodology: Scheepers et al., 2014. -->
+<!-- ## Search strategy -->
 
-## Search strategy
-
-We searched in two electronic databased (SCOPUS and Web of Science) for
-studies investigating the impact of road lighting on active travel
-uptake. The query string used for the search is as follows:
+We searched in SCOPUS electronic databased (on 11 Oct 2022) for studies
+investigating the relationship between active travel and road lighting.
+The query string used for the search was as follows:
 
 > TITLE-ABS-KEY(“WALK*” OR ”FOOT” OR ”PEDESTRIAN*” OR “BICYCL*” OR
 > ”BIK*” OR “CYCLING” OR “CYCLIST*” OR ”CYCLE HIRE” OR ”WHEEL*” OR
@@ -96,7 +83,7 @@ uptake. The query string used for the search is as follows:
 > LAMP*” OR ”LAMP POST*” OR “LIGHT POST*” OR ”LIGHT POLE*”)
 
 The search strategy resulted in 1227 records. Based on the examination
-of titles, abstract, and then full papers TBD studies were selected. A
+of titles, abstract, and then full papers 105 studies were selected. A
 flow chart of included studies is shown in Figure 1.
 
 <img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
@@ -108,14 +95,17 @@ flow chart of included studies is shown in Figure 1.
 <!-- Information to provide: Databases Languages included Keywords Search strategy -->
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
 <!-- Other parameters for scope? -->
+<!-- ## Data extraction -->
+<!-- From the included studies, we extracted information regarding: location of study, methodology, active travel uptake and lighting measurements, mode, sign of association, and authors and year. -->
 
-## Data extraction
+# Results
 
-From the included studies, we extracted information regarding: location
-of study, methodology, active travel uptake and lighting measurements,
-mode, sign of association, and authors and year.
+The scientific literature on the intersections of active travel and road
+lighting is spread across several disciplines such as transportation,
+public health, road safety, criminology, and studies of social
+inequalities.
 
-# Results (or state of knowledge)
+## Active travel and road lighting
 
 <!-- What is already known in this area (and maybe what is not)? -->
 <!-- Present the literature in a logical way, commenting on the differences and similarities between the material cited. -->
@@ -123,7 +113,7 @@ mode, sign of association, and authors and year.
 <!-- Table with a summary of the most relevant literature. -->
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 2: Overview of papers on active travel uptake and road lighting
+Table 2: Overview of papers on active travel and road lighting
 </caption>
 <thead>
 <tr>
@@ -262,36 +252,53 @@ Uttley, Fotios, and Lovelace (2020)
 </tbody>
 </table>
 
-# Discussion and research gaps
+## Active travel crashes and road lighting
+
+## Physical activity, crime, and road lighting
+
+## Inequalities in active travel and road lighting
+
+Women more sensitive to dark spaces when walking and cycling than men
+(Xie and Spinney 2018).
+
+# Discussion
+
+The scientific literature on the intersections of active travel and
+lighting is spread across several disciplines such as transportation,
+public health, road safety, criminology, and studies of social
+inequalities.
+
+## Research gaps
+
+-   No research on wheeling and lighting
+
+## Strenghts and limitations
 
 # Conclusions
 
 <!-- Interpretation of the material. -->
 
-\<*Adapt this to active travel in general*\>
-
 The review presented above highlights the need for more empirical work
-in the area of cycling uptake (which means tackling the barriers to
-cycling including road safety and perceived personal safety) and
-lighting. We plan to undertake some of this work over the coming months
-in the SATURN (Supporting Active Travel Using Road lighting at Night)
-project, which has been funded by the UK Research and Innovation body.
-During the project we plan to measure change in cycling levels,
-primarily through cyclists counts, and cycling safety due to darkness as
-inferred from models of cycling levels and high resolution casualty over
-multi year timescales and in a number of different locations. Comparing
-resulting estimates of change in cycling and safety levels will help
-assess the impact of lighting in those locations, but there is much else
-to do in this field beyond what is possible in a 24 month research
-project. Further work is needed to better understand how lighting
-characteristics such as illuminance and the spatial distribution of
-lighting influence cycling rates and cyclist safety. To ensure the
-policy relevance of future work into road lighting and cycling, it is
-important that the findings feed into larger models of cycling uptake to
-support cost effective investment in road and path lighting (Fotios et
-al. 2017), as part of balanced packages of interventions, for the
-benefit of people who stand to benefit from better walking, cycling and
-wheeling provision worldwide.
+in the area of active travel uptake and road lighting. We plan to
+undertake some of this work over the coming months in the SATURN
+(Supporting Active Travel Using Road lighting at Night) project, which
+has been funded by the UK Research and Innovation body. During the
+project we plan to measure change in cycling levels, primarily through
+cyclists counts, and cycling safety due to darkness as inferred from
+models of cycling levels and high resolution casualty over multi year
+timescales and in a number of different locations. Comparing resulting
+estimates of change in cycling and safety levels will help assess the
+impact of lighting in those locations, but there is much else to do in
+this field beyond what is possible in a 24 month research project.
+Further work is needed to better understand how lighting characteristics
+such as illuminance and the spatial distribution of lighting influence
+cycling rates and cyclist safety. To ensure the policy relevance of
+future work into road lighting and cycling, it is important that the
+findings feed into larger models of cycling uptake to support cost
+effective investment in road and path lighting (Fotios et al. 2017), as
+part of balanced packages of interventions, for the benefit of people
+who stand to benefit from better walking, cycling and wheeling provision
+worldwide.
 
 # References
 
