@@ -7,13 +7,13 @@ Active Travel and Road Lighting: A Review
 <!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. -->
 
 There is evidence that darkness deters people from walking and cycling.
-There are two main reasons for that. Darkness increases pedestrians’ and
-bicyclists’ fear and likelihood of being involved in a road collision.
-Darkness also increases the fear and risk of being a victim of a crime.
-This disproportionately affects women, the elderly, and disadvantaged
+This is basically due to two reasons. Darkness increases pedestrians’
+and cyclists’ fear and likelihood of being involved in a road collision.
+Darkness also increases fear and risk of being a victim of a crime. This
+seems to affect disproportionately women, the elderly, and disadvantaged
 groups. This paper provides a review on the scientific literature that
-intersections between active travel and road lighting. We use a hybrid
-systematic and snowballing search strategy. Our review found that…
+intersects between active travel and road lighting. We use a hybrid
+systematic and snowballing search strategy. We review TBC papers.
 
 <!-- Appropriate road lighting can increase feelings of reassurance among pedestrians and cyclists, as it helps them to see the route better during their trips as well as being more visible to other road users. It also helps reduce fear and risk of crime at night. -->
 <!-- However, there is to date little evidence on the lighting interventions that work best, in combination with other measures. -->
@@ -22,11 +22,10 @@ systematic and snowballing search strategy. Our review found that…
 # Introduction
 
 Benefits of active travel are well established in the literature. A
-large number of variables (individual, social, environmental) can affect
-an individual decision to walk and cycle. Darkness is one of the
-environmental factors that has been found to affect walking the most.
-Less studied has been in cycling. However, this seems a complex
-relationship.
+large number of variables (individual, social, and environmental) can
+affect an individual’s decision to walk and cycle. Darkness is one of
+the environmental factors that has been found to affect walking the
+most. Less studied has been the influence of darkness in cycling uptake.
 <!-- - What type of street lighting is the most suitable for active trips at night to increase and be safer? -->
 
 <!-- Papers that include darkness as a perceived barrier to cycling [@pearson_adults_2022]:  -->
@@ -46,7 +45,7 @@ between active travel and road lighting.
 
 The review answers the following questions:
 
-1.- To what extent darkness influences active travel uptake?
+1.- To what extent does darkness influence active travel uptake?
 
 2.- To what extent is darkness associated with an increased risk of road
 crash among active travellers?
@@ -57,11 +56,12 @@ travellers of being a victim of crime?
 4.- Is the association between active travel and darkness the same
 between different groups?
 
-This review focuses on road lighting and does not include studies on
-safety lighting equipment for pedestrians or cyclists, such as
-reflective clothing or bicycle-mounted lights. Outside the scope of the
-review are also technical engineering or smart cities papers on the most
-suitable type of road lighting for active travel.
+5.- What type of street lighting is the most suitable for active travel
+to increase and be safer?
+
+This review focuses on road and/or ambient lighting and does not include
+studies on safety lighting equipment for pedestrians or cyclists, such
+as reflective clothing or bicycle-mounted lights.
 
 <!-- E.g. road lighting? -->
 
@@ -92,7 +92,10 @@ The search strategy resulted in 1227 records. Based on the examination
 of titles, abstract, and then full papers 105 studies were selected. A
 flow chart of included studies is shown in Figure 1.
 
-<img src="flow-chart.png" title="Review flow chart" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
+<!-- Papers we could not access: -->
+<!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
+
+<img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
 
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
 <!-- Other parameters for scope? -->
@@ -103,8 +106,8 @@ flow chart of included studies is shown in Figure 1.
 
 The scientific literature on the intersections of active travel and road
 lighting is spread across several disciplines such as transportation,
-public health, road safety, criminology, and studies of social
-inequalities.
+public health, road safety, criminology, studies of social inequalities,
+and engineering and technology.
 
 ## Active travel and road lighting
 
@@ -266,14 +269,18 @@ Women more sensitive to dark spaces when walking and cycling than men
 
 The scientific literature on the intersections of active travel and
 lighting is spread across several disciplines such as transportation,
-public health, road safety, criminology, and studies of social
-inequalities.
+public health, road safety, criminology, studies of social inequalities,
+and engineering and technology.
 
 ## Research gaps
 
 -   No research on wheeling and lighting
 
 ## Strenghts and limitations
+
+-   Systematic but selection of papers we subjectively found more
+    relevant. So there is more literature on this topic that has not
+    been reviewed.
 
 # Conclusions
 
