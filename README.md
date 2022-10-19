@@ -6,17 +6,21 @@ Active Travel and Road Lighting: A Review
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in walking and cycling. -->
 <!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. -->
 
-There is evidence that darkness deters people from walking and cycling.
-This is basically due to two reasons. Darkness increases pedestrians’
-and cyclists’ fear and likelihood of being involved in a road collision.
-Darkness also increases fear and risk of being a victim of a crime. This
-seems to affect disproportionately women, the elderly, and disadvantaged
-groups. This paper provides a review on the scientific literature that
-intersects between active travel and road lighting. We use a hybrid
-systematic and snowballing search strategy. We review TBC papers.
-
+Background: There is evidence that darkness discourages people from
+walking and cycling. This is basically due to two reasons. Darkness 1)
+increases pedestrians’ and cyclists’ fear and likelihood of being
+involved in a road collision and 2) increases fear and risk of being a
+victim of a crime. This seems to affect disproportionately women, the
+elderly, and disadvantaged groups. Aim: This paper provides a review on
+the scientific literature that intersects between active travel and road
+lighting. Method: We used a hybrid systematic and snowballing search
+strategy. TBC studies on different disciplines such as transportation,
+public health, road safety, criminology, social inequalities, and
+engineering and technology we selected. Results: Our review suggests
+that… Conclusion: The main gaps in the literature are…
 <!-- Appropriate road lighting can increase feelings of reassurance among pedestrians and cyclists, as it helps them to see the route better during their trips as well as being more visible to other road users. It also helps reduce fear and risk of crime at night. -->
 <!-- However, there is to date little evidence on the lighting interventions that work best, in combination with other measures. -->
+
 <!-- Lighting after dark has costs, both in terms of energy use and harmful ecological effects due to excess light pollution, raising the question: what is the optimal use of lighting to enable safe cycling uptake, at all times and in all seasons? -->
 
 # Introduction
@@ -39,6 +43,12 @@ available on the relationship between active travel and road lighting.
 Fotios and Castleton (2017) provide a review of suggested actions to
 enable cycling lighting to contribute to the safety of cyclists.
 However, they focus only on cycling and in the UK.
+
+Fotios, S., Unwin, J., Farrall, S. also wrte a review on rpad lighting
+and pedestrian reassurance (Road lighting and pedestrian reassurance
+after dark: A review).
+
+Mention the rest of reviews included in the search.
 
 This paper aims to review international research on the intersection
 between active travel and road lighting.
@@ -94,6 +104,7 @@ flow chart of included studies is shown in Figure 1.
 
 <!-- Papers we could not access: -->
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
+<!-- Safe on the move: The importance of the built environment (  Book Chapter) -->
 
 <img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
 
@@ -106,8 +117,8 @@ flow chart of included studies is shown in Figure 1.
 
 The scientific literature on the intersections of active travel and road
 lighting is spread across several disciplines such as transportation,
-public health, road safety, criminology, studies of social inequalities,
-and engineering and technology.
+public health, road safety, criminology, social inequalities, and
+engineering and technology.
 
 ## Active travel and road lighting
 
