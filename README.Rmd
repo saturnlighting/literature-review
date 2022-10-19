@@ -16,7 +16,7 @@ always_allow_html: true
 There is evidence that darkness deters people from walking and cycling. This is basically due to two reasons.  Darkness increases pedestrians' and cyclists' fear and likelihood of being involved in a road collision. Darkness also increases fear and risk of being a victim of a crime. This seems to affect disproportionately women, the elderly, and disadvantaged groups.
 This paper provides a review on the scientific literature that intersects between active travel and road lighting.
 We use a hybrid systematic and snowballing search strategy.
-We review TBC papers.
+Our review suggests that...
 
 <!-- Appropriate road lighting can increase feelings of reassurance among pedestrians and cyclists, as it helps them to see the route better during their trips as well as being more visible to other road users. It also helps reduce fear and risk of crime at night. -->
 <!-- However, there is to date little evidence on the lighting interventions that work best, in combination with other measures. -->
