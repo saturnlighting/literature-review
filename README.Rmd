@@ -103,7 +103,7 @@ The scientific literature on the intersections of active travel and road lightin
 
 Five main themes were identified among the reviewed papers: 1) active travel behaviour and lighting, 2) active travel collisions and lighting, 3) active travel, crime and lighting, 4) inequalities in lighting, and 5) lighting. 
 Some papers focused on more than one of these themes. 
-The main themes of focus were proper lighting for active travel, followed by collisions and lighting, and behaviour and lighting. One forth of the papers were reviews, the rest were empirical studies (Figure 2).
+The main themes of focus were proper lighting for active travel, followed by collisions and lighting, and behaviour and lighting. One forth of the papers were reviews, the rest were empirical studies.
 
 The findings organized by these themes are shown below.
 
@@ -115,7 +115,7 @@ The findings organized by these themes are shown below.
 
 <!-- Table with a summary of the most relevant literature. -->
 
-```{r fig2, echo=FALSE, message=FALSE, warning=FALSE}
+```{r fig2, message=FALSE, warning=FALSE, include=FALSE}
 library(kableExtra)
 library(tidyverse)
 

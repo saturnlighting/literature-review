@@ -119,8 +119,6 @@ The findings organized by these themes are shown below.
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 <!-- Table with a summary of the most relevant literature. -->
 
-![](README_files/figure-gfm/fig2-1.png)<!-- -->
-
 ## Active travel behaviour and lighting
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
