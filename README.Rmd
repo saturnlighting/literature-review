@@ -184,7 +184,6 @@ kbl(df,
 
 ## Active travel, crime, and lighting
 
-
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(crime == 1) %>% 
