@@ -110,7 +110,7 @@ travel behaviour and lighting, 2) active travel collisions and lighting,
 5) lighting. Some papers focused on more than one of these themes. The
 main themes of focus were proper lighting for active travel, followed by
 collisions and lighting, and behaviour and lighting. One forth of the
-papers were reviews, the rest were empirical studies (Figure 2).
+papers were reviews, the rest were empirical studies.
 
 The findings organized by these themes are shown below.
 
