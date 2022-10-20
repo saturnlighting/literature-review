@@ -117,7 +117,7 @@ library(tidyverse)
 papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>% 
-  select(Authors, Year, Title, Category, Review)
+  select(Authors, Year, Title, Category)
 
 kbl(df,
     caption = "Table 1: Overview of papers on active travel and road lighting") %>%

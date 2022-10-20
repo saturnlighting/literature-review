@@ -125,9 +125,6 @@ Title
 <th style="text-align:left;">
 Category
 </th>
-<th style="text-align:right;">
-Review
-</th>
 </tr>
 </thead>
 <tbody>
@@ -143,10 +140,7 @@ Preference for Street Environment Based on Route Choice Behavior While
 Walking
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -162,10 +156,7 @@ research on built environments and physical activity among children and
 youth: An overview of reviews from high income countries
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-1
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -182,9 +173,6 @@ Injury Crash Patterns Under Different Lighting Conditions
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -200,9 +188,6 @@ done?
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -216,10 +201,7 @@ Crowdsourced Data for Physical Activity-Built Environment Research:
 Applying Strava Data in Chengdu, China
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -236,9 +218,6 @@ Accounting for temporal and unobserved effects in prediction
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -252,10 +231,7 @@ Effect of Ambient Light on the Number of Motorized Vehicles, Cyclists,
 and Pedestrians
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -273,9 +249,6 @@ and Visual Comfort
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -290,9 +263,6 @@ segmented regression
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -309,9 +279,6 @@ injury severity spectrum by lighting condition
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -326,9 +293,6 @@ explore age and gender differences in reassurance
 </td>
 <td style="text-align:left;">
 Inequalities in lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -347,9 +311,6 @@ Face when Walking Alone at Night
 <td style="text-align:left;">
 Inequalities in lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -364,9 +325,6 @@ traditional rust belt city
 </td>
 <td style="text-align:left;">
 Inequalities in lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -384,9 +342,6 @@ perceptions of security
 <td style="text-align:left;">
 Inequalities in lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -400,10 +355,7 @@ Environmental correlates of dock-less shared bicycle trip origins and
 destinations
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -418,10 +370,7 @@ Rahm, J., Sternudd, C., Johansson, M.
 lighting and greenery
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -437,9 +386,6 @@ cambridge, ma
 </td>
 <td style="text-align:left;">
 AT collisions and lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -457,9 +403,6 @@ Petersburg
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -474,9 +417,6 @@ safety: An interactive survey approach
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-1
 </td>
 </tr>
 <tr>
@@ -493,10 +433,7 @@ physical activity and the healthy aging in older people: An umbrella
 review
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-1
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -513,9 +450,6 @@ States
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -529,9 +463,6 @@ Pedestrian safety perception and urban street settings
 </td>
 <td style="text-align:left;">
 AT, crime, and lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -548,9 +479,6 @@ Dhaka, Bangladesh
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -564,10 +492,7 @@ Road lighting density and brightness linked with increased cycling rates
 after-dark
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -584,9 +509,6 @@ streets at night?
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -601,9 +523,6 @@ residential streets using the day-dark approach
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -620,9 +539,6 @@ under low illumination conditions
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -635,9 +551,6 @@ Boyce, P.R.
 The benefits of light at night
 </td>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-1
 </td>
 </tr>
 <tr>
@@ -655,9 +568,6 @@ Boston
 <td style="text-align:left;">
 AT, crime, and lighting/AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -671,10 +581,7 @@ A whole-year approach showing that ambient light level influences
 walking and cycling
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -692,9 +599,6 @@ on severity of bicycle-motor vehicle crash injuries
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -709,9 +613,6 @@ luminance and illuminance recommendations
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -728,9 +629,6 @@ involving pedestrians on pedestrian crossings
 <td style="text-align:left;">
 AT collisions and lighting/Proper Lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -744,10 +642,7 @@ Using the daylight savings clock change to show ambient light conditions
 significantly influence active travel
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -762,9 +657,6 @@ A pilot study of road lighting, cycle lighting and obstacle detection
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -781,9 +673,6 @@ reassurance?
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -797,10 +686,7 @@ Longitudinal associations between built environment characteristics and
 changes in active commuting
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -814,11 +700,7 @@ Fotios, S., Castleton, H.F.
 Lighting for cycling in the UK - A review
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting/AT collisions and lighting /Proper
-lighting
-</td>
-<td style="text-align:right;">
-1
+AT behaviour and lighting/AT collisions and lighting /Proper lighting
 </td>
 </tr>
 <tr>
@@ -833,10 +715,7 @@ The neighbourhood physical environment and active travel in older
 adults: A systematic review and meta-analysis
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-1
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -853,9 +732,6 @@ land use, built environment, and road facility on pedestrian safety
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -870,9 +746,6 @@ Specifying Enough Light to Feel Reassured on Pedestrian Footpaths
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-1
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -886,9 +759,6 @@ Lighting distribution affects pedestrians’ sense of security
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -905,9 +775,6 @@ perceived safety
 <td style="text-align:left;">
 AT, crime, and lighting/Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -922,9 +789,6 @@ in Florida
 </td>
 <td style="text-align:left;">
 AT collisions and lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -941,9 +805,6 @@ study in Montreal, Quebec, Canada
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -959,9 +820,6 @@ automobile-involved bicycle crashes
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -975,9 +833,6 @@ Lighting and recognition of emotion conveyed by facial expressions
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -994,9 +849,6 @@ Factors
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1010,10 +862,7 @@ Impact of public lighting on pedestrians’ perception of safety and
 well-being
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting/Proper lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting/Proper lighting
 </td>
 </tr>
 <tr>
@@ -1029,9 +878,6 @@ Fear of crime and perceived insecurity in the urban setting
 <td style="text-align:left;">
 AT, crime, and lighting
 </td>
-<td style="text-align:right;">
-1
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1044,10 +890,7 @@ Fotios, S., Unwin, J., Farrall, S.
 Road lighting and pedestrian reassurance after dark: A review
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting/AT, crime, and lighting/Proper lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting/AT, crime, and lighting/Proper lighting
 </td>
 </tr>
 <tr>
@@ -1064,9 +907,6 @@ Part 1. Dual task approach
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1082,9 +922,6 @@ walking: examining direct and indirect impacts
 <td style="text-align:left;">
 AT, crime, and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1098,10 +935,7 @@ Environmental influences on healthy and active ageing: A systematic
 review
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -1118,9 +952,6 @@ visual perception, conspicuity and alcohol use
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1136,9 +967,6 @@ lighting in residential roads
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1153,9 +981,6 @@ Lighting criteria for road lighting: A review
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1169,9 +994,6 @@ Proposed UK guidance for lighting in residential roads
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -1188,9 +1010,6 @@ Italy
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1204,10 +1023,7 @@ In search of causality: A systematic review of the relationship between
 the built environment and physical activity among adults
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-1
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -1224,9 +1040,6 @@ an urban footpath
 <td style="text-align:left;">
 AT, crime, and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1241,9 +1054,6 @@ lamp colour characteristics
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-1
 </td>
 </tr>
 <tr>
@@ -1260,9 +1070,6 @@ Effects of road lighting: An analysis based on Dutch accident statistics
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1278,9 +1085,6 @@ activity: An exploration of inconsistent findings
 <td style="text-align:left;">
 AT, crime, and lighting
 </td>
-<td style="text-align:right;">
-1
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1293,10 +1097,7 @@ Lee, C., Moudon, A.V.
 Neighbourhood design and physical activity
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-1
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -1313,9 +1114,6 @@ recommendations from low income, urban women.
 <td style="text-align:left;">
 Inequalities in lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1331,9 +1129,6 @@ their effects on walking
 <td style="text-align:left;">
 AT, crime, and lighting
 </td>
-<td style="text-align:right;">
-1
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1347,9 +1142,6 @@ Causative factors and trends in Florida pedestrian crashes
 </td>
 <td style="text-align:left;">
 AT collisions and lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -1365,9 +1157,6 @@ Crossing locations, light conditions, and pedestrian injury severity
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1381,10 +1170,7 @@ J.A.
 Profile of physical activity levels in community-dwelling older adults
 </td>
 <td style="text-align:left;">
-AT levels/behaviour and lighting
-</td>
-<td style="text-align:right;">
-0
+AT behaviour and lighting
 </td>
 </tr>
 <tr>
@@ -1401,9 +1187,6 @@ pedestrian environments: A review
 <td style="text-align:left;">
 Proper lighting
 </td>
-<td style="text-align:right;">
-1
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1417,9 +1200,6 @@ Is white light the right light?
 </td>
 <td style="text-align:left;">
 Proper lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -1436,9 +1216,6 @@ british city
 <td style="text-align:left;">
 AT, crime, and lighting
 </td>
-<td style="text-align:right;">
-1
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1453,9 +1230,6 @@ daylight saving time transitions
 </td>
 <td style="text-align:left;">
 AT collisions and lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -1472,9 +1246,6 @@ study
 <td style="text-align:left;">
 AT collisions and lighting
 </td>
-<td style="text-align:right;">
-0
-</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1488,9 +1259,6 @@ Perceptions of safety at night in different lighting conditions
 </td>
 <td style="text-align:left;">
 AT collisions and lighting/Proper Lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 <tr>
@@ -1506,9 +1274,6 @@ pedestrian street use, after dark
 </td>
 <td style="text-align:left;">
 AT, crime, and lighting
-</td>
-<td style="text-align:right;">
-0
 </td>
 </tr>
 </tbody>
