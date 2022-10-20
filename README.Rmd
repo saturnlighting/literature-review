@@ -100,7 +100,7 @@ knitr::include_graphics("flow-chart.png")
 
 The scientific literature on the intersections of active travel and road lighting is spread across several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology.
 
-## Active travel and road lighting
+
 
 <!-- What is already known in this area (and maybe what is not)? -->
 
@@ -143,13 +143,17 @@ kbl(df,
     kable_styling()
 ```
 
-## Active travel crashes and road lighting
+## Active travel behaviour and lighting
 
-## Physical activity, crime, and road lighting
+## Active travel collisions and lighting
 
-## Inequalities in active travel and road lighting
+## Active travel, crime, and lighting
+
+## Inequalities in lighting
 
 Women more sensitive to dark spaces when walking and cycling than men [@xie_i_2018].
+
+## Proper lighting
 
 # Discussion
 

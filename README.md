@@ -101,8 +101,6 @@ lighting is spread across several disciplines such as transportation,
 public health, road safety, criminology, social inequalities, and
 engineering and technology.
 
-## Active travel and road lighting
-
 <!-- What is already known in this area (and maybe what is not)? -->
 <!-- Present the literature in a logical way, commenting on the differences and similarities between the material cited. -->
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
@@ -1279,14 +1277,18 @@ AT, crime, and lighting
 </tbody>
 </table>
 
-## Active travel crashes and road lighting
+## Active travel behaviour and lighting
 
-## Physical activity, crime, and road lighting
+## Active travel collisions and lighting
 
-## Inequalities in active travel and road lighting
+## Active travel, crime, and lighting
+
+## Inequalities in lighting
 
 Women more sensitive to dark spaces when walking and cycling than men
 (Xie and Spinney 2018).
+
+## Proper lighting
 
 # Discussion
 
