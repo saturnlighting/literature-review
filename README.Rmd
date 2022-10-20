@@ -10,7 +10,7 @@ always_allow_html: true
 
 # Abstract
 
-Background: There is evidence that darkness discourages people from walking and cycling. This is basically due to two reasons. Darkness 1) increases pedestrians' and cyclists' fear and likelihood of being involved in a road collision and 2) increases fear and risk of being a victim of a crime. This seems to affect disproportionately women, the elderly, and disadvantaged groups.
+Background: There is evidence that darkness discourages people from walking and cycling. This is basically due to two reasons. Darkness 1) increases pedestrians' and cyclists' fear and risk of being involved in a road collision and 2) increases fear and risk of being a victim of a crime. This seems to affect disproportionately women, the elderly, and disadvantaged groups.
 Aim: This paper provides a review on the scientific literature that intersects between active travel and road lighting.
 Method: We used a hybrid systematic and snowballing search strategy. 77 studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
 Results: Our review suggests that... Gaps in the literature are...
@@ -19,6 +19,7 @@ Conclusion:
 # Introduction
 
 Benefits of active travel are well established in the literature. 
+It improves physical, mental, and social health; reduces air pollution and noise, carbon emissions, and congestion; and it is inclusive and reduces inequalities.
 A large number of variables (individual, social, and environmental) can affect an individual's decision to walk and cycle. 
 Darkness is one of the environmental factors that has been found to affect walking the most. Less studied has been the influence of darkness in cycling uptake. 
 
@@ -35,22 +36,22 @@ This paper aims to review international research on the intersection between act
 
 The review answers the following questions:
 
-1.- To what extent does darkness influence active travel uptake?
+1.- To what extent does darkness influence active travel behaviour?
 
-2.- To what extent is darkness associated with an increased risk of road crash among active travellers?
+2.- To what extent is darkness associated with an increased risk of road collision among active travellers?
 
-3.- To what extent does darkness increase fear or risk among active travellers of being a victim of crime?
+3.- To what extent does darkness increase fear or risk of being a victim of crime among active travellers?
 
 4.- Is the association between active travel and darkness the same between different groups?
 
-5.- What type of street lighting is the most suitable for active travel to increase and be safer? 
+5.- What type of road lighting is the most suitable for active travel to increase and be safer? 
 
 This review focuses on road and/or ambient lighting and does not include studies on safety lighting equipment for pedestrians or cyclists, such as reflective clothing or bicycle-mounted lights.
 
 The review is organized as follows.
 Chapter 2 describes the method.
 Chapter 3 presents the findings of the papers reviewed.
-Chapter 4 critically analyses the findings and identifies gaps in the research.
+Chapter 4 critically analyses the findings and identifies gaps in the literature.
 Chapter 5 closes the work with the conclusions.
 
 # Method
@@ -110,20 +111,7 @@ The scientific literature on the intersections of active travel and road lightin
 
 <!-- Table with a summary of the most relevant literature. -->
 
-```{r tab2, echo=FALSE, message=FALSE, warning=FALSE}
-library(kableExtra)
-library(tidyverse)
 
-papers <- read.csv("lrp-papers-summary.csv")
-
-df = papers %>% 
-  select(Authors, Year, Title, Category)
-
-kbl(df,
-    caption = "Table 1: Overview of papers on active travel and road lighting") %>%
-    kable_styling()
-
-```
 
 ```{r tab3, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 library(kableExtra)
@@ -145,15 +133,71 @@ kbl(df,
 
 ## Active travel behaviour and lighting
 
+```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
+library(kableExtra)
+library(tidyverse)
+
+papers <- read.csv("lrp-papers-summary.csv")
+
+df = papers %>%
+  filter(Category == "AT behaviour and lighting" | Category == "AT behaviour and lighting/AT collisions and lighting/Proper lighting" | Category == "AT behaviour and lighting/AT, crime, and lighting/Proper lighting") %>% 
+  select(Authors, Year, Title, Category)
+
+kbl(df,
+    caption = "Table 1: Overview of papers on active travel and lighting") %>%
+    kable_styling()
+```
+
 ## Active travel collisions and lighting
 
+```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
+df = papers %>%
+  filter(Category == "AT collisions and lighting" | Category == "AT collisions and lighting/Proper Lighting" | Category == "AT, crime, and lighting/AT collisions and lighting" | Category == 'AT behaviour and lighting/AT collisions and lighting/Proper lighting') %>% 
+  select(Authors, Year, Title, Category)
+
+kbl(df,
+    caption = "Table 2: Overview of papers on active travel collision and lighting") %>%
+    kable_styling()
+```
+
 ## Active travel, crime, and lighting
+
+
+```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
+df = papers %>%
+  filter(Category == "AT, crime, and lighting" | Category == "AT, crime, and lighting/AT collisions and lighting" | Category == "AT, crime, and lighting/Proper lighting" | Category == 'AT behaviour and lighting/AT, crime, and lighting/Proper lighting') %>% 
+  select(Authors, Year, Title, Category)
+
+kbl(df,
+    caption = "Table 3: Overview of papers on active travel, crime, and lighting") %>%
+    kable_styling()
+```
 
 ## Inequalities in lighting
 
 Women more sensitive to dark spaces when walking and cycling than men [@xie_i_2018].
 
+```{r tab7, echo=FALSE, message=FALSE, warning=FALSE}
+df = papers %>%
+  filter(Category == "Inequalities in lighting") %>% 
+  select(Authors, Year, Title, Category)
+
+kbl(df,
+    caption = "Table 4: Overview of papers on inequalities and lighting") %>%
+    kable_styling()
+```
+
 ## Proper lighting
+
+```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
+df = papers %>%
+  filter(Category == "Proper lighting" | Category == "AT, crime, and lighting/Proper lighting" | Category == "AT collisions and lighting/Proper Lighting" | Category == "AT behaviour and lighting/Proper lighting" | Category == "AT behaviour and lighting/AT, crime, and lighting/Proper lighting" | Category == "AT behaviour and lighting/AT collisions and lighting/Proper lighting") %>% 
+  select(Authors, Year, Title, Category)
+
+kbl(df,
+    caption = "Table 5: Overview of papers on proper lighting") %>%
+    kable_styling()
+```
 
 # Discussion
 
