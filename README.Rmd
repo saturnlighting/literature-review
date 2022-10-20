@@ -111,7 +111,25 @@ The scientific literature on the intersections of active travel and road lightin
 
 <!-- Table with a summary of the most relevant literature. -->
 
+```{r fig2, echo=FALSE, message=FALSE, warning=FALSE}
+library(kableExtra)
+library(tidyverse)
 
+papers <- read.csv("lrp-papers-summary.csv")
+
+df = papers %>% replace(is.na(.), 0) %>%
+  group_by(type) %>% 
+  summarise("AT behaviour and lighting" = sum(behaviour), "AT collisions and lighting" = sum(road_safety),  "AT, crime, and lighting" = sum(crime), "Inqualities in lighting" = sum(inequalities), "Proper light" = sum(proper_light)) %>% 
+  pivot_longer((2:6))
+
+# df$name = as.factor(df$name)
+
+ggplot(df, aes(x = reorder(name, value), y = value, fill = type)) +
+  geom_bar(stat="identity") +
+  labs(x ="", y="number of papers") +
+  theme_minimal() +
+  theme(axis.text.x=element_text(angle = 45, hjust = 1))
+```
 
 ```{r tab3, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 library(kableExtra)
@@ -140,8 +158,8 @@ library(tidyverse)
 papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
-  filter(Category == "AT behaviour and lighting" | Category == "AT behaviour and lighting/AT collisions and lighting/Proper lighting" | Category == "AT behaviour and lighting/AT, crime, and lighting/Proper lighting") %>% 
-  select(Authors, Year, Title, Category)
+  filter(behaviour == 1) %>% 
+  select(authors, year, title)
 
 kbl(df,
     caption = "Table 1: Overview of papers on active travel and lighting") %>%
@@ -152,8 +170,8 @@ kbl(df,
 
 ```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
-  filter(Category == "AT collisions and lighting" | Category == "AT collisions and lighting/Proper Lighting" | Category == "AT, crime, and lighting/AT collisions and lighting" | Category == 'AT behaviour and lighting/AT collisions and lighting/Proper lighting') %>% 
-  select(Authors, Year, Title, Category)
+  filter(road_safety == 1) %>% 
+  select(authors, year, title)
 
 kbl(df,
     caption = "Table 2: Overview of papers on active travel collision and lighting") %>%
@@ -165,8 +183,8 @@ kbl(df,
 
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
-  filter(Category == "AT, crime, and lighting" | Category == "AT, crime, and lighting/AT collisions and lighting" | Category == "AT, crime, and lighting/Proper lighting" | Category == 'AT behaviour and lighting/AT, crime, and lighting/Proper lighting') %>% 
-  select(Authors, Year, Title, Category)
+  filter(crime == 1) %>% 
+  select(authors, year, title)
 
 kbl(df,
     caption = "Table 3: Overview of papers on active travel, crime, and lighting") %>%
@@ -179,8 +197,8 @@ Women more sensitive to dark spaces when walking and cycling than men [@xie_i_20
 
 ```{r tab7, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
-  filter(Category == "Inequalities in lighting") %>% 
-  select(Authors, Year, Title, Category)
+  filter(inequalities == 1) %>% 
+  select(authors, year, title)
 
 kbl(df,
     caption = "Table 4: Overview of papers on inequalities and lighting") %>%
@@ -191,8 +209,8 @@ kbl(df,
 
 ```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
-  filter(Category == "Proper lighting" | Category == "AT, crime, and lighting/Proper lighting" | Category == "AT collisions and lighting/Proper Lighting" | Category == "AT behaviour and lighting/Proper lighting" | Category == "AT behaviour and lighting/AT, crime, and lighting/Proper lighting" | Category == "AT behaviour and lighting/AT collisions and lighting/Proper lighting") %>% 
-  select(Authors, Year, Title, Category)
+  filter(proper_light == 1) %>% 
+  select(authors, year, title)
 
 kbl(df,
     caption = "Table 5: Overview of papers on proper lighting") %>%
