@@ -15,9 +15,9 @@ always_allow_html: true
 
 Background: There is evidence that darkness discourages people from walking and cycling. This is basically due to two reasons. Darkness 1) increases pedestrians' and cyclists' fear and likelihood of being involved in a road collision and 2) increases fear and risk of being a victim of a crime. This seems to affect disproportionately women, the elderly, and disadvantaged groups.
 Aim: This paper provides a review on the scientific literature that intersects between active travel and road lighting.
-Method: We used a hybrid systematic and snowballing search strategy. TBC studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
-Results: Our review suggests that...
-Conclusion: The main gaps in the literature are...
+Method: We used a hybrid systematic and snowballing search strategy. 77 studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
+Results: Our review suggests that... Gaps in the literature are...
+Conclusion: 
 <!-- Appropriate road lighting can increase feelings of reassurance among pedestrians and cyclists, as it helps them to see the route better during their trips as well as being more visible to other road users. It also helps reduce fear and risk of crime at night. -->
 <!-- However, there is to date little evidence on the lighting interventions that work best, in combination with other measures. -->
 
@@ -71,8 +71,8 @@ This review focuses on road and/or ambient lighting and does not include studies
 
 The review is organized as follows.
 Chapter 2 describes the method.
-Chapter 3 presents the results of the papers reviewed.
-Chapter 4 critically analyses the results and identifies gaps in the research.
+Chapter 3 presents the findings of the papers reviewed.
+Chapter 4 critically analyses the findings and identifies gaps in the research.
 Chapter 5 closes the work with the conclusions.
 
 # Method
@@ -87,7 +87,7 @@ The query string used for the search was as follows:
 > TITLE-ABS-KEY("WALK*" OR "FOOT" OR "PEDESTRIAN*" OR "BICYCL*" OR "BIK*" OR "CYCLING" OR "CYCLIST*" OR "CYCLE HIRE" OR "WHEEL*" OR "SCOOTER*" OR "ROLLATOR*" OR "ACTIVE COMMUT*" OR "ACTIVE TRANSPORT*" OR "ACTIVETRAVEL*" OR "ECOLOGICAL COMMUT*" OR "ECOLOGICAL TRANSPORT*" OR "ECOLOGICAL TRAVEL*" OR "GREEN* COMMUT*" OR "GREEN TRANSPORT*" OR "GREEN TRAVEL*" OR "GREENWAY*" ) AND ("CITY LIGHT*" OR "PUBLIC LIGHT*" OR "ROAD LIGHT*" OR "ROAD ILLUMINATION" OR "STREET LIGHT*" OR "STREET LAMP*" OR "LAMP POST*" OR "LIGHT POST*" OR "LIGHT POLE*")
 
 The search strategy resulted in 1227 records.
-Based on the examination of titles, abstract, and then full papers 105 studies were selected.
+Based on the examination of titles, abstract, and then full papers 77 studies were selected.
 A flow chart of included studies is shown in Figure 1.
 
 <!-- Papers we could not access: -->
@@ -120,7 +120,7 @@ knitr::include_graphics("flow-chart.png")
 
 <!-- From the included studies, we extracted information regarding: location of study, methodology, active travel uptake and lighting measurements, mode, sign of association, and authors and year. -->
 
-# Results
+# Findings
 
 The scientific literature on the intersections of active travel and road lighting is spread across several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology.
 
@@ -134,7 +134,22 @@ The scientific literature on the intersections of active travel and road lightin
 
 <!-- Table with a summary of the most relevant literature. -->
 
-```{r tab2, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+```{r tab2, echo=FALSE, message=FALSE, warning=FALSE}
+library(kableExtra)
+library(tidyverse)
+
+papers <- read.csv("lrp-papers-summary.csv")
+
+df = papers %>% 
+  select(Year, Title, Authors, Category, Review)
+
+kbl(df,
+    caption = "Table 1: Overview of papers on active travel and road lighting") %>%
+    kable_styling()
+
+```
+
+```{r tab3, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 library(kableExtra)
 
 location <- c('TBD', 'TBD', 'TBD', 'UK', 'UK', 'UK')
@@ -148,7 +163,7 @@ authors <- c('@abasahl_gender_2018', '@agarwal_encouraging_2022', '@akar_influen
 df <- data.frame(location, method, mode, uptake, light, sign, authors)
 colnames(df) <- c('Location', 'Method', 'Mode', 'Uptake\nMeasurement', 'Lighting\nmeasurement', 'Sign of\nassociation', 'Author and year')
 kbl(df,
-    caption = "Table 1: Overview of papers on active travel and road lighting") %>%
+    caption = "Table 2: Overview of papers on active travel and road lighting") %>%
     kable_styling()
 ```
 
