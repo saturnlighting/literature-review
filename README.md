@@ -18,14 +18,14 @@ that… Gaps in the literature are… Conclusion:
 
 # Introduction
 
-Benefits of active travel are well established in the literature. It
-improves physical, mental, and social health; reduces air pollution and
-noise, carbon emissions, and congestion; and it is inclusive and reduces
-inequalities. A large number of variables (individual, social, and
-environmental) can affect an individual’s decision to walk and cycle.
-Darkness is one of the environmental factors that has been found to
-affect walking the most. Less studied has been the influence of darkness
-in cycling uptake.
+Benefits of active travel are well established in the literature. Active
+travel improves physical, mental, and social health; reduces air
+pollution and noise, carbon emissions, and congestion; and it is
+inclusive and reduces inequalities. A large number of variables
+(individual, social, and environmental) can affect an individual’s
+decision to walk and cycle. Darkness is one of the environmental factors
+that has been found to affect walking the most. Less studied has been
+the influence of darkness in cycling uptake.
 
 There is no academic paper that reviews the international literature
 available on the relationship between active travel and road lighting.
@@ -103,6 +103,16 @@ The scientific literature on the intersections of active travel and road
 lighting is spread across several disciplines such as transportation,
 public health, road safety, criminology, social inequalities, and
 engineering and technology.
+
+Five main themes were identified among the reviewed papers: 1) active
+travel behaviour and lighting, 2) active travel collisions and lighting,
+3) active travel, crime and lighting, 4) inequalities in lighting, and
+5) lighting. Some papers focused on more than one of these themes. The
+main themes of focus were proper lighting for active travel, followed by
+collisions and lighting, and behaviour and lighting. One forth of the
+papers were reviews, the rest were empirical studies (Figure 2).
+
+The findings organized by these themes are shown below.
 
 <!-- What is already known in this area (and maybe what is not)? -->
 <!-- Present the literature in a logical way, commenting on the differences and similarities between the material cited. -->
@@ -1298,8 +1308,7 @@ and engineering and technology.
 ## Strenghts and limitations
 
 -   Systematic but selection of papers we subjectively found more
-    relevant. So there is more literature on this topic that has not
-    been reviewed.
+    relevant. So there is more literature on this topic not reviewed.
 
 # Conclusions
 
