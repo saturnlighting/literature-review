@@ -10,7 +10,7 @@ in a road collision and 2) becoming victims of crime. This seems to
 affect disproportionately women, the elderly, and disadvantaged groups.
 Aim: This paper provides a review on the scientific literature that
 intersects between active travel and road lighting. Method: We used a
-hybrid systematic and snowballing search strategy. 77 studies on several
+hybrid systematic and snowballing method. TBC studies on several
 disciplines such as transportation, public health, road safety,
 criminology, social inequalities, and engineering and technology were
 reviewed. Results: The literature suggests that… Gaps in the literature
@@ -71,10 +71,10 @@ Chapter 5 closes the work with the conclusions.
 
 <!-- ## Search strategy -->
 
-We used a hybrid systematic and snowballing search strategy. First, we
-searched in SCOPUS electronic databased (on 11 Oct 2022) for studies
+We used a hybrid systematic and snowballing method. First, we searched
+in SCOPUS electronic databased (on 11 Oct 2022) for studies
 investigating the relationship between active travel and road lighting.
-The query string used for the search was as follows:
+The query string used for the search was:
 
 > TITLE-ABS-KEY(“WALK*” OR ”FOOT” OR ”PEDESTRIAN*” OR “BICYCL*” OR
 > ”BIK*” OR “CYCLING” OR “CYCLIST*” OR ”CYCLE HIRE” OR ”WHEEL*” OR
@@ -85,12 +85,13 @@ The query string used for the search was as follows:
 > OR “ROAD LIGHT*” OR ”ROAD ILLUMINATION” OR ”STREET LIGHT*” OR “STREET
 > LAMP*” OR ”LAMP POST*” OR “LIGHT POST*” OR ”LIGHT POLE*”)
 
-This search strategy resulted in 1227 records. Based on the examination
-of titles, abstract, and then full papers 77 studies were selected.
+This search resulted in 1227 records. After screening abstracts and full
+text, TBC studies were selected.
 
-Second, we used a snowballing technique to include papers cited in the
-previous papers found. From this search we included x other papers. A
-flow chart of included studies is shown in Figure 1.
+Second, we checked all the references from the studies selected
+(i.e. snowball technique), and after screening their abstracts and full
+texts, TBC additional papers were selected. In total, TBC were reviewed.
+A flow chart of included studies is shown in Figure 1.
 
 <!-- Papers we could not access: -->
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
@@ -98,24 +99,22 @@ flow chart of included studies is shown in Figure 1.
 
 <img src="flow-chart.png" title="Review flow chart" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
 
-The scientific literature found was spread across several disciplines
-such as transportation, public health, road safety, criminology, social
-inequalities, and engineering and technology.
-
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
 <!-- Other parameters for scope? -->
 <!-- ## Data extraction -->
 <!-- From the included studies, we extracted information regarding: location of study, methodology, active travel uptake and lighting measurements, mode, sign of association, and authors and year. -->
 
-# Findings
+# Results
 
-Five main themes were identified among the reviewed papers: 1) active
-travel behaviour and lighting, 2) active travel collisions and lighting,
-3) active travel, crime and lighting, 4) inequalities in lighting, and
-5) proper lighting. Some papers focused on more than one of these
-themes. The main themes of focus were proper lighting for active travel,
-followed by collisions and lighting, and behaviour and lighting. One
-forth of the papers were reviews, the rest were empirical studies.
+The scientific literature found was spread across several disciplines
+such as transportation, public health, road safety, criminology, social
+inequalities, and engineering and technology. Five main themes were
+identified: 1) active travel behaviour and lighting, 2) active travel
+collisions and lighting, 3) active travel, crime and lighting, 4)
+inequalities in lighting, and 5) proper lighting. The main themes of
+focus were proper lighting for active travel, followed by collisions and
+lighting, and behaviour and lighting. One fourth of the papers were
+reviews, the rest were empirical studies.
 
 The findings organized by these themes are shown below.
 
