@@ -4,28 +4,30 @@ Active Travel and Road Lighting: A Review
 # Abstract
 
 Background: There is evidence that darkness discourages people from
-walking and cycling. This is basically due to two reasons. Darkness 1)
-increases pedestrians’ and cyclists’ fear and risk of being involved in
-a road collision and 2) increases fear and risk of being a victim of a
-crime. This seems to affect disproportionately women, the elderly, and
-disadvantaged groups. Aim: This paper provides a review on the
-scientific literature that intersects between active travel and road
-lighting. Method: We used a hybrid systematic and snowballing search
-strategy. 77 studies on several disciplines such as transportation,
-public health, road safety, criminology, social inequalities, and
-engineering and technology were reviewed. Results: Our review suggests
-that… Gaps in the literature are… Conclusion:
+walking and cycling. This is basically due to two reasons. Darkness
+increases pedestrians’ and cyclists’ fear and risk of 1) being involved
+in a road collision and 2) becoming victims of crime. This seems to
+affect disproportionately women, the elderly, and disadvantaged groups.
+Aim: This paper provides a review on the scientific literature that
+intersects between active travel and road lighting. Method: We used a
+hybrid systematic and snowballing search strategy. 77 studies on several
+disciplines such as transportation, public health, road safety,
+criminology, social inequalities, and engineering and technology were
+reviewed. Results: The literature suggests that… Gaps in the literature
+are… Conclusion:
 
 # Introduction
 
 Benefits of active travel are well established in the literature. Active
-travel improves physical, mental, and social health; reduces air
-pollution and noise, carbon emissions, and congestion; and it is
-inclusive and reduces inequalities. A large number of variables
-(individual, social, and environmental) can affect an individual’s
-decision to walk and cycle. Darkness is one of the environmental factors
-that has been found to affect walking the most. Less studied has been
-the influence of darkness in cycling uptake.
+travel (i.e. walking, cycling, and wheeling) improves physical, mental,
+and social health; reduces pollution, carbon emissions, and congestion;
+and it is inclusive and reduces inequalities.
+
+A large number of variables (individual, social, and environmental) can
+affect an individual’s decision to travel actively. Darkness is one of
+the environmental factors that has been found to affect walking the
+most. Less studied has been the influence of darkness in cycling uptake,
+and there is practically no research regarding wheeling.
 
 There is no academic paper that reviews the international literature
 available on the relationship between active travel and road lighting.
@@ -37,10 +39,10 @@ However, they focus only on cycling and in the UK.
 <!-- Fotios, S., Unwin, J., Farrall, S. also wrte a  review on rpad lighting and pedestrian reassurance (Road lighting and pedestrian reassurance after dark: A review). -->
 <!-- Mention the rest of reviews included in the search e.g. systematic review of the relationship between the built environment and physical activity.  -->
 
-This paper aims to review international research on the intersection
-between active travel and road lighting.
+This paper aims to fill this gap and provide a review on international
+research on the intersection between active travel and road lighting.
 
-The review answers the following questions:
+The review is guided by the following questions:
 
 1.- To what extent does darkness influence active travel behaviour?
 
@@ -69,7 +71,8 @@ Chapter 5 closes the work with the conclusions.
 
 <!-- ## Search strategy -->
 
-We searched in SCOPUS electronic databased (on 11 Oct 2022) for studies
+We used a hybrid systematic and snowballing search strategy. First, we
+searched in SCOPUS electronic databased (on 11 Oct 2022) for studies
 investigating the relationship between active travel and road lighting.
 The query string used for the search was as follows:
 
@@ -82,15 +85,22 @@ The query string used for the search was as follows:
 > OR “ROAD LIGHT*” OR ”ROAD ILLUMINATION” OR ”STREET LIGHT*” OR “STREET
 > LAMP*” OR ”LAMP POST*” OR “LIGHT POST*” OR ”LIGHT POLE*”)
 
-The search strategy resulted in 1227 records. Based on the examination
-of titles, abstract, and then full papers 77 studies were selected. A
+This search strategy resulted in 1227 records. Based on the examination
+of titles, abstract, and then full papers 77 studies were selected.
+
+Second, we used a snowballing technique to include papers cited in the
+previous papers found. From this search we included x other papers. A
 flow chart of included studies is shown in Figure 1.
 
 <!-- Papers we could not access: -->
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
 <!-- Safe on the move: The importance of the built environment (  Book Chapter) -->
 
-<img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
+<img src="flow-chart.png" title="Review flow chart" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
+
+The scientific literature found was spread across several disciplines
+such as transportation, public health, road safety, criminology, social
+inequalities, and engineering and technology.
 
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
 <!-- Other parameters for scope? -->
@@ -99,18 +109,13 @@ flow chart of included studies is shown in Figure 1.
 
 # Findings
 
-The scientific literature on the intersections of active travel and road
-lighting is spread across several disciplines such as transportation,
-public health, road safety, criminology, social inequalities, and
-engineering and technology.
-
 Five main themes were identified among the reviewed papers: 1) active
 travel behaviour and lighting, 2) active travel collisions and lighting,
 3) active travel, crime and lighting, 4) inequalities in lighting, and
-5) lighting. Some papers focused on more than one of these themes. The
-main themes of focus were proper lighting for active travel, followed by
-collisions and lighting, and behaviour and lighting. One forth of the
-papers were reviews, the rest were empirical studies.
+5) proper lighting. Some papers focused on more than one of these
+themes. The main themes of focus were proper lighting for active travel,
+followed by collisions and lighting, and behaviour and lighting. One
+forth of the papers were reviews, the rest were empirical studies.
 
 The findings organized by these themes are shown below.
 
