@@ -74,18 +74,15 @@ Chapter 5 closes the work with the conclusions.
 We used a hybrid systematic and snowballing method. First, we searched
 in SCOPUS electronic databased (on 11 Oct 2022) for studies
 investigating the relationship between active travel and road lighting.
-The query string used for the search was:
-
-> TITLE-ABS-KEY(“WALK*” OR ”FOOT” OR ”PEDESTRIAN*” OR “BICYCL*” OR
-> ”BIK*” OR “CYCLING” OR “CYCLIST*” OR ”CYCLE HIRE” OR ”WHEEL*” OR
-> “SCOOTER*” OR ”ROLLATOR*” OR “ACTIVE COMMUT*” OR ”ACTIVE TRANSPORT*”
-> OR “ACTIVETRAVEL*” OR ”ECOLOGICAL COMMUT*” OR “ECOLOGICAL TRANSPORT*”
-> OR ”ECOLOGICAL TRAVEL*” OR “GREEN\* COMMUT*” OR ”GREEN TRANSPORT*” OR
-> “GREEN TRAVEL*” OR ”GREENWAY*” ) AND (“CITY LIGHT*” OR ”PUBLIC LIGHT*”
-> OR “ROAD LIGHT*” OR ”ROAD ILLUMINATION” OR ”STREET LIGHT*” OR “STREET
-> LAMP*” OR ”LAMP POST*” OR “LIGHT POST*” OR ”LIGHT POLE*”)
-
-This search resulted in 1227 records. After screening abstracts and full
+The query string used for the search was *walk\* OR foot OR pedestrian\*
+OR bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire” OR wheel\*
+OR scooter\* OR “active commut\*” OR “active transport\*” OR “active
+travel\*” OR “ecological commut\*” OR “ecological transport\*” OR
+“ecological travel\*” OR “green\* commut\*” OR “green transport\*” OR
+“green travel\*” OR greenway\*) AND (“city light\*” OR “public light\*”
+OR “road light\*” OR “road illumination” OR “street light\*” OR “street
+lamp\*” OR “lamp post\*” OR “light post\*” OR “light pole\*”*. This
+search resulted in 1227 records. After screening abstracts and full
 text, TBC studies were selected.
 
 Second, we checked all the references from the studies selected
