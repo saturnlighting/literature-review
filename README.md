@@ -32,6 +32,8 @@ and there is practically no research regarding wheeling.
 There is no academic paper that reviews the international literature
 available on the relationship between active travel and road lighting.
 
+<!-- @loukaitou -->
+
 Fotios and Castleton (2017) provide a review of suggested actions to
 enable cycling lighting to contribute to the safety of cyclists.
 However, they focus only on cycling and in the UK.
@@ -92,9 +94,11 @@ A flow chart of included studies is shown in Figure 1.
 
 <!-- Papers we could not access: -->
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
-<!-- Safe on the move: The importance of the built environment (  Book Chapter) -->
+<!-- Safe on the move: The importance of the built environment (  Book Chapter) 
 
-<img src="flow-chart.png" title="Review flow chart" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
+Lighting criteria for road lighting: A review -->
+
+<img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
 
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
 <!-- Other parameters for scope? -->
@@ -108,11 +112,14 @@ such as transportation, public health, road safety, criminology, social
 inequalities, and engineering and technology. Five main themes were
 identified: 1) active travel behaviour and lighting, 2) active travel
 collisions and lighting, 3) active travel, crime and lighting, 4)
-inequalities in lighting, and 5) proper lighting. The main themes of
-focus were proper lighting for active travel, followed by active travel
-collisions and lighting, and active travel behaviour and lighting. Many
-of the studies focused on more than one of these themes. A quarter of
-the studies were reviews, the rest were empirical studies.
+inequalities in lighting, and 5) proper lighting (i.e. optimal use of
+lighting to enhance reassurance while respecting the environment).
+
+The main themes of focus were proper lighting for active travel,
+followed by active travel collisions and lighting, and active travel
+behaviour and lighting. Many of the studies focused on more than one of
+these themes. A quarter of the studies were reviews, the rest were
+empirical studies.
 
 The findings organized by these themes are shown below.
 
@@ -679,18 +686,6 @@ daylight saving time transitions
 </tr>
 <tr>
 <td style="text-align:left;">
-Mortimer, R.G.
-</td>
-<td style="text-align:right;">
-2001
-</td>
-<td style="text-align:left;">
-The nighttime pedestrian collision: Human factors issues and a case
-study
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Boyce, P.R., Eklund, N.H., Hamilton, B.J., Bruno, L.D.
 </td>
 <td style="text-align:right;">
@@ -768,17 +763,6 @@ Wu, S., Kim, M.
 <td style="text-align:left;">
 The relationship between the pedestrian lighting environment and
 perceived safety
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Paydar, M., Kamani-Fard, A.
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Fear of crime and perceived insecurity in the urban setting
 </td>
 </tr>
 <tr>
@@ -904,20 +888,6 @@ explore age and gender differences in reassurance
 </tr>
 <tr>
 <td style="text-align:left;">
-Al-Zubeidi, E., Seo, J.H., Delaney, J., (…), Konderla, J., Diaz, J.
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-A Walk Alone: Triggering Fear and Simulating Empathy to Raise Awareness
-about the Dangers Women Face when Walking Alone at Night: Triggering
-Fear and Simulating Empathy to Raise Awareness about the Dangers Women
-Face when Walking Alone at Night
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Rajaee, M., Echeverri, B., Zuchowicz, Z., Wiltfang, K., Lucarelli, J.F.
 </td>
 <td style="text-align:right;">
@@ -999,19 +969,6 @@ Portnov, B.A., Fotios, S., Saad, R., Kliger, D.
 <td style="text-align:left;">
 Establishing optimal illuminance for pedestrian reassurance using
 segmented regression
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Bystryantseva, N.V., Antonov, R.A., Balaev,
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Assessment of the impact of street lighting on usage activity of
-pedestrian traffic spaces on the example of the square in Saint
-Petersburg
 </td>
 </tr>
 <tr>
@@ -1213,17 +1170,6 @@ lighting in residential roads
 </tr>
 <tr>
 <td style="text-align:left;">
-Luo, W., Puolakka, M., Viikari, M., (…), Ylinen, A., Halonen, L.
-</td>
-<td style="text-align:right;">
-2012
-</td>
-<td style="text-align:left;">
-Lighting criteria for road lighting: A review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Fotios, S., Goodman, T.
 </td>
 <td style="text-align:right;">
@@ -1231,18 +1177,6 @@ Fotios, S., Goodman, T.
 </td>
 <td style="text-align:left;">
 Proposed UK guidance for lighting in residential roads
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Srisuwan, A.
-</td>
-<td style="text-align:right;">
-2011
-</td>
-<td style="text-align:left;">
-Street lighting design for a traditional city: A case study of Jesi,
-Italy
 </td>
 </tr>
 <tr>
