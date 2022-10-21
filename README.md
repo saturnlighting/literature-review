@@ -112,9 +112,10 @@ inequalities, and engineering and technology. Five main themes were
 identified: 1) active travel behaviour and lighting, 2) active travel
 collisions and lighting, 3) active travel, crime and lighting, 4)
 inequalities in lighting, and 5) proper lighting. The main themes of
-focus were proper lighting for active travel, followed by collisions and
-lighting, and behaviour and lighting. One fourth of the papers were
-reviews, the rest were empirical studies.
+focus were proper lighting for active travel, followed by active travel
+collisions and lighting, and active travel behaviour and lighting. Many
+of the studies focused on more than one of these themes. A quarter of
+the studies were reviews, the rest were empirical studies.
 
 The findings organized by these themes are shown below.
 
