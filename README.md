@@ -29,30 +29,35 @@ the environmental factors that has been found to affect walking the
 most. Less studied has been the influence of darkness in cycling uptake,
 and there is practically no research regarding wheeling.
 
-There is no academic paper that reviews the international literature
-available on the relationship between active travel and road lighting.
+Some reviews have looked at elements of the relationship between active
+travel and enlightenment. Cerin et al. (2017) examined literature on the
+relationship between physical environment and active travel in general;
+Cozens et al. (2003) papers on the association between street lighting
+and crime or fear of crime; Boyce (2019) wrote a review on the benefits
+of light at night; and Fotios and Castleton (2017) a review of suggested
+actions to enable cycling lighting to contribute to the safety of
+cyclists in the UK. However, to the best of our knowledge, no academic
+paper has reviewed the international literature available on the
+relationship between active travel and road lighting specifically.
 
-<!-- @loukaitou -->
+<!-- Reviews on the relationship between build environment and active travel or physical activity considering lighting (e.g. @bonaccorsi_impact_2020; @mccormack_search_2011; @cerin_neighbourhood_2017; @prince_examining_2022).
+Other reviews look at environment, crime, and physical activity (e.g. @foster_built_2008; @loukaitou-sideris_is_2006), or at street lighting and crime [@cozens_critical_2003]. 
+@boyce_benefits_2019 wrote a review on the benefits of light at night in general. 
+@fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists. However, they focus only on cycling and in the UK.
+There are also a few reviews on appropriate road lighting [@fotios_light_2005; @fotios_s_road_2010; @fotios_specifying_2016]. -->
 
-Fotios and Castleton (2017) provide a review of suggested actions to
-enable cycling lighting to contribute to the safety of cyclists.
-However, they focus only on cycling and in the UK.
-
-<!-- Fotios, S., Unwin, J., Farrall, S. also wrte a  review on rpad lighting and pedestrian reassurance (Road lighting and pedestrian reassurance after dark: A review). -->
-<!-- Mention the rest of reviews included in the search e.g. systematic review of the relationship between the built environment and physical activity.  -->
-
-This paper aims to fill this gap and provide a review on international
-research on the intersection between active travel and road lighting.
+This paper aims to fill this gap and provide a review on research on the
+intersection between active travel and road lighting.
 
 The review is guided by the following questions:
 
 1.- To what extent does darkness influence active travel behaviour?
 
-2.- To what extent is darkness associated with an increased risk of road
-collision among active travellers?
+2.- To what degree does darkness increase the risk of road collision
+among active travellers?
 
-3.- To what extent does darkness increase fear or risk of being a victim
-of crime among active travellers?
+3.- To what extent does darkness increase the risk of being a victim of
+crime among active travellers?
 
 4.- Is the association between active travel and darkness the same
 between different groups?
@@ -96,7 +101,11 @@ A flow chart of included studies is shown in Figure 1.
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
 <!-- Safe on the move: The importance of the built environment (  Book Chapter) 
 
-Lighting criteria for road lighting: A review -->
+Lighting criteria for road lighting: A review 
+
+Changing Social and Built Environments to Promote Physical Activity: Recommendations from Low Income, Urban Women
+
+-->
 
 <img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
 
@@ -911,18 +920,6 @@ The unequal gender effects of the suburban built environment on
 perceptions of security
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Taylor, W.C., Sallis, J.F., Lees, E., (…), Cassels, A., Tobin, J.N.
-</td>
-<td style="text-align:right;">
-2007
-</td>
-<td style="text-align:left;">
-Changing social and built environments to promote physical activity:
-recommendations from low income, urban women.
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -1235,6 +1232,20 @@ lighting is spread across several disciplines such as transportation,
 public health, road safety, criminology, studies of social inequalities,
 and engineering and technology.
 
+**To what extent does darkness influence active travel behaviour?**
+
+**To what degree does darkness increase the risk of road collision among
+active travellers?**
+
+**To what extent does darkness increase the risk of being a victim of
+crime among active travellers?**
+
+**Is the association between active travel and darkness the same between
+different groups?**
+
+**What type of road lighting is the most suitable for active travel to
+increase and be safer?**
+
 ## Research gaps
 
 -   No research on wheeling and lighting
@@ -1273,6 +1284,33 @@ worldwide.
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-boyce_benefits_2019" class="csl-entry">
+
+Boyce, Peter R. 2019. “The Benefits of Light at Night.” *Building and
+Environment* 151 (March): 356–67.
+<https://doi.org/10.1016/j.buildenv.2019.01.020>.
+
+</div>
+
+<div id="ref-cerin_neighbourhood_2017" class="csl-entry">
+
+Cerin, Ester, Andrea Nathan, Jelle van Cauwenberg, David W. Barnett, and
+Anthony Barnett. 2017. “The Neighbourhood Physical Environment and
+Active Travel in Older Adults: A Systematic Review and Meta-Analysis.”
+*International Journal of Behavioral Nutrition and Physical Activity* 14
+(1): 15. <https://doi.org/10.1186/s12966-017-0471-5>.
+
+</div>
+
+<div id="ref-cozens_critical_2003" class="csl-entry">
+
+Cozens, P M, R H Neale, J Whitaker, D Hillier, and M Graham. 2003. “A
+Critical Review of Street Lighting, Crime and Fear of Crime in the
+British City.” *Crime Prevention and Community Safety* 5 (2): 7–24.
+<https://doi.org/10.1057/palgrave.cpcs.8140143>.
+
+</div>
 
 <div id="ref-fotios_lighting_2017" class="csl-entry">
 
