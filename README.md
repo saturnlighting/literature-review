@@ -93,7 +93,7 @@ search resulted in 1227 records. After screening abstracts and full
 text, TBC studies were selected.
 
 Second, we checked all the references from the studies selected
-(i.e. snowball technique), and after screening their abstracts and full
+(i.e. snowball technique), and after screening TBC abstracts and full
 texts, TBC additional papers were selected. In total, TBC were reviewed.
 A flow chart of included studies is shown in Figure 1.
 
@@ -104,6 +104,10 @@ A flow chart of included studies is shown in Figure 1.
 Lighting criteria for road lighting: A review 
 
 Changing Social and Built Environments to Promote Physical Activity: Recommendations from Low Income, Urban Women
+
+Macro-spatial approach for evaluating the impact of socio-economics, land use, built environment, and road facility on pedestrian safety
+
+Is white light the right light?
 
 -->
 
@@ -573,18 +577,6 @@ Fotios, S., Castleton, H.F.
 </td>
 <td style="text-align:left;">
 Lighting for cycling in the UK - A review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Osama, A., Sayed, T.
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-Macro-spatial approach for evaluating the impact of socio-economics,
-land use, built environment, and road facility on pedestrian safety
 </td>
 </tr>
 <tr>
@@ -1198,17 +1190,6 @@ Fotios, S., Cheal, C., Boyce, P.R.
 <td style="text-align:left;">
 Light source spectrum, brightness perception and visual performance in
 pedestrian environments: A review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fotios, S., Cheal, C.
-</td>
-<td style="text-align:right;">
-2005
-</td>
-<td style="text-align:left;">
-Is white light the right light?
 </td>
 </tr>
 <tr>
