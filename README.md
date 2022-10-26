@@ -145,27 +145,24 @@ The findings organized by these themes are shown below.
 
 There is evidence that street lighting influences physical activity and
 active travel levels (Lee and Moudon 2008; McCormack and Shiell 2011;
-Cerin et al. 2017; Annear et al. 2014; Peña-García, Hurtado, and
-Aguilar-Luzón 2015; Lin Yang et al. 2017; Bonaccorsi et al. 2020; Prince
-et al. 2022).
+Prince et al. 2022; Cerin et al. 2017; Annear et al. 2014; Peña-García,
+Hurtado, and Aguilar-Luzón 2015; Lin Yang et al. 2017; Bonaccorsi et al.
+2020).
 
-Jin, Lu, and Sun (2022) found that streetlights influence pedestrians to
-select longer distance routes.
-
-Linchuan Yang et al. (2022) found lighting positively associations with
-running but not with cycling.
+Using Strava Heatmap data, Linchuan Yang et al. (2022) found lighting
+positively associations with running but not with cycling.
 
 Steve Fotios and Robbins (2022) found that darkness leads to significant
 reductions in pedestrians and cyclists but does not have a significant
 effect on the number of motorized vehicles.
 
-Zacharias and Meng (2021) found street lighting highly significantly
-associated with higher uptake and deposit of dock-less shared bicycle
-trips.
-
 Qualitative research suggests that street lighting influences perceived
 safety and impacts the walkability of the neighbourhood (Rahm, Sternudd,
 and Johansson 2021).
+
+Zacharias and Meng (2021) found street lighting highly significantly
+associated with higher uptake and deposit of dock-less shared bicycle
+trips.
 
 Locations with no road lighting showed a significantly greater reduction
 in cycling after-dark compared with locations that had some lighting. A
@@ -176,10 +173,19 @@ difference between cyclist numbers in daylight and after-dark, but this
 effect reached a plateau as brightness increased (Uttley, Fotios, and
 Lovelace 2020).
 
+S. Fotios, Uttley, and Fox (2019) found that ambient light has a
+significant impact: For a given time of day, more people walk or cycle
+when it is daylight than after dark and more people cycle on cycle
+trails and walk on foot paths after dark when they are lit than when
+they are unlit.
+
 Odds ratios indicated the numbers of pedestrians and cyclists during the
 case period were significantly higher during daylight conditions than
 after-dark, resulting in a 62% increase in pedestrians and a 38%
 increase in cyclists (Uttley and Fotios 2017).
+
+Lee and Moudon (2008) found good lighting to be the most important
+facilitator of walking and cycling.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -188,7 +194,7 @@ Table 1: Overview of papers on active travel and lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-authors
+citr
 </th>
 <th style="text-align:right;">
 year
@@ -204,22 +210,7 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-Jin, L., Lu, W., Sun, P.
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Preference for Street Environment Based on Route Choice Behavior While
-Walking
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Prince, S.A., Lancione, S., Lang, J.J., (…), Merucci, K., Geneau, R.
+Prince et al. (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -235,7 +226,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Yang, L., Yu, B., Liang, P., Tang, X., Li, J.
+Linchuan Yang et al. (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -250,7 +241,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Robbins, C.J.
+Steve Fotios and Robbins (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -265,7 +256,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Zacharias, J., Meng, S.
+Zacharias and Meng (2021)
 </td>
 <td style="text-align:right;">
 2021
@@ -280,7 +271,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Rahm, J., Sternudd, C., Johansson, M.
+Rahm, Sternudd, and Johansson (2021)
 </td>
 <td style="text-align:right;">
 2021
@@ -295,8 +286,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Bonaccorsi, G., Manzi, F., Del Riccio, M., (…), Dellisanti, C., Lorini,
-C.
+Bonaccorsi et al. (2020)
 </td>
 <td style="text-align:right;">
 2020
@@ -312,7 +302,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Uttley, J., Fotios, S., Lovelace, R.
+Uttley, Fotios, and Lovelace (2020)
 </td>
 <td style="text-align:right;">
 2020
@@ -327,21 +317,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Boyce, P.R.
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-The benefits of light at night
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fotios, S., Uttley, J., Fox, S.
+S. Fotios, Uttley, and Fox (2019)
 </td>
 <td style="text-align:right;">
 2019
@@ -356,7 +332,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Uttley, J., Fotios, S.
+Uttley and Fotios (2017)
 </td>
 <td style="text-align:right;">
 2017
@@ -371,7 +347,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Yang, L., Griffin, S., Khaw, K.-T., Wareham, N., Panter, J.
+Lin Yang et al. (2017)
 </td>
 <td style="text-align:right;">
 2017
@@ -386,21 +362,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Castleton, H.F.
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-Lighting for cycling in the UK - A review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cerin, E., Nathan, A., van Cauwenberg, J., Barnett, D.W., Barnett, A.
+Cerin et al. (2017)
 </td>
 <td style="text-align:right;">
 2017
@@ -415,7 +377,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Peña-García, A., Hurtado, A., Aguilar-Luzón, M.C.
+Peña-García, Hurtado, and Aguilar-Luzón (2015)
 </td>
 <td style="text-align:right;">
 2015
@@ -430,7 +392,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Annear, M., Keeling, S., Wilkinson, T., (…), Gidlow, B., Hopkins, H.
+Annear et al. (2014)
 </td>
 <td style="text-align:right;">
 2014
@@ -445,7 +407,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-McCormack, G.R., Shiell, A.
+McCormack and Shiell (2011)
 </td>
 <td style="text-align:right;">
 2011
@@ -460,7 +422,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Lee, C., Moudon, A.V.
+Lee and Moudon (2008)
 </td>
 <td style="text-align:right;">
 2008
@@ -477,10 +439,60 @@ empirical
 
 ## Active travel collisions and lighting
 
-One of the main reasons that physical activity and active travel
-decrease in the dark is the fear of being in a traffic crash. The
-pobability of suffering a traffic collision in the dark among walkers
-and cyclists is much greater than among other road users.
+One of the main reasons that active travel decreases in the dark is
+because active travellers need to see obstacles on the road and be seen
+by other road users.
+
+The pobability of suffering a traffic collision in the dark among
+pedestrians and cyclists is much greater than among other road users
+(e.g. Hennessy and Ai (2021); Wang and Cicchino (2020)).
+
+Severity of crashes during the night is also more severe (Alogaili and
+Mannering 2022).
+
+Most of the research on lighting and road safey based in the US.
+
+In the US the number of pedestrians fatally injured has increaased
+considerably in the last years, and this increase has been happened
+particularly during the night (Ferenchak, Gutierrez, and Singleton 2022
+and others). Compare with UK data.
+
+Recent papers have looked at the main factors of these crashes.
+
+Hossain et al. (2022) found that pedestrian alcohol/drug involvement as
+the most frequent item in the dark-with-streetlight condition. This
+crash type is particularly associated with pedestrian action (crossing
+intersection/midblock), driver age (55–64 years), speed limit (30–35
+mph), and specific area type (business with mixed residential area).
+Fatal pedestrian crashes were found to be associated with roadways with
+high speed limits (.50 mph) during the dark without streetlight
+condition.
+
+Variables related to roadway design and operations (e.g., speed limits,
+number of lanes, roadway type, and presence of traffic control) are
+significantly associated with the likelihood of a pedestrian fatality or
+serious injury occurring in darkness as compared to daylight. Alcohol
+usage by drivers or pedestrians and sociodemographic characteristics
+were also positively associated with severe injuries in darkness
+(Sanders, Schneider, and Proulx 2022).
+
+A pedestrian injured in the dark was found to be 5.0 times more likely
+to be killed than a pedestrian injured during the day. While a lack of
+street lighting does not seem to be the cause of the disproportionate
+increase in pedestrian injuries at night, pedestrians struck without a
+street light were 2.4 times more likely to be killed than those struck
+in the presence of a street light (Ferenchak, Gutierrez, and Singleton
+2022).
+
+Less research has been conducted in developing countries. In Bangladesh,
+seven significant factors influencing pedestrian-vehicle crash severity,
+including crashes during dawn/dusk period and night period (where street
+light was absent) (Zafri et al. 2020).
+
+In China, the probabilities of fatal single-vehicle and
+vehicle–pedestrian night-time accidents are also greater than that of
+fatal vehicle–vehicle night-time accidents, by factors of 7.6 and 1.7,
+respectively (Liu et al. 2019).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -489,7 +501,7 @@ Table 2: Overview of papers on active travel collision and lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-authors
+citr
 </th>
 <th style="text-align:right;">
 year
@@ -505,7 +517,7 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-Hossain, A., Sun, X., Thapa, R., Codjoe, J.
+Hossain et al. (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -520,7 +532,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Sanders, R.L., Schneider, R.J., Proulx, F.R.
+Sanders, Schneider, and Proulx (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -535,7 +547,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Alogaili, A., Mannering, F.
+Alogaili and Mannering (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -550,7 +562,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Ferenchak, N.N., Gutierrez, R.E., Singleton, P.A.
+Ferenchak, Gutierrez, and Singleton (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -565,7 +577,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Hennessy, E.R., Ai, C.
+Hennessy and Ai (2021)
 </td>
 <td style="text-align:right;">
 2021
@@ -580,7 +592,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Wang, J., Cicchino, J.B
+Wang and Cicchino (2020)
 </td>
 <td style="text-align:right;">
 2020
@@ -595,7 +607,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Zafri, N.M., Prithul, A.A., Baral, I., Rahman, M.
+Zafri et al. (2020)
 </td>
 <td style="text-align:right;">
 2020
@@ -610,7 +622,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Liu, J., Li, J., Wang, K., (…), Cong, H., He, P.
+Liu et al. (2019)
 </td>
 <td style="text-align:right;">
 2019
@@ -625,21 +637,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Boyce, P.R.
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-The benefits of light at night
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Lusk, A.C., Willett, W.C., Morris, V., Byner, C., Li, Y.
 </td>
 <td style="text-align:right;">
 2019
@@ -655,8 +652,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Asgarzadeh, M., Fischer, D., Verma, S.K., Courtney, T.K., Christiani,
-D.C.
 </td>
 <td style="text-align:right;">
 2018
@@ -671,7 +666,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Uttley, J., Fotios, S.
 </td>
 <td style="text-align:right;">
 2017
@@ -686,7 +680,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Castleton, H.F.
+S. Fotios and Castleton (2017)
 </td>
 <td style="text-align:right;">
 2017
@@ -700,7 +694,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Wei, F., Wang, Z., Lin, P.-S., (…), Jackman, J., Bato, M.
 </td>
 <td style="text-align:right;">
 2016
@@ -715,7 +708,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Nabavi Niaki, M.S., Fu, T., Saunier, N., (…), Amador, L., Bruneau, J.-F.
 </td>
 <td style="text-align:right;">
 2016
@@ -730,7 +722,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Chen, P., Shen, Q.
 </td>
 <td style="text-align:right;">
 2016
@@ -745,7 +736,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Stoker, P., Garfinkel-Castro, A., Khayesi, M., (…), Peden, M., Ewing, R.
 </td>
 <td style="text-align:right;">
 2015
@@ -760,7 +750,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Twisk, D.A.M., Reurings, M.
 </td>
 <td style="text-align:right;">
 2013
@@ -775,7 +764,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Wanvik, P.O.
 </td>
 <td style="text-align:right;">
 2009
@@ -790,7 +778,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Spainhour, L.K., Wootton, I.A., Sobanjo, J.O., Brady, P.A.
 </td>
 <td style="text-align:right;">
 2006
@@ -804,7 +791,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Siddiqui, N.A., Chu, X., Guttenplan, M.
 </td>
 <td style="text-align:right;">
 2006
@@ -818,7 +804,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Sullivan, J.M., Flannagan, M.J.
 </td>
 <td style="text-align:right;">
 2002
@@ -833,7 +818,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Boyce, P.R., Eklund, N.H., Hamilton, B.J., Bruno, L.D.
 </td>
 <td style="text-align:right;">
 2000
@@ -860,7 +844,7 @@ Table 3: Overview of papers on active travel, crime, and lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-authors
+citr
 </th>
 <th style="text-align:right;">
 year
@@ -876,7 +860,7 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-Rahm, J., Sternudd, C., Johansson, M.
+Rahm, Sternudd, and Johansson (2021)
 </td>
 <td style="text-align:right;">
 2021
@@ -891,7 +875,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Park, Y., Garcia, M.
 </td>
 <td style="text-align:right;">
 2020
@@ -905,21 +888,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Boyce, P.R.
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-The benefits of light at night
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Lusk, A.C., Willett, W.C., Morris, V., Byner, C., Li, Y.
 </td>
 <td style="text-align:right;">
 2019
@@ -935,7 +903,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Wu, S., Kim, M.
 </td>
 <td style="text-align:right;">
 2016
@@ -950,7 +917,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Peña-García, A., Hurtado, A., Aguilar-Luzón, M.C.
+Peña-García, Hurtado, and Aguilar-Luzón (2015)
 </td>
 <td style="text-align:right;">
 2015
@@ -965,7 +932,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Unwin, J., Farrall, S.
 </td>
 <td style="text-align:right;">
 2015
@@ -979,7 +945,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Hong, J., Chen, C.
 </td>
 <td style="text-align:right;">
 2014
@@ -994,7 +959,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Johansson, M., Rosén, M., Küller, R.
 </td>
 <td style="text-align:right;">
 2011
@@ -1009,7 +973,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Foster, S., Giles-Corti, B.
 </td>
 <td style="text-align:right;">
 2008
@@ -1024,7 +987,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Loukaitou-Sideris, A.
 </td>
 <td style="text-align:right;">
 2006
@@ -1039,7 +1001,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Cozens, P.M., Neale, R.H., Whitaker, J., Hillier, D., Graham, M.
+Cozens et al. (2003)
 </td>
 <td style="text-align:right;">
 2003
@@ -1054,7 +1016,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Painter, K.
 </td>
 <td style="text-align:right;">
 1996
@@ -1085,6 +1046,8 @@ Women expressed a greater proportion of the comments related to lighting
 
 ### Age
 
+Younger people can see better than older.
+
 A review on environments and physical activity among children and youth
 found not a very consistent positive associations between street
 lighting and physical activity (Prince et al. 2022).
@@ -1096,7 +1059,7 @@ Table 4: Overview of papers on inequalities and lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-authors
+citr
 </th>
 <th style="text-align:right;">
 year
@@ -1112,7 +1075,7 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-Prince, S.A., Lancione, S., Lang, J.J., (…), Merucci, K., Geneau, R.
+Prince et al. (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -1128,7 +1091,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Uttley, J., Gorjimahlabani, S.
 </td>
 <td style="text-align:right;">
 2022
@@ -1143,7 +1105,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Rajaee, M., Echeverri, B., Zuchowicz, Z., Wiltfang, K., Lucarelli, J.F.
 </td>
 <td style="text-align:right;">
 2021
@@ -1158,8 +1119,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Basu, N., Haque, M.M., King, M., Kamruzzaman, M., Oviedo-Trespalacios,
-O.
 </td>
 <td style="text-align:right;">
 2021
@@ -1174,7 +1133,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Rahm, J., Sternudd, C., Johansson, M.
+Rahm, Sternudd, and Johansson (2021)
 </td>
 <td style="text-align:right;">
 2021
@@ -1189,8 +1148,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Bonaccorsi, G., Manzi, F., Del Riccio, M., (…), Dellisanti, C., Lorini,
-C.
+Bonaccorsi et al. (2020)
 </td>
 <td style="text-align:right;">
 2020
@@ -1206,7 +1164,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Annear, M., Keeling, S., Wilkinson, T., (…), Gidlow, B., Hopkins, H.
+Annear et al. (2014)
 </td>
 <td style="text-align:right;">
 2014
@@ -1221,8 +1179,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Chad, K.E., Reeder, B.A., Harrison, E.L., (…), Fisher, K.L., Lawson,
-J.A.
 </td>
 <td style="text-align:right;">
 2005
@@ -1246,7 +1202,7 @@ Table 5: Overview of papers on proper lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-authors
+citr
 </th>
 <th style="text-align:right;">
 year
@@ -1262,7 +1218,6 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-Liu, M., Zhang, B., Luo, T., (…), Li, Y., Liu, Q
 </td>
 <td style="text-align:right;">
 2022
@@ -1278,7 +1233,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Portnov, B.A., Fotios, S., Saad, R., Kliger, D.
 </td>
 <td style="text-align:right;">
 2022
@@ -1293,7 +1247,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Portnov, B.A., Saad, R., Trop, T., Kliger, D., Svechkina, A.
 </td>
 <td style="text-align:right;">
 2020
@@ -1308,7 +1261,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Svechkina, A., Trop, T., Portnov, B.A.
 </td>
 <td style="text-align:right;">
 2020
@@ -1323,7 +1275,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Monteiro, A.L., Uttley, J.
 </td>
 <td style="text-align:right;">
 2019
@@ -1338,7 +1289,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Boyce, P.R.
+Boyce (2019)
 </td>
 <td style="text-align:right;">
 2019
@@ -1352,7 +1303,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Gibbons, R.
 </td>
 <td style="text-align:right;">
 2018
@@ -1367,7 +1317,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Uttley, J., Fotios, S.
 </td>
 <td style="text-align:right;">
 2017
@@ -1382,7 +1331,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Qasem, H., Cheal, C., Uttley, J.
 </td>
 <td style="text-align:right;">
 2017
@@ -1396,7 +1344,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Mattoni, B., Burattini, C., Bisegna, F., Fotios, S.
 </td>
 <td style="text-align:right;">
 2017
@@ -1411,7 +1358,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Castleton, H.F.
+S. Fotios and Castleton (2017)
 </td>
 <td style="text-align:right;">
 2017
@@ -1425,7 +1372,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Castleton, H.
 </td>
 <td style="text-align:right;">
 2016
@@ -1439,7 +1385,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Cellucci, L., Bisegna, F., Gugliermetti, F., Navvab, M.
 </td>
 <td style="text-align:right;">
 2016
@@ -1453,7 +1398,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Wu, S., Kim, M.
 </td>
 <td style="text-align:right;">
 2016
@@ -1468,7 +1412,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Yang, B., Fotios, S.
 </td>
 <td style="text-align:right;">
 2015
@@ -1482,7 +1425,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Peña-García, A., Hurtado, A., Aguilar-Luzón, M.C.
+Peña-García, Hurtado, and Aguilar-Luzón (2015)
 </td>
 <td style="text-align:right;">
 2015
@@ -1497,7 +1440,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Unwin, J., Farrall, S.
 </td>
 <td style="text-align:right;">
 2015
@@ -1511,7 +1453,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Uttley, J., Cheal, C., Hara, N.
 </td>
 <td style="text-align:right;">
 2015
@@ -1526,7 +1467,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Cheal, C.
 </td>
 <td style="text-align:right;">
 2013
@@ -1541,7 +1481,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Goodman, T.
 </td>
 <td style="text-align:right;">
 2012
@@ -1555,7 +1494,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Cheal, C.
 </td>
 <td style="text-align:right;">
 2010
@@ -1570,7 +1508,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Cheal, C., Boyce, P.R.
 </td>
 <td style="text-align:right;">
 2005
@@ -1585,7 +1522,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Boyce, P.R., Eklund, N.H., Hamilton, B.J., Bruno, L.D.
 </td>
 <td style="text-align:right;">
 2000
@@ -1623,6 +1559,8 @@ increase and be safer?**
 
 ## Research gaps
 
+-   Lack of research on developing countries
+
 -   No research on wheeling and lighting
 
 ## Strenghts and limitations
@@ -1643,6 +1581,16 @@ increase and be safer?**
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-alogaili_differences_2022" class="csl-entry">
+
+Alogaili, Asim, and Fred Mannering. 2022. “Differences Between Day and
+Night Pedestrian-Injury Severities: Accounting for Temporal and
+Unobserved Effects in Prediction.” *Analytic Methods in Accident
+Research* 33 (March): 100201.
+<https://doi.org/10.1016/j.amar.2021.100201>.
+
+</div>
 
 <div id="ref-annear_environmental_2014" class="csl-entry">
 
@@ -1692,6 +1640,16 @@ British City.” *Crime Prevention and Community Safety* 5 (2): 7–24.
 
 </div>
 
+<div id="ref-ferenchak_shedding_2022" class="csl-entry">
+
+Ferenchak, Nicholas N., Risa E. Gutierrez, and Patrick A. Singleton.
+2022. “Shedding Light on the Pedestrian Safety Crisis: An Analysis
+Across the Injury Severity Spectrum by Lighting Condition.” *Traffic
+Injury Prevention* 23 (7): 434–39.
+<https://doi.org/10.1080/15389588.2022.2100362>.
+
+</div>
+
 <div id="ref-fotios_lighting_2017" class="csl-entry">
 
 Fotios, S, and Hf Castleton. 2017. “Lighting for Cycling in the UK—A
@@ -1709,12 +1667,31 @@ the Number of Motorized Vehicles, Cyclists, and Pedestrians.”
 
 </div>
 
-<div id="ref-jin_preference_2022" class="csl-entry">
+<div id="ref-fotios_whole-year_2019" class="csl-entry">
 
-Jin, Lan, Wei Lu, and Peijin Sun. 2022. “Preference for Street
-Environment Based on Route Choice Behavior While Walking.” *Frontiers in
-Public Health* 10 (August): 880251.
-<https://doi.org/10.3389/fpubh.2022.880251>.
+Fotios, S, J Uttley, and S Fox. 2019. “A Whole-Year Approach Showing
+That Ambient Light Level Influences Walking and Cycling.” *Lighting
+Research & Technology* 51 (1): 55–64.
+<https://doi.org/10.1177/1477153517738306>.
+
+</div>
+
+<div id="ref-hennessy_spatial_2021" class="csl-entry">
+
+Hennessy, Emily Rose, and Chengbo Ai. 2021. “A Spatial Comparison of
+Roadway Lighting and Nonmotorist Crashes in Cambridge, MA.”
+*Transportation Research Record* 2675 (7): 491–500.
+<https://doi.org/10.1177/03611981211026660>.
+
+</div>
+
+<div id="ref-hossain_applying_2022" class="csl-entry">
+
+Hossain, Ahmed, Xiaoduan Sun, Raju Thapa, and Julius Codjoe. 2022.
+“Applying Association Rules Mining to Investigate Pedestrian Fatal and
+Injury Crash Patterns Under Different Lighting Conditions.”
+*Transportation Research Record* 2676 (6): 659–72.
+<https://doi.org/10.1177/03611981221076120>.
 
 </div>
 
@@ -1723,6 +1700,16 @@ Public Health* 10 (August): 880251.
 Lee, Chanam, and Anne Vernez Moudon. 2008. “Neighbourhood Design and
 Physical Activity.” *Building Research & Information* 36 (5): 395–411.
 <https://doi.org/10.1080/09613210802045547>.
+
+</div>
+
+<div id="ref-liu_exploring_2019" class="csl-entry">
+
+Liu, Jing, Jingyu Li, Kun Wang, Jianyou Zhao, Haozhe Cong, and Ping He.
+2019. “Exploring Factors Affecting the Severity of Night-Time Vehicle
+Accidents Under Low Illumination Conditions.” *Advances in Mechanical
+Engineering* 11 (4): 1687814019840940.
+<https://doi.org/10.1177/1687814019840940>.
 
 </div>
 
@@ -1766,6 +1753,15 @@ Lighting and Greenery in Perceived Safety.” *URBAN DESIGN International*
 
 </div>
 
+<div id="ref-sanders_pedestrian_2022" class="csl-entry">
+
+Sanders, Rebecca L., Robert J. Schneider, and Frank R. Proulx. 2022.
+“Pedestrian Fatalities in Darkness: What Do We Know, and What Can Be
+Done?” *Transport Policy* 120 (May): 23–39.
+<https://doi.org/10.1016/j.tranpol.2022.02.010>.
+
+</div>
+
 <div id="ref-uttley_using_2017" class="csl-entry">
 
 Uttley, Jim, and Steve Fotios. 2017. “Using the Daylight Savings Clock
@@ -1781,6 +1777,15 @@ Uttley, Jim, Steve Fotios, and Robin Lovelace. 2020. “Road Lighting
 Density and Brightness Linked with Increased Cycling Rates After-Dark.”
 Edited by Quan Yuan. *PLOS ONE* 15 (5): e0233105.
 <https://doi.org/10.1371/journal.pone.0233105>.
+
+</div>
+
+<div id="ref-wang_fatal_2020" class="csl-entry">
+
+Wang, Jin, and Jessica B. Cicchino. 2020. “Fatal Pedestrian Crashes on
+Interstates and Other Freeways in the United States.” *Journal of Safety
+Research* 74 (September): 1–7.
+<https://doi.org/10.1016/j.jsr.2020.04.009>.
 
 </div>
 
@@ -1818,6 +1823,16 @@ Zacharias, John, and Si’an Meng. 2021. “Environmental Correlates of
 Dock-Less Shared Bicycle Trip Origins and Destinations.” *Journal of
 Transport Geography* 92 (April): 103013.
 <https://doi.org/10.1016/j.jtrangeo.2021.103013>.
+
+</div>
+
+<div id="ref-zafri_exploring_2020" class="csl-entry">
+
+Zafri, Niaz Mahmud, Ahmed Aflan Prithul, Ivee Baral, and Moshiur Rahman.
+2020. “Exploring the Factors Influencing Pedestrian-Vehicle Crash
+Severity in Dhaka, Bangladesh.” *International Journal of Injury Control
+and Safety Promotion* 27 (3): 300–307.
+<https://doi.org/10.1080/17457300.2020.1774618>.
 
 </div>
 
