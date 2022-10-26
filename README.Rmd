@@ -164,9 +164,7 @@ kbl(df,
 
 ## Active travel behaviour and lighting
 
-There is evidence that street lighting influences physical activity and active travel levels [@lee_neighbourhood_2008; @mccormack_search_2011; @cerin_neighbourhood_2017; @yang_longitudinal_2017; @bonaccorsi_impact_2020; @yang_crowdsourced_2022; @prince_examining_2022; @jin_preference_2022].
-
-
+There is evidence that street lighting influences physical activity and active travel levels [@lee_neighbourhood_2008; @mccormack_search_2011; @cerin_neighbourhood_2017; @annear_environmental_2014; @pena-garcia_impact_2015; @yang_longitudinal_2017; @bonaccorsi_impact_2020; @prince_examining_2022].
 
 @jin_preference_2022 found that streetlights influence pedestrians to select longer distance routes. 
 
@@ -174,7 +172,13 @@ There is evidence that street lighting influences physical activity and active t
 
 @fotios_effect_2022 found that darkness leads to significant reductions in pedestrians and cyclists but does not have a significant effect on the number of motorized vehicles.
 
+@zacharias_environmental_2021 found street lighting highly significantly associated with higher uptake and deposit of dock-less shared bicycle trips.
 
+Qualitative research suggests that street lighting influences perceived safety and impacts the walkability of the neighbourhood [@rahm_evening_2021].
+
+Locations with no road lighting showed a significantly greater reduction in cycling after-dark compared with locations that had some lighting. A nonlinear relationship was found between relative brightness at a location at night and the reduction in cyclists after-dark. Small initial increases in brightness resulted in large reductions in the difference between cyclist numbers in daylight and after-dark, but this effect reached a plateau as brightness increased [@uttley_road_2020].
+
+Odds ratios indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists [@uttley_using_2017].
 
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -193,6 +197,8 @@ kbl(df,
 
 ## Active travel collisions and lighting
 
+One of the main reasons that physical activity and active travel decrease in the dark is the fear of being in a traffic crash. The pobability of suffering a traffic collision in the dark among walkers and cyclists is much greater than among other road users.
+
 ```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(road_safety == 1) %>% 
@@ -204,6 +210,9 @@ kbl(df,
 ```
 
 ## Active travel, crime, and lighting
+
+Another factor that seems to explain less use of walking and cycling is fear of crime.
+
 
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -217,13 +226,17 @@ kbl(df,
 
 ## Inequalities in lighting
 
+Both the fear of having an accident and the fear of being a victim of crime seem to affect groups differently.
+
 ### Gender
 
-Women more sensitive to dark spaces when walking and cycling than men [@xie_i_2018].
+Women are more sensitive to dark spaces when walking and cycling than men [@xie_i_2018].
+
+Women expressed a greater proportion of the comments related to lighting (76%) and perceived safety (69%) [@rahm_evening_2021].
 
 ### Age
 
-A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [prince_examining_2022].
+A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [@prince_examining_2022].
 
 ```{r tab7, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -272,11 +285,11 @@ The scientific literature on the intersections of active travel and lighting is 
 # Conclusions
 
 <!-- Interpretation of the material. -->
-The review presented above highlights the need for more empirical work in the area of active travel uptake and road lighting.
-We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body.
-During the project we plan to measure change in cycling levels, primarily through cyclists counts, and cycling safety due to darkness as inferred from models of cycling levels and high resolution casualty over multi year timescales and in a number of different locations.
-Comparing resulting estimates of change in cycling and safety levels will help assess the impact of lighting in those locations, but there is much else to do in this field beyond what is possible in a 24 month research project.
-Further work is needed to better understand how lighting characteristics such as illuminance and the spatial distribution of lighting influence cycling rates and cyclist safety.
-To ensure the policy relevance of future work into road lighting and cycling, it is important that the findings feed into larger models of cycling uptake to support cost effective investment in road and path lighting [@fotios_pilot_2017], as part of balanced packages of interventions, for the benefit of people who stand to benefit from better walking, cycling and wheeling provision worldwide.
+<!-- The review presented above highlights the need for more empirical work in the area of active travel uptake and road lighting. -->
+<!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
+<!-- During the project we plan to measure change in cycling levels, primarily through cyclists counts, and cycling safety due to darkness as inferred from models of cycling levels and high resolution casualty over multi year timescales and in a number of different locations. -->
+<!-- Comparing resulting estimates of change in cycling and safety levels will help assess the impact of lighting in those locations, but there is much else to do in this field beyond what is possible in a 24 month research project. -->
+<!-- Further work is needed to better understand how lighting characteristics such as illuminance and the spatial distribution of lighting influence cycling rates and cyclist safety. -->
+<!-- To ensure the policy relevance of future work into road lighting and cycling, it is important that the findings feed into larger models of cycling uptake to support cost effective investment in road and path lighting [@fotios_pilot_2017], as part of balanced packages of interventions, for the benefit of people who stand to benefit from better walking, cycling and wheeling provision worldwide. -->
 
 # References

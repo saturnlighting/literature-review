@@ -145,8 +145,9 @@ The findings organized by these themes are shown below.
 
 There is evidence that street lighting influences physical activity and
 active travel levels (Lee and Moudon 2008; McCormack and Shiell 2011;
-Cerin et al. 2017; Lin Yang et al. 2017; Bonaccorsi et al. 2020;
-Linchuan Yang et al. 2022; Prince et al. 2022; Jin, Lu, and Sun 2022).
+Cerin et al. 2017; Annear et al. 2014; Peña-García, Hurtado, and
+Aguilar-Luzón 2015; Lin Yang et al. 2017; Bonaccorsi et al. 2020; Prince
+et al. 2022).
 
 Jin, Lu, and Sun (2022) found that streetlights influence pedestrians to
 select longer distance routes.
@@ -157,6 +158,28 @@ running but not with cycling.
 Steve Fotios and Robbins (2022) found that darkness leads to significant
 reductions in pedestrians and cyclists but does not have a significant
 effect on the number of motorized vehicles.
+
+Zacharias and Meng (2021) found street lighting highly significantly
+associated with higher uptake and deposit of dock-less shared bicycle
+trips.
+
+Qualitative research suggests that street lighting influences perceived
+safety and impacts the walkability of the neighbourhood (Rahm, Sternudd,
+and Johansson 2021).
+
+Locations with no road lighting showed a significantly greater reduction
+in cycling after-dark compared with locations that had some lighting. A
+nonlinear relationship was found between relative brightness at a
+location at night and the reduction in cyclists after-dark. Small
+initial increases in brightness resulted in large reductions in the
+difference between cyclist numbers in daylight and after-dark, but this
+effect reached a plateau as brightness increased (Uttley, Fotios, and
+Lovelace 2020).
+
+Odds ratios indicated the numbers of pedestrians and cyclists during the
+case period were significantly higher during daylight conditions than
+after-dark, resulting in a 62% increase in pedestrians and a 38%
+increase in cyclists (Uttley and Fotios 2017).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -407,20 +430,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Fotios, S., Unwin, J., Farrall, S.
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Road lighting and pedestrian reassurance after dark: A review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Annear, M., Keeling, S., Wilkinson, T., (…), Gidlow, B., Hopkins, H.
 </td>
 <td style="text-align:right;">
@@ -467,6 +476,11 @@ empirical
 </table>
 
 ## Active travel collisions and lighting
+
+One of the main reasons that physical activity and active travel
+decrease in the dark is the fear of being in a traffic crash. The
+pobability of suffering a traffic collision in the dark among walkers
+and cyclists is much greater than among other road users.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -836,6 +850,9 @@ empirical
 
 ## Active travel, crime, and lighting
 
+Another factor that seems to explain less use of walking and cycling is
+fear of crime.
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 Table 3: Overview of papers on active travel, crime, and lighting
@@ -857,6 +874,21 @@ type
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left;">
+Rahm, J., Sternudd, C., Johansson, M.
+</td>
+<td style="text-align:right;">
+2021
+</td>
+<td style="text-align:left;">
+“In the evening, I don’t walk in the park”: The interplay between street
+lighting and greenery
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
 <tr>
 <td style="text-align:left;">
 Park, Y., Garcia, M.
@@ -911,6 +943,21 @@ Wu, S., Kim, M.
 <td style="text-align:left;">
 The relationship between the pedestrian lighting environment and
 perceived safety
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Peña-García, A., Hurtado, A., Aguilar-Luzón, M.C.
+</td>
+<td style="text-align:right;">
+2015
+</td>
+<td style="text-align:left;">
+Impact of public lighting on pedestrians’ perception of safety and
+well-being
 </td>
 <td style="text-align:left;">
 empirical
@@ -1025,16 +1072,22 @@ empirical
 
 ## Inequalities in lighting
 
+Both the fear of having an accident and the fear of being a victim of
+crime seem to affect groups differently.
+
 ### Gender
 
-Women more sensitive to dark spaces when walking and cycling than men
-(Xie and Spinney 2018).
+Women are more sensitive to dark spaces when walking and cycling than
+men (Xie and Spinney 2018).
+
+Women expressed a greater proportion of the comments related to lighting
+(76%) and perceived safety (69%) (Rahm, Sternudd, and Johansson 2021).
 
 ### Age
 
 A review on environments and physical activity among children and youth
 found not a very consistent positive associations between street
-lighting and physical activity \[prince_examining_2022\].
+lighting and physical activity (Prince et al. 2022).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -1057,6 +1110,22 @@ type
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left;">
+Prince, S.A., Lancione, S., Lang, J.J., (…), Merucci, K., Geneau, R.
+</td>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+Examining the state, quality and strength of the evidence in the
+research on built environments and physical activity among children and
+youth: An overview of reviews from high income countries
+</td>
+<td style="text-align:left;">
+review
+</td>
+</tr>
 <tr>
 <td style="text-align:left;">
 Fotios, S., Uttley, J., Gorjimahlabani, S.
@@ -1101,6 +1170,53 @@ perceptions of security
 </td>
 <td style="text-align:left;">
 empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Rahm, J., Sternudd, C., Johansson, M.
+</td>
+<td style="text-align:right;">
+2021
+</td>
+<td style="text-align:left;">
+“In the evening, I don’t walk in the park”: The interplay between street
+lighting and greenery
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Bonaccorsi, G., Manzi, F., Del Riccio, M., (…), Dellisanti, C., Lorini,
+C.
+</td>
+<td style="text-align:right;">
+2020
+</td>
+<td style="text-align:left;">
+Impact of the built environment and the neighborhood in promoting the
+physical activity and the healthy aging in older people: An umbrella
+review
+</td>
+<td style="text-align:left;">
+review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Annear, M., Keeling, S., Wilkinson, T., (…), Gidlow, B., Hopkins, H.
+</td>
+<td style="text-align:right;">
+2014
+</td>
+<td style="text-align:left;">
+Environmental influences on healthy and active ageing: A systematic
+review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -1517,32 +1633,25 @@ increase and be safer?**
 # Conclusions
 
 <!-- Interpretation of the material. -->
-
-The review presented above highlights the need for more empirical work
-in the area of active travel uptake and road lighting. We plan to
-undertake some of this work over the coming months in the SATURN
-(Supporting Active Travel Using Road lighting at Night) project, which
-has been funded by the UK Research and Innovation body. During the
-project we plan to measure change in cycling levels, primarily through
-cyclists counts, and cycling safety due to darkness as inferred from
-models of cycling levels and high resolution casualty over multi year
-timescales and in a number of different locations. Comparing resulting
-estimates of change in cycling and safety levels will help assess the
-impact of lighting in those locations, but there is much else to do in
-this field beyond what is possible in a 24 month research project.
-Further work is needed to better understand how lighting characteristics
-such as illuminance and the spatial distribution of lighting influence
-cycling rates and cyclist safety. To ensure the policy relevance of
-future work into road lighting and cycling, it is important that the
-findings feed into larger models of cycling uptake to support cost
-effective investment in road and path lighting (S. Fotios et al. 2017),
-as part of balanced packages of interventions, for the benefit of people
-who stand to benefit from better walking, cycling and wheeling provision
-worldwide.
+<!-- The review presented above highlights the need for more empirical work in the area of active travel uptake and road lighting. -->
+<!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
+<!-- During the project we plan to measure change in cycling levels, primarily through cyclists counts, and cycling safety due to darkness as inferred from models of cycling levels and high resolution casualty over multi year timescales and in a number of different locations. -->
+<!-- Comparing resulting estimates of change in cycling and safety levels will help assess the impact of lighting in those locations, but there is much else to do in this field beyond what is possible in a 24 month research project. -->
+<!-- Further work is needed to better understand how lighting characteristics such as illuminance and the spatial distribution of lighting influence cycling rates and cyclist safety. -->
+<!-- To ensure the policy relevance of future work into road lighting and cycling, it is important that the findings feed into larger models of cycling uptake to support cost effective investment in road and path lighting [@fotios_pilot_2017], as part of balanced packages of interventions, for the benefit of people who stand to benefit from better walking, cycling and wheeling provision worldwide. -->
 
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-annear_environmental_2014" class="csl-entry">
+
+Annear, Michael, Sally Keeling, Tim Wilkinson, Grant Cushman, Bob
+Gidlow, and Heather Hopkins. 2014. “Environmental Influences on Healthy
+and Active Ageing: A Systematic Review.” *Ageing and Society* 34 (4):
+590–622. <https://doi.org/10.1017/S0144686X1200116X>.
+
+</div>
 
 <div id="ref-bonaccorsi_impact_2020" class="csl-entry">
 
@@ -1591,14 +1700,6 @@ Review.” *Lighting Research & Technology* 49 (3): 381–95.
 
 </div>
 
-<div id="ref-fotios_pilot_2017" class="csl-entry">
-
-Fotios, S, H Qasem, C Cheal, and J Uttley. 2017. “A Pilot Study of Road
-Lighting, Cycle Lighting and Obstacle Detection.” *Lighting Research &
-Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
-
-</div>
-
 <div id="ref-fotios_effect_2022" class="csl-entry">
 
 Fotios, Steve, and Chloe Jade Robbins. 2022. “Effect of Ambient Light on
@@ -1635,6 +1736,15 @@ Nutrition and Physical Activity* 8.
 
 </div>
 
+<div id="ref-pena-garcia_impact_2015" class="csl-entry">
+
+Peña-García, A., A. Hurtado, and M. C. Aguilar-Luzón. 2015. “Impact of
+Public Lighting on Pedestrians’ Perception of Safety and Well-Being.”
+*Safety Science* 78 (October): 142–48.
+<https://doi.org/10.1016/j.ssci.2015.04.009>.
+
+</div>
+
 <div id="ref-prince_examining_2022" class="csl-entry">
 
 Prince, Stephanie A., Samantha Lancione, Justin J. Lang, Nana Amankwah,
@@ -1644,6 +1754,33 @@ Evidence in the Research on Built Environments and Physical Activity
 Among Children and Youth: An Overview of Reviews from High Income
 Countries.” *Health & Place* 76 (July): 102828.
 <https://doi.org/10.1016/j.healthplace.2022.102828>.
+
+</div>
+
+<div id="ref-rahm_evening_2021" class="csl-entry">
+
+Rahm, Johan, Catharina Sternudd, and Maria Johansson. 2021. “‘In the
+Evening, I Don’t Walk in the Park’: The Interplay Between Street
+Lighting and Greenery in Perceived Safety.” *URBAN DESIGN International*
+26 (1): 42–52. <https://doi.org/10.1057/s41289-020-00134-6>.
+
+</div>
+
+<div id="ref-uttley_using_2017" class="csl-entry">
+
+Uttley, Jim, and Steve Fotios. 2017. “Using the Daylight Savings Clock
+Change to Show Ambient Light Conditions Significantly Influence Active
+Travel.” *Journal of Environmental Psychology* 53 (November): 1–10.
+<https://doi.org/10.1016/j.jenvp.2017.06.003>.
+
+</div>
+
+<div id="ref-uttley_road_2020" class="csl-entry">
+
+Uttley, Jim, Steve Fotios, and Robin Lovelace. 2020. “Road Lighting
+Density and Brightness Linked with Increased Cycling Rates After-Dark.”
+Edited by Quan Yuan. *PLOS ONE* 15 (5): e0233105.
+<https://doi.org/10.1371/journal.pone.0233105>.
 
 </div>
 
@@ -1672,6 +1809,15 @@ Yang, Lin, Simon Griffin, Kay-Tee Khaw, Nick Wareham, and Jenna Panter.
 2017. “Longitudinal Associations Between Built Environment
 Characteristics and Changes in Active Commuting.” *BMC Public Health* 17
 (1): 458. <https://doi.org/10.1186/s12889-017-4396-3>.
+
+</div>
+
+<div id="ref-zacharias_environmental_2021" class="csl-entry">
+
+Zacharias, John, and Si’an Meng. 2021. “Environmental Correlates of
+Dock-Less Shared Bicycle Trip Origins and Destinations.” *Journal of
+Transport Geography* 92 (April): 103013.
+<https://doi.org/10.1016/j.jtrangeo.2021.103013>.
 
 </div>
 
