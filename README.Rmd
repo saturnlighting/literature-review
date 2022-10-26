@@ -191,7 +191,7 @@ papers <- read.csv("lrp-papers-summary-full-text.csv")
 
 df = papers %>%
   filter(behaviour == 1) %>% 
-  select(citr, year, title, type)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 1: Overview of papers on active travel and lighting") %>%
@@ -222,13 +222,22 @@ Less research has been conducted in developing countries. In Bangladesh, seven s
 
 In China, the probabilities of fatal single-vehicle and vehicle–pedestrian night-time accidents are also greater than that of fatal vehicle–vehicle night-time accidents, by factors of 7.6 and 1.7, respectively [@liu_exploring_2019]. 
 
+A study on bicycle-motor vehicle crashes found that crashes in low light conditions and during early morning hours are more likely to result in higher injury severity [@asgarzadeh_impact_2018].
+
+Papers on crashes during darkness in specific spots: intersections and pedestrian crossings.
+
+Pedestrian crossings: @uttley_effect_2017.
+
+Intersections: an study showed that an increase in intersection illuminance from low (<0.2 fc) to medium (≥ 0.2 fc and <1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes [@wei_safety_2016].
+
+
 ```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(road_safety == 1) %>% 
-  select(citr, year, title, type)
+  select(authors, year, title, type)
 
 kbl(df,
-    caption = "Table 2: Overview of papers on active travel collision and lighting") %>%
+    caption = "Table 2: Overview of papers on active travel collisions and lighting") %>%
     kable_styling()
 ```
 
@@ -240,7 +249,7 @@ Another factor that seems to explain less use of walking and cycling is fear of 
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(crime == 1) %>% 
-  select(citr, year, title, type)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 3: Overview of papers on active travel, crime, and lighting") %>%
@@ -263,10 +272,14 @@ Younger people can see better than older.
 
 A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [@prince_examining_2022].
 
+### Income
+
+Qualitative research on perceptions of fear to crime and rashes of cyclists from most deprived neighbourhoods [@lusk_bicycle_2019].  
+
 ```{r tab7, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(inequalities == 1) %>% 
-  select(citr, year, title, type)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 4: Overview of papers on inequalities and lighting") %>%
@@ -278,7 +291,7 @@ kbl(df,
 ```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(proper_light == 1) %>% 
-  select(citr, year, title, type)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 5: Overview of papers on proper lighting") %>%

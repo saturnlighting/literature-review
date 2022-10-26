@@ -182,7 +182,7 @@ they are unlit.
 Odds ratios indicated the numbers of pedestrians and cyclists during the
 case period were significantly higher during daylight conditions than
 after-dark, resulting in a 62% increase in pedestrians and a 38%
-increase in cyclists (Uttley and Fotios 2017).
+increase in cyclists (Uttley and Fotios 2017b).
 
 Lee and Moudon (2008) found good lighting to be the most important
 facilitator of walking and cycling.
@@ -194,7 +194,7 @@ Table 1: Overview of papers on active travel and lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-citr
+authors
 </th>
 <th style="text-align:right;">
 year
@@ -332,7 +332,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Uttley and Fotios (2017)
+Uttley and Fotios (2017b)
 </td>
 <td style="text-align:right;">
 2017
@@ -494,14 +494,31 @@ vehicle–pedestrian night-time accidents are also greater than that of
 fatal vehicle–vehicle night-time accidents, by factors of 7.6 and 1.7,
 respectively (Liu et al. 2019).
 
+A study on bicycle-motor vehicle crashes found that crashes in low light
+conditions and during early morning hours are more likely to result in
+higher injury severity (Asgarzadeh et al. 2018).
+
+Papers on crashes during darkness in specific spots: intersections and
+pedestrian crossings.
+
+Pedestrian crossings: Uttley and Fotios (2017a).
+
+Intersections: an study showed that an increase in intersection
+illuminance from low (\<0.2 fc) to medium (≥ 0.2 fc and \<1.1 fc) could
+reduce nighttime crash frequency and night-to-day crash ratios by
+approximately 50%. When illuminance was kept at 0.9 fc or higher, the
+risk of fatality and severe injury decreased significantly, especially
+in crashes that involved pedestrians and bicycles, head-on crashes, and
+angle crashes (Wei et al. 2016).
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 2: Overview of papers on active travel collision and lighting
+Table 2: Overview of papers on active travel collisions and lighting
 </caption>
 <thead>
 <tr>
 <th style="text-align:left;">
-citr
+authors
 </th>
 <th style="text-align:right;">
 year
@@ -637,21 +654,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-Bicycle facilities safest from crime and crashes: Perceptions of
-residents familiar with higher crime/lower income neighborhoods in
-Boston
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Asgarzadeh et al. (2018)
 </td>
 <td style="text-align:right;">
 2018
@@ -666,6 +669,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Uttley and Fotios (2017a)
 </td>
 <td style="text-align:right;">
 2017
@@ -680,20 +684,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-S. Fotios and Castleton (2017)
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-Lighting for cycling in the UK - A review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Wei et al. (2016)
 </td>
 <td style="text-align:right;">
 2016
@@ -844,7 +835,7 @@ Table 3: Overview of papers on active travel, crime, and lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-citr
+authors
 </th>
 <th style="text-align:right;">
 year
@@ -881,21 +872,6 @@ empirical
 </td>
 <td style="text-align:left;">
 Pedestrian safety perception and urban street settings
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-Bicycle facilities safest from crime and crashes: Perceptions of
-residents familiar with higher crime/lower income neighborhoods in
-Boston
 </td>
 <td style="text-align:left;">
 empirical
@@ -1052,6 +1028,11 @@ A review on environments and physical activity among children and youth
 found not a very consistent positive associations between street
 lighting and physical activity (Prince et al. 2022).
 
+### Income
+
+Qualitative research on perceptions of fear to crime and rashes of
+cyclists from most deprived neighbourhoods (Lusk et al. 2019).
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 Table 4: Overview of papers on inequalities and lighting
@@ -1059,7 +1040,7 @@ Table 4: Overview of papers on inequalities and lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-citr
+authors
 </th>
 <th style="text-align:right;">
 year
@@ -1164,6 +1145,22 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+Lusk et al. (2019)
+</td>
+<td style="text-align:right;">
+2019
+</td>
+<td style="text-align:left;">
+Bicycle facilities safest from crime and crashes: Perceptions of
+residents familiar with higher crime/lower income neighborhoods in
+Boston
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Annear et al. (2014)
 </td>
 <td style="text-align:right;">
@@ -1202,7 +1199,7 @@ Table 5: Overview of papers on proper lighting
 <thead>
 <tr>
 <th style="text-align:left;">
-citr
+authors
 </th>
 <th style="text-align:right;">
 year
@@ -1289,20 +1286,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Boyce (2019)
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-The benefits of light at night
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 </td>
 <td style="text-align:right;">
 2018
@@ -1317,6 +1300,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Uttley and Fotios (2017a)
 </td>
 <td style="text-align:right;">
 2017
@@ -1354,20 +1338,6 @@ reassurance?
 </td>
 <td style="text-align:left;">
 empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-S. Fotios and Castleton (2017)
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-Lighting for cycling in the UK - A review
-</td>
-<td style="text-align:left;">
-review
 </td>
 </tr>
 <tr>
@@ -1601,6 +1571,16 @@ and Active Ageing: A Systematic Review.” *Ageing and Society* 34 (4):
 
 </div>
 
+<div id="ref-asgarzadeh_impact_2018" class="csl-entry">
+
+Asgarzadeh, Morteza, Dorothee Fischer, Santosh K. Verma, Theodore K.
+Courtney, and David C. Christiani. 2018. “The Impact of Weather, Road
+Surface, Time-of-Day, and Light Conditions on Severity of Bicycle-Motor
+Vehicle Crash Injuries.” *American Journal of Industrial Medicine* 61
+(7): 556–65. <https://doi.org/10.1002/ajim.22849>.
+
+</div>
+
 <div id="ref-bonaccorsi_impact_2020" class="csl-entry">
 
 Bonaccorsi, Guglielmo, Federico Manzi, Marco Del Riccio, Nicoletta
@@ -1713,6 +1693,17 @@ Engineering* 11 (4): 1687814019840940.
 
 </div>
 
+<div id="ref-lusk_bicycle_2019" class="csl-entry">
+
+Lusk, Anne, Walter Willett, Vivien Morris, Christopher Byner, and
+Yanping Li. 2019. “Bicycle Facilities Safest from Crime and Crashes:
+Perceptions of Residents Familiar with Higher Crime/Lower Income
+Neighborhoods in Boston.” *International Journal of Environmental
+Research and Public Health* 16 (3): 484.
+<https://doi.org/10.3390/ijerph16030484>.
+
+</div>
+
 <div id="ref-mccormack_search_2011" class="csl-entry">
 
 McCormack, G. R., and A. Shiell. 2011. “In Search of Causality: A
@@ -1762,11 +1753,20 @@ Done?” *Transport Policy* 120 (May): 23–39.
 
 </div>
 
+<div id="ref-uttley_effect_2017" class="csl-entry">
+
+Uttley, Jim, and Steve Fotios. 2017a. “The Effect of Ambient Light
+Condition on Road Traffic Collisions Involving Pedestrians on Pedestrian
+Crossings.” *Accident Analysis & Prevention* 108 (November): 189–200.
+<https://doi.org/10.1016/j.aap.2017.09.005>.
+
+</div>
+
 <div id="ref-uttley_using_2017" class="csl-entry">
 
-Uttley, Jim, and Steve Fotios. 2017. “Using the Daylight Savings Clock
-Change to Show Ambient Light Conditions Significantly Influence Active
-Travel.” *Journal of Environmental Psychology* 53 (November): 1–10.
+———. 2017b. “Using the Daylight Savings Clock Change to Show Ambient
+Light Conditions Significantly Influence Active Travel.” *Journal of
+Environmental Psychology* 53 (November): 1–10.
 <https://doi.org/10.1016/j.jenvp.2017.06.003>.
 
 </div>
@@ -1786,6 +1786,15 @@ Wang, Jin, and Jessica B. Cicchino. 2020. “Fatal Pedestrian Crashes on
 Interstates and Other Freeways in the United States.” *Journal of Safety
 Research* 74 (September): 1–7.
 <https://doi.org/10.1016/j.jsr.2020.04.009>.
+
+</div>
+
+<div id="ref-wei_safety_2016" class="csl-entry">
+
+Wei, Fulu, Zhenyu Wang, Pei-Sung Lin, Ping P. Hsu, Seckin Ozkul, Jason
+Jackman, and Michael Bato. 2016. “Safety Effects of Street Illuminance
+at Urban Signalized Intersections in Florida.” *Transportation Research
+Record* 2555 (1): 95–102. <https://doi.org/10.3141/2555-13>.
 
 </div>
 
