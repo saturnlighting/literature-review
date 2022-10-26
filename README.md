@@ -34,11 +34,11 @@ travel and enlightenment. Cerin et al. (2017) examined literature on the
 relationship between physical environment and active travel in general;
 Cozens et al. (2003) papers on the association between street lighting
 and crime or fear of crime; Boyce (2019) wrote a review on the benefits
-of light at night; and Fotios and Castleton (2017) a review of suggested
-actions to enable cycling lighting to contribute to the safety of
-cyclists in the UK. However, to the best of our knowledge, no academic
-paper has reviewed the international literature available on the
-relationship between active travel and road lighting specifically.
+of light at night; and S. Fotios and Castleton (2017) a review of
+suggested actions to enable cycling lighting to contribute to the safety
+of cyclists in the UK. However, to the best of our knowledge, no
+academic paper has reviewed the international literature available on
+the relationship between active travel and road lighting specifically.
 
 <!-- Reviews on the relationship between build environment and active travel or physical activity considering lighting (e.g. @bonaccorsi_impact_2020; @mccormack_search_2011; @cerin_neighbourhood_2017; @prince_examining_2022).
 Other reviews look at environment, crime, and physical activity (e.g. @foster_built_2008; @loukaitou-sideris_is_2006), or at street lighting and crime [@cozens_critical_2003]. 
@@ -143,6 +143,21 @@ The findings organized by these themes are shown below.
 
 ## Active travel behaviour and lighting
 
+There is evidence that street lighting influences physical activity and
+active travel levels (Lee and Moudon 2008; McCormack and Shiell 2011;
+Cerin et al. 2017; Lin Yang et al. 2017; Bonaccorsi et al. 2020;
+Linchuan Yang et al. 2022; Prince et al. 2022; Jin, Lu, and Sun 2022).
+
+Jin, Lu, and Sun (2022) found that streetlights influence pedestrians to
+select longer distance routes.
+
+Linchuan Yang et al. (2022) found lighting positively associations with
+running but not with cycling.
+
+Steve Fotios and Robbins (2022) found that darkness leads to significant
+reductions in pedestrians and cyclists but does not have a significant
+effect on the number of motorized vehicles.
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 Table 1: Overview of papers on active travel and lighting
@@ -158,6 +173,9 @@ year
 <th style="text-align:left;">
 title
 </th>
+<th style="text-align:left;">
+type
+</th>
 </tr>
 </thead>
 <tbody>
@@ -172,6 +190,9 @@ Jin, L., Lu, W., Sun, P.
 Preference for Street Environment Based on Route Choice Behavior While
 Walking
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -185,6 +206,9 @@ Examining the state, quality and strength of the evidence in the
 research on built environments and physical activity among children and
 youth: An overview of reviews from high income countries
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -196,6 +220,9 @@ Yang, L., Yu, B., Liang, P., Tang, X., Li, J.
 <td style="text-align:left;">
 Crowdsourced Data for Physical Activity-Built Environment Research:
 Applying Strava Data in Chengdu, China
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -209,6 +236,9 @@ Fotios, S., Robbins, C.J.
 Effect of Ambient Light on the Number of Motorized Vehicles, Cyclists,
 and Pedestrians
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -221,6 +251,9 @@ Zacharias, J., Meng, S.
 Environmental correlates of dock-less shared bicycle trip origins and
 destinations
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -232,6 +265,9 @@ Rahm, J., Sternudd, C., Johansson, M.
 <td style="text-align:left;">
 “In the evening, I don’t walk in the park”: The interplay between street
 lighting and greenery
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -247,6 +283,9 @@ Impact of the built environment and the neighborhood in promoting the
 physical activity and the healthy aging in older people: An umbrella
 review
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -259,6 +298,9 @@ Uttley, J., Fotios, S., Lovelace, R.
 Road lighting density and brightness linked with increased cycling rates
 after-dark
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -269,6 +311,9 @@ Boyce, P.R.
 </td>
 <td style="text-align:left;">
 The benefits of light at night
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -282,6 +327,9 @@ Fotios, S., Uttley, J., Fox, S.
 A whole-year approach showing that ambient light level influences
 walking and cycling
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -293,6 +341,9 @@ Uttley, J., Fotios, S.
 <td style="text-align:left;">
 Using the daylight savings clock change to show ambient light conditions
 significantly influence active travel
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -306,6 +357,9 @@ Yang, L., Griffin, S., Khaw, K.-T., Wareham, N., Panter, J.
 Longitudinal associations between built environment characteristics and
 changes in active commuting
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -316,6 +370,9 @@ Fotios, S., Castleton, H.F.
 </td>
 <td style="text-align:left;">
 Lighting for cycling in the UK - A review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -329,6 +386,9 @@ Cerin, E., Nathan, A., van Cauwenberg, J., Barnett, D.W., Barnett, A.
 The neighbourhood physical environment and active travel in older
 adults: A systematic review and meta-analysis
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -341,6 +401,9 @@ Peña-García, A., Hurtado, A., Aguilar-Luzón, M.C.
 Impact of public lighting on pedestrians’ perception of safety and
 well-being
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -352,6 +415,9 @@ Fotios, S., Unwin, J., Farrall, S.
 <td style="text-align:left;">
 Road lighting and pedestrian reassurance after dark: A review
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -362,6 +428,9 @@ Annear, M., Keeling, S., Wilkinson, T., (…), Gidlow, B., Hopkins, H.
 </td>
 <td style="text-align:left;">
 Environmental influences on healthy and active ageing: A systematic
+review
+</td>
+<td style="text-align:left;">
 review
 </td>
 </tr>
@@ -376,6 +445,9 @@ McCormack, G.R., Shiell, A.
 In search of causality: A systematic review of the relationship between
 the built environment and physical activity among adults
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -387,17 +459,8 @@ Lee, C., Moudon, A.V.
 <td style="text-align:left;">
 Neighbourhood design and physical activity
 </td>
-</tr>
-<tr>
 <td style="text-align:left;">
-Chad, K.E., Reeder, B.A., Harrison, E.L., (…), Fisher, K.L., Lawson,
-J.A.
-</td>
-<td style="text-align:right;">
-2005
-</td>
-<td style="text-align:left;">
-Profile of physical activity levels in community-dwelling older adults
+empirical
 </td>
 </tr>
 </tbody>
@@ -420,6 +483,9 @@ year
 <th style="text-align:left;">
 title
 </th>
+<th style="text-align:left;">
+type
+</th>
 </tr>
 </thead>
 <tbody>
@@ -434,6 +500,9 @@ Hossain, A., Sun, X., Thapa, R., Codjoe, J.
 Applying Association Rules Mining to Investigate Pedestrian Fatal and
 Injury Crash Patterns Under Different Lighting Conditions
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -445,6 +514,9 @@ Sanders, R.L., Schneider, R.J., Proulx, F.R.
 <td style="text-align:left;">
 Pedestrian fatalities in darkness: What do we know, and what can be
 done?
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -458,6 +530,9 @@ Alogaili, A., Mannering, F.
 Differences between day and night pedestrian-injury severities:
 Accounting for temporal and unobserved effects in prediction
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -469,6 +544,9 @@ Ferenchak, N.N., Gutierrez, R.E., Singleton, P.A.
 <td style="text-align:left;">
 Shedding light on the pedestrian safety crisis: An analysis across the
 injury severity spectrum by lighting condition
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -482,6 +560,9 @@ Hennessy, E.R., Ai, C.
 A spatial comparison of roadway lighting and nonmotorist crashes in
 cambridge, ma
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -493,6 +574,9 @@ Wang, J., Cicchino, J.B
 <td style="text-align:left;">
 Fatal pedestrian crashes on interstates and other freeways in the United
 States
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -506,6 +590,9 @@ Zafri, N.M., Prithul, A.A., Baral, I., Rahman, M.
 Exploring the factors influencing pedestrian-vehicle crash severity in
 Dhaka, Bangladesh
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -518,6 +605,9 @@ Liu, J., Li, J., Wang, K., (…), Cong, H., He, P.
 Exploring factors affecting the severity of night-time vehicle accidents
 under low illumination conditions
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -528,6 +618,9 @@ Boyce, P.R.
 </td>
 <td style="text-align:left;">
 The benefits of light at night
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -542,6 +635,9 @@ Bicycle facilities safest from crime and crashes: Perceptions of
 residents familiar with higher crime/lower income neighborhoods in
 Boston
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -555,6 +651,9 @@ D.C.
 The impact of weather, road surface, time-of-day, and light conditions
 on severity of bicycle-motor vehicle crash injuries
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -567,6 +666,9 @@ Uttley, J., Fotios, S.
 The effect of ambient light condition on road traffic collisions
 involving pedestrians on pedestrian crossings
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -577,6 +679,9 @@ Fotios, S., Castleton, H.F.
 </td>
 <td style="text-align:left;">
 Lighting for cycling in the UK - A review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -590,6 +695,9 @@ Wei, F., Wang, Z., Lin, P.-S., (…), Jackman, J., Bato, M.
 Safety effects of street illuminance at urban signalized intersections
 in Florida
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -601,6 +709,9 @@ Nabavi Niaki, M.S., Fu, T., Saunier, N., (…), Amador, L., Bruneau, J.-F.
 <td style="text-align:left;">
 Road lighting effects on bicycle and pedestrian accident frequency: Case
 study in Montreal, Quebec, Canada
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -614,6 +725,9 @@ Chen, P., Shen, Q.
 Built environment effects on cyclist injury severity in
 automobile-involved bicycle crashes
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -625,6 +739,9 @@ Stoker, P., Garfinkel-Castro, A., Khayesi, M., (…), Peden, M., Ewing, R.
 <td style="text-align:left;">
 Pedestrian Safety and the Built Environment: A Review of the Risk
 Factors
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -638,6 +755,9 @@ Twisk, D.A.M., Reurings, M.
 An epidemiological study of the risk of cycling in the dark: The role of
 visual perception, conspicuity and alcohol use
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -650,6 +770,9 @@ Wanvik, P.O.
 Effects of road lighting: An analysis based on Dutch accident statistics
 1987-2006
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -661,6 +784,9 @@ Spainhour, L.K., Wootton, I.A., Sobanjo, J.O., Brady, P.A.
 <td style="text-align:left;">
 Causative factors and trends in Florida pedestrian crashes
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -671,6 +797,9 @@ Siddiqui, N.A., Chu, X., Guttenplan, M.
 </td>
 <td style="text-align:left;">
 Crossing locations, light conditions, and pedestrian injury severity
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -684,6 +813,9 @@ Sullivan, J.M., Flannagan, M.J.
 The role of ambient light level in fatal crashes: Inferences from
 daylight saving time transitions
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -694,6 +826,9 @@ Boyce, P.R., Eklund, N.H., Hamilton, B.J., Bruno, L.D.
 </td>
 <td style="text-align:left;">
 Perceptions of safety at night in different lighting conditions
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 </tbody>
@@ -716,6 +851,9 @@ year
 <th style="text-align:left;">
 title
 </th>
+<th style="text-align:left;">
+type
+</th>
 </tr>
 </thead>
 <tbody>
@@ -729,6 +867,9 @@ Park, Y., Garcia, M.
 <td style="text-align:left;">
 Pedestrian safety perception and urban street settings
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -739,6 +880,9 @@ Boyce, P.R.
 </td>
 <td style="text-align:left;">
 The benefits of light at night
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -753,6 +897,9 @@ Bicycle facilities safest from crime and crashes: Perceptions of
 residents familiar with higher crime/lower income neighborhoods in
 Boston
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -765,6 +912,9 @@ Wu, S., Kim, M.
 The relationship between the pedestrian lighting environment and
 perceived safety
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -775,6 +925,9 @@ Fotios, S., Unwin, J., Farrall, S.
 </td>
 <td style="text-align:left;">
 Road lighting and pedestrian reassurance after dark: A review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -788,6 +941,9 @@ Hong, J., Chen, C.
 The role of the built environment on perceived safety from crime and
 walking: examining direct and indirect impacts
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -799,6 +955,9 @@ Johansson, M., Rosén, M., Küller, R.
 <td style="text-align:left;">
 Individual factors influencing the assessment of the outdoor lighting of
 an urban footpath
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -812,6 +971,9 @@ Foster, S., Giles-Corti, B.
 The built environment, neighborhood crime and constrained physical
 activity: An exploration of inconsistent findings
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -823,6 +985,9 @@ Loukaitou-Sideris, A.
 <td style="text-align:left;">
 Is it safe to walk? Neighborhood safety and security considerations and
 their effects on walking
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -836,6 +1001,9 @@ Cozens, P.M., Neale, R.H., Whitaker, J., Hillier, D., Graham, M.
 A critical review of street lighting, crime and fear of crime in the
 british city
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -848,14 +1016,25 @@ Painter, K.
 The influence of street lighting improvements on crime, fear and
 pedestrian street use, after dark
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 </tbody>
 </table>
 
 ## Inequalities in lighting
 
+### Gender
+
 Women more sensitive to dark spaces when walking and cycling than men
 (Xie and Spinney 2018).
+
+### Age
+
+A review on environments and physical activity among children and youth
+found not a very consistent positive associations between street
+lighting and physical activity \[prince_examining_2022\].
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -872,6 +1051,9 @@ year
 <th style="text-align:left;">
 title
 </th>
+<th style="text-align:left;">
+type
+</th>
 </tr>
 </thead>
 <tbody>
@@ -886,6 +1068,9 @@ Fotios, S., Uttley, J., Gorjimahlabani, S.
 Extending observations of ambient light level and active travel to
 explore age and gender differences in reassurance
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -897,6 +1082,9 @@ Rajaee, M., Echeverri, B., Zuchowicz, Z., Wiltfang, K., Lucarelli, J.F.
 <td style="text-align:left;">
 Socioeconomic and racial disparities of sidewalk quality in a
 traditional rust belt city
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -910,6 +1098,24 @@ O.
 <td style="text-align:left;">
 The unequal gender effects of the suburban built environment on
 perceptions of security
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Chad, K.E., Reeder, B.A., Harrison, E.L., (…), Fisher, K.L., Lawson,
+J.A.
+</td>
+<td style="text-align:right;">
+2005
+</td>
+<td style="text-align:left;">
+Profile of physical activity levels in community-dwelling older adults
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 </tbody>
@@ -932,6 +1138,9 @@ year
 <th style="text-align:left;">
 title
 </th>
+<th style="text-align:left;">
+type
+</th>
 </tr>
 </thead>
 <tbody>
@@ -947,6 +1156,9 @@ Evaluating Street Lighting Quality in Residential Areas by Combining
 Remote Sensing Tools and a Survey on Pedestrians’ Perceptions of Safety
 and Visual Comfort
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -958,6 +1170,9 @@ Portnov, B.A., Fotios, S., Saad, R., Kliger, D.
 <td style="text-align:left;">
 Establishing optimal illuminance for pedestrian reassurance using
 segmented regression
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -971,6 +1186,9 @@ Portnov, B.A., Saad, R., Trop, T., Kliger, D., Svechkina, A.
 Linking nighttime outdoor lighting attributes to pedestrians’ feeling of
 safety: An interactive survey approach
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -982,6 +1200,9 @@ Svechkina, A., Trop, T., Portnov, B.A.
 <td style="text-align:left;">
 How much lighting is required to feel safe when walking through the
 streets at night?
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -995,6 +1216,9 @@ Fotios, S., Monteiro, A.L., Uttley, J.
 Evaluation of pedestrian reassurance gained by higher illuminances in
 residential streets using the day-dark approach
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1005,6 +1229,9 @@ Boyce, P.R.
 </td>
 <td style="text-align:left;">
 The benefits of light at night
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -1018,6 +1245,9 @@ Fotios, S., Gibbons, R.
 Road lighting research for drivers and pedestrians: The basis of
 luminance and illuminance recommendations
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1030,6 +1260,9 @@ Uttley, J., Fotios, S.
 The effect of ambient light condition on road traffic collisions
 involving pedestrians on pedestrian crossings
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1040,6 +1273,9 @@ Fotios, S., Qasem, H., Cheal, C., Uttley, J.
 </td>
 <td style="text-align:left;">
 A pilot study of road lighting, cycle lighting and obstacle detection
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -1053,6 +1289,9 @@ Mattoni, B., Burattini, C., Bisegna, F., Fotios, S.
 The pedestrian’s perspective: How do illuminance variations affect
 reassurance?
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1063,6 +1302,9 @@ Fotios, S., Castleton, H.F.
 </td>
 <td style="text-align:left;">
 Lighting for cycling in the UK - A review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -1075,6 +1317,9 @@ Fotios, S., Castleton, H.
 <td style="text-align:left;">
 Specifying Enough Light to Feel Reassured on Pedestrian Footpaths
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1085,6 +1330,9 @@ Cellucci, L., Bisegna, F., Gugliermetti, F., Navvab, M.
 </td>
 <td style="text-align:left;">
 Lighting distribution affects pedestrians’ sense of security
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -1098,6 +1346,9 @@ Wu, S., Kim, M.
 The relationship between the pedestrian lighting environment and
 perceived safety
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1108,6 +1359,9 @@ Yang, B., Fotios, S.
 </td>
 <td style="text-align:left;">
 Lighting and recognition of emotion conveyed by facial expressions
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -1121,6 +1375,9 @@ Peña-García, A., Hurtado, A., Aguilar-Luzón, M.C.
 Impact of public lighting on pedestrians’ perception of safety and
 well-being
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1131,6 +1388,9 @@ Fotios, S., Unwin, J., Farrall, S.
 </td>
 <td style="text-align:left;">
 Road lighting and pedestrian reassurance after dark: A review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -1144,6 +1404,9 @@ Fotios, S., Uttley, J., Cheal, C., Hara, N.
 Using eye-tracking to identify pedestrians’ critical visual tasks,
 Part 1. Dual task approach
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1156,6 +1419,9 @@ Fotios, S., Cheal, C.
 Using obstacle detection to identify appropriate illuminances for
 lighting in residential roads
 </td>
+<td style="text-align:left;">
+empirical
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1166,6 +1432,9 @@ Fotios, S., Goodman, T.
 </td>
 <td style="text-align:left;">
 Proposed UK guidance for lighting in residential roads
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -1179,6 +1448,9 @@ Fotios, S., Cheal, C.
 Road lighting for pedestrians in residential areas: Choosing the optimum
 lamp colour characteristics
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1191,6 +1463,9 @@ Fotios, S., Cheal, C., Boyce, P.R.
 Light source spectrum, brightness perception and visual performance in
 pedestrian environments: A review
 </td>
+<td style="text-align:left;">
+review
+</td>
 </tr>
 <tr>
 <td style="text-align:left;">
@@ -1201,6 +1476,9 @@ Boyce, P.R., Eklund, N.H., Hamilton, B.J., Bruno, L.D.
 </td>
 <td style="text-align:left;">
 Perceptions of safety at night in different lighting conditions
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 </tbody>
@@ -1257,14 +1535,26 @@ such as illuminance and the spatial distribution of lighting influence
 cycling rates and cyclist safety. To ensure the policy relevance of
 future work into road lighting and cycling, it is important that the
 findings feed into larger models of cycling uptake to support cost
-effective investment in road and path lighting (Fotios et al. 2017), as
-part of balanced packages of interventions, for the benefit of people
+effective investment in road and path lighting (S. Fotios et al. 2017),
+as part of balanced packages of interventions, for the benefit of people
 who stand to benefit from better walking, cycling and wheeling provision
 worldwide.
 
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-bonaccorsi_impact_2020" class="csl-entry">
+
+Bonaccorsi, Guglielmo, Federico Manzi, Marco Del Riccio, Nicoletta
+Setola, Eletta Naldi, Chiara Milani, Duccio Giorgetti, Claudia
+Dellisanti, and Chiara Lorini. 2020. “Impact of the Built Environment
+and the Neighborhood in Promoting the Physical Activity and the Healthy
+Aging in Older People: An Umbrella Review.” *International Journal of
+Environmental Research and Public Health* 17 (17): 6127.
+<https://doi.org/10.3390/ijerph17176127>.
+
+</div>
 
 <div id="ref-boyce_benefits_2019" class="csl-entry">
 
@@ -1309,6 +1599,54 @@ Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
 
 </div>
 
+<div id="ref-fotios_effect_2022" class="csl-entry">
+
+Fotios, Steve, and Chloe Jade Robbins. 2022. “Effect of Ambient Light on
+the Number of Motorized Vehicles, Cyclists, and Pedestrians.”
+*Transportation Research Record* 2676 (2): 593–605.
+<https://doi.org/10.1177/03611981211044469>.
+
+</div>
+
+<div id="ref-jin_preference_2022" class="csl-entry">
+
+Jin, Lan, Wei Lu, and Peijin Sun. 2022. “Preference for Street
+Environment Based on Route Choice Behavior While Walking.” *Frontiers in
+Public Health* 10 (August): 880251.
+<https://doi.org/10.3389/fpubh.2022.880251>.
+
+</div>
+
+<div id="ref-lee_neighbourhood_2008" class="csl-entry">
+
+Lee, Chanam, and Anne Vernez Moudon. 2008. “Neighbourhood Design and
+Physical Activity.” *Building Research & Information* 36 (5): 395–411.
+<https://doi.org/10.1080/09613210802045547>.
+
+</div>
+
+<div id="ref-mccormack_search_2011" class="csl-entry">
+
+McCormack, G. R., and A. Shiell. 2011. “In Search of Causality: A
+Systematic Review of the Relationship Between the Built Environment and
+Physical Activity Among Adults.” *International Journal of Behavioral
+Nutrition and Physical Activity* 8.
+<https://doi.org/10.1186/1479-5868-8-125>.
+
+</div>
+
+<div id="ref-prince_examining_2022" class="csl-entry">
+
+Prince, Stephanie A., Samantha Lancione, Justin J. Lang, Nana Amankwah,
+Margaret de Groh, Alejandra Jaramillo Garcia, Katherine Merucci, and
+Robert Geneau. 2022. “Examining the State, Quality and Strength of the
+Evidence in the Research on Built Environments and Physical Activity
+Among Children and Youth: An Overview of Reviews from High Income
+Countries.” *Health & Place* 76 (July): 102828.
+<https://doi.org/10.1016/j.healthplace.2022.102828>.
+
+</div>
+
 <div id="ref-xie_i_2018" class="csl-entry">
 
 Xie, Linjun, and Justin Spinney. 2018. “‘I Won’t Cycle on a Route Like
@@ -1316,6 +1654,24 @@ This; I Don’t Think I Fully Understood What Isolation Meant’: A Critical
 Evaluation of the Safety Principles in Cycling Level of Service (CLoS)
 Tools from a Gender Perspective.” *Travel Behaviour and Society* 13
 (October): 197–213. <https://doi.org/10.1016/j.tbs.2018.07.002>.
+
+</div>
+
+<div id="ref-yang_crowdsourced_2022" class="csl-entry">
+
+Yang, Linchuan, Bingjie Yu, Pengpeng Liang, Xianglong Tang, and Ji Li.
+2022. “Crowdsourced Data for Physical Activity-Built Environment
+Research: Applying Strava Data in Chengdu, China.” *Frontiers in Public
+Health* 10 (April): 883177. <https://doi.org/10.3389/fpubh.2022.883177>.
+
+</div>
+
+<div id="ref-yang_longitudinal_2017" class="csl-entry">
+
+Yang, Lin, Simon Griffin, Kay-Tee Khaw, Nick Wareham, and Jenna Panter.
+2017. “Longitudinal Associations Between Built Environment
+Characteristics and Changes in Active Commuting.” *BMC Public Health* 17
+(1): 458. <https://doi.org/10.1186/s12889-017-4396-3>.
 
 </div>
 

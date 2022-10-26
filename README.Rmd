@@ -128,7 +128,7 @@ The findings organized by these themes are shown below.
 library(kableExtra)
 library(tidyverse)
 
-papers <- read.csv("lrp-papers-summary.csv")
+papers <- read.csv("lrp-papers-summary-full-text.csv")
 
 df = papers %>% replace(is.na(.), 0) %>%
   group_by(type) %>% 
@@ -164,15 +164,27 @@ kbl(df,
 
 ## Active travel behaviour and lighting
 
+There is evidence that street lighting influences physical activity and active travel levels [@lee_neighbourhood_2008; @mccormack_search_2011; @cerin_neighbourhood_2017; @yang_longitudinal_2017; @bonaccorsi_impact_2020; @yang_crowdsourced_2022; @prince_examining_2022; @jin_preference_2022].
+
+
+
+@jin_preference_2022 found that streetlights influence pedestrians to select longer distance routes. 
+
+@yang_crowdsourced_2022 found lighting positively associations with running but not with cycling.
+
+@fotios_effect_2022 found that darkness leads to significant reductions in pedestrians and cyclists but does not have a significant effect on the number of motorized vehicles.
+
+
+
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
 library(tidyverse)
 
-papers <- read.csv("lrp-papers-summary.csv")
+papers <- read.csv("lrp-papers-summary-full-text.csv")
 
 df = papers %>%
   filter(behaviour == 1) %>% 
-  select(authors, year, title)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 1: Overview of papers on active travel and lighting") %>%
@@ -184,7 +196,7 @@ kbl(df,
 ```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(road_safety == 1) %>% 
-  select(authors, year, title)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 2: Overview of papers on active travel collision and lighting") %>%
@@ -196,7 +208,7 @@ kbl(df,
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(crime == 1) %>% 
-  select(authors, year, title)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 3: Overview of papers on active travel, crime, and lighting") %>%
@@ -205,12 +217,18 @@ kbl(df,
 
 ## Inequalities in lighting
 
+### Gender
+
 Women more sensitive to dark spaces when walking and cycling than men [@xie_i_2018].
+
+### Age
+
+A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [prince_examining_2022].
 
 ```{r tab7, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(inequalities == 1) %>% 
-  select(authors, year, title)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 4: Overview of papers on inequalities and lighting") %>%
@@ -222,7 +240,7 @@ kbl(df,
 ```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(proper_light == 1) %>% 
-  select(authors, year, title)
+  select(authors, year, title, type)
 
 kbl(df,
     caption = "Table 5: Overview of papers on proper lighting") %>%
