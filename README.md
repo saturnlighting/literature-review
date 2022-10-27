@@ -4,10 +4,11 @@ Active Travel and Road Lighting: A Review
 # Abstract
 
 Background: There is evidence that darkness discourages people from
-walking and cycling. This is basically due to pedestrians’ and cyclists’
-fear of injury from traffic, falls, or violence. This seems to affect
-disproportionately women, the elderly, and disadvantaged groups. Aim:
-This paper provides a review on the scientific literature that
+walking and cycling. This is basically due to two reasons. Darkness
+increases pedestrians’ and cyclists’ fear and risk of 1) being involved
+in a traffic collision and 2) becoming victims of crime. This seems to
+affect disproportionately women, the elderly, and disadvantaged groups.
+Aim: This paper provides a review on the scientific literature that
 intersects between active travel and road lighting. Method: We used a
 hybrid systematic and snowballing method. TBC studies on several
 disciplines such as transportation, public health, road safety,
