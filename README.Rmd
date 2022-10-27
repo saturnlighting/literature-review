@@ -326,10 +326,8 @@ kbl(df,
 
 ## Proper lighting
 
-Most of the literature that intersects between active travel and road lighting focuses on investigating which type of road lighting is most appropriate to reverse the adverse impact of darkness on pedestrians and cyclists.
+Most of the literature that intersects between active travel and road lighting, particularly in recent years, focuses on investigating which type of road lighting is most appropriate to reverse the adverse impact of darkness on pedestrians and cyclists.
 I.e. How lighting attributes such as illuminance, light temperature, uniformity and glare, affect active travel.
-
-In recent years, there has been considerable research on this topic.
 
 "A satisfactory level of FoS reaches at the illumination levels of 5–17 lx. People feel safer if nighttime light is warm and uniform. Illuminance and uniformity are the main factors affecting PLQ under conditions of low or high illuminance, while glare and color temperature play a more significant role under high illuminance. In addition, a satisfactory level of PLQ is found at illuminance levels of 25–35 lx and light color temperature of 4000 K–5500 K" [@liu_evaluating_2022].
 

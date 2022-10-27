@@ -1250,12 +1250,11 @@ review
 ## Proper lighting
 
 Most of the literature that intersects between active travel and road
-lighting focuses on investigating which type of road lighting is most
-appropriate to reverse the adverse impact of darkness on pedestrians and
-cyclists. I.e. How lighting attributes such as illuminance, light
-temperature, uniformity and glare, affect active travel.
-
-In recent years, there has been considerable research on this topic.
+lighting, particularly in recent years, focuses on investigating which
+type of road lighting is most appropriate to reverse the adverse impact
+of darkness on pedestrians and cyclists. I.e. How lighting attributes
+such as illuminance, light temperature, uniformity and glare, affect
+active travel.
 
 “A satisfactory level of FoS reaches at the illumination levels of 5–17
 lx. People feel safer if nighttime light is warm and uniform.
