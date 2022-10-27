@@ -141,6 +141,8 @@ The findings organized by these themes are shown below.
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 <!-- Table with a summary of the most relevant literature. -->
 
+![](README_files/figure-gfm/fig2-1.png)<!-- -->
+
 ## Active travel behaviour and lighting
 
 There is evidence that street lighting influences physical activity and
@@ -443,16 +445,19 @@ One of the main reasons that active travel decreases in the dark is
 because active travellers need to see obstacles on the road and be seen
 by other road users.
 
-The pobability of suffering a traffic collision in the dark among
+The probability of suffering a traffic collision in the dark among
 pedestrians and cyclists is much greater than among other road users
 (e.g. Hennessy and Ai (2021); Wang and Cicchino (2020)).
 
-Severity of crashes during the night is also more severe (Alogaili and
-Mannering 2022).
+Poor visibility is one of the greatest risk factors for pedestrians
+(Stoker et al. 2015).
 
-Most of the research on lighting and road safey based in the US.
+Not only the frequency but also the severity of injury is higher at
+night-time (Alogaili and Mannering 2022).
 
-In the US the number of pedestrians fatally injured has increaased
+Most of the research on lighting and road safety based in the US.
+
+In the US the number of pedestrians fatally injured has increased
 considerably in the last years, and this increase has been happened
 particularly during the night (Ferenchak, Gutierrez, and Singleton 2022
 and others). Compare with UK data.
@@ -472,9 +477,7 @@ Variables related to roadway design and operations (e.g., speed limits,
 number of lanes, roadway type, and presence of traffic control) are
 significantly associated with the likelihood of a pedestrian fatality or
 serious injury occurring in darkness as compared to daylight. Alcohol
-usage by drivers or pedestrians and sociodemographic characteristics
-were also positively associated with severe injuries in darkness
-(Sanders, Schneider, and Proulx 2022).
+usage by
 
 A pedestrian injured in the dark was found to be 5.0 times more likely
 to be killed than a pedestrian injured during the day. While a lack of
@@ -510,6 +513,15 @@ approximately 50%. When illuminance was kept at 0.9 fc or higher, the
 risk of fatality and severe injury decreased significantly, especially
 in crashes that involved pedestrians and bicycles, head-on crashes, and
 angle crashes (Wei et al. 2016).
+
+Nabavi Niaki et al. (2016) found that an increase in road lighting was
+associated with more bicycle and pedestrian accidents, which might have
+been explained by the decision to add or increase the amount of lighting
+at locations in which accidents occurred.
+
+Alcohol consumption. The proportion of seriously injured cyclists who
+have been drinking is highest in early morning darkness and has strongly
+increased over the last decades (Twisk and Reurings 2013).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -699,6 +711,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Nabavi Niaki et al. (2016)
 </td>
 <td style="text-align:right;">
 2016
@@ -713,20 +726,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2016
-</td>
-<td style="text-align:left;">
-Built environment effects on cyclist injury severity in
-automobile-involved bicycle crashes
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Stoker et al. (2015)
 </td>
 <td style="text-align:right;">
 2015
@@ -741,6 +741,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+Twisk and Reurings (2013)
 </td>
 <td style="text-align:right;">
 2013
@@ -1028,7 +1029,7 @@ A review on environments and physical activity among children and youth
 found not a very consistent positive associations between street
 lighting and physical activity (Prince et al. 2022).
 
-### Income
+### Disadvantaged groups
 
 Qualitative research on perceptions of fear to crime and rashes of
 cyclists from most deprived neighbourhoods (Lusk et al. 2019).
@@ -1714,6 +1715,16 @@ Nutrition and Physical Activity* 8.
 
 </div>
 
+<div id="ref-nabavi_niaki_road_2016" class="csl-entry">
+
+Nabavi Niaki, Matin S., Ting Fu, Nicolas Saunier, Luis F.
+Miranda-Moreno, Luis Amador, and Jean-François Bruneau. 2016. “Road
+Lighting Effects on Bicycle and Pedestrian Accident Frequency: Case
+Study in Montreal, Quebec, Canada.” *Transportation Research Record*
+2555 (1): 86–94. <https://doi.org/10.3141/2555-12>.
+
+</div>
+
 <div id="ref-pena-garcia_impact_2015" class="csl-entry">
 
 Peña-García, A., A. Hurtado, and M. C. Aguilar-Luzón. 2015. “Impact of
@@ -1750,6 +1761,25 @@ Sanders, Rebecca L., Robert J. Schneider, and Frank R. Proulx. 2022.
 “Pedestrian Fatalities in Darkness: What Do We Know, and What Can Be
 Done?” *Transport Policy* 120 (May): 23–39.
 <https://doi.org/10.1016/j.tranpol.2022.02.010>.
+
+</div>
+
+<div id="ref-stoker_pedestrian_2015" class="csl-entry">
+
+Stoker, Philip, Andrea Garfinkel-Castro, Meleckidzedeck Khayesi, Wilson
+Odero, Martin N. Mwangi, Margie Peden, and Reid Ewing. 2015. “Pedestrian
+Safety and the Built Environment: A Review of the Risk Factors.”
+*Journal of Planning Literature* 30 (4): 377–92.
+<https://doi.org/10.1177/0885412215595438>.
+
+</div>
+
+<div id="ref-twisk_epidemiological_2013" class="csl-entry">
+
+Twisk, D. A. M., and Martine Reurings. 2013. “An Epidemiological Study
+of the Risk of Cycling in the Dark: The Role of Visual Perception,
+Conspicuity and Alcohol Use.” *Accident Analysis & Prevention* 60
+(November): 134–40. <https://doi.org/10.1016/j.aap.2013.08.015>.
 
 </div>
 

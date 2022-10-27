@@ -124,7 +124,7 @@ The findings organized by these themes are shown below.
 
 <!-- Table with a summary of the most relevant literature. -->
 
-```{r fig2, message=FALSE, warning=FALSE, include=FALSE}
+```{r fig2, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
 library(tidyverse)
 
@@ -202,19 +202,21 @@ kbl(df,
 
 One of the main reasons that active travel decreases in the dark is because active travellers need to see obstacles on the road and be seen by other road users. 
 
-The pobability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (e.g. @hennessy_spatial_2021; @wang_fatal_2020).
+The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (e.g. @hennessy_spatial_2021; @wang_fatal_2020).
 
-Severity of crashes during the night is also more severe [@alogaili_differences_2022].
+Poor visibility is one of the greatest risk factors for pedestrians [@stoker_pedestrian_2015].
 
-Most of the research on lighting and road safey based in the US.
+Not only the frequency but also the severity of injury is higher at night-time [@alogaili_differences_2022].
 
-In the US the number of pedestrians fatally injured has increaased considerably in the last years, and this increase has been happened particularly during the night [@ferenchak_shedding_2022 and others]. Compare with UK data.
+Most of the research on lighting and road safety based in the US.
+
+In the US the number of pedestrians fatally injured has increased considerably in the last years, and this increase has been happened particularly during the night [@ferenchak_shedding_2022 and others]. Compare with UK data.
 
 Recent papers have looked at the main factors of these crashes. 
 
 @hossain_applying_2022 found that pedestrian alcohol/drug involvement as the most frequent item in the dark-with-streetlight condition. This crash type is particularly associated with pedestrian action (crossing intersection/midblock), driver age (55–64 years), speed limit (30–35 mph), and specific area type (business with mixed residential area). Fatal pedestrian crashes were found to be associated with roadways with high speed limits (.50 mph) during the dark without streetlight condition.
 
-Variables related to roadway design and operations (e.g., speed limits, number of lanes, roadway type, and presence of traffic control) are significantly associated with the likelihood of a pedestrian fatality or serious injury occurring in darkness as compared to daylight. Alcohol usage by drivers or pedestrians and sociodemographic characteristics were also positively associated with severe injuries in darkness [@sanders_pedestrian_2022].
+Variables related to roadway design and operations (e.g., speed limits, number of lanes, roadway type, and presence of traffic control) are significantly associated with the likelihood of a pedestrian fatality or serious injury occurring in darkness as compared to daylight. Alcohol usage by 
 
 A pedestrian injured in the dark was found to be 5.0 times more likely to be killed than a pedestrian injured during the day. While a lack of street lighting does not seem to be the cause of the disproportionate increase in pedestrian injuries at night, pedestrians struck without a street light were 2.4 times more likely to be killed than those struck in the presence of a street light [@ferenchak_shedding_2022].
 
@@ -230,6 +232,9 @@ Pedestrian crossings: @uttley_effect_2017.
 
 Intersections: an study showed that an increase in intersection illuminance from low (<0.2 fc) to medium (≥ 0.2 fc and <1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes [@wei_safety_2016].
 
+@nabavi_niaki_road_2016 found that an increase in road lighting was associated with more bicycle and pedestrian accidents, which might have been explained by the decision to add or increase the amount of lighting at locations in which accidents occurred.
+
+Alcohol consumption. The proportion of seriously injured cyclists who have been drinking is highest in early morning darkness and has strongly increased over the last decades [@twisk_epidemiological_2013]. 
 
 ```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -272,7 +277,7 @@ Younger people can see better than older.
 
 A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [@prince_examining_2022].
 
-### Income
+### Disadvantaged groups
 
 Qualitative research on perceptions of fear to crime and rashes of cyclists from most deprived neighbourhoods [@lusk_bicycle_2019].  
 
