@@ -1276,6 +1276,11 @@ safe differs by city and is significantly higher in Be’er Sheba, other
 factors held equal, in compare to Haifa and Tel Aviv-Yafo” (Svechkina,
 Trop, and Portnov 2020).
 
+“minimum illuminance is a better predictor of reassurance than is mean
+illuminance. For a day–dark difference of 0.5 units on a 6-point
+response scale, the results suggest a minimum horizontal illuminance of
+approximately 2.0 lux” (S. Fotios, Monteiro, and Uttley 2019).
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 Table 5: Overview of papers on proper lighting
@@ -1360,6 +1365,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+S. Fotios, Monteiro, and Uttley (2019)
 </td>
 <td style="text-align:right;">
 2019
@@ -1747,6 +1753,15 @@ Inconsistent Findings.” *Preventive Medicine* 47 (3): 241–51.
 Fotios, S, and Hf Castleton. 2017. “Lighting for Cycling in the UK—A
 Review.” *Lighting Research & Technology* 49 (3): 381–95.
 <https://doi.org/10.1177/1477153515609391>.
+
+</div>
+
+<div id="ref-fotios_evaluation_2019" class="csl-entry">
+
+Fotios, S, A Liachenko Monteiro, and J Uttley. 2019. “Evaluation of
+Pedestrian Reassurance Gained by Higher Illuminances in Residential
+Streets Using the Day–Dark Approach.” *Lighting Research & Technology*
+51 (4): 557–75. <https://doi.org/10.1177/1477153518775464>.
 
 </div>
 

@@ -337,6 +337,8 @@ I.e. How lighting attributes such as illuminance, light temperature, uniformity 
 
 "the necessary level of illumination required by urban residents to feel safe differs by city and is significantly higher in Be’er Sheba, other factors held equal, in compare to Haifa and Tel Aviv-Yafo" [@svechkina_how_2020].
 
+"minimum illuminance is a better predictor of reassurance than is mean illuminance. For a day–dark difference of 0.5 units on a 6-point response scale, the results suggest a minimum horizontal illuminance of approximately 2.0 lux" [@fotios_evaluation_2019].
+
 ```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(proper_light == 1) %>% 
