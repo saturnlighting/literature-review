@@ -111,10 +111,7 @@ knitr::include_graphics("flow-chart.png")
 The scientific literature found was spread across several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology.
 Five main themes were identified: 1) active travel behaviour and lighting, 2) active travel collisions and lighting, 3) active travel, crime and lighting, 4) inequalities in lighting, and 5) proper lighting (i.e. optimal use of lighting to enhance reassurance while respecting the environment).
 
-The main themes of focus were proper lighting for active travel, followed by active travel collisions and lighting, and active travel behaviour and lighting. Many of the studies focused on more than one of these themes. 
-A quarter of the studies were reviews, the rest were empirical studies.
-
-The findings organized by these themes are shown below.
+The following graph shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one).
 
 <!-- What is already known in this area (and maybe what is not)? -->
 
@@ -162,6 +159,9 @@ kbl(df,
     kable_styling()
 ```
 
+The main themes of focus were proper lighting for active travel, followed by active travel collisions and lighting, and active travel behaviour and lighting. 
+Three-quarters of the studies were empirical studies, a quarter were reviews.
+
 ## Active travel behaviour and lighting
 
 There is evidence that street lighting influences physical activity and active travel levels [@lee_neighbourhood_2008; @mccormack_search_2011;
@@ -169,17 +169,17 @@ There is evidence that street lighting influences physical activity and active t
 
 Using Strava Heatmap data, @yang_crowdsourced_2022 found lighting positively associations with running but not with cycling.
 
-@fotios_effect_2022 found that darkness leads to significant reductions in pedestrians and cyclists but does not have a significant effect on the number of motorized vehicles.
+@fotios_effect_2022 found that "darkness leads to significant reductions in pedestrians and cyclists but does not have a significant effect on the number of motorized vehicles".
 
 Qualitative research suggests that street lighting influences perceived safety and impacts the walkability of the neighbourhood [@rahm_evening_2021].
 
-@zacharias_environmental_2021 found street lighting highly significantly associated with higher uptake and deposit of dock-less shared bicycle trips.
+@zacharias_environmental_2021 found "street lighting highly significantly associated with higher uptake and deposit of dock-less shared bicycle trips".
 
-Locations with no road lighting showed a significantly greater reduction in cycling after-dark compared with locations that had some lighting. A nonlinear relationship was found between relative brightness at a location at night and the reduction in cyclists after-dark. Small initial increases in brightness resulted in large reductions in the difference between cyclist numbers in daylight and after-dark, but this effect reached a plateau as brightness increased [@uttley_road_2020].
+"Locations with no road lighting showed a significantly greater reduction in cycling after-dark compared with locations that had some lighting. A nonlinear relationship was found between relative brightness at a location at night and the reduction in cyclists after-dark. Small initial increases in brightness resulted in large reductions in the difference between cyclist numbers in daylight and after-dark, but this effect reached a plateau as brightness increased" [@uttley_road_2020].
 
-@fotios_whole-year_2019 found that ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit.
+@fotios_whole-year_2019 found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
 
-Odds ratios indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists [@uttley_using_2017].
+"Odds ratios indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
 
 @lee_neighbourhood_2008 found good lighting to be the most important facilitator of walking and cycling.
 
@@ -202,7 +202,7 @@ kbl(df,
 
 One of the main reasons that active travel decreases in the dark is because active travellers need to see obstacles on the road and be seen by other road users. 
 
-The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (e.g. @hennessy_spatial_2021; @wang_fatal_2020).
+The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (e.g. @hennessy_spatial_2021; @wang_fatal_2020; @sullivan_role_2002).
 
 Poor visibility is one of the greatest risk factors for pedestrians [@stoker_pedestrian_2015].
 
@@ -214,27 +214,30 @@ In the US the number of pedestrians fatally injured has increased considerably i
 
 Recent papers have looked at the main factors of these crashes. 
 
-@hossain_applying_2022 found that pedestrian alcohol/drug involvement as the most frequent item in the dark-with-streetlight condition. This crash type is particularly associated with pedestrian action (crossing intersection/midblock), driver age (55–64 years), speed limit (30–35 mph), and specific area type (business with mixed residential area). Fatal pedestrian crashes were found to be associated with roadways with high speed limits (.50 mph) during the dark without streetlight condition.
+@hossain_applying_2022 found that "pedestrian alcohol/drug involvement as the most frequent item in the dark-with-streetlight condition. This crash type is particularly associated with pedestrian action (crossing intersection/midblock), driver age (55–64 years), speed limit (30–35 mph), and specific area type (business with mixed residential area). Fatal pedestrian crashes were found to be associated with roadways with high speed limits (.50 mph) during the dark without streetlight condition".
 
-Variables related to roadway design and operations (e.g., speed limits, number of lanes, roadway type, and presence of traffic control) are significantly associated with the likelihood of a pedestrian fatality or serious injury occurring in darkness as compared to daylight. Alcohol usage by 
+"A pedestrian injured in the dark was found to be 5.0 times more likely to be killed than a pedestrian injured during the day. While a lack of street lighting does not seem to be the cause of the disproportionate increase in pedestrian injuries at night, pedestrians struck without a street light were 2.4 times more likely to be killed than those struck in the presence of a street light" [@ferenchak_shedding_2022].
 
-A pedestrian injured in the dark was found to be 5.0 times more likely to be killed than a pedestrian injured during the day. While a lack of street lighting does not seem to be the cause of the disproportionate increase in pedestrian injuries at night, pedestrians struck without a street light were 2.4 times more likely to be killed than those struck in the presence of a street light [@ferenchak_shedding_2022].
+Less research has been conducted in developing countries. In Bangladesh, "seven significant factors influencing pedestrian-vehicle crash severity, including crashes during dawn/dusk period and night period (where street light was absent)" [@zafri_exploring_2020].
 
-Less research has been conducted in developing countries. In Bangladesh, seven significant factors influencing pedestrian-vehicle crash severity, including crashes during dawn/dusk period and night period (where street light was absent) [@zafri_exploring_2020].
+In China, "the probabilities of fatal single-vehicle and vehicle–pedestrian night-time accidents are also greater than that of fatal vehicle–vehicle night-time accidents, by factors of 7.6 and 1.7, respectively" [@liu_exploring_2019]. 
 
-In China, the probabilities of fatal single-vehicle and vehicle–pedestrian night-time accidents are also greater than that of fatal vehicle–vehicle night-time accidents, by factors of 7.6 and 1.7, respectively [@liu_exploring_2019]. 
-
-A study on bicycle-motor vehicle crashes found that crashes in low light conditions and during early morning hours are more likely to result in higher injury severity [@asgarzadeh_impact_2018].
+A study on bicycle-motor vehicle crashes found that "crashes in low light conditions and during early morning hours are more likely to result in higher injury severity" [@asgarzadeh_impact_2018].
 
 Papers on crashes during darkness in specific spots: intersections and pedestrian crossings.
 
 Pedestrian crossings: @uttley_effect_2017.
 
-Intersections: an study showed that an increase in intersection illuminance from low (<0.2 fc) to medium (≥ 0.2 fc and <1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes [@wei_safety_2016].
+Intersections: an study showed that "an increase in intersection illuminance from low (<0.2 fc) to medium (≥ 0.2 fc and <1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes" [@wei_safety_2016].
 
-@nabavi_niaki_road_2016 found that an increase in road lighting was associated with more bicycle and pedestrian accidents, which might have been explained by the decision to add or increase the amount of lighting at locations in which accidents occurred.
+@nabavi_niaki_road_2016 found that "an increase in road lighting was associated with more bicycle and pedestrian accidents, which might have been explained by the decision to add or increase the amount of lighting at locations in which accidents occurred".
 
-Alcohol consumption. The proportion of seriously injured cyclists who have been drinking is highest in early morning darkness and has strongly increased over the last decades [@twisk_epidemiological_2013]. 
+Alcohol consumption. "The proportion of seriously injured cyclists who have been drinking is highest in early morning darkness and has strongly increased over the last decades" [@twisk_epidemiological_2013]. 
+
+
+"Injury accidents in on lit roads are reduced by 50%. The effect on fatal accidents is slightly larger. The effect during twilight is about 2/3 of the effect in darkness. The effects on pedestrian, bicycle and moped accidents are significantly larger than the effects on automobile and motorcycle accidents. The risk of injury accidents was found to increase in darkness. The average increase in risk was estimated to 17% on lit rural roads and 145% on unlit rural roads. The average increase in risk with respect to pedestrian accidents is about 140% on lit rural roads and about 360% on unlit rural roads" [@wanvik_effects_2009]. 
+
+"The odds of sustaining a fatal injury are 49% lower at intersections than at midblock locations under daylight conditions, 24% lower under dark-with-street-lighting conditions, and 5% lower under dark-without-street-lighting conditions. Relative to dark conditions without street lighting, daylight reduces the odds of a fatal injury by 75% at midblock locations and by 83% at intersections, whereas street lighting reduces the odds by 42% at midblock locations and by 54% at intersections" [@siddiqui_crossing_2006].
 
 ```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -248,8 +251,15 @@ kbl(df,
 
 ## Active travel, crime, and lighting
 
-Another factor that seems to explain less use of walking and cycling is fear of crime.
+Another fundamental factor that explains less walking and cycling during night-time is fear of crime.
 
+There is evidence that street lighting decreases crime (references needed) and reassurance of pedestrians and cyclists (e.g. @rahm_evening_2021).
+
+People's perceived nighttime safety (qualitative research):
+
+"Proper street lighting is the main contributor to enhancing the feeling of safety on streets" [@park_pedestrian_2020].
+
+"Important lighting attributes influencing people’s perceived safety are identified as: lighting uniformity, facial recognition, concealment, and perceived brightness. The findings further indicate that some environmental context attributes, environmental perception attributes, and socio-demographic attributes, also significantly influence people’s perceived safety" [@wu_relationship_2016].
 
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
