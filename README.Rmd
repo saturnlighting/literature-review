@@ -10,7 +10,9 @@ always_allow_html: true
 
 # Abstract
 
-Background: There is evidence that darkness discourages people from walking and cycling. This is basically due to two reasons. Darkness increases pedestrians' and cyclists' fear and risk of 1) being involved in a road collision and 2) becoming victims of crime. This seems to affect disproportionately women, the elderly, and disadvantaged groups.
+Background: There is evidence that darkness discourages people from walking and cycling. 
+This is basically due to pedestrians' and cyclists' fear of injury from traffic, falls, or violence. 
+This seems to affect disproportionately women, the elderly, and disadvantaged groups.
 Aim: This paper provides a review on the scientific literature that intersects between active travel and road lighting.
 Method: We used a hybrid systematic and snowballing method. TBC studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
 Results: The literature suggests that... Gaps in the literature are...
@@ -66,6 +68,8 @@ After screening abstracts and full text, TBC studies were selected.
 Second, we checked all the references from the studies selected (i.e. snowball technique), and after screening TBC abstracts and full texts, TBC additional papers were selected. 
 In total, TBC were reviewed. 
 A flow chart of included studies is shown in Figure 1.
+
+<!-- Consider doing the search only for papers from 2000 -->
 
 <!-- Papers we could not access: -->
 
@@ -160,7 +164,7 @@ kbl(df,
 ```
 
 The main themes of focus were proper lighting for active travel, followed by active travel collisions and lighting, and active travel behaviour and lighting. 
-Three-quarters of the studies were empirical studies, a quarter were reviews.
+Three-quarters of the studies were empirical studies (five of them qualitative research the rest quantitative) and a quarter were reviews. 
 
 ## Active travel behaviour and lighting
 
@@ -234,7 +238,6 @@ Intersections: an study showed that "an increase in intersection illuminance fro
 
 Alcohol consumption. "The proportion of seriously injured cyclists who have been drinking is highest in early morning darkness and has strongly increased over the last decades" [@twisk_epidemiological_2013]. 
 
-
 "Injury accidents in on lit roads are reduced by 50%. The effect on fatal accidents is slightly larger. The effect during twilight is about 2/3 of the effect in darkness. The effects on pedestrian, bicycle and moped accidents are significantly larger than the effects on automobile and motorcycle accidents. The risk of injury accidents was found to increase in darkness. The average increase in risk was estimated to 17% on lit rural roads and 145% on unlit rural roads. The average increase in risk with respect to pedestrian accidents is about 140% on lit rural roads and about 360% on unlit rural roads" [@wanvik_effects_2009]. 
 
 "The odds of sustaining a fatal injury are 49% lower at intersections than at midblock locations under daylight conditions, 24% lower under dark-with-street-lighting conditions, and 5% lower under dark-without-street-lighting conditions. Relative to dark conditions without street lighting, daylight reduces the odds of a fatal injury by 75% at midblock locations and by 83% at intersections, whereas street lighting reduces the odds by 42% at midblock locations and by 54% at intersections" [@siddiqui_crossing_2006].
@@ -253,13 +256,20 @@ kbl(df,
 
 Another fundamental factor that explains less walking and cycling during night-time is fear of crime.
 
-There is evidence that street lighting decreases crime (references needed) and reassurance of pedestrians and cyclists (e.g. @rahm_evening_2021).
+There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark (e.g. @rahm_evening_2021; @loukaitou-sideris_is_2006; @cozens_critical_2003; @painter_influence_1996).
+
+"Perceived safety tends to affect the physical activity of groups already known to exhibit greater anxiety about crime" [@foster_built_2008].
 
 People's perceived nighttime safety (qualitative research):
 
 "Proper street lighting is the main contributor to enhancing the feeling of safety on streets" [@park_pedestrian_2020].
 
 "Important lighting attributes influencing people’s perceived safety are identified as: lighting uniformity, facial recognition, concealment, and perceived brightness. The findings further indicate that some environmental context attributes, environmental perception attributes, and socio-demographic attributes, also significantly influence people’s perceived safety" [@wu_relationship_2016].
+
+"Danger was predicted by the pleasantness of the lighting, gender, brightness and environmental trust" [@johansson_individual_2011].
+
+methodological inconsistencies
+
 
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -274,6 +284,10 @@ kbl(df,
 ## Inequalities in lighting
 
 Both the fear of having an accident and the fear of being a victim of crime seem to affect groups differently.
+
+"Perceived safety tends to affect the physical activity of groups already known to exhibit greater anxiety about crime" [@foster_built_2008].
+
+"Studies that focused on women, children, and the elderly have been able to identify a stronger link between feelings of risk and fear at the neighborhood and high levels of inactivity" [@loukaitou-sideris_is_2006].
 
 ### Gender
 
@@ -332,6 +346,10 @@ The scientific literature on the intersections of active travel and lighting is 
 -   Lack of research on developing countries
 
 -   No research on wheeling and lighting
+
+-   Measurement limitations (see @foster_built_2008).
+
+-   Methodological inconsistencies (see @loukaitou-sideris_is_2006)
 
 ## Strenghts and limitations
 

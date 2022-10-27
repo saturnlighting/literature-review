@@ -4,11 +4,10 @@ Active Travel and Road Lighting: A Review
 # Abstract
 
 Background: There is evidence that darkness discourages people from
-walking and cycling. This is basically due to two reasons. Darkness
-increases pedestrians’ and cyclists’ fear and risk of 1) being involved
-in a road collision and 2) becoming victims of crime. This seems to
-affect disproportionately women, the elderly, and disadvantaged groups.
-Aim: This paper provides a review on the scientific literature that
+walking and cycling. This is basically due to pedestrians’ and cyclists’
+fear of injury from traffic, falls, or violence. This seems to affect
+disproportionately women, the elderly, and disadvantaged groups. Aim:
+This paper provides a review on the scientific literature that
 intersects between active travel and road lighting. Method: We used a
 hybrid systematic and snowballing method. TBC studies on several
 disciplines such as transportation, public health, road safety,
@@ -97,6 +96,7 @@ Second, we checked all the references from the studies selected
 texts, TBC additional papers were selected. In total, TBC were reviewed.
 A flow chart of included studies is shown in Figure 1.
 
+<!-- Consider doing the search only for papers from 2000 -->
 <!-- Papers we could not access: -->
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
 <!-- Safe on the move: The importance of the built environment (  Book Chapter) 
@@ -141,7 +141,8 @@ identified themes (some of the papers deal with more than one).
 The main themes of focus were proper lighting for active travel,
 followed by active travel collisions and lighting, and active travel
 behaviour and lighting. Three-quarters of the studies were empirical
-studies, a quarter were reviews.
+studies (five of them qualitative research the rest quantitative) and a
+quarter were reviews.
 
 ## Active travel behaviour and lighting
 
@@ -785,7 +786,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-\[Siddiqui, Chu, and Guttenplan (2006)
+Siddiqui, Chu, and Guttenplan (2006)
 </td>
 <td style="text-align:right;">
 2006
@@ -820,9 +821,14 @@ empirical
 Another fundamental factor that explains less walking and cycling during
 night-time is fear of crime.
 
-There is evidence that street lighting decreases crime (references
-needed) and reassurance of pedestrians and cyclists (e.g. Rahm,
-Sternudd, and Johansson (2021)).
+There is evidence that street lighting decreases crime and enhances
+reassurance and confidence of pedestrians and cyclists after dark (e.g.
+Rahm, Sternudd, and Johansson (2021); Loukaitou-Sideris (2006); Cozens
+et al. (2003); Painter (1996)).
+
+“Perceived safety tends to affect the physical activity of groups
+already known to exhibit greater anxiety about crime” (Foster and
+Giles-Corti 2008).
 
 People’s perceived nighttime safety (qualitative research):
 
@@ -835,6 +841,11 @@ perceived brightness. The findings further indicate that some
 environmental context attributes, environmental perception attributes,
 and socio-demographic attributes, also significantly influence people’s
 perceived safety” (Wu and Kim 2016).
+
+“Danger was predicted by the pleasantness of the lighting, gender,
+brightness and environmental trust” (Johansson, Rosén, and Küller 2011).
+
+methodological inconsistencies
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -918,33 +929,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Road lighting and pedestrian reassurance after dark: A review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2014
-</td>
-<td style="text-align:left;">
-The role of the built environment on perceived safety from crime and
-walking: examining direct and indirect impacts
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Johansson, Rosén, and Küller (2011)
 </td>
 <td style="text-align:right;">
 2011
@@ -959,6 +944,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Foster and Giles-Corti (2008)
 </td>
 <td style="text-align:right;">
 2008
@@ -973,6 +959,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+Loukaitou-Sideris (2006)
 </td>
 <td style="text-align:right;">
 2006
@@ -1002,19 +989,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2000
-</td>
-<td style="text-align:left;">
-Perceptions of safety at night in different lighting conditions
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Painter (1996)
 </td>
 <td style="text-align:right;">
 1996
@@ -1034,6 +1009,14 @@ empirical
 
 Both the fear of having an accident and the fear of being a victim of
 crime seem to affect groups differently.
+
+“Perceived safety tends to affect the physical activity of groups
+already known to exhibit greater anxiety about crime” (Foster and
+Giles-Corti 2008).
+
+“Studies that focused on women, children, and the elderly have been able
+to identify a stronger link between feelings of risk and fear at the
+neighborhood and high levels of inactivity” (Loukaitou-Sideris 2006).
 
 ### Gender
 
@@ -1206,6 +1189,51 @@ Annear et al. (2014)
 <td style="text-align:left;">
 Environmental influences on healthy and active ageing: A systematic
 review
+</td>
+<td style="text-align:left;">
+review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Johansson, Rosén, and Küller (2011)
+</td>
+<td style="text-align:right;">
+2011
+</td>
+<td style="text-align:left;">
+Individual factors influencing the assessment of the outdoor lighting of
+an urban footpath
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Foster and Giles-Corti (2008)
+</td>
+<td style="text-align:right;">
+2008
+</td>
+<td style="text-align:left;">
+The built environment, neighborhood crime and constrained physical
+activity: An exploration of inconsistent findings
+</td>
+<td style="text-align:left;">
+review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Loukaitou-Sideris (2006)
+</td>
+<td style="text-align:right;">
+2006
+</td>
+<td style="text-align:left;">
+Is it safe to walk? Neighborhood safety and security considerations and
+their effects on walking
 </td>
 <td style="text-align:left;">
 review
@@ -1571,6 +1599,10 @@ increase and be safer?**
 
 -   No research on wheeling and lighting
 
+-   Measurement limitations (see Foster and Giles-Corti (2008)).
+
+-   Methodological inconsistencies (see Loukaitou-Sideris (2006))
+
 ## Strenghts and limitations
 
 -   Systematic but selection of papers we subjectively found more
@@ -1668,6 +1700,15 @@ Injury Prevention* 23 (7): 434–39.
 
 </div>
 
+<div id="ref-foster_built_2008" class="csl-entry">
+
+Foster, Sarah, and Billie Giles-Corti. 2008. “The Built Environment,
+Neighborhood Crime and Constrained Physical Activity: An Exploration of
+Inconsistent Findings.” *Preventive Medicine* 47 (3): 241–51.
+<https://doi.org/10.1016/j.ypmed.2008.03.017>.
+
+</div>
+
 <div id="ref-fotios_lighting_2017" class="csl-entry">
 
 Fotios, S, and Hf Castleton. 2017. “Lighting for Cycling in the UK—A
@@ -1713,6 +1754,15 @@ Injury Crash Patterns Under Different Lighting Conditions.”
 
 </div>
 
+<div id="ref-johansson_individual_2011" class="csl-entry">
+
+Johansson, M., M. Rosén, and R. Küller. 2011. “Individual Factors
+Influencing the Assessment of the Outdoor Lighting of an Urban
+Footpath.” *Lighting Research & Technology* 43 (1): 31–43.
+<https://doi.org/10.1177/1477153510370757>.
+
+</div>
+
 <div id="ref-lee_neighbourhood_2008" class="csl-entry">
 
 Lee, Chanam, and Anne Vernez Moudon. 2008. “Neighbourhood Design and
@@ -1728,6 +1778,15 @@ Liu, Jing, Jingyu Li, Kun Wang, Jianyou Zhao, Haozhe Cong, and Ping He.
 Accidents Under Low Illumination Conditions.” *Advances in Mechanical
 Engineering* 11 (4): 1687814019840940.
 <https://doi.org/10.1177/1687814019840940>.
+
+</div>
+
+<div id="ref-loukaitou-sideris_is_2006" class="csl-entry">
+
+Loukaitou-Sideris, Anastasia. 2006. “Is It Safe to Walk?1 Neighborhood
+Safety and Security Considerations and Their Effects on Walking.”
+*Journal of Planning Literature* 20 (3): 219–32.
+<https://doi.org/10.1177/0885412205282770>.
 
 </div>
 
@@ -1759,6 +1818,15 @@ Miranda-Moreno, Luis Amador, and Jean-François Bruneau. 2016. “Road
 Lighting Effects on Bicycle and Pedestrian Accident Frequency: Case
 Study in Montreal, Quebec, Canada.” *Transportation Research Record*
 2555 (1): 86–94. <https://doi.org/10.3141/2555-12>.
+
+</div>
+
+<div id="ref-painter_influence_1996" class="csl-entry">
+
+Painter, Kate. 1996. “The Influence of Street Lighting Improvements on
+Crime, Fear and Pedestrian Street Use, After Dark.” *Landscape and Urban
+Planning* 35 (2-3): 193–201.
+<https://doi.org/10.1016/0169-2046(96)00311-8>.
 
 </div>
 
