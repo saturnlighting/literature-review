@@ -13,7 +13,7 @@ always_allow_html: true
 Background: There is evidence that darkness discourages people from walking and cycling. 
 This is basically due to two reasons. Darkness increases pedestrians' and cyclists' fear and risk of 1) being involved in a traffic collision and 2) becoming victims of crime. 
 This seems to affect disproportionately women, the elderly, and disadvantaged groups.
-Aim: This paper provides a review on the scientific literature that intersects between active travel and road lighting.
+Aim: This paper provides a review on the scientific literature that intersects between active travel and road lighting to better understand the relationship between both factors.
 Method: We used a hybrid systematic and snowballing method. TBC studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
 Results: The literature suggests that... Gaps in the literature are...
 Conclusion: 
@@ -268,9 +268,6 @@ People's perceived nighttime safety (qualitative research):
 
 "Danger was predicted by the pleasantness of the lighting, gender, brightness and environmental trust" [@johansson_individual_2011].
 
-methodological inconsistencies
-
-
 ```{r tab6, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
   filter(crime == 1) %>% 
@@ -283,7 +280,14 @@ kbl(df,
 
 ## Inequalities in lighting
 
-Both the fear of having an accident and the fear of being a victim of crime seem to affect groups differently.
+Fear of danger of injury from traffic, falls, or violence seems to affect groups differently.
+
+<!-- **fears from traffic** -->
+
+
+<!-- **fears from crime** -->
+
+"the study also found that age and gender influenced the level of anxiety among pedestrians" [@park_pedestrian_2020].
 
 "Perceived safety tends to affect the physical activity of groups already known to exhibit greater anxiety about crime" [@foster_built_2008].
 
@@ -291,14 +295,19 @@ Both the fear of having an accident and the fear of being a victim of crime seem
 
 ### Gender
 
-Women are more sensitive to dark spaces when walking and cycling than men [@xie_i_2018].
+"for pedestrians, the deterrence of darkness was similar for males and females" [@fotios_extending_2022].
 
-Women expressed a greater proportion of the comments related to lighting (76%) and perceived safety (69%) [@rahm_evening_2021].
+"Women are more sensitive to dark spaces when walking and cycling than men" [@xie_i_2018].
+
+"Women expressed a greater proportion of the comments related to lighting (76%) and perceived safety (69%)" [@rahm_evening_2021].
+
+"Women have a higher perceived risk of being assaulted/robbed/harassed compared with men. At night, pedestrians perceived suburban environments as insecure, and the change in the level of security was higher for women than men. Also, night time security varied over different land-use types between men and women" [@basu_unequal_2021].
+
+"the participating women in general, assessed the path as more dangerous than did the men" [@johansson_individual_2011].
 
 ### Age
 
 Younger people can see better than older.
-
 A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [@prince_examining_2022].
 
 ### Disadvantaged groups
@@ -316,6 +325,19 @@ kbl(df,
 ```
 
 ## Proper lighting
+
+Most of the literature that intersects between active travel and road lighting focuses on investigating which type of road lighting is most appropriate to reverse the adverse impact of darkness on pedestrians and cyclists.
+I.e. How lighting attributes such as illuminance, light temperature, uniformity and glare, affect active travel.
+
+In recent years, there has been considerable research on this topic.
+
+"A satisfactory level of FoS reaches at the illumination levels of 5–17 lx. People feel safer if nighttime light is warm and uniform. Illuminance and uniformity are the main factors affecting PLQ under conditions of low or high illuminance, while glare and color temperature play a more significant role under high illuminance. In addition, a satisfactory level of PLQ is found at illuminance levels of 25–35 lx and light color temperature of 4000 K–5500 K" [@liu_evaluating_2022].
+
+"Precise estimates of optimal illuminance, these ranging from 8.9 lx to 26 lx, depending on location" [@portnov_establishing_2022].
+
+"higher levels of illumination and uniformity positively affect FoS, while lights perceived as warm tend to generate higher FoS than lights perceived as cold" [@portnov_linking_2020].
+
+"the necessary level of illumination required by urban residents to feel safe differs by city and is significantly higher in Be’er Sheba, other factors held equal, in compare to Haifa and Tel Aviv-Yafo" [@svechkina_how_2020].
 
 ```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -343,7 +365,7 @@ The scientific literature on the intersections of active travel and lighting is 
 
 ## Research gaps
 
--   Lack of research on developing countries
+-   Lack of research in developing countries
 
 -   No research on wheeling and lighting
 

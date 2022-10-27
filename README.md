@@ -9,12 +9,12 @@ increases pedestrians’ and cyclists’ fear and risk of 1) being involved
 in a traffic collision and 2) becoming victims of crime. This seems to
 affect disproportionately women, the elderly, and disadvantaged groups.
 Aim: This paper provides a review on the scientific literature that
-intersects between active travel and road lighting. Method: We used a
-hybrid systematic and snowballing method. TBC studies on several
-disciplines such as transportation, public health, road safety,
-criminology, social inequalities, and engineering and technology were
-reviewed. Results: The literature suggests that… Gaps in the literature
-are… Conclusion:
+intersects between active travel and road lighting to better understand
+the relationship between both factors. Method: We used a hybrid
+systematic and snowballing method. TBC studies on several disciplines
+such as transportation, public health, road safety, criminology, social
+inequalities, and engineering and technology were reviewed. Results: The
+literature suggests that… Gaps in the literature are… Conclusion:
 
 # Introduction
 
@@ -492,7 +492,7 @@ severity, including crashes during dawn/dusk period and night period
 In China, “the probabilities of fatal single-vehicle and
 vehicle–pedestrian night-time accidents are also greater than that of
 fatal vehicle–vehicle night-time accidents, by factors of 7.6 and 1.7,
-respectively” (Liu et al. 2019).
+respectively” (J. Liu et al. 2019).
 
 A study on bicycle-motor vehicle crashes found that “crashes in low
 light conditions and during early morning hours are more likely to
@@ -667,7 +667,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Liu et al. (2019)
+J. Liu et al. (2019)
 </td>
 <td style="text-align:right;">
 2019
@@ -846,8 +846,6 @@ perceived safety” (Wu and Kim 2016).
 “Danger was predicted by the pleasantness of the lighting, gender,
 brightness and environmental trust” (Johansson, Rosén, and Küller 2011).
 
-methodological inconsistencies
-
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 Table 3: Overview of papers on active travel, crime, and lighting
@@ -1008,8 +1006,14 @@ empirical
 
 ## Inequalities in lighting
 
-Both the fear of having an accident and the fear of being a victim of
-crime seem to affect groups differently.
+Fear of danger of injury from traffic, falls, or violence seems to
+affect groups differently.
+
+<!-- **fears from traffic** -->
+<!-- **fears from crime** -->
+
+“the study also found that age and gender influenced the level of
+anxiety among pedestrians” (Park and Garcia 2020).
 
 “Perceived safety tends to affect the physical activity of groups
 already known to exhibit greater anxiety about crime” (Foster and
@@ -1021,19 +1025,31 @@ neighborhood and high levels of inactivity” (Loukaitou-Sideris 2006).
 
 ### Gender
 
-Women are more sensitive to dark spaces when walking and cycling than
-men (Xie and Spinney 2018).
+“for pedestrians, the deterrence of darkness was similar for males and
+females” (S. Fotios, Uttley, and Gorjimahlabani 2022).
 
-Women expressed a greater proportion of the comments related to lighting
-(76%) and perceived safety (69%) (Rahm, Sternudd, and Johansson 2021).
+“Women are more sensitive to dark spaces when walking and cycling than
+men” (Xie and Spinney 2018).
+
+“Women expressed a greater proportion of the comments related to
+lighting (76%) and perceived safety (69%)” (Rahm, Sternudd, and
+Johansson 2021).
+
+“Women have a higher perceived risk of being assaulted/robbed/harassed
+compared with men. At night, pedestrians perceived suburban environments
+as insecure, and the change in the level of security was higher for
+women than men. Also, night time security varied over different land-use
+types between men and women” (Basu et al. 2021).
+
+“the participating women in general, assessed the path as more dangerous
+than did the men” (Johansson, Rosén, and Küller 2011).
 
 ### Age
 
-Younger people can see better than older.
-
-A review on environments and physical activity among children and youth
-found not a very consistent positive associations between street
-lighting and physical activity (Prince et al. 2022).
+Younger people can see better than older. A review on environments and
+physical activity among children and youth found not a very consistent
+positive associations between street lighting and physical activity
+(Prince et al. 2022).
 
 ### Disadvantaged groups
 
@@ -1079,6 +1095,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+S. Fotios, Uttley, and Gorjimahlabani (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -1093,20 +1110,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-Socioeconomic and racial disparities of sidewalk quality in a
-traditional rust belt city
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Basu et al. (2021)
 </td>
 <td style="text-align:right;">
 2021
@@ -1240,23 +1244,38 @@ their effects on walking
 review
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2005
-</td>
-<td style="text-align:left;">
-Profile of physical activity levels in community-dwelling older adults
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
 </tbody>
 </table>
 
 ## Proper lighting
+
+Most of the literature that intersects between active travel and road
+lighting focuses on investigating which type of road lighting is most
+appropriate to reverse the adverse impact of darkness on pedestrians and
+cyclists. I.e. How lighting attributes such as illuminance, light
+temperature, uniformity and glare, affect active travel.
+
+In recent years, there has been considerable research on this topic.
+
+“A satisfactory level of FoS reaches at the illumination levels of 5–17
+lx. People feel safer if nighttime light is warm and uniform.
+Illuminance and uniformity are the main factors affecting PLQ under
+conditions of low or high illuminance, while glare and color temperature
+play a more significant role under high illuminance. In addition, a
+satisfactory level of PLQ is found at illuminance levels of 25–35 lx and
+light color temperature of 4000 K–5500 K” (M. Liu et al. 2022).
+
+“Precise estimates of optimal illuminance, these ranging from 8.9 lx to
+26 lx, depending on location” (B. Portnov et al. 2022).
+
+“higher levels of illumination and uniformity positively affect FoS,
+while lights perceived as warm tend to generate higher FoS than lights
+perceived as cold” (B. A. Portnov et al. 2020).
+
+“the necessary level of illumination required by urban residents to feel
+safe differs by city and is significantly higher in Be’er Sheba, other
+factors held equal, in compare to Haifa and Tel Aviv-Yafo” (Svechkina,
+Trop, and Portnov 2020).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -1281,6 +1300,7 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
+M. Liu et al. (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -1296,6 +1316,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+B. Portnov et al. (2022)
 </td>
 <td style="text-align:right;">
 2022
@@ -1310,6 +1331,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+B. A. Portnov et al. (2020)
 </td>
 <td style="text-align:right;">
 2020
@@ -1324,6 +1346,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Svechkina, Trop, and Portnov (2020)
 </td>
 <td style="text-align:right;">
 2020
@@ -1596,7 +1619,7 @@ increase and be safer?**
 
 ## Research gaps
 
--   Lack of research on developing countries
+-   Lack of research in developing countries
 
 -   No research on wheeling and lighting
 
@@ -1649,6 +1672,16 @@ Courtney, and David C. Christiani. 2018. “The Impact of Weather, Road
 Surface, Time-of-Day, and Light Conditions on Severity of Bicycle-Motor
 Vehicle Crash Injuries.” *American Journal of Industrial Medicine* 61
 (7): 556–65. <https://doi.org/10.1002/ajim.22849>.
+
+</div>
+
+<div id="ref-basu_unequal_2021" class="csl-entry">
+
+Basu, Nandita, Md Mazharul Haque, Mark King, Md Kamruzzaman, and Oscar
+Oviedo-Trespalacios. 2021. “The Unequal Gender Effects of the Suburban
+Built Environment on Perceptions of Security.” *Journal of Transport &
+Health* 23 (December): 101243.
+<https://doi.org/10.1016/j.jth.2021.101243>.
 
 </div>
 
@@ -1736,6 +1769,15 @@ Research & Technology* 51 (1): 55–64.
 
 </div>
 
+<div id="ref-fotios_extending_2022" class="csl-entry">
+
+Fotios, S, J Uttley, and S Gorjimahlabani. 2022. “Extending Observations
+of Ambient Light Level and Active Travel to Explore Age and Gender
+Differences in Reassurance.” *Lighting Research & Technology*, June,
+14771535221080657. <https://doi.org/10.1177/14771535221080657>.
+
+</div>
+
 <div id="ref-hennessy_spatial_2021" class="csl-entry">
 
 Hennessy, Emily Rose, and Chengbo Ai. 2021. “A Spatial Comparison of
@@ -1779,6 +1821,17 @@ Liu, Jing, Jingyu Li, Kun Wang, Jianyou Zhao, Haozhe Cong, and Ping He.
 Accidents Under Low Illumination Conditions.” *Advances in Mechanical
 Engineering* 11 (4): 1687814019840940.
 <https://doi.org/10.1177/1687814019840940>.
+
+</div>
+
+<div id="ref-liu_evaluating_2022" class="csl-entry">
+
+Liu, Ming, Baogang Zhang, Tong Luo, Yue Liu, Boris A. Portnov, Tamar
+Trop, Weili Jiao, Huichan Liu, Yiwei Li, and Qingyuan Liu. 2022.
+“Evaluating Street Lighting Quality in Residential Areas by Combining
+Remote Sensing Tools and a Survey on Pedestrians’ Perceptions of Safety
+and Visual Comfort.” *Remote Sensing* 14 (4): 826.
+<https://doi.org/10.3390/rs14040826>.
 
 </div>
 
@@ -1849,6 +1902,25 @@ Public Lighting on Pedestrians’ Perception of Safety and Well-Being.”
 
 </div>
 
+<div id="ref-portnov_establishing_2022" class="csl-entry">
+
+Portnov, BA, S Fotios, R Saad, and D Kliger. 2022. “Establishing Optimal
+Illuminance for Pedestrian Reassurance Using Segmented Regression.”
+*Lighting Research & Technology*, August, 14771535221080649.
+<https://doi.org/10.1177/14771535221080649>.
+
+</div>
+
+<div id="ref-portnov_linking_2020" class="csl-entry">
+
+Portnov, Boris A., Rami Saad, Tamar Trop, Doron Kliger, and Alina
+Svechkina. 2020. “Linking Nighttime Outdoor Lighting Attributes to
+Pedestrians’ Feeling of Safety: An Interactive Survey Approach.” Edited
+by Quan Yuan. *PLOS ONE* 15 (11): e0242172.
+<https://doi.org/10.1371/journal.pone.0242172>.
+
+</div>
+
 <div id="ref-prince_examining_2022" class="csl-entry">
 
 Prince, Stephanie A., Samantha Lancione, Justin J. Lang, Nana Amankwah,
@@ -1904,6 +1976,15 @@ Sullivan, John M, and Michael J Flannagan. 2002. “The Role of Ambient
 Light Level in Fatal Crashes: Inferences from Daylight Saving Time
 Transitions.” *Accident Analysis & Prevention* 34 (4): 487–98.
 <https://doi.org/10.1016/S0001-4575(01)00046-X>.
+
+</div>
+
+<div id="ref-svechkina_how_2020" class="csl-entry">
+
+Svechkina, Alina, Tamar Trop, and Boris A. Portnov. 2020. “How Much
+Lighting Is Required to Feel Safe When Walking Through the Streets at
+Night?” *Sustainability* 12 (8): 3133.
+<https://doi.org/10.3390/su12083133>.
 
 </div>
 
