@@ -326,8 +326,10 @@ kbl(df,
 
 ## Proper lighting
 
-Most of the literature that intersects between active travel and road lighting, particularly in recent years, focuses on investigating which type of road lighting is most appropriate to reverse the adverse impact of darkness on pedestrians and cyclists.
+Most of the literature that intersects between active travel and road lighting, particularly in recent years, focuses on investigating which type of road lighting is most appropriate to improve pedestrians and cyclists reassurances.
 I.e. How lighting attributes such as illuminance, light temperature, uniformity and glare, affect active travel.
+
+<!-- "R"eassurance describes the confidence a pedestrian might gain from road lighting (and other factors) to walk along a footpath or road after dark, and is intended to describe both perceived safety and fear of crime". -->
 
 "A satisfactory level of FoS reaches at the illumination levels of 5–17 lx. People feel safer if nighttime light is warm and uniform. Illuminance and uniformity are the main factors affecting PLQ under conditions of low or high illuminance, while glare and color temperature play a more significant role under high illuminance. In addition, a satisfactory level of PLQ is found at illuminance levels of 25–35 lx and light color temperature of 4000 K–5500 K" [@liu_evaluating_2022].
 
@@ -338,6 +340,12 @@ I.e. How lighting attributes such as illuminance, light temperature, uniformity 
 "the necessary level of illumination required by urban residents to feel safe differs by city and is significantly higher in Be’er Sheba, other factors held equal, in compare to Haifa and Tel Aviv-Yafo" [@svechkina_how_2020].
 
 "minimum illuminance is a better predictor of reassurance than is mean illuminance. For a day–dark difference of 0.5 units on a 6-point response scale, the results suggest a minimum horizontal illuminance of approximately 2.0 lux" [@fotios_evaluation_2019].
+
+"The reassurance of participants can be put in relation with street lighting since changes in illuminance levels were highly perceived by test participants. It was also found that reassurance is more related to the mean horizontal illuminance than to the minimum illuminance or minimum/average uniformity" [@mattoni_pedestrians_2017].
+
+"stimulus range bias in reassurance evaluations. This article also recommends alternative methods for future research" [@fotios_specifying_2016].
+
+"Luminance and distance had significant effects on expression recognition. A luminance of 1.0 cd/m2 permits facial expressions to be identified with a 50% probability of correct identification at a distance of 15 m" [@yang_lighting_2015].
 
 ```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%

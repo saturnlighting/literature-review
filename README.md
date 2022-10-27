@@ -1251,10 +1251,11 @@ review
 
 Most of the literature that intersects between active travel and road
 lighting, particularly in recent years, focuses on investigating which
-type of road lighting is most appropriate to reverse the adverse impact
-of darkness on pedestrians and cyclists. I.e. How lighting attributes
-such as illuminance, light temperature, uniformity and glare, affect
-active travel.
+type of road lighting is most appropriate to improve pedestrians and
+cyclists reassurances. I.e. How lighting attributes such as illuminance,
+light temperature, uniformity and glare, affect active travel.
+
+<!-- "R"eassurance describes the confidence a pedestrian might gain from road lighting (and other factors) to walk along a footpath or road after dark, and is intended to describe both perceived safety and fear of crime". -->
 
 “A satisfactory level of FoS reaches at the illumination levels of 5–17
 lx. People feel safer if nighttime light is warm and uniform.
@@ -1280,6 +1281,21 @@ Trop, and Portnov 2020).
 illuminance. For a day–dark difference of 0.5 units on a 6-point
 response scale, the results suggest a minimum horizontal illuminance of
 approximately 2.0 lux” (S. Fotios, Monteiro, and Uttley 2019).
+
+“The reassurance of participants can be put in relation with street
+lighting since changes in illuminance levels were highly perceived by
+test participants. It was also found that reassurance is more related to
+the mean horizontal illuminance than to the minimum illuminance or
+minimum/average uniformity” (Mattoni et al. 2017).
+
+“stimulus range bias in reassurance evaluations. This article also
+recommends alternative methods for future research” (Steve Fotios and
+Castleton 2016).
+
+“Luminance and distance had significant effects on expression
+recognition. A luminance of 1.0 cd/m2 permits facial expressions to be
+identified with a 50% probability of correct identification at a
+distance of 15 m” (B. Yang and Fotios 2015).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -1380,20 +1396,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2018
-</td>
-<td style="text-align:left;">
-Road lighting research for drivers and pedestrians: The basis of
-luminance and illuminance recommendations
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Uttley and Fotios (2017a)
 </td>
 <td style="text-align:right;">
@@ -1409,19 +1411,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-A pilot study of road lighting, cycle lighting and obstacle detection
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Mattoni et al. (2017)
 </td>
 <td style="text-align:right;">
 2017
@@ -1436,6 +1426,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Steve Fotios and Castleton (2016)
 </td>
 <td style="text-align:right;">
 2016
@@ -1445,19 +1436,6 @@ Specifying Enough Light to Feel Reassured on Pedestrian Footpaths
 </td>
 <td style="text-align:left;">
 review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2016
-</td>
-<td style="text-align:left;">
-Lighting distribution affects pedestrians’ sense of security
-</td>
-<td style="text-align:left;">
-empirical
 </td>
 </tr>
 <tr>
@@ -1477,6 +1455,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+B. Yang and Fotios (2015)
 </td>
 <td style="text-align:right;">
 2015
@@ -1765,6 +1744,14 @@ Streets Using the Day–Dark Approach.” *Lighting Research & Technology*
 
 </div>
 
+<div id="ref-fotios_specifying_2016" class="csl-entry">
+
+Fotios, Steve, and Holly Castleton. 2016. “Specifying Enough Light to
+Feel Reassured on Pedestrian Footpaths.” *LEUKOS* 12 (4): 235–43.
+<https://doi.org/10.1080/15502724.2016.1169931>.
+
+</div>
+
 <div id="ref-fotios_effect_2022" class="csl-entry">
 
 Fotios, Steve, and Chloe Jade Robbins. 2022. “Effect of Ambient Light on
@@ -1866,6 +1853,17 @@ Perceptions of Residents Familiar with Higher Crime/Lower Income
 Neighborhoods in Boston.” *International Journal of Environmental
 Research and Public Health* 16 (3): 484.
 <https://doi.org/10.3390/ijerph16030484>.
+
+</div>
+
+<div id="ref-mattoni_pedestrians_2017" class="csl-entry">
+
+Mattoni, Benedetta, Chiara Burattini, Fabio Bisegna, and Steve Fotios.
+2017. “The Pedestrian’s Perspective: How Do Illuminance Variations
+Affect Reassurance?” In *2017 IEEE International Conference on
+Environment and Electrical Engineering and 2017 IEEE Industrial and
+Commercial Power Systems Europe (EEEIC / I&CPS Europe)*, 1–5.
+<https://doi.org/10.1109/EEEIC.2017.7977648>.
 
 </div>
 
@@ -2079,6 +2077,14 @@ This; I Don’t Think I Fully Understood What Isolation Meant’: A Critical
 Evaluation of the Safety Principles in Cycling Level of Service (CLoS)
 Tools from a Gender Perspective.” *Travel Behaviour and Society* 13
 (October): 197–213. <https://doi.org/10.1016/j.tbs.2018.07.002>.
+
+</div>
+
+<div id="ref-yang_lighting_2015" class="csl-entry">
+
+Yang, B, and S Fotios. 2015. “Lighting and Recognition of Emotion
+Conveyed by Facial Expressions.” *Lighting Research & Technology* 47
+(8): 964–75. <https://doi.org/10.1177/1477153514547753>.
 
 </div>
 
