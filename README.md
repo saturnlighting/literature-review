@@ -27,13 +27,19 @@ Conclusion:
 Benefits of active travel are well established in the literature. Active
 travel (i.e. walking, cycling, and wheeling) improves physical, mental,
 and social health; reduces pollution, carbon emissions, and congestion;
-and it is inclusive and reduces inequalities.
+and it is more inclusive than private motorised modes, reducing
+inequalities.
 
-A large number of variables (individual, social, and environmental) can
-affect an individual’s decision to travel actively. Darkness is one of
-the environmental factors that has been found to affect walking the
-most. Less studied has been the influence of darkness in cycling uptake,
-and there is practically no research regarding wheeling.
+Many variables (individual, social, and environmental) can affect an
+individual’s decision to travel by active modes, including by walking,
+wheeling (meaning by non-powered mobility devices, scotters and other
+wheeled human powered vehicles), and cycling. Darkness is a key
+environmental factor that has been found to affect walking in
+particular. Less studied has been the influence of darkness in cycling.
+As described later, there is practically no research regarding wheeling
+and darkness although we can assume that darkness is a major barrier to
+wheeling because people who rely on wheeled mobility are among the most
+vulnerable in society.
 
 Some reviews have looked at elements of the relationship between active
 travel and enlightenment. Cerin et al. (2017) examined literature on the
