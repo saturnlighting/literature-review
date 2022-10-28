@@ -10,31 +10,34 @@ always_allow_html: true
 
 # Abstract
 
-Background: There is evidence that darkness discourages people from walking and cycling. 
-This is basically due to two reasons. Darkness increases pedestrians' and cyclists' fear and risk of 1) being involved in a traffic collision and 2) becoming victims of crime. 
+Background: A large body of evidence shows that darkness discourages people from walking and cycling.
+This can be explained by two sets of factors relating to fear and risk of 1) being involved in a traffic collision and 2) becoming victims of crime.
 This seems to affect disproportionately women, the elderly, and disadvantaged groups.
 Aim: This paper provides a review on the scientific literature that intersects between active travel and road lighting to better understand the relationship between both factors.
-Method: We used a hybrid systematic and snowballing method. TBC studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
-Results: The literature suggests that... Gaps in the literature are...
-Conclusion: 
+Method: We used a hybrid systematic and snowballing method.
+TBC studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
+Results: The literature suggests that... Gaps in the literature are... Conclusion:
 
 # Introduction
 
-Benefits of active travel are well established in the literature. 
+Benefits of active travel are well established in the literature.
 Active travel (i.e. walking, cycling, and wheeling) improves physical, mental, and social health; reduces pollution, carbon emissions, and congestion; and it is inclusive and reduces inequalities.
 
-A large number of variables (individual, social, and environmental) can affect an individual's decision to travel actively. 
-Darkness is one of the environmental factors that has been found to affect walking the most. Less studied has been the influence of darkness in cycling uptake, and there is practically no research regarding wheeling.
+A large number of variables (individual, social, and environmental) can affect an individual's decision to travel actively.
+Darkness is one of the environmental factors that has been found to affect walking the most.
+Less studied has been the influence of darkness in cycling uptake, and there is practically no research regarding wheeling.
 
-Some reviews have looked at elements of the relationship between active travel and enlightenment. @cerin_neighbourhood_2017 examined literature on the relationship between physical environment and active travel in general; @cozens_critical_2003 papers on the association between street lighting and crime or fear of crime; @boyce_benefits_2019 wrote a review on the benefits of light at night; and @fotios_lighting_2017 a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists in the UK.
+Some reviews have looked at elements of the relationship between active travel and enlightenment.
+@cerin_neighbourhood_2017 examined literature on the relationship between physical environment and active travel in general; @cozens_critical_2003 papers on the association between street lighting and crime or fear of crime; @boyce_benefits_2019 wrote a review on the benefits of light at night; and @fotios_lighting_2017 a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists in the UK.
 However, to the best of our knowledge, no academic paper has reviewed the international literature available on the relationship between active travel and road lighting specifically.
 
+```{=html}
 <!-- Reviews on the relationship between build environment and active travel or physical activity considering lighting (e.g. @bonaccorsi_impact_2020; @mccormack_search_2011; @cerin_neighbourhood_2017; @prince_examining_2022).
 Other reviews look at environment, crime, and physical activity (e.g. @foster_built_2008; @loukaitou-sideris_is_2006), or at street lighting and crime [@cozens_critical_2003]. 
 @boyce_benefits_2019 wrote a review on the benefits of light at night in general. 
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists. However, they focus only on cycling and in the UK.
 There are also a few reviews on appropriate road lighting [@fotios_light_2005; @fotios_s_road_2010; @fotios_specifying_2016]. -->
-
+```
 This paper aims to fill this gap and provide a review on research on the intersection between active travel and road lighting.
 
 The review is guided by the following questions:
