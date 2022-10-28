@@ -82,7 +82,7 @@ We excluded papers that did not focus on active travel and road lighting (many s
 The majority of excluded papers focussed on... We excluded six papers that could not be accessed.
 <!--# Do we have a list of each, e.g. in a .csv file? -->
 
-Second, we checked the references from the studies selected (i.e. snowball technique), and after screening TBC abstracts and full texts, TBC additional papers were selected.
+In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening TBC abstracts and full texts, TBC additional papers were selected.
 In total, TBC were reviewed.
 All studies were in English languages and from 2000 up to 2022.
 A flow chart of included studies is shown in Figure 1.
@@ -132,8 +132,18 @@ knitr::include_graphics("flow-chart.png")
 
 # Results
 
-The scientific literature found was spread across several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology.
-Five main themes were identified: 1) active travel behaviour and lighting, 2) active travel collisions and lighting, 3) active travel, crime and lighting, 4) inequalities in lighting, and 5) proper lighting (i.e. optimal use of lighting to enhance reassurance while respecting the environment).
+The scientific literature was found to be broadly spread across several disciplines, including transportation, public health, road safety, criminology, social inequalities, and engineering and technology.
+Five main themes were identified:
+
+1.  Active travel behaviour and lighting
+
+2.  Active travel collisions and lighting
+
+3.  Active travel, crime and lighting
+
+4.  Inequalities in lighting
+
+5.  Proper lighting (i.e. optimal use of lighting to enhance reassurance while respecting the environment)
 
 <!-- The following graph shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one). -->
 
