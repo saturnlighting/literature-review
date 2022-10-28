@@ -77,36 +77,41 @@ lighting interventions. The review is guided by the following questions:
 5.  What type of road lighting is the most suitable for active travel to
     increase and be safer?
 
-This review focuses on road and/or ambient lighting and does not include
-studies on safety lighting equipment for pedestrians or cyclists, such
-as reflective clothing or bicycle-mounted lights.
+We focus on road and/or ambient lighting, excluding studies on lighting
+equipment for pedestrians or cyclists, such as reflective clothing or
+bicycle-mounted lights.
 
-The review is organized as follows. Chapter 2 describes the method.
-Chapter 3 presents the findings of the papers reviewed. Chapter 4
+The review is organized as follows. Section 2 describes the method.
+Section 3 presents the findings of the papers reviewed. Section 4
 critically analyses the findings and identifies gaps in the literature.
-Chapter 5 closes the work with the conclusions.
+Section 5 closes the work with the conclusions.
 
 # Method
 
 <!-- ## Search strategy -->
 
 We used a hybrid systematic and snowballing method. First, we searched
-in SCOPUS electronic databased (on 11 Oct 2022) for studies
+in the SCOPUS electronic databased (on 11 Oct 2022) for studies
 investigating the relationship between active travel and road lighting.
-We searched for papers from 2000 to date. The query string used for the
-search was *walk\* OR foot OR pedestrian\* OR bicycl\* OR bik\* OR
-cycling OR cyclist\* OR “cycle hire” OR wheel\* OR scooter\* OR “active
-commut\*” OR “active transport\*” OR “active travel\*” OR “ecological
-commut\*” OR “ecological transport\*” OR “ecological travel\*” OR
-“green\* commut\*” OR “green transport\*” OR “green travel\*” OR
-greenway\*) AND (“city light\*” OR “public light\*” OR “road light\*” OR
-“road illumination” OR “street light\*” OR “street lamp\*” OR “lamp
-post\*” OR “light post\*” OR “light pole\*”*. This search, based on the
-content of the title, abstract, and keywords, resulted in 1227 records.
-After screening abstracts and full text, 56 studies were selected. We
-excluded papers that did not focus on active travel and road lighting.
-The majority of excluded papers focussed on… We excluded six papers that
-could not be accessed.
+We searched for papers from 2000 to present. The query string used for
+the search was as follows:
+
+*walk\* OR foot OR pedestrian\* OR bicycl\* OR bik\* OR cycling OR
+cyclist\* OR “cycle hire” OR wheel\* OR scooter\* OR “active commut\*”
+OR “active transport\*” OR “active travel\*” OR “ecological commut\*” OR
+“ecological transport\*” OR “ecological travel\*” OR “green\* commut\*”
+OR “green transport\*” OR “green travel\*” OR greenway\*) AND (“city
+light\*” OR “public light\*” OR “road light\*” OR “road illumination” OR
+“street light\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*”
+OR “light pole\*”*
+
+This search, based on the content of the title, abstract, and keywords,
+resulted in 1227 records. After screening abstracts and full text, 56
+studies were selected. We excluded papers that did not focus on active
+travel and road lighting (many studies mentioned active travel and
+lighting in passing but not as the topic of the paper). The majority of
+excluded papers focussed on… We excluded six papers that could not be
+accessed. <!--# Do we have a list of each, e.g. in a .csv file? -->
 
 Second, we checked the references from the studies selected
 (i.e. snowball technique), and after screening TBC abstracts and full
@@ -117,7 +122,7 @@ chart of included studies is shown in Figure 1.
 <!-- Consider doing the search only for papers from 2000 -->
 <!-- Papers we could not access: -->
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
-<!-- Safe on the move: The importance of the built environment (  Book Chapter) 
+<!-- Safe on the move: The importance of the built environment (  Book Section) 
 
 Lighting criteria for road lighting: A review 
 
