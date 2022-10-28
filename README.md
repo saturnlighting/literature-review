@@ -33,10 +33,10 @@ Some reviews have looked at elements of the relationship between active
 travel and enlightenment. Cerin et al. (2017) examined literature on the
 relationship between physical environment and active travel in general;
 Cozens et al. (2003) papers on the association between street lighting
-and crime or fear of crime; Boyce (2019) wrote a review on the benefits
-of light at night; and S. Fotios and Castleton (2017) a review of
-suggested actions to enable cycling lighting to contribute to the safety
-of cyclists in the UK. However, to the best of our knowledge, no
+and crime or fear of crime; Peter R. Boyce (2019) wrote a review on the
+benefits of light at night; and S. Fotios and Castleton (2017) a review
+of suggested actions to enable cycling lighting to contribute to the
+safety of cyclists in the UK. However, to the best of our knowledge, no
 academic paper has reviewed the international literature available on
 the relationship between active travel and road lighting specifically.
 
@@ -129,15 +129,11 @@ collisions and lighting, 3) active travel, crime and lighting, 4)
 inequalities in lighting, and 5) proper lighting (i.e. optimal use of
 lighting to enhance reassurance while respecting the environment).
 
-The following graph shows the number of papers reviewed for each of the
-identified themes (some of the papers deal with more than one).
-
+<!-- The following graph shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one). -->
 <!-- What is already known in this area (and maybe what is not)? -->
 <!-- Present the literature in a logical way, commenting on the differences and similarities between the material cited. -->
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 <!-- Table with a summary of the most relevant literature. -->
-
-![](README_files/figure-gfm/fig2-1.png)<!-- -->
 
 The main themes of focus were proper lighting for active travel,
 followed by active travel collisions and lighting, and active travel
@@ -1297,6 +1293,27 @@ recognition. A luminance of 1.0 cd/m2 permits facial expressions to be
 identified with a 50% probability of correct identification at a
 distance of 15 m” (B. Yang and Fotios 2015).
 
+“Review of the characteristics of lighting suggests an optimum
+illuminance of 10 lux, of high S/P ratio, and aimed toward the
+pedestrian and natural elements of the environment, will enhance
+reassurance” (S. Fotios, Unwin, and Farrall 2015).
+
+<!-- There are more empirical papers very technical and most related to regulations which may be over the scope of this review (e.g. @fotios_proposed_2012; @fotios_using_2013; @fotios_using_2015).  -->
+<!-- The same happens with a couple of reviews on this topic [@fotios_light_2005 and @fotios_s_road_2010]. Should we keep the reviews and remove emprical papers? Or remove them all? -->
+
+“lamp SPD can be expected to affect the safe movement and perceived
+safety of pedestrians at night-time” (Fotios, S and Cheal, C. 2010).
+
+“Models of mesopic vision predict that SPD is a significant variable in
+that at a HPS photopic luminance of 0.100 cd/m2, MH need only produce
+about 0.070-0.075 cd/m2 to be seen as equally bright” (S. Fotios, Cheal,
+and Boyce 2005).
+
+“These studies indicate that an average horizontal illuminance on a
+parking lot surface or street sidewalk of about 30 Ix provides enough
+light to ensure that perceptions of safety are close to what they are in
+daylight” (P. R. Boyce et al. 2000).
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 Table 5: Overview of papers on proper lighting
@@ -1484,6 +1501,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+S. Fotios, Unwin, and Farrall (2015)
 </td>
 <td style="text-align:right;">
 2015
@@ -1497,47 +1515,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Using eye-tracking to identify pedestrians’ critical visual tasks,
-Part 1. Dual task approach
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2013
-</td>
-<td style="text-align:left;">
-Using obstacle detection to identify appropriate illuminances for
-lighting in residential roads
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:right;">
-2012
-</td>
-<td style="text-align:left;">
-Proposed UK guidance for lighting in residential roads
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
+Fotios, S and Cheal, C. (2010)
 </td>
 <td style="text-align:right;">
 2010
@@ -1552,6 +1530,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+S. Fotios, Cheal, and Boyce (2005)
 </td>
 <td style="text-align:right;">
 2005
@@ -1566,6 +1545,7 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+P. R. Boyce et al. (2000)
 </td>
 <td style="text-align:right;">
 2000
@@ -1681,6 +1661,15 @@ Environmental Research and Public Health* 17 (17): 6127.
 
 </div>
 
+<div id="ref-boyce_perceptions_2000" class="csl-entry">
+
+Boyce, P. R., N. H. Eklund, B. J. Hamilton, and L. D. Bruno. 2000.
+“Perceptions of Safety at Night in Different Lighting Conditions.”
+*International Journal of Lighting Research and Technology* 32 (2):
+79–91. <https://doi.org/10.1177/096032710003200205>.
+
+</div>
+
 <div id="ref-boyce_benefits_2019" class="csl-entry">
 
 Boyce, Peter R. 2019. “The Benefits of Light at Night.” *Building and
@@ -1735,6 +1724,23 @@ Review.” *Lighting Research & Technology* 49 (3): 381–95.
 
 </div>
 
+<div id="ref-fotios_s_road_2010" class="csl-entry">
+
+Fotios, S, and Cheal, C. 2010. “Road Lighting for Pedestrians in
+Residential Areas: Choosing the Optimum Lamp Colour Characteristics.
+Light & Engineering, 18 (1). 91 - 100. ISSN 0236-2945.”
+
+</div>
+
+<div id="ref-fotios_light_2005" class="csl-entry">
+
+Fotios, S, C Cheal, and Pr Boyce. 2005. “Light Source Spectrum,
+Brightness Perception and Visual Performance in Pedestrian Environments:
+A Review.” *Lighting Research & Technology* 37 (4): 271–91.
+<https://doi.org/10.1191/1365782805li139oa>.
+
+</div>
+
 <div id="ref-fotios_evaluation_2019" class="csl-entry">
 
 Fotios, S, A Liachenko Monteiro, and J Uttley. 2019. “Evaluation of
@@ -1758,6 +1764,14 @@ Fotios, Steve, and Chloe Jade Robbins. 2022. “Effect of Ambient Light on
 the Number of Motorized Vehicles, Cyclists, and Pedestrians.”
 *Transportation Research Record* 2676 (2): 593–605.
 <https://doi.org/10.1177/03611981211044469>.
+
+</div>
+
+<div id="ref-fotios_road_2015" class="csl-entry">
+
+Fotios, S, J Unwin, and S Farrall. 2015. “Road Lighting and Pedestrian
+Reassurance After Dark: A Review.” *Lighting Research & Technology* 47
+(4): 449–69. <https://doi.org/10.1177/1477153514524587>.
 
 </div>
 
