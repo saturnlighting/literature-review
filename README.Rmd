@@ -57,13 +57,13 @@ The review is guided by the following questions:
 4.  Is the association between active travel and darkness the same between different groups?
 5.  What type of road lighting is the most suitable for active travel to increase and be safer?
 
-This review focuses on road and/or ambient lighting and does not include studies on safety lighting equipment for pedestrians or cyclists, such as reflective clothing or bicycle-mounted lights.
+We focus on road and/or ambient lighting, excluding studies on lighting equipment for pedestrians or cyclists, such as reflective clothing or bicycle-mounted lights.
 
 The review is organized as follows.
-Chapter 2 describes the method.
-Chapter 3 presents the findings of the papers reviewed.
-Chapter 4 critically analyses the findings and identifies gaps in the literature.
-Chapter 5 closes the work with the conclusions.
+Section 2 describes the method.
+Section 3 presents the findings of the papers reviewed.
+Section 4 critically analyses the findings and identifies gaps in the literature.
+Section 5 closes the work with the conclusions.
 
 # Method
 
@@ -86,7 +86,7 @@ A flow chart of included studies is shown in Figure 1.
 <!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
 
 ```{=html}
-<!-- Safe on the move: The importance of the built environment (  Book Chapter) 
+<!-- Safe on the move: The importance of the built environment (  Book Section) 
 
 Lighting criteria for road lighting: A review 
 
