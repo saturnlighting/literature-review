@@ -3,18 +3,24 @@ Active Travel and Road Lighting: A Review
 
 # Abstract
 
-Background: There is evidence that darkness discourages people from
-walking and cycling. This is basically due to two reasons. Darkness
-increases pedestrians’ and cyclists’ fear and risk of 1) being involved
-in a traffic collision and 2) becoming victims of crime. This seems to
-affect disproportionately women, the elderly, and disadvantaged groups.
+Background: A large body of evidence shows that darkness discourages
+people from walking and cycling. This can be explained by two sets of
+factors relating to fear and risk of 1) being involved in a traffic
+collision and 2) becoming victims of crime. These factors
+disproportionately affect women, the elderly, and disadvantaged groups.
+
 Aim: This paper provides a review on the scientific literature that
 intersects between active travel and road lighting to better understand
-the relationship between both factors. Method: We used a hybrid
-systematic and snowballing method. TBC studies on several disciplines
-such as transportation, public health, road safety, criminology, social
-inequalities, and engineering and technology were reviewed. Results: The
-literature suggests that… Gaps in the literature are… Conclusion:
+the relationship between both factors.
+
+Method: We used a hybrid systematic and snowballing method. TBC studies
+on several disciplines such as transportation, public health, road
+safety, criminology, social inequalities, and engineering and technology
+were reviewed.
+
+Results: The literature suggests that… Gaps in the literature are…
+
+Conclusion:
 
 # Introduction
 
@@ -1595,18 +1601,18 @@ increase and be safer?**
 
 ## Research gaps
 
--   Lack of research in developing countries
+- Lack of research in developing countries
 
--   No research on wheeling and lighting
+- No research on wheeling and lighting
 
--   Measurement limitations (see Foster and Giles-Corti (2008)).
+- Measurement limitations (see Foster and Giles-Corti (2008)).
 
--   Methodological inconsistencies (see Loukaitou-Sideris (2006))
+- Methodological inconsistencies (see Loukaitou-Sideris (2006))
 
 ## Strenghts and limitations
 
--   Systematic but selection of papers we subjectively found more
-    relevant. So there is more literature on this topic not reviewed.
+- Systematic but selection of papers we subjectively found more
+  relevant. So there is more literature on this topic not reviewed.
 
 # Conclusions
 
