@@ -145,7 +145,7 @@ Five main themes were identified:
 
 5.  Proper lighting (i.e. optimal use of lighting to enhance reassurance while respecting the environment)
 
-<!-- The following graph shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one). -->
+The following graph shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one).
 
 <!-- What is already known in this area (and maybe what is not)? -->
 
@@ -155,7 +155,7 @@ Five main themes were identified:
 
 <!-- Table with a summary of the most relevant literature. -->
 
-```{r fig2, message=FALSE, warning=FALSE, include=FALSE}
+```{r fig2, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
 library(tidyverse)
 
