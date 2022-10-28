@@ -36,8 +36,8 @@ As described later, there is practically no research regarding wheeling and dark
 [^1]: The annual [Disability & Cycling](https://wheelsforwellbeing.org.uk/wp-content/uploads/2022/05/Disability-and-Cycling-Report-of-2021-national-survey-results.pdf) report by the charity Wheels for Wellbeing, for example, highlights the importance of mobility and active modes for disabled people.
     The report states that cycling "provides a sense of protection for those whose disability renders them visible and vulnerable when on foot" but does not discuss the impacts of darkness or lighting on feelings of vulnerability, reflecting gaps in the academic literature.
 
-Previous academic literature reviews have looked at elements of the relationship between active travel and lighting.
-@cerin_neighbourhood_2017 examined literature on the relationship between physical environment and active travel in general; @cozens_critical_2003 papers on the association between street lighting and crime or fear of crime; @boyce_benefits_2019 wrote a review on the benefits of light at night; and @fotios_lighting_2017 a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists in the UK.
+Previous academic literature reviews have touched on elements of the relationship between active travel and lighting.
+@cerin_neighbourhood_2017 reviewed literature on the relationship between physical environment and active travel in general; @cozens_critical_2003 explored papers on the association between street lighting and crime or fear of crime; @boyce_benefits_2019 reviewed research into the benefits of light at night for perceptions of safety; and @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK.
 However, to the best of our knowledge, no academic paper has reviewed the international literature available on the relationship between active travel and road lighting specifically.
 
 ```{=html}
