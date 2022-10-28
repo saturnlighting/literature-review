@@ -59,24 +59,23 @@ Other reviews look at environment, crime, and physical activity (e.g. @foster_bu
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists. However, they focus only on cycling and in the UK.
 There are also a few reviews on appropriate road lighting [@fotios_light_2005; @fotios_s_road_2010; @fotios_specifying_2016]. -->
 
-This paper aims to fill this gap and provide a review on research on the
-intersection between active travel and road lighting.
+This paper aims to fill this gap in the literature, reviewing published
+research specifically focussed at the intersection between active travel
+and road lighting. Because fear of road violence and deliberate physical
+violence are prominent causal mechanisms for lighting to be linked with
+levels of active travel, we divide the review into parts relating to
+active travel behaviour, road safety, crime, social inequalities and
+lighting interventions. The review is guided by the following questions:
 
-The review is guided by the following questions:
-
-1.- To what extent does darkness influence active travel behaviour?
-
-2.- To what degree does darkness increase the risk of road collision
-among active travellers?
-
-3.- To what extent does darkness increase the risk of being a victim of
-crime among active travellers?
-
-4.- Is the association between active travel and darkness the same
-between different groups?
-
-5.- What type of road lighting is the most suitable for active travel to
-increase and be safer?
+1.  To what extent does darkness influence active travel behaviour?
+2.  To what extent does darkness increase the risk of road collision
+    among active travellers?
+3.  To what extent does darkness increase the risk of being a victim of
+    crime among active travellers?
+4.  Is the association between active travel and darkness the same
+    between different groups?
+5.  What type of road lighting is the most suitable for active travel to
+    increase and be safer?
 
 This review focuses on road and/or ambient lighting and does not include
 studies on safety lighting equipment for pedestrians or cyclists, such
