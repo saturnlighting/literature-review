@@ -31,7 +31,10 @@ Active travel (i.e. walking, cycling, and wheeling) improves physical, mental, a
 Many variables (individual, social, and environmental) can affect an individual's decision to travel by active modes, including by walking, wheeling (meaning by non-powered mobility devices, scotters and other wheeled human powered vehicles), and cycling.
 Darkness is a key environmental factor that has been found to affect walking in particular.
 Less studied has been the influence of darkness in cycling.
-As described later, there is practically no research regarding wheeling and darkness although we can assume that darkness is a major barrier to wheeling because people who rely on wheeled mobility are among the most vulnerable in society.
+As described later, there is practically no research regarding wheeling and darkness although we can assume that darkness is a major barrier to wheeling because people who rely on wheeled mobility are among the most vulnerable in society.[^1]
+
+[^1]: The annual [Disability & Cycling](https://wheelsforwellbeing.org.uk/wp-content/uploads/2022/05/Disability-and-Cycling-Report-of-2021-national-survey-results.pdf) report by the charity Wheels for Wellbeing, for example, highlights the importance of mobility and active modes for disabled people.
+    The report states that cycling "provides a sense of protection for those whose disability renders them visible and vulnerable when on foot" but does not discuss the impacts of darkness or lighting on feelings of vulnerability, reflecting gaps in the academic literature.
 
 Some reviews have looked at elements of the relationship between active travel and enlightenment.
 @cerin_neighbourhood_2017 examined literature on the relationship between physical environment and active travel in general; @cozens_critical_2003 papers on the association between street lighting and crime or fear of crime; @boyce_benefits_2019 wrote a review on the benefits of light at night; and @fotios_lighting_2017 a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists in the UK.

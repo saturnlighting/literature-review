@@ -39,7 +39,7 @@ particular. Less studied has been the influence of darkness in cycling.
 As described later, there is practically no research regarding wheeling
 and darkness although we can assume that darkness is a major barrier to
 wheeling because people who rely on wheeled mobility are among the most
-vulnerable in society.
+vulnerable in society.[^1]
 
 Some reviews have looked at elements of the relationship between active
 travel and enlightenment. Cerin et al. (2017) examined literature on the
@@ -2173,3 +2173,12 @@ and Safety Promotion* 27 (3): 300–307.
 </div>
 
 </div>
+
+[^1]: The annual [Disability &
+    Cycling](https://wheelsforwellbeing.org.uk/wp-content/uploads/2022/05/Disability-and-Cycling-Report-of-2021-national-survey-results.pdf)
+    report by the charity Wheels for Wellbeing, for example, highlights
+    the importance of mobility and active modes for disabled people. The
+    report states that cycling “provides a sense of protection for those
+    whose disability renders them visible and vulnerable when on foot”
+    but does not discuss the impacts of darkness or lighting on feelings
+    of vulnerability, reflecting gaps in the academic literature.
