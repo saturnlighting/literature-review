@@ -134,11 +134,15 @@ collisions and lighting, 3) active travel, crime and lighting, 4)
 inequalities in lighting, and 5) proper lighting (i.e. optimal use of
 lighting to enhance reassurance while respecting the environment).
 
-<!-- The following graph shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one). -->
+The following graph shows the number of papers reviewed for each of the
+identified themes (some of the papers deal with more than one).
+
 <!-- What is already known in this area (and maybe what is not)? -->
 <!-- Present the literature in a logical way, commenting on the differences and similarities between the material cited. -->
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 <!-- Table with a summary of the most relevant literature. -->
+
+![](README_files/figure-gfm/fig2-1.png)<!-- -->
 
 The main themes of focus were active travel collisions and lighting,
 followed by proper lighting for active travel and active travel
