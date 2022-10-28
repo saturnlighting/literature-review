@@ -81,21 +81,26 @@ Chapter 5 closes the work with the conclusions.
 We used a hybrid systematic and snowballing method. First, we searched
 in SCOPUS electronic databased (on 11 Oct 2022) for studies
 investigating the relationship between active travel and road lighting.
-The query string used for the search was *walk\* OR foot OR pedestrian\*
-OR bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire” OR wheel\*
-OR scooter\* OR “active commut\*” OR “active transport\*” OR “active
-travel\*” OR “ecological commut\*” OR “ecological transport\*” OR
-“ecological travel\*” OR “green\* commut\*” OR “green transport\*” OR
-“green travel\*” OR greenway\*) AND (“city light\*” OR “public light\*”
-OR “road light\*” OR “road illumination” OR “street light\*” OR “street
-lamp\*” OR “lamp post\*” OR “light post\*” OR “light pole\*”*. This
-search resulted in 1227 records. After screening abstracts and full
-text, TBC studies were selected.
+We searched for papers from 2000 to date. The query string used for the
+search was *walk\* OR foot OR pedestrian\* OR bicycl\* OR bik\* OR
+cycling OR cyclist\* OR “cycle hire” OR wheel\* OR scooter\* OR “active
+commut\*” OR “active transport\*” OR “active travel\*” OR “ecological
+commut\*” OR “ecological transport\*” OR “ecological travel\*” OR
+“green\* commut\*” OR “green transport\*” OR “green travel\*” OR
+greenway\*) AND (“city light\*” OR “public light\*” OR “road light\*” OR
+“road illumination” OR “street light\*” OR “street lamp\*” OR “lamp
+post\*” OR “light post\*” OR “light pole\*”*. This search, based on the
+content of the title, abstract, and keywords, resulted in 1227 records.
+After screening abstracts and full text, 56 studies were selected. We
+excluded papers that did not focus on active travel and road lighting.
+The majority of excluded papers focussed on… We excluded six papers that
+could not be accessed.
 
-Second, we checked all the references from the studies selected
+Second, we checked the references from the studies selected
 (i.e. snowball technique), and after screening TBC abstracts and full
 texts, TBC additional papers were selected. In total, TBC were reviewed.
-A flow chart of included studies is shown in Figure 1.
+All studies were in English languages and from 2000 up to 2022. A flow
+chart of included studies is shown in Figure 1.
 
 <!-- Consider doing the search only for papers from 2000 -->
 <!-- Papers we could not access: -->
@@ -445,8 +450,8 @@ by other road users.
 
 The probability of suffering a traffic collision in the dark among
 pedestrians and cyclists is much greater than among other road users
-(e.g. Hennessy and Ai (2021); Wang and Cicchino (2020); Sullivan and
-Flannagan (2002)).
+(e.g. Hennessy and Ai (2021); Wang and Cicchino (2020); John M. Sullivan
+and Flannagan (2002)).
 
 Poor visibility is one of the greatest risk factors for pedestrians
 (Stoker et al. 2015).
@@ -497,7 +502,8 @@ result in higher injury severity” (Asgarzadeh et al. 2018).
 Papers on crashes during darkness in specific spots: intersections and
 pedestrian crossings.
 
-Pedestrian crossings: Uttley and Fotios (2017a).
+Pedestrian crossings: John M. Sullivan and Flannagan (2007) and Uttley
+and Fotios (2017a).
 
 Intersections: an study showed that “an increase in intersection
 illuminance from low (\<0.2 fc) to medium (≥ 0.2 fc and \<1.1 fc) could
@@ -797,7 +803,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Sullivan and Flannagan (2002)
+John M. Sullivan and Flannagan (2002)
 </td>
 <td style="text-align:right;">
 2002
@@ -821,7 +827,7 @@ night-time is fear of crime.
 There is evidence that street lighting decreases crime and enhances
 reassurance and confidence of pedestrians and cyclists after dark (e.g.
 Rahm, Sternudd, and Johansson (2021); Loukaitou-Sideris (2006); Cozens
-et al. (2003); Painter (1996)).
+et al. (2003)).
 
 “Perceived safety tends to affect the physical activity of groups
 already known to exhibit greater anxiety about crime” (Foster and
@@ -1303,6 +1309,12 @@ reassurance” (S. Fotios, Unwin, and Farrall 2015).
 
 “lamp SPD can be expected to affect the safe movement and perceived
 safety of pedestrians at night-time” (Fotios, S and Cheal, C. 2010).
+
+“Relative safety need was determined by combining the dark/light ratio
+with prevalence data to produce an idealized measure of lifesaving
+potential. While all three scenarios suggested a potential for safety
+improvement, scenarios related to high speed roadway environments showed
+the greatest potential” (John M. Sullivan and Flannagan 2007).
 
 “Models of mesopic vision predict that SPD is a significant variable in
 that at a HPS photopic luminance of 0.100 cd/m2, MH need only produce
@@ -1993,6 +2005,15 @@ Odero, Martin N. Mwangi, Margie Peden, and Reid Ewing. 2015. “Pedestrian
 Safety and the Built Environment: A Review of the Risk Factors.”
 *Journal of Planning Literature* 30 (4): 377–92.
 <https://doi.org/10.1177/0885412215595438>.
+
+</div>
+
+<div id="ref-sullivan_determining_2007" class="csl-entry">
+
+Sullivan, John M., and Michael J. Flannagan. 2007. “Determining the
+Potential Safety Benefit of Improved Lighting in Three Pedestrian Crash
+Scenarios.” *Accident Analysis & Prevention* 39 (3): 638–47.
+<https://doi.org/10.1016/j.aap.2006.10.010>.
 
 </div>
 

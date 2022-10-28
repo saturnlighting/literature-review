@@ -60,13 +60,16 @@ Chapter 5 closes the work with the conclusions.
 # Method
 
 <!-- ## Search strategy -->
-We used a hybrid systematic and snowballing method.
-First, we searched in SCOPUS electronic databased (on 11 Oct 2022) for studies investigating the relationship between active travel and road lighting.
-The query string used for the search was *walk\* OR foot OR pedestrian\* OR bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire" OR wheel\* OR scooter\* OR "active commut\*" OR "active transport\*" OR "active travel\*" OR "ecological commut\*" OR "ecological transport\*" OR "ecological travel\*" OR "green\* commut\*" OR "green transport\*" OR "green travel\*" OR greenway\*) AND ("city light\*" OR "public light\*" OR "road light\*" OR "road illumination" OR "street light\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*"*. This search resulted in 1227 records.
-After screening abstracts and full text, TBC studies were selected.
+We used a hybrid systematic and snowballing method. 
+First, we searched in SCOPUS electronic databased (on 11 Oct 2022) for studies investigating the relationship between active travel and road lighting. 
+We searched for papers from 2000 to date.
+The query string used for the search was *walk\* OR foot OR pedestrian\* OR bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire" OR wheel\* OR scooter\* OR "active commut\*" OR "active transport\*" OR "active travel\*" OR "ecological commut\*" OR "ecological transport\*" OR "ecological travel\*" OR "green\* commut\*" OR "green transport\*" OR "green travel\*" OR greenway\*) AND ("city light\*" OR "public light\*" OR "road light\*" OR "road illumination" OR "street light\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*"*. 
+This search, based on the content of the title, abstract, and keywords, resulted in 1227 records.
+After screening abstracts and full text, 56 studies were selected. We excluded papers that did not focus on active travel and road lighting. The majority of excluded papers focussed on... We excluded six papers that could not be accessed.
 
-Second, we checked all the references from the studies selected (i.e. snowball technique), and after screening TBC abstracts and full texts, TBC additional papers were selected. 
+Second, we checked the references from the studies selected (i.e. snowball technique), and after screening TBC abstracts and full texts, TBC additional papers were selected. 
 In total, TBC were reviewed. 
+All studies were in English languages and from 2000 up to 2022.
 A flow chart of included studies is shown in Figure 1.
 
 <!-- Consider doing the search only for papers from 2000 -->
@@ -230,7 +233,7 @@ A study on bicycle-motor vehicle crashes found that "crashes in low light condit
 
 Papers on crashes during darkness in specific spots: intersections and pedestrian crossings.
 
-Pedestrian crossings: @uttley_effect_2017.
+Pedestrian crossings: @sullivan_determining_2007 and @uttley_effect_2017.
 
 Intersections: an study showed that "an increase in intersection illuminance from low (<0.2 fc) to medium (≥ 0.2 fc and <1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes" [@wei_safety_2016].
 
@@ -256,7 +259,7 @@ kbl(df,
 
 Another fundamental factor that explains less walking and cycling during night-time is fear of crime.
 
-There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark (e.g. @rahm_evening_2021; @loukaitou-sideris_is_2006; @cozens_critical_2003; @painter_influence_1996).
+There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark (e.g. @rahm_evening_2021; @loukaitou-sideris_is_2006; @cozens_critical_2003).
 
 "Perceived safety tends to affect the physical activity of groups already known to exhibit greater anxiety about crime" [@foster_built_2008].
 
@@ -354,6 +357,8 @@ I.e. How lighting attributes such as illuminance, light temperature, uniformity 
 <!-- The same happens with a couple of reviews on this topic [@fotios_light_2005 and @fotios_s_road_2010]. Should we keep the reviews and remove emprical papers? Or remove them all? -->
 
 "lamp SPD can be expected to affect the safe movement and perceived safety of pedestrians at night-time" [@fotios_s_road_2010].
+
+"Relative safety need was determined by combining the dark/light ratio with prevalence data to produce an idealized measure of lifesaving potential. While all three scenarios suggested a potential for safety improvement, scenarios related to high speed roadway environments showed the greatest potential" [@sullivan_determining_2007].
 
 "Models of mesopic vision predict that SPD is a significant variable in that at a HPS photopic luminance of 0.100 cd/m2, MH need only produce about 0.070-0.075 cd/m2 to be seen as equally bright" [@fotios_light_2005].
 
