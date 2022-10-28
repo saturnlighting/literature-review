@@ -135,11 +135,11 @@ lighting to enhance reassurance while respecting the environment).
 <!-- Potential outputs of this section: state of knowledge, gaps in literature, weakness of methodologies used, structure on how dependent and independent variables are related (conceptual model?). -->
 <!-- Table with a summary of the most relevant literature. -->
 
-The main themes of focus were proper lighting for active travel,
-followed by active travel collisions and lighting, and active travel
-behaviour and lighting. Three-quarters of the studies were empirical
-studies (five of them qualitative research the rest quantitative) and a
-quarter were reviews.
+The main themes of focus were active travel collisions and lighting,
+followed by proper lighting for active travel and active travel
+behaviour and lighting. Three quarters of the studies were empirical
+studies and one quarter were reviews. Most of the empirical studies were
+quantitative, five of them qualitative, and one of them mixed methods.
 
 ## Active travel behaviour and lighting
 
