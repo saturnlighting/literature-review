@@ -49,7 +49,10 @@ the association between street lighting and crime or fear of crime;
 Peter R. Boyce (2019) reviewed research into the benefits of light at
 night for perceptions of safety; and S. Fotios and Castleton (2017)
 reviewed suggested interventions to enable cycling lighting to
-contribute to the safety of cyclists in the UK.
+contribute to the safety of cyclists in the UK. However, to the best of
+our knowledge, no academic paper has reviewed the international
+literature available on the relationship between active travel and road
+lighting specifically.
 
 <!-- Reviews on the relationship between build environment and active travel or physical activity considering lighting (e.g. @bonaccorsi_impact_2020; @mccormack_search_2011; @cerin_neighbourhood_2017; @prince_examining_2022).
 Other reviews look at environment, crime, and physical activity (e.g. @foster_built_2008; @loukaitou-sideris_is_2006), or at street lighting and crime [@cozens_critical_2003]. 
@@ -57,11 +60,9 @@ Other reviews look at environment, crime, and physical activity (e.g. @foster_bu
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists. However, they focus only on cycling and in the UK.
 There are also a few reviews on appropriate road lighting [@fotios_light_2005; @fotios_s_road_2010; @fotios_specifying_2016]. -->
 
-However, to the best of our knowledge, no academic paper has reviewed
-the international literature available on the relationship between
-active travel and road lighting specifically. This paper aims to fill
-this gap in the literature, reviewing published research specifically
-focussed at the intersection between active travel and road lighting.
+This paper aims to fill this gap in the literature, reviewing published
+research specifically focussed at the intersection between active travel
+and road lighting.
 
 The review is guided by the following questions:
 
