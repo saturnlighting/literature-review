@@ -35,7 +35,7 @@ Darkness is one of the environmental factors that most affect walking and cyclin
 The report states that cycling "provides a sense of protection for those whose disability renders them visible and vulnerable when on foot" but does not discuss the impacts of darkness or lighting on feelings of vulnerability, reflecting gaps in the academic literature.].
 
 Previous academic literature reviews have touched on elements of the relationship between active travel and lighting.
-@cerin_neighbourhood_2017 reviewed literature on the relationship between active travel and physical environment in general; @cozens_critical_2003 explored papers on the association between street lighting and crime or fear of crime; @boyce_benefits_2019 reviewed research into the benefits of light at night for perceptions of safety; and @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK.
+@cozens_critical_2003 explored papers on the association between street lighting and crime or fear of crime; @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK; @boyce_benefits_2019 reviewed research into the benefits of light at night for perceptions of safety; and there are several reviews on the appropriate lighting for pedestrians' reassurance [@fotios_road_2015; @fotios_s_road_2010; @fotios_specifying_2016].
 However, to the best of our knowledge, no academic paper has reviewed the international literature available on the relationship between active travel and road lighting specifically.
 
 ```{=html}
