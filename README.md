@@ -32,24 +32,24 @@ inequalities.
 
 Many variables (individual, social, and environmental) can affect an
 individual’s decision to travel by active modes, including by walking,
-wheeling (meaning by non-powered mobility devices, scotters and other
-wheeled human powered vehicles), and cycling. Darkness is one of the
-environmental factors that most affect walking. It also seems to affect
-cycling, although there are fewer studies on the influence of darkness
-in cycling. As described later, there is practically no research
-regarding wheeling and darkness although we can assume that darkness is
-a major barrier to wheeling because people who rely on wheeled mobility
-are among the most vulnerable in society[^1].
+cycling, and wheeling (meaning by non-powered mobility devices, scooters
+and other wheeled human powered vehicles).
+
+Darkness is one of the environmental factors that most affect walking
+and cycling. Less studied has been the influence of darkness on
+wheeling, although we can assume that darkness is a major barrier to
+wheeling because people who rely on wheeled mobility are among the most
+vulnerable in society[^1].
 
 Previous academic literature reviews have touched on elements of the
 relationship between active travel and lighting. Cerin et al. (2017)
-reviewed literature on the relationship between physical environment and
-active travel in general; Cozens et al. (2003) explored papers on the
-association between street lighting and crime or fear of crime; Peter R.
-Boyce (2019) reviewed research into the benefits of light at night for
-perceptions of safety; and S. Fotios and Castleton (2017) reviewed
-suggested interventions to enable cycling lighting to contribute to the
-safety of cyclists in the UK.
+reviewed literature on the relationship between active travel and
+physical environment in general; Cozens et al. (2003) explored papers on
+the association between street lighting and crime or fear of crime;
+Peter R. Boyce (2019) reviewed research into the benefits of light at
+night for perceptions of safety; and S. Fotios and Castleton (2017)
+reviewed suggested interventions to enable cycling lighting to
+contribute to the safety of cyclists in the UK.
 
 <!-- Reviews on the relationship between build environment and active travel or physical activity considering lighting (e.g. @bonaccorsi_impact_2020; @mccormack_search_2011; @cerin_neighbourhood_2017; @prince_examining_2022).
 Other reviews look at environment, crime, and physical activity (e.g. @foster_built_2008; @loukaitou-sideris_is_2006), or at street lighting and crime [@cozens_critical_2003]. 
@@ -57,9 +57,11 @@ Other reviews look at environment, crime, and physical activity (e.g. @foster_bu
 @fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists. However, they focus only on cycling and in the UK.
 There are also a few reviews on appropriate road lighting [@fotios_light_2005; @fotios_s_road_2010; @fotios_specifying_2016]. -->
 
-This paper aims to fill this gap in the literature, reviewing published
-research specifically focussed at the intersection between active travel
-and road lighting.
+However, to the best of our knowledge, no academic paper has reviewed
+the international literature available on the relationship between
+active travel and road lighting specifically. This paper aims to fill
+this gap in the literature, reviewing published research specifically
+focussed at the intersection between active travel and road lighting.
 
 The review is guided by the following questions:
 
@@ -2185,7 +2187,7 @@ and Safety Promotion* 27 (3): 300–307.
     Cycling](https://wheelsforwellbeing.org.uk/wp-content/uploads/2022/05/Disability-and-Cycling-Report-of-2021-national-survey-results.pdf)
     report by the charity Wheels for Wellbeing, for example, highlights
     the importance of mobility and active modes for disabled people. The
-    report states that cycling provides a sense of protection for those
+    report states that cycling “provides a sense of protection for those
     whose disability renders them visible and vulnerable when on foot”
     but does not discuss the impacts of darkness or lighting on feelings
     of vulnerability, reflecting gaps in the academic literature.
