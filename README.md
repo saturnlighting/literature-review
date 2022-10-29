@@ -47,8 +47,8 @@ explored papers on the association between street lighting and crime or
 fear of crime; S. Fotios and Castleton (2017) reviewed suggested
 interventions to enable cycling lighting to contribute to the safety of
 cyclists in the UK; Peter R. Boyce (2019) reviewed research into the
-benefits of light at night for perceptions of safety; and there are
-several reviews on the appropriate lighting for pedestrians’ reassurance
+benefits of light at night for perceptions of safety; and several
+reviews looked at the appropriate lighting for pedestrians’ reassurance
 (S. Fotios, Unwin, and Farrall 2015; Fotios, S and Cheal, C. 2010; Steve
 Fotios and Castleton 2016). However, to the best of our knowledge, no
 academic paper has reviewed the international literature available on
