@@ -186,8 +186,7 @@ Most of the empirical studies were quantitative, five of them qualitative, and o
 
 ## Active travel behaviour and lighting
 
-There is evidence that street lighting influences physical activity and active travel levels [@lee_neighbourhood_2008; @mccormack_search_2011; @prince_examining_2022; @cerin_neighbourhood_2017; @annear_environmental_2014; @pena-garcia_impact_2015; @yang_longitudinal_2017; @bonaccorsi_impact_2020].
-
+There is evidence that street lighting influences physical activity and active travel levels.
 Using Strava Heatmap data, @yang_crowdsourced_2022, for example, found lighting positively associations with running but not with cycling.
 
 @fotios_effect_2022 found that "darkness leads to significant reductions in pedestrians and cyclists but does not have a significant effect on the number of motorized vehicles".
@@ -202,8 +201,10 @@ A subsequent paper found that the drop in cycling levels after dark was substant
 Furthermore, previous work by @fotios_whole-year_2019 suggests that streetlighting can benefit bother walking and cycling.
 They found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
 This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
-Overall, these studies provided reason to take seriously a bolder finding: @lee_neighbourhood_2008 found good lighting to be the most important facilitator of walking and cycling.
 However, the relative importance of lighting, compared with other factors, has not been the subject of large empirical studies in the papers reviewed.
+
+@yang_longitudinal_2017
+@cerin_neighbourhood_2017 @pena-garcia_impact_2015
 
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -279,8 +280,6 @@ Another fundamental factor that explains less walking and cycling during night-t
 
 There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark (e.g. @rahm_evening_2021; @loukaitou-sideris_is_2006; @cozens_critical_2003).
 
-"Perceived safety tends to affect the physical activity of groups already known to exhibit greater anxiety about crime" [@foster_built_2008].
-
 People's perceived nighttime safety (qualitative research):
 
 "Proper street lighting is the main contributor to enhancing the feeling of safety on streets" [@park_pedestrian_2020].
@@ -308,8 +307,6 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 <!-- **fears from crime** -->
 
 "the study also found that age and gender influenced the level of anxiety among pedestrians" [@park_pedestrian_2020].
-
-"Perceived safety tends to affect the physical activity of groups already known to exhibit greater anxiety about crime" [@foster_built_2008].
 
 "Studies that focused on women, children, and the elderly have been able to identify a stronger link between feelings of risk and fear at the neighborhood and high levels of inactivity" [@loukaitou-sideris_is_2006].
 
@@ -420,8 +417,6 @@ The scientific literature on the intersections of active travel and lighting is 
 -   Lack of research in developing countries
 
 -   No research on wheeling and lighting
-
--   Measurement limitations (see @foster_built_2008).
 
 -   Methodological inconsistencies (see @loukaitou-sideris_is_2006)
 
