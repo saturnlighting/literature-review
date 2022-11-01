@@ -76,7 +76,7 @@ The query string used for the search was as follows:
 *walk\* OR foot OR pedestrian\* OR bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire" OR wheel\* OR scooter\* OR "active commut\*" OR "active transport\*" OR "active travel\*" OR "ecological commut\*" OR "ecological transport\*" OR "ecological travel\*" OR "green\* commut\*" OR "green transport\*" OR "green travel\*" OR greenway\*) AND ("city light\*" OR "public light\*" OR "road light\*" OR "road illumination" OR "street light\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*"* 
 
 This search, based on the content of the title, abstract, and keywords, resulted in 1227 records. 
-After screening abstracts and full text, 56 studies were selected.
+After screening abstracts and full text, 54 studies were selected.
 We excluded papers that did not focus on active travel and road lighting (many studies mentioned active travel and lighting in passing but not as the topic of the paper).
 We excluded six papers that could not be accessed.
 
@@ -186,19 +186,18 @@ Most of the empirical studies were quantitative, five of them qualitative, and o
 
 ## Active travel behaviour and lighting
 
-There is evidence that street lighting influences physical activity and active travel levels.
-Using Strava Heatmap data, @yang_crowdsourced_2022, for example, found lighting positively associations with running but not with cycling.
+<!-- Which structure should i follow? By mode of transport? Walking, cyclng, wheeling? -->
 
-@fotios_effect_2022 found that "darkness leads to significant reductions in pedestrians and cyclists but does not have a significant effect on the number of motorized vehicles".
+Many recent empirical papers have found an association between active travel or physical activity and road lighting.
+Using counts of traffic flow, @fotios_effect_2022 found that darkness had a significant negative effect on the number of pedestrians and cyclists, but not on the number of motorized vehicles.
+using Strava Heatmap data, @yang_crowdsourced_2022, found lighting positively associated with running but not with cycling. Differences in method and data may explain the consistency regarding cycling. 
+@zacharias_environmental_2021 found road lighting significantly associated with higher uptake and deposit of dock-less shared bicycle trips.
 
 Qualitative research suggests that street lighting influences perceived safety and impacts the walkability of the neighbourhood [@rahm_evening_2021].
 
-@zacharias_environmental_2021 found "street lighting highly significantly associated with higher uptake and deposit of dock-less shared bicycle trips".
+@uttley_road_2020 found that the drop in cycling levels after dark was substantially greater in unlit locations, compared with lit locations.
 
-A subsequent paper found that the drop in cycling levels after dark was substantially greater in unlit locations, compared with lit locations.
-"Locations with no road lighting showed a significantly greater reduction in cycling after-dark compared with locations that had some lighting. A nonlinear relationship was found between relative brightness at a location at night and the reduction in cyclists after-dark. Small initial increases in brightness resulted in large reductions in the difference between cyclist numbers in daylight and after-dark, but this effect reached a plateau as brightness increased" [@uttley_road_2020].
-
-Furthermore, previous work by @fotios_whole-year_2019 suggests that streetlighting can benefit bother walking and cycling.
+Furthermore, previous work by @fotios_whole-year_2019 suggests that street lighting can benefit both walking and cycling.
 They found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
 This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
 However, the relative importance of lighting, compared with other factors, has not been the subject of large empirical studies in the papers reviewed.

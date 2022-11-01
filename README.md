@@ -106,7 +106,7 @@ light\*” OR “public light\*” OR “road light\*” OR “road illumination
 OR “light pole\*”*
 
 This search, based on the content of the title, abstract, and keywords,
-resulted in 1227 records. After screening abstracts and full text, 56
+resulted in 1227 records. After screening abstracts and full text, 54
 studies were selected. We excluded papers that did not focus on active
 travel and road lighting (many studies mentioned active travel and
 lighting in passing but not as the topic of the paper). We excluded six
@@ -132,7 +132,7 @@ chart of included studies is shown in Figure 1.
 
 <!-- - Is white light the right light? -->
 
-<img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
+<img src="flow-chart.png" title="Review flow chart" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
 
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
 <!-- Other parameters for scope? -->
@@ -168,41 +168,29 @@ them qualitative, and one of them mixed methods.
 
 ## Active travel behaviour and lighting
 
-There is evidence that street lighting influences physical activity and
-active travel levels (Lee and Moudon 2008; McCormack and Shiell 2011;
-Prince et al. 2022; Cerin et al. 2017; Annear et al. 2014; Peña-García,
-Hurtado, and Aguilar-Luzón 2015; Lin Yang et al. 2017; Bonaccorsi et al.
-2020).
+<!-- Which structure should i follow? By mode of transport? Walking, cyclng, wheeling? -->
 
-Using Strava Heatmap data, Linchuan Yang et al. (2022), for example,
-found lighting positively associations with running but not with
-cycling.
-
-Steve Fotios and Robbins (2022) found that “darkness leads to
-significant reductions in pedestrians and cyclists but does not have a
-significant effect on the number of motorized vehicles”.
+Many recent empirical papers have found an association between active
+travel or physical activity and road lighting. Using counts of traffic
+flow, Steve Fotios and Robbins (2022) found that darkness had a
+significant negative effect on the number of pedestrians and cyclists,
+but not on the number of motorized vehicles. using Strava Heatmap data,
+Linchuan Yang et al. (2022), found lighting positively associated with
+running but not with cycling. Differences in method and data may explain
+the consistency regarding cycling. Zacharias and Meng (2021) found road
+lighting significantly associated with higher uptake and deposit of
+dock-less shared bicycle trips.
 
 Qualitative research suggests that street lighting influences perceived
 safety and impacts the walkability of the neighbourhood (Rahm, Sternudd,
 and Johansson 2021).
 
-Zacharias and Meng (2021) found “street lighting highly significantly
-associated with higher uptake and deposit of dock-less shared bicycle
-trips”.
-
-A subsequent paper found that the drop in cycling levels after dark was
-substantially greater in unlit locations, compared with lit locations.
-“Locations with no road lighting showed a significantly greater
-reduction in cycling after-dark compared with locations that had some
-lighting. A nonlinear relationship was found between relative brightness
-at a location at night and the reduction in cyclists after-dark. Small
-initial increases in brightness resulted in large reductions in the
-difference between cyclist numbers in daylight and after-dark, but this
-effect reached a plateau as brightness increased” (Uttley, Fotios, and
-Lovelace 2020).
+Uttley, Fotios, and Lovelace (2020) found that the drop in cycling
+levels after dark was substantially greater in unlit locations, compared
+with lit locations.
 
 Furthermore, previous work by S. Fotios, Uttley, and Fox (2019) suggests
-that streetlighting can benefit bother walking and cycling. They found
+that street lighting can benefit both walking and cycling. They found
 that “ambient light has a significant impact: For a given time of day,
 more people walk or cycle when it is daylight than after dark and more
 people cycle on cycle trails and walk on foot paths after dark when they
@@ -210,12 +198,12 @@ are lit than when they are unlit”. This supported previous work which
 “indicated the numbers of pedestrians and cyclists during the case
 period were significantly higher during daylight conditions than
 after-dark, resulting in a 62% increase in pedestrians and a 38%
-increase in cyclists” (Uttley and Fotios 2017b). Overall, these studies
-provided reason to take seriously a bolder finding: Lee and Moudon
-(2008) found good lighting to be the most important facilitator of
-walking and cycling. However, the relative importance of lighting,
-compared with other factors, has not been the subject of large empirical
-studies in the papers reviewed.
+increase in cyclists” (Uttley and Fotios 2017b). However, the relative
+importance of lighting, compared with other factors, has not been the
+subject of large empirical studies in the papers reviewed.
+
+Lin Yang et al. (2017) Cerin et al. (2017) Peña-García, Hurtado, and
+Aguilar-Luzón (2015)
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -238,22 +226,6 @@ type
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:left;">
-Prince et al. (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Examining the state, quality and strength of the evidence in the
-research on built environments and physical activity among children and
-youth: An overview of reviews from high income countries
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
 <tr>
 <td style="text-align:left;">
 Linchuan Yang et al. (2022)
@@ -312,22 +284,6 @@ lighting and greenery
 </td>
 <td style="text-align:left;">
 empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Bonaccorsi et al. (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Impact of the built environment and the neighborhood in promoting the
-physical activity and the healthy aging in older people: An umbrella
-review
-</td>
-<td style="text-align:left;">
-review
 </td>
 </tr>
 <tr>
@@ -443,50 +399,6 @@ Peña-García, Hurtado, and Aguilar-Luzón (2015)
 <td style="text-align:left;">
 Impact of public lighting on pedestrians’ perception of safety and
 well-being
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Annear et al. (2014)
-</td>
-<td style="text-align:right;">
-2014
-</td>
-<td style="text-align:left;">
-Environmental influences on healthy and active ageing: A systematic
-review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-McCormack and Shiell (2011)
-</td>
-<td style="text-align:right;">
-2011
-</td>
-<td style="text-align:left;">
-In search of causality: A systematic review of the relationship between
-the built environment and physical activity among adults
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Lee and Moudon (2008)
-</td>
-<td style="text-align:right;">
-2008
-</td>
-<td style="text-align:left;">
-Neighbourhood design and physical activity
 </td>
 <td style="text-align:left;">
 empirical
@@ -911,10 +823,6 @@ reassurance and confidence of pedestrians and cyclists after dark (e.g.
 Rahm, Sternudd, and Johansson (2021); Loukaitou-Sideris (2006); Cozens
 et al. (2003)).
 
-“Perceived safety tends to affect the physical activity of groups
-already known to exhibit greater anxiety about crime” (Foster and
-Giles-Corti 2008).
-
 People’s perceived nighttime safety (qualitative research):
 
 “Proper street lighting is the main contributor to enhancing the feeling
@@ -1027,21 +935,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Foster and Giles-Corti (2008)
-</td>
-<td style="text-align:right;">
-2008
-</td>
-<td style="text-align:left;">
-The built environment, neighborhood crime and constrained physical
-activity: An exploration of inconsistent findings
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Loukaitou-Sideris (2006)
 </td>
 <td style="text-align:right;">
@@ -1083,10 +976,6 @@ affect groups differently.
 
 “the study also found that age and gender influenced the level of
 anxiety among pedestrians” (Park and Garcia 2020).
-
-“Perceived safety tends to affect the physical activity of groups
-already known to exhibit greater anxiety about crime” (Foster and
-Giles-Corti 2008).
 
 “Studies that focused on women, children, and the elderly have been able
 to identify a stronger link between feelings of risk and fear at the
@@ -1154,22 +1043,6 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-Prince et al. (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Examining the state, quality and strength of the evidence in the
-research on built environments and physical activity among children and
-youth: An overview of reviews from high income countries
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 S. Fotios, Uttley, and Gorjimahlabani (2022)
 </td>
 <td style="text-align:right;">
@@ -1211,22 +1084,6 @@ lighting and greenery
 </td>
 <td style="text-align:left;">
 empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Bonaccorsi et al. (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Impact of the built environment and the neighborhood in promoting the
-physical activity and the healthy aging in older people: An umbrella
-review
-</td>
-<td style="text-align:left;">
-review
 </td>
 </tr>
 <tr>
@@ -1276,21 +1133,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Annear et al. (2014)
-</td>
-<td style="text-align:right;">
-2014
-</td>
-<td style="text-align:left;">
-Environmental influences on healthy and active ageing: A systematic
-review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Johansson, Rosén, and Küller (2011)
 </td>
 <td style="text-align:right;">
@@ -1302,21 +1144,6 @@ an urban footpath
 </td>
 <td style="text-align:left;">
 empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Foster and Giles-Corti (2008)
-</td>
-<td style="text-align:right;">
-2008
-</td>
-<td style="text-align:left;">
-The built environment, neighborhood crime and constrained physical
-activity: An exploration of inconsistent findings
-</td>
-<td style="text-align:left;">
-review
 </td>
 </tr>
 <tr>
@@ -1773,8 +1600,6 @@ increase and be safer?**
 
 -   No research on wheeling and lighting
 
--   Measurement limitations (see Foster and Giles-Corti (2008)).
-
 -   Methodological inconsistencies (see Loukaitou-Sideris (2006))
 
 ## Strenghts and limitations
@@ -1806,15 +1631,6 @@ Research* 33 (March): 100201.
 
 </div>
 
-<div id="ref-annear_environmental_2014" class="csl-entry">
-
-Annear, Michael, Sally Keeling, Tim Wilkinson, Grant Cushman, Bob
-Gidlow, and Heather Hopkins. 2014. “Environmental Influences on Healthy
-and Active Ageing: A Systematic Review.” *Ageing and Society* 34 (4):
-590–622. <https://doi.org/10.1017/S0144686X1200116X>.
-
-</div>
-
 <div id="ref-asgarzadeh_impact_2018" class="csl-entry">
 
 Asgarzadeh, Morteza, Dorothee Fischer, Santosh K. Verma, Theodore K.
@@ -1832,18 +1648,6 @@ Oviedo-Trespalacios. 2021. “The Unequal Gender Effects of the Suburban
 Built Environment on Perceptions of Security.” *Journal of Transport &
 Health* 23 (December): 101243.
 <https://doi.org/10.1016/j.jth.2021.101243>.
-
-</div>
-
-<div id="ref-bonaccorsi_impact_2020" class="csl-entry">
-
-Bonaccorsi, Guglielmo, Federico Manzi, Marco Del Riccio, Nicoletta
-Setola, Eletta Naldi, Chiara Milani, Duccio Giorgetti, Claudia
-Dellisanti, and Chiara Lorini. 2020. “Impact of the Built Environment
-and the Neighborhood in Promoting the Physical Activity and the Healthy
-Aging in Older People: An Umbrella Review.” *International Journal of
-Environmental Research and Public Health* 17 (17): 6127.
-<https://doi.org/10.3390/ijerph17176127>.
 
 </div>
 
@@ -1908,15 +1712,6 @@ Ferenchak, Nicholas N., Risa E. Gutierrez, and Patrick A. Singleton.
 Across the Injury Severity Spectrum by Lighting Condition.” *Traffic
 Injury Prevention* 23 (7): 434–39.
 <https://doi.org/10.1080/15389588.2022.2100362>.
-
-</div>
-
-<div id="ref-foster_built_2008" class="csl-entry">
-
-Foster, Sarah, and Billie Giles-Corti. 2008. “The Built Environment,
-Neighborhood Crime and Constrained Physical Activity: An Exploration of
-Inconsistent Findings.” *Preventive Medicine* 47 (3): 241–51.
-<https://doi.org/10.1016/j.ypmed.2008.03.017>.
 
 </div>
 
@@ -2035,14 +1830,6 @@ Footpath.” *Lighting Research & Technology* 43 (1): 31–43.
 
 </div>
 
-<div id="ref-lee_neighbourhood_2008" class="csl-entry">
-
-Lee, Chanam, and Anne Vernez Moudon. 2008. “Neighbourhood Design and
-Physical Activity.” *Building Research & Information* 36 (5): 395–411.
-<https://doi.org/10.1080/09613210802045547>.
-
-</div>
-
 <div id="ref-liu_exploring_2019" class="csl-entry">
 
 Liu, Jing, Jingyu Li, Kun Wang, Jianyou Zhao, Haozhe Cong, and Ping He.
@@ -2092,16 +1879,6 @@ Affect Reassurance?” In *2017 IEEE International Conference on
 Environment and Electrical Engineering and 2017 IEEE Industrial and
 Commercial Power Systems Europe (EEEIC / I&CPS Europe)*, 1–5.
 <https://doi.org/10.1109/EEEIC.2017.7977648>.
-
-</div>
-
-<div id="ref-mccormack_search_2011" class="csl-entry">
-
-McCormack, G. R., and A. Shiell. 2011. “In Search of Causality: A
-Systematic Review of the Relationship Between the Built Environment and
-Physical Activity Among Adults.” *International Journal of Behavioral
-Nutrition and Physical Activity* 8.
-<https://doi.org/10.1186/1479-5868-8-125>.
 
 </div>
 
