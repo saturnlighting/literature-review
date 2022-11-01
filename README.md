@@ -856,6 +856,21 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+John M. Sullivan and Flannagan (2007)
+</td>
+<td style="text-align:right;">
+2007
+</td>
+<td style="text-align:left;">
+Determining the potential safety benefit of improved lighting in three
+pedestrian crash scenarios
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Siddiqui, Chu, and Guttenplan (2006)
 </td>
 <td style="text-align:right;">
@@ -1246,6 +1261,21 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Cheng et al. (2018)
+</td>
+<td style="text-align:right;">
+2018
+</td>
+<td style="text-align:left;">
+Effect of environmental factors on how older pedestrians detect an
+upcoming step
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Annear et al. (2014)
 </td>
 <td style="text-align:right;">
@@ -1451,6 +1481,21 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Saad, Portnov, and Trop (2021)
+</td>
+<td style="text-align:right;">
+2021
+</td>
+<td style="text-align:left;">
+Saving energy while maintaining the feeling of safety associated with
+urban street lighting
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 B. A. Portnov et al. (2020)
 </td>
 <td style="text-align:right;">
@@ -1554,6 +1599,20 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+Cellucci et al. (2016)
+</td>
+<td style="text-align:right;">
+2016
+</td>
+<td style="text-align:left;">
+Lighting distribution affects pedestrians’ sense of security
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Wu and Kim (2016)
 </td>
 <td style="text-align:right;">
@@ -1612,6 +1671,21 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
+Haans and Kort (2012)
+</td>
+<td style="text-align:right;">
+2012
+</td>
+<td style="text-align:left;">
+Light distribution in dynamic street lighting: Two experimental studies
+on its effects on perceived safety, prospect, concealment, and escape
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Fotios, S and Cheal, C. (2010)
 </td>
 <td style="text-align:right;">
@@ -1623,6 +1697,21 @@ lamp colour characteristics
 </td>
 <td style="text-align:left;">
 review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+John M. Sullivan and Flannagan (2007)
+</td>
+<td style="text-align:right;">
+2007
+</td>
+<td style="text-align:left;">
+Determining the potential safety benefit of improved lighting in three
+pedestrian crash scenarios
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
