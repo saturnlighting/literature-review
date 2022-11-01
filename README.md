@@ -55,11 +55,7 @@ knowledge, no academic paper has reviewed the international literature
 available on the relationship between active travel and road lighting
 specifically.
 
-<!-- Reviews on the relationship between build environment and active travel or physical activity considering lighting (e.g. @bonaccorsi_impact_2020; @mccormack_search_2011; @cerin_neighbourhood_2017; @prince_examining_2022).
-Other reviews look at environment, crime, and physical activity (e.g. @foster_built_2008; @loukaitou-sideris_is_2006), or at street lighting and crime [@cozens_critical_2003]. 
-@boyce_benefits_2019 wrote a review on the benefits of light at night in general. 
-@fotios_lighting_2017 provide a review of suggested actions to enable cycling lighting to contribute to the safety of cyclists. However, they focus only on cycling and in the UK.
-There are also a few reviews on appropriate road lighting [@fotios_light_2005; @fotios_s_road_2010; @fotios_specifying_2016]. -->
+<!-- A systematic literature review of pedestrians’ response to outdoor lighting. -->
 
 This paper aims to fill this gap in the literature, reviewing published
 research specifically focussed at the intersection between active travel
@@ -122,11 +118,11 @@ texts, TBC additional papers were selected. In total, TBC were reviewed.
 All studies were in English languages and from 2000 up to 2022. A flow
 chart of included studies is shown in Figure 1.
 
-<!-- Papers we could not access:  -->
+<!-- Papers not accessible:  -->
 
-<!-- - A CONTROVERSIAL HISTORY OF PEDESTRIAN SPACE LIGHTING IN MOSCOW. -->
+<!-- - A controversial history of pedestrian space lighting in Moscow -->
 
-<!-- - Safe on the move: The importance of the built environment (  Book Chapter)  -->
+<!-- - Safe on the move: The importance of the built environment (Book Chapter)  -->
 
 <!-- - Lighting criteria for road lighting: A review  -->
 
@@ -166,13 +162,9 @@ themes (some of the papers deal with more than one).
 
 ![](README_files/figure-gfm/fig2-1.png)<!-- -->
 
-The main themes of focus, in descending order of number of papers
-focussed on each, were active travel collisions and lighting, followed
-by proper lighting for active travel, active travel behaviour and
-lighting, inequalities in lighting, and active travel, crime, and
-lighting. Three quarters of the studies were empirical studies and one
-quarter were reviews. Most of the empirical studies were quantitative,
-five of them qualitative, and one of them mixed methods.
+Three quarters of the studies were empirical studies and one quarter
+were reviews. Most of the empirical studies were quantitative, five of
+them qualitative, and one of them mixed methods.
 
 ## Active travel behaviour and lighting
 
@@ -355,6 +347,20 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Peter R. Boyce (2019)
+</td>
+<td style="text-align:right;">
+2019
+</td>
+<td style="text-align:left;">
+The benefits of light at night
+</td>
+<td style="text-align:left;">
+review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 S. Fotios, Uttley, and Fox (2019)
 </td>
 <td style="text-align:right;">
@@ -396,6 +402,20 @@ changes in active commuting
 </td>
 <td style="text-align:left;">
 empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+S. Fotios and Castleton (2017)
+</td>
+<td style="text-align:right;">
+2017
+</td>
+<td style="text-align:left;">
+Lighting for cycling in the UK - A review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -747,6 +767,20 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+S. Fotios and Castleton (2017)
+</td>
+<td style="text-align:right;">
+2017
+</td>
+<td style="text-align:left;">
+Lighting for cycling in the UK - A review
+</td>
+<td style="text-align:left;">
+review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Wei et al. (2016)
 </td>
 <td style="text-align:right;">
@@ -1021,21 +1055,6 @@ british city
 review
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Painter (1996)
-</td>
-<td style="text-align:right;">
-1996
-</td>
-<td style="text-align:left;">
-The influence of street lighting improvements on crime, fear and
-pedestrian street use, after dark
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -1085,6 +1104,12 @@ Younger people can see better than older. A review on environments and
 physical activity among children and youth found not a very consistent
 positive associations between street lighting and physical activity
 (Prince et al. 2022).
+
+Older people may detect object differently than younger people. “The
+processing efficiency for visual information on an upcoming step is
+slower among older people than among young people. This implies that the
+vulnerability of older pedestrians maybe be reduced if better lighting
+or a simplified visual environment is provided” (Cheng et al. 2018).
 
 ### Disadvantaged groups
 
@@ -1303,6 +1328,12 @@ light color temperature of 4000 K–5500 K” (M. Liu et al. 2022).
 “Precise estimates of optimal illuminance, these ranging from 8.9 lx to
 26 lx, depending on location” (B. Portnov et al. 2022).
 
+“using warmer lights and increasing light uniformity can result in
+30–50% energy savings on SL. Using this assessment, we estimate that for
+medium-size cities with population of 200–400 K residents, energy
+savings on SL can reach 8–23 MWh per annum, which is equal to the output
+of a small-to-medium-size power plant” (Saad, Portnov, and Trop 2021).
+
 “higher levels of illumination and uniformity positively affect FoS,
 while lights perceived as warm tend to generate higher FoS than lights
 perceived as cold” (B. A. Portnov et al. 2020).
@@ -1327,6 +1358,8 @@ minimum/average uniformity” (Mattoni et al. 2017).
 recommends alternative methods for future research” (Steve Fotios and
 Castleton 2016).
 
+“lighting distribution changes perception” (Cellucci et al. 2016).
+
 “Luminance and distance had significant effects on expression
 recognition. A luminance of 1.0 cd/m2 permits facial expressions to be
 identified with a 50% probability of correct identification at a
@@ -1339,6 +1372,11 @@ reassurance” (S. Fotios, Unwin, and Farrall 2015).
 
 <!-- There are more empirical papers very technical and most related to regulations which may be over the scope of this review (e.g. @fotios_proposed_2012; @fotios_using_2013; @fotios_using_2015).  -->
 <!-- The same happens with a couple of reviews on this topic [@fotios_light_2005 and @fotios_s_road_2010]. Should we keep the reviews and remove emprical papers? Or remove them all? -->
+
+“Both experiments, one with stationary and one with walking
+participants, demonstrated that people prefer having light in their own
+immediate surroundings rather than on the road that lies ahead” (Haans
+and Kort 2012).
 
 “lamp SPD can be expected to affect the safe movement and perceived
 safety of pedestrians at night-time” (**fotios_s?**\_road_2010).
@@ -1454,6 +1492,20 @@ residential streets using the day-dark approach
 </td>
 <td style="text-align:left;">
 empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Peter R. Boyce (2019)
+</td>
+<td style="text-align:right;">
+2019
+</td>
+<td style="text-align:left;">
+The benefits of light at night
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -1723,6 +1775,15 @@ Environment* 151 (March): 356–67.
 
 </div>
 
+<div id="ref-cellucci_lighting_2016" class="csl-entry">
+
+Cellucci, Lucia, Fabio Bisegna, Franco Gugliermetti, and Mojtaba Navvab.
+2016. “Lighting Distribution Affects Pedestrians’ Sense of Security.” In
+*2016 IEEE 16th International Conference on Environment and Electrical
+Engineering (EEEIC)*, 1–5. <https://doi.org/10.1109/EEEIC.2016.7555655>.
+
+</div>
+
 <div id="ref-cerin_neighbourhood_2017" class="csl-entry">
 
 Cerin, Ester, Andrea Nathan, Jelle van Cauwenberg, David W. Barnett, and
@@ -1730,6 +1791,15 @@ Anthony Barnett. 2017. “The Neighbourhood Physical Environment and
 Active Travel in Older Adults: A Systematic Review and Meta-Analysis.”
 *International Journal of Behavioral Nutrition and Physical Activity* 14
 (1): 15. <https://doi.org/10.1186/s12966-017-0471-5>.
+
+</div>
+
+<div id="ref-cheng_effect_2018" class="csl-entry">
+
+Cheng, T-J, B Yang, C Holloway, and N Tyler. 2018. “Effect of
+Environmental Factors on How Older Pedestrians Detect an Upcoming Step.”
+*Lighting Research & Technology* 50 (3): 405–15.
+<https://doi.org/10.1177/1477153516669968>.
 
 </div>
 
@@ -1835,6 +1905,16 @@ Fotios, S, J Uttley, and S Gorjimahlabani. 2022. “Extending Observations
 of Ambient Light Level and Active Travel to Explore Age and Gender
 Differences in Reassurance.” *Lighting Research & Technology*, June,
 14771535221080657. <https://doi.org/10.1177/14771535221080657>.
+
+</div>
+
+<div id="ref-haans_light_2012" class="csl-entry">
+
+Haans, Antal, and Yvonne A. W. de Kort. 2012. “Light Distribution in
+Dynamic Street Lighting: Two Experimental Studies on Its Effects on
+Perceived Safety, Prospect, Concealment, and Escape.” *Journal of
+Environmental Psychology* 32 (4): 342–52.
+<https://doi.org/10.1016/j.jenvp.2012.05.006>.
 
 </div>
 
@@ -1946,15 +2026,6 @@ Study in Montreal, Quebec, Canada.” *Transportation Research Record*
 
 </div>
 
-<div id="ref-painter_influence_1996" class="csl-entry">
-
-Painter, Kate. 1996. “The Influence of Street Lighting Improvements on
-Crime, Fear and Pedestrian Street Use, After Dark.” *Landscape and Urban
-Planning* 35 (2-3): 193–201.
-<https://doi.org/10.1016/0169-2046(96)00311-8>.
-
-</div>
-
 <div id="ref-park_pedestrian_2020" class="csl-entry">
 
 Park, Yunmi, and Max Garcia. 2020. “Pedestrian Safety Perception and
@@ -2010,6 +2081,15 @@ Rahm, Johan, Catharina Sternudd, and Maria Johansson. 2021. “‘In the
 Evening, I Don’t Walk in the Park’: The Interplay Between Street
 Lighting and Greenery in Perceived Safety.” *URBAN DESIGN International*
 26 (1): 42–52. <https://doi.org/10.1057/s41289-020-00134-6>.
+
+</div>
+
+<div id="ref-saad_saving_2021" class="csl-entry">
+
+Saad, Rami, Boris A. Portnov, and Tamar Trop. 2021. “Saving Energy While
+Maintaining the Feeling of Safety Associated with Urban Street
+Lighting.” *Clean Technologies and Environmental Policy* 23 (1): 251–69.
+<https://doi.org/10.1007/s10098-020-01974-0>.
 
 </div>
 
