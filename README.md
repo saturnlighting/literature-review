@@ -214,7 +214,7 @@ pedestrians and a 38% increase in cyclists” (Uttley and Fotios 2017b).
 
 In a review of forty two quantitative studies that estimated association
 between neighbourhood build environment and active travel in older
-adults, Cerin et al. (2017) observed positive association with
+adults, Cerin et al. (2017) observed positive associations with
 availability of street lights.
 
 Using self-reported commuting data, Lin Yang et al. (2017) found that

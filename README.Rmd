@@ -205,7 +205,7 @@ Using odd ratios, @uttley_road_2020 found that the drop in cycling levels after 
 
 This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
 
-In a review of forty two quantitative studies that estimated association between neighbourhood build environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive association with availability of street lights.
+In a review of forty two quantitative studies that estimated association between neighbourhood build environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive associations with availability of street lights.
 
 Using self-reported commuting data, @yang_longitudinal_2017 found that individuals living in neighbourhoods with higher density of street light were more likely to active commuting.
 
