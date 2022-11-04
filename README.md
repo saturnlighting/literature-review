@@ -172,14 +172,20 @@ them qualitative, and one of them mixed methods.
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
 Previous research has found a clear association between active travel or
-physical activity levels and road lighting.
+physical activity levels and road lighting. For example, using odd
+ratios to compare traffic flows in case and control hours, Steve Fotios
+and Robbins (2022) found that darkness had a significant negative effect
+on the number of pedestrians and cyclists, but not on the number of
+motorized vehicles.
 
-In a review of forty two quantitative studies that estimated association
-between neighbourhood build environment and active travel in older
-adults, Cerin et al. (2017) observed positive association with
-availability of street lights.
+Using Strava Heatmap data and spatial regression models, Linchuan Yang
+et al. (2022) found street lighting positively associated with running,
+but not with cycling.
 
-**Qualitative research/Subjective data**
+Using satellite and street view imagery and linear regressions,
+Zacharias and Meng (2021) found street lighting highly significantly
+associated with higher uptake and deposit of dock-less shared bicycle
+trips.
 
 Rahm, Sternudd, and Johansson (2021) found that “the quality of urban
 greenery and street lighting impacted people’s route choices after dark,
@@ -188,6 +194,29 @@ due to unkempt greenery in combination with darkness, contributed to
 avoidance, whereas the presence of other people had the opposite
 effect”.
 
+Using odd ratios, Uttley, Fotios, and Lovelace (2020) found that the
+drop in cycling levels after dark was substantially greater in unlit
+locations, compared with lit locations. Uttley, Fotios, and Lovelace
+(2020) also found a non-linear relationship between relative brightness
+and the reduction in cyclists after-dark, suggesting that a minimal
+amount of lighting could be enough to promote cycling after dark.
+
+S. Fotios, Uttley, and Fox (2019) found that “ambient light has a
+significant impact: For a given time of day, more people walk or cycle
+when it is daylight than after dark and more people cycle on cycle
+trails and walk on foot paths after dark when they are lit than when
+they are unlit”.
+
+This supported previous work which “indicated the numbers of pedestrians
+and cyclists during the case period were significantly higher during
+daylight conditions than after-dark, resulting in a 62% increase in
+pedestrians and a 38% increase in cyclists” (Uttley and Fotios 2017b).
+
+In a review of forty two quantitative studies that estimated association
+between neighbourhood build environment and active travel in older
+adults, Cerin et al. (2017) observed positive association with
+availability of street lights.
+
 Using self-reported commuting data, Lin Yang et al. (2017) found that
 individuals living in neighbourhoods with higher density of street light
 were more likely to active commuting.
@@ -195,49 +224,6 @@ were more likely to active commuting.
 Peña-García, Hurtado, and Aguilar-Luzón (2015) found that “well
 illuminated streets (that is, where lighting is uniform) with higher
 illuminance levels, tend to make people feel safer and better”.
-
-**Quantitative research/Objective data**
-
--   Regression models (active travel could be there because of lighting
-    or lighting there because of active travel)
-
-Using Strava Heatmap data and spatial regression models, Linchuan Yang
-et al. (2022) found street lighting positively associated with running,
-but not with cycling. Using satellite and street view imagery and linear
-regressions, Zacharias and Meng (2021) found street lighting highly
-significantly associated with higher uptake and deposit of dock-less
-shared bicycle trips.
-
--   Odd ratios
-
-    -   Daylight saving approach
-
-    For example, using odd ratios to compare traffic flows in case and
-    control hours, Steve Fotios and Robbins (2022) found that darkness
-    had a significant negative effect on the number of pedestrians and
-    cyclists, but not on the number of motorized vehicles.
-
-    Using odd ratios, Uttley, Fotios, and Lovelace (2020) found that the
-    drop in cycling levels after dark was substantially greater in unlit
-    locations, compared with lit locations. Uttley, Fotios, and
-    Lovelace (2020) also found a non-linear relationship between
-    relative brightness and the reduction in cyclists after-dark,
-    suggesting that a minimal amount of lighting could be enough to
-    promote cycling after dark.
-
-    This supported previous work which “indicated the numbers of
-    pedestrians and cyclists during the case period were significantly
-    higher during daylight conditions than after-dark, resulting in a
-    62% increase in pedestrians and a 38% increase in cyclists” (Uttley
-    and Fotios 2017b).
-
-    -   The whole year approach
-
-    S. Fotios, Uttley, and Fox (2019) found that “ambient light has a
-    significant impact: For a given time of day, more people walk or
-    cycle when it is daylight than after dark and more people cycle on
-    cycle trails and walk on foot paths after dark when they are lit
-    than when they are unlit”.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
