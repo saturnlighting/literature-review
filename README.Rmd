@@ -11,7 +11,7 @@ always_allow_html: true
 # Abstract
 
 Background: A large body of evidence shows that darkness discourages people from walking and cycling.
-This can be explained by the fear of pedestrians and cyclists to suffer some type of damage from motorised traffic, a fall, or some type of violence.
+This is mostly due to a higher perceived danger of pedestrians and cyclists at night from motorised traffic or some other type of violence.
 This may disproportionately affect women, the elderly, and disadvantaged groups.
 
 Aim: This paper provides a review on the scientific literature that intersects between active travel and road lighting to better understand the relationship between both factors.
@@ -80,7 +80,7 @@ After screening abstracts and full text, 54 studies were selected.
 We excluded papers that did not focus on active travel and road lighting (many studies mentioned active travel and lighting in passing but not as the topic of the paper).
 We excluded six papers that could not be accessed.
 
-In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening TBC abstracts and full texts, TBC additional papers were selected.
+In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts, TBC additional papers were selected.
 In total, TBC were reviewed.
 All studies were in English languages and from 2000 up to 2022.
 A flow chart of included studies is shown in Figure 1.
@@ -188,22 +188,29 @@ Most of the empirical studies were quantitative, five of them qualitative, and o
 
 <!-- Which structure should i follow? By mode of transport? Walking, cyclng, wheeling? -->
 
-Many recent empirical papers have found an association between active travel or physical activity and road lighting.
-Using counts of traffic flow, @fotios_effect_2022 found that darkness had a significant negative effect on the number of pedestrians and cyclists, but not on the number of motorized vehicles.
-using Strava Heatmap data, @yang_crowdsourced_2022, found lighting positively associated with running but not with cycling. Differences in method and data may explain the consistency regarding cycling. 
-@zacharias_environmental_2021 found road lighting significantly associated with higher uptake and deposit of dock-less shared bicycle trips.
+<!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
-Qualitative research suggests that street lighting influences perceived safety and impacts the walkability of the neighbourhood [@rahm_evening_2021].
+Previous research has found a clear association between active travel or physical activity levels and road lighting.
 
-@uttley_road_2020 found that the drop in cycling levels after dark was substantially greater in unlit locations, compared with lit locations.
+In a review of forty two quantitative studies that estimated association between neighbourhood build environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive association with availability of street lights.
 
-Furthermore, previous work by @fotios_whole-year_2019 suggests that street lighting can benefit both walking and cycling.
-They found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
+@rahm_evening_2021 found that "the quality of urban greenery and street lighting impacted people’s route choices after dark, and some participants felt compelled to make detours. Entrapment, partly due to unkempt greenery in combination with darkness, contributed to avoidance, whereas the presence of other people had the opposite effect". 
+
+Using self-reported commuting data, @yang_longitudinal_2017 found that individuals living in neighbourhoods with higher density of street light were more likely to active commuting.
+
+@pena-garcia_impact_2015 found that "well illuminated streets (that is, where lighting is uniform) with higher illuminance levels, tend to make people feel safer and better".
+
+Using Strava Heatmap data and spatial regression models, @yang_crowdsourced_2022 found street lighting positively associated with running, but not with cycling. 
+Using satellite and street view imagery and linear regressions, @zacharias_environmental_2021 found street lighting highly significantly associated with higher uptake and deposit of dock-less shared bicycle trips.
+
+For example, using odd ratios to compare traffic flows in case and control hours, @fotios_effect_2022 found that darkness had a significant negative effect on the number of pedestrians and cyclists, but not on the number of motorized vehicles.
+
+Using odd ratios, @uttley_road_2020 found that the drop in cycling levels after dark was substantially greater in unlit locations, compared with lit locations. @uttley_road_2020 also found a non-linear relationship between relative brightness and the reduction in cyclists after-dark, suggesting that a minimal amount of lighting could be enough to promote cycling after dark.
+  
 This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
-However, the relative importance of lighting, compared with other factors, has not been the subject of large empirical studies in the papers reviewed.
 
-@yang_longitudinal_2017
-@cerin_neighbourhood_2017 @pena-garcia_impact_2015
+@fotios_whole-year_2019 found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
+
 
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -363,6 +370,8 @@ How lighting attributes such as illuminance, light temperature, uniformity and g
 
 "minimum illuminance is a better predictor of reassurance than is mean illuminance. For a day--dark difference of 0.5 units on a 6-point response scale, the results suggest a minimum horizontal illuminance of approximately 2.0 lux" [@fotios_evaluation_2019].
 
+"Fortunately, careful lighting design, soundly-based outdoor lighting standards and new lighting and sensor technology offer the possibility of providing the benefits of light at night while minimizing the impact on the environment" [@boyce_benefits_2019].
+
 "The reassurance of participants can be put in relation with street lighting since changes in illuminance levels were highly perceived by test participants. It was also found that reassurance is more related to the mean horizontal illuminance than to the minimum illuminance or minimum/average uniformity" [@mattoni_pedestrians_2017].
 
 "stimulus range bias in reassurance evaluations. This article also recommends alternative methods for future research" [@fotios_specifying_2016].
@@ -402,6 +411,8 @@ kbl(df,
 The scientific literature on the intersections of active travel and lighting is spread across several disciplines such as transportation, public health, road safety, criminology, studies of social inequalities, and engineering and technology.
 
 **To what extent does darkness influence active travel behaviour?**
+
+The positive results obtained in studies looking at the association between active travel uptake and street lighting show the importance of light conditions as a policy measure to encourage active travel in the dark. Lighting conditions improvements not only may increase active trips in general, but also the inclusivity of these modes, since, as has been demonstrated, street lighting will benefit more certain sectors of society such as women, children, the elderly, and certain disadvantaged groups
 
 **To what degree does darkness increase the risk of road collision among active travellers?**
 
