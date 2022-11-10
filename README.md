@@ -52,8 +52,8 @@ reviews looked at studies on the appropriate lighting for pedestrians’
 reassurance (S. Fotios, Unwin, and Farrall 2015; Fotios, S and Cheal, C.
 2010; Steve Fotios and Castleton 2016). However, to the best of our
 knowledge, no academic paper has reviewed the international literature
-available on the relationship between active travel and road lighting
-specifically.
+available on the intersection between both terms, active travel and road
+lighting.
 
 <!-- A systematic literature review of pedestrians’ response to outdoor lighting. -->
 
@@ -89,6 +89,8 @@ Section 5 closes the work with the conclusions.
 # Method
 
 <!-- ## Search strategy -->
+<!-- Two methods were used to conduct the literature review: (a) a systematic search, and (b) additional smaller searches and snowballing.  -->
+<!-- For completeness, separate smaller searches and snowballing were applied for the theoretical review as well as when the researchers were aware that a body of literature existed, but our systematic search had not picked up on it.  -->
 
 We used a hybrid systematic and snowballing method. First, we searched
 in the SCOPUS electronic databased (on 11 Oct 2022) for studies
@@ -1627,6 +1629,10 @@ different groups?**
 
 **What type of road lighting is the most suitable for active travel to
 increase and be safer?**
+
+What do we know so far on the topic? What are the research gaps? What
+happens to people who do not walk/cycle when it is dark? Do they change
+their routes? Do they change their mode of transport?
 
 ## Research gaps
 

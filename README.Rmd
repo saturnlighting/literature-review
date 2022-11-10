@@ -36,7 +36,7 @@ The report states that cycling "provides a sense of protection for those whose d
 
 Previous academic literature reviews have touched on elements of the relationship between active travel and lighting.
 @cozens_critical_2003 explored papers on the association between street lighting and crime or fear of crime; @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK; @boyce_benefits_2019 reviewed research into the benefits of light at night for perceptions of safety; and several reviews looked at studies on the appropriate lighting for pedestrians' reassurance [@fotios_road_2015; @fotios_s_road_2010; @fotios_specifying_2016].
-However, to the best of our knowledge, no academic paper has reviewed the international literature available on the relationship between active travel and road lighting specifically.
+However, to the best of our knowledge, no academic paper has reviewed the international literature available on the intersection between both terms, active travel and road lighting.
 
 ```{=html}
 <!-- A systematic literature review of pedestrians’ response to outdoor lighting. -->
@@ -67,6 +67,8 @@ Section 5 closes the work with the conclusions.
 # Method
 
 <!-- ## Search strategy -->
+<!-- Two methods were used to conduct the literature review: (a) a systematic search, and (b) additional smaller searches and snowballing.  -->
+<!-- For completeness, separate smaller searches and snowballing were applied for the theoretical review as well as when the researchers were aware that a body of literature existed, but our systematic search had not picked up on it.  -->
 
 We used a hybrid systematic and snowballing method.
 First, we searched in the SCOPUS electronic databased (on 11 Oct 2022) for studies investigating the relationship between active travel and road lighting.
@@ -421,6 +423,8 @@ The positive results obtained in studies looking at the association between acti
 **Is the association between active travel and darkness the same between different groups?**
 
 **What type of road lighting is the most suitable for active travel to increase and be safer?**
+
+What do we know so far on the topic? What are the research gaps? What happens to people who do not walk/cycle when it is dark? Do they change their routes? Do they change their mode of transport?
 
 ## Research gaps
 
