@@ -1,17 +1,16 @@
-Active Travel and Road Lighting: A Review
+Cycling and Road Lighting: A Review
 ================
 
 # Abstract
 
-Background: A large body of evidence shows that darkness discourages
-people from walking and cycling. This is mostly due to a higher
-perceived danger of pedestrians and cyclists at night from motorised
-traffic or some other type of violence. This may disproportionately
-affect women, the elderly, and disadvantaged groups.
+Background: Evidence shows that darkness discourages people from
+cycling. This is mostly due to a higher perceived danger of cyclists at
+night from motorised traffic or some other type of violence. This may
+disproportionately affect women, the elderly, and disadvantaged groups.
 
 Aim: This paper provides a review on the scientific literature that
-intersects between active travel and road lighting to better understand
-the relationship between both factors.
+intersects between cycling and road lighting to better understand the
+relationship between both terms.
 
 Method: We used a hybrid systematic and snowballing method. TBC studies
 on several disciplines such as transportation, public health, road
@@ -24,62 +23,45 @@ Conclusion:
 
 # Introduction
 
-Benefits of active travel are well established in the literature. Active
-travel (i.e. walking, cycling, and wheeling) improves physical, mental,
-and social health; reduces pollution, carbon emissions, and congestion;
-and it is more inclusive than private motorised modes, reducing
-inequalities.
+Benefits of cycling are well established in the literature. Cycling
+improves physical, mental, and social health; reduces pollution, carbon
+emissions, and congestion; and it is more inclusive than private
+motorised modes, reducing inequalities.
 
 Many variables (individual, social, and environmental) can affect an
-individual’s decision to travel by active modes, including by walking,
-cycling, and wheeling (meaning by non-powered mobility devices, scooters
-and other wheeled human powered vehicles).
+individual’s decision to cycle.
 
-Darkness is one of the environmental factors that most affect walking
-and cycling. Less studied has been the influence of darkness on
-wheeling, although we can assume that darkness is a major barrier to
-wheeling because people who rely on wheeled mobility are among the most
-vulnerable in society[^1].
-
+Darkness is one of the environmental factors that most affect cycling.
 Previous academic literature reviews have touched on elements of the
-relationship between active travel and lighting. Cozens et al. (2003)
-explored papers on the association between street lighting and crime or
-fear of crime; S. Fotios and Castleton (2017) reviewed suggested
-interventions to enable cycling lighting to contribute to the safety of
-cyclists in the UK; Peter R. Boyce (2019) reviewed research into the
-benefits of light at night for perceptions of safety; and several
-reviews looked at studies on the appropriate lighting for pedestrians’
-reassurance (S. Fotios, Unwin, and Farrall 2015; Fotios, S and Cheal, C.
-2010; Steve Fotios and Castleton 2016). However, to the best of our
-knowledge, no academic paper has reviewed the international literature
-available on the intersection between both terms, active travel and road
-lighting.
+relationship between cycling and lighting.
 
+<!-- @cozens_critical_2003 explored papers on the association between street lighting and crime or fear of crime; @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK; @boyce_benefits_2019 reviewed research into the benefits of light at night for perceptions of safety; and several reviews looked at studies on the appropriate lighting for pedestrians' reassurance [@fotios_road_2015; @fotios_s_road_2010; @fotios_specifying_2016]. -->
+<!-- However, to the best of our knowledge, no academic paper has reviewed the international literature available on the intersection between both terms, active travel and road lighting. -->
 <!-- A systematic literature review of pedestrians’ response to outdoor lighting. -->
 
 This paper aims to fill this gap in the literature, reviewing published
-research specifically focussed at the intersection between active travel
-and road lighting.
+research specifically focussed at the intersection between cycling and
+road lighting.
 
 The review is guided by the following questions:
 
-1.  To what extent does darkness influence active travel behaviour?
+1.  To what extent does darkness influence cycling behaviour?
 
 2.  To what extent does darkness increase the risk of road collision
-    among active travellers?
+    among cyclists?
 
 3.  To what extent does darkness increase the risk of being a victim of
-    crime among active travellers?
+    crime among cyclists?
 
-4.  Is the association between active travel and darkness the same
-    between different groups?
+4.  Is the association between cycling and darkness the same between
+    different groups?
 
-5.  What type of road lighting is the most suitable for active travel to
+5.  What type of road lighting is the most suitable for cycling to
     increase and be safer?
 
 We focus on road and/or ambient lighting, excluding studies on lighting
-equipment for pedestrians or cyclists, such as reflective clothing or
-bicycle-mounted lights.
+equipment for cyclists, such as reflective clothing or bicycle-mounted
+lights.
 
 The review is organized as follows. Section 2 describes the method.
 Section 3 presents the findings of the papers reviewed. Section 4
@@ -93,32 +75,28 @@ Section 5 closes the work with the conclusions.
 <!-- For completeness, separate smaller searches and snowballing were applied for the theoretical review as well as when the researchers were aware that a body of literature existed, but our systematic search had not picked up on it.  -->
 
 We used a hybrid systematic and snowballing method. First, we searched
-in the SCOPUS electronic databased (on 11 Oct 2022) for studies
-investigating the relationship between active travel and road lighting.
-We searched for papers from 2000 to present. The query string used for
-the search was as follows:
+in the SCOPUS electronic databased (on 15 November 2022) for studies
+investigating the relationship between cycling and road lighting. The
+query string used for the search was as follows:
 
-*walk\* OR foot OR pedestrian\* OR bicycl\* OR bik\* OR cycling OR
-cyclist\* OR “cycle hire” OR wheel\* OR scooter\* OR “active commut\*”
-OR “active transport\*” OR “active travel\*” OR “ecological commut\*” OR
-“ecological transport\*” OR “ecological travel\*” OR “green\* commut\*”
-OR “green transport\*” OR “green travel\*” OR greenway\*) AND (“city
-light\*” OR “public light\*” OR “road light\*” OR “road illumination” OR
-“street light\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*”
-OR “light pole\*”*
+*bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire”) AND (“city
+light\*” OR “public light\*” OR “road light\*” OR “street light\*” or
+“city illumination” OR “public illumination” OR “road illumination” OR
+“street illumination” OR “city lamp\*” OR “public lamp\*” OR “road
+lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*” OR “light
+pole\*”*
 
 This search, based on the content of the title, abstract, and keywords,
-resulted in 1227 records. After screening abstracts and full text, 54
-studies were selected. We excluded papers that did not focus on active
-travel and road lighting (many studies mentioned active travel and
-lighting in passing but not as the topic of the paper). We excluded six
-papers that could not be accessed.
+resulted in 262 records. After screening abstracts and full text, TBC
+studies were selected. We excluded papers that did not focus on cycling
+and road lighting (many studies mentioned cycling and lighting in
+passing but not as the topic of the paper).
+<!-- We excluded six papers that could not be accessed. -->
 
 In the second stage, we checked the references from the studies selected
 (i.e. snowball technique), and after screening abstracts and full texts,
-TBC additional papers were selected. In total, TBC were reviewed. All
-studies were in English languages and from 2000 up to 2022. A flow chart
-of included studies is shown in Figure 1.
+TBC additional papers were selected. In total, TBC were reviewed. A flow
+chart of included studies is shown in Figure 1.
 
 <!-- Papers not accessible:  -->
 
@@ -140,6 +118,10 @@ of included studies is shown in Figure 1.
 <!-- Other parameters for scope? -->
 <!-- ## Data extraction -->
 <!-- From the included studies, we extracted information regarding: location of study, methodology, active travel uptake and lighting measurements, mode, sign of association, and authors and year. -->
+
+|                                                                   |
+|-------------------------------------------------------------------|
+| Carry on with the update with only ‘cycling’ from here to the end |
 
 # Results
 
@@ -1636,16 +1618,16 @@ their routes? Do they change their mode of transport?
 
 ## Research gaps
 
--   Lack of research in developing countries
+- Lack of research in developing countries
 
--   No research on wheeling and lighting
+- No research on wheeling and lighting
 
--   Methodological inconsistencies (see Loukaitou-Sideris (2006))
+- Methodological inconsistencies (see Loukaitou-Sideris (2006))
 
 ## Strenghts and limitations
 
--   Systematic but selection of papers we subjectively found more
-    relevant. So there is more literature on this topic not reviewed.
+- Systematic but selection of papers we subjectively found more
+  relevant. So there is more literature on this topic not reviewed.
 
 # Conclusions
 
@@ -2170,12 +2152,3 @@ and Safety Promotion* 27 (3): 300–307.
 </div>
 
 </div>
-
-[^1]: The annual [Disability &
-    Cycling](https://wheelsforwellbeing.org.uk/wp-content/uploads/2022/05/Disability-and-Cycling-Report-of-2021-national-survey-results.pdf)
-    report by the charity Wheels for Wellbeing, for example, highlights
-    the importance of mobility and active modes for disabled people. The
-    report states that cycling “provides a sense of protection for those
-    whose disability renders them visible and vulnerable when on foot”
-    but does not discuss the impacts of darkness or lighting on feelings
-    of vulnerability, reflecting gaps in the academic literature.
