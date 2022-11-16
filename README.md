@@ -35,9 +35,11 @@ Darkness is one of the environmental factors that most affect cycling.
 Previous academic literature reviews have touched on elements of the
 relationship between cycling and lighting.
 
-<!-- @cozens_critical_2003 explored papers on the association between street lighting and crime or fear of crime; @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK; @boyce_benefits_2019 reviewed research into the benefits of light at night for perceptions of safety; and several reviews looked at studies on the appropriate lighting for pedestrians' reassurance [@fotios_road_2015; @fotios_s_road_2010; @fotios_specifying_2016]. -->
-<!-- However, to the best of our knowledge, no academic paper has reviewed the international literature available on the intersection between both terms, active travel and road lighting. -->
-<!-- A systematic literature review of pedestrians’ response to outdoor lighting. -->
+S. Fotios and Castleton (2017) reviewed suggested interventions to
+enable cycling lighting to contribute to the safety of cyclists in the
+UK. However, to the best of our knowledge, no academic paper has
+reviewed the international literature available on the intersection
+between both terms, cycling and road lighting.
 
 This paper aims to fill this gap in the literature, reviewing published
 research specifically focussed at the intersection between cycling and
@@ -79,12 +81,12 @@ in the SCOPUS electronic databased (on 15 November 2022) for studies
 investigating the relationship between cycling and road lighting. The
 query string used for the search was as follows:
 
-*bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire”) AND (“city
+*(bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire”) AND (“city
 light\*” OR “public light\*” OR “road light\*” OR “street light\*” or
 “city illumination” OR “public illumination” OR “road illumination” OR
 “street illumination” OR “city lamp\*” OR “public lamp\*” OR “road
 lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*” OR “light
-pole\*”*
+pole\*)”*
 
 This search, based on the content of the title, abstract, and keywords,
 resulted in 262 records. After screening abstracts and full text, TBC
@@ -98,30 +100,12 @@ In the second stage, we checked the references from the studies selected
 TBC additional papers were selected. In total, TBC were reviewed. A flow
 chart of included studies is shown in Figure 1.
 
-<!-- Papers not accessible:  -->
-
-<!-- - A controversial history of pedestrian space lighting in Moscow -->
-
-<!-- - Safe on the move: The importance of the built environment (Book Chapter)  -->
-
-<!-- - Lighting criteria for road lighting: A review  -->
-
-<!-- - Changing Social and Built Environments to Promote Physical Activity: Recommendations from Low Income, Urban Women -->
-
-<!-- - Macro-spatial approach for evaluating the impact of socio-economics, land use, built environment, and road facility on pedestrian safety -->
-
-<!-- - Is white light the right light? -->
-
 <img src="flow-chart.png" alt="Review flow chart" width="50%" style="display: block; margin: auto;" />
 
 <!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
 <!-- Other parameters for scope? -->
 <!-- ## Data extraction -->
-<!-- From the included studies, we extracted information regarding: location of study, methodology, active travel uptake and lighting measurements, mode, sign of association, and authors and year. -->
-
-|                                                                   |
-|-------------------------------------------------------------------|
-| Carry on with the update with only ‘cycling’ from here to the end |
+<!-- From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, mode, sign of association, and authors and year. -->
 
 # Results
 
@@ -130,16 +114,16 @@ disciplines, including transportation, public health, road safety,
 criminology, social inequalities, and engineering and technology. Five
 main themes were identified:
 
-1.  Active travel behaviour and lighting
+1.  Cycling behaviour and lighting
 
-2.  Active travel collisions and lighting
+2.  Cycling collisions and lighting
 
-3.  Active travel, crime and lighting
+3.  Cycling, crime and lighting
 
-4.  Inequalities in lighting
+4.  Cycling inequalities in lighting
 
-5.  Proper lighting (i.e. optimal use of lighting to enhance reassurance
-    while respecting the environment)
+5.  Proper lighting for cyclists (i.e. optimal use of lighting to
+    enhance cyclists reassurance while respecting the environment)
 
 Figure 1 shows the number of papers reviewed for each of the identified
 themes (some of the papers deal with more than one).
@@ -150,9 +134,8 @@ Three quarters of the studies were empirical studies and one quarter
 were reviews. Most of the empirical studies were quantitative, five of
 them qualitative, and one of them mixed methods.
 
-## Active travel behaviour and lighting
+## Cycling behaviour and lighting
 
-<!-- Which structure should i follow? By mode of transport? Walking, cyclng, wheeling? -->
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
 Previous research has found a clear association between active travel or
@@ -211,7 +194,7 @@ illuminance levels, tend to make people feel safer and better”.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 1: Overview of papers on active travel and lighting
+Table 1: Overview of papers on cycling and lighting
 </caption>
 <thead>
 <tr>
@@ -397,11 +380,11 @@ empirical
 </tbody>
 </table>
 
-## Active travel collisions and lighting
+## Cycling collisions and lighting
 
-One of the main reasons that active travel decreases in the dark is
-because active travellers need to see obstacles on the road and be seen
-by other road users.
+One of the main reasons that cycling decreases in the dark is because
+cyclists need to see obstacles on the road and be seen by other road
+users.
 
 The probability of suffering a traffic collision in the dark among
 pedestrians and cyclists is much greater than among other road users
@@ -498,7 +481,7 @@ intersections” (Siddiqui, Chu, and Guttenplan 2006).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 2: Overview of papers on active travel collisions and lighting
+Table 2: Overview of papers on cycling collisions and lighting
 </caption>
 <thead>
 <tr>
@@ -803,7 +786,7 @@ empirical
 </tbody>
 </table>
 
-## Active travel, crime, and lighting
+## Cycling, crime, and lighting
 
 Another fundamental factor that explains less walking and cycling during
 night-time is fear of crime.
@@ -830,7 +813,7 @@ brightness and environmental trust” (Johansson, Rosén, and Küller 2011).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 3: Overview of papers on active travel, crime, and lighting
+Table 3: Overview of papers on cycling, crime, and lighting
 </caption>
 <thead>
 <tr>
@@ -956,13 +939,10 @@ review
 </tbody>
 </table>
 
-## Inequalities in lighting
+## Cycling inequalities in lighting
 
 Fear of danger of injury from traffic, falls, or violence seems to
 affect groups differently.
-
-<!-- **fears from traffic** -->
-<!-- **fears from crime** -->
 
 “the study also found that age and gender influenced the level of
 anxiety among pedestrians” (Park and Garcia 2020).
@@ -1168,15 +1148,12 @@ review
 </tbody>
 </table>
 
-## Proper lighting
+## Proper lighting for cyclists
 
 A large number of papers found in our search focused on investigating
 which type of road lighting is most appropriate to improve pedestrians
 and cyclists reassurances. I.e. How lighting attributes such as
-illuminance, light temperature, uniformity and glare, affect active
-travel.
-
-<!-- "R"eassurance describes the confidence a pedestrian might gain from road lighting (and other factors) to walk along a footpath or road after dark, and is intended to describe both perceived safety and fear of crime". -->
+illuminance, light temperature, uniformity and glare, affect cycling.
 
 “A satisfactory level of FoS reaches at the illumination levels of 5–17
 lx. People feel safer if nighttime light is warm and uniform.
@@ -1235,9 +1212,6 @@ distance of 15 m” (B. Yang and Fotios 2015).
 illuminance of 10 lux, of high S/P ratio, and aimed toward the
 pedestrian and natural elements of the environment, will enhance
 reassurance” (S. Fotios, Unwin, and Farrall 2015).
-
-<!-- There are more empirical papers very technical and most related to regulations which may be over the scope of this review (e.g. @fotios_proposed_2012; @fotios_using_2013; @fotios_using_2015).  -->
-<!-- The same happens with a couple of reviews on this topic [@fotios_light_2005 and @fotios_s_road_2010]. Should we keep the reviews and remove emprical papers? Or remove them all? -->
 
 “Both experiments, one with stationary and one with walking
 participants, demonstrated that people prefer having light in their own
@@ -1584,32 +1558,32 @@ empirical
 
 # Discussion
 
-The scientific literature on the intersections of active travel and
-lighting is spread across several disciplines such as transportation,
-public health, road safety, criminology, studies of social inequalities,
-and engineering and technology.
+The scientific literature on the intersections of cycling and lighting
+is spread across several disciplines such as transportation, public
+health, road safety, criminology, studies of social inequalities, and
+engineering and technology.
 
-**To what extent does darkness influence active travel behaviour?**
+**To what extent does darkness influence cycling behaviour?**
 
 The positive results obtained in studies looking at the association
-between active travel uptake and street lighting show the importance of
-light conditions as a policy measure to encourage active travel in the
-dark. Lighting conditions improvements not only may increase active
-trips in general, but also the inclusivity of these modes, since, as has
-been demonstrated, street lighting will benefit more certain sectors of
+between cycling uptake and street lighting show the importance of light
+conditions as a policy measure to encourage cycling in the dark.
+Lighting conditions improvements not only may increase cycling trips in
+general, but also the inclusivity on cycling, since, as has been
+demonstrated, street lighting will benefit more certain sectors of
 society such as women, children, the elderly, and certain disadvantaged
-groups
+groups.
 
 **To what degree does darkness increase the risk of road collision among
-active travellers?**
+cyclists?**
 
 **To what extent does darkness increase the risk of being a victim of
-crime among active travellers?**
+crime among cyclists?**
 
-**Is the association between active travel and darkness the same between
+**Is the association between cycling and darkness the same between
 different groups?**
 
-**What type of road lighting is the most suitable for active travel to
+**What type of road lighting is the most suitable for cycling to
 increase and be safer?**
 
 What do we know so far on the topic? What are the research gaps? What
@@ -1632,7 +1606,7 @@ their routes? Do they change their mode of transport?
 # Conclusions
 
 <!-- Interpretation of the material. -->
-<!-- The review presented above highlights the need for more empirical work in the area of active travel uptake and road lighting. -->
+<!-- The review presented above highlights the need for more empirical work in the area of cycling uptake and road lighting. -->
 <!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
 <!-- During the project we plan to measure change in cycling levels, primarily through cyclists counts, and cycling safety due to darkness as inferred from models of cycling levels and high resolution casualty over multi year timescales and in a number of different locations. -->
 <!-- Comparing resulting estimates of change in cycling and safety levels will help assess the impact of lighting in those locations, but there is much else to do in this field beyond what is possible in a 24 month research project. -->

@@ -34,12 +34,7 @@ Many variables (individual, social, and environmental) can affect an individual'
 Darkness is one of the environmental factors that most affect cycling. 
 Previous academic literature reviews have touched on elements of the relationship between cycling and lighting.
 
-<!-- @cozens_critical_2003 explored papers on the association between street lighting and crime or fear of crime; @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK; @boyce_benefits_2019 reviewed research into the benefits of light at night for perceptions of safety; and several reviews looked at studies on the appropriate lighting for pedestrians' reassurance [@fotios_road_2015; @fotios_s_road_2010; @fotios_specifying_2016]. -->
-<!-- However, to the best of our knowledge, no academic paper has reviewed the international literature available on the intersection between both terms, active travel and road lighting. -->
-
-```{=html}
-<!-- A systematic literature review of pedestrians’ response to outdoor lighting. -->
-```
+@fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK. However, to the best of our knowledge, no academic paper has reviewed the international literature available on the intersection between both terms, cycling and road lighting. 
 
 This paper aims to fill this gap in the literature, reviewing published research specifically focussed at the intersection between cycling and road lighting.
 
@@ -73,7 +68,7 @@ We used a hybrid systematic and snowballing method.
 First, we searched in the SCOPUS electronic databased (on 15 November 2022) for studies investigating the relationship between cycling and road lighting.
 The query string used for the search was as follows:
 
-*bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*"* 
+*(bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*)"* 
 
 This search, based on the content of the title, abstract, and keywords, resulted in 262 records. 
 After screening abstracts and full text, TBC studies were selected.
@@ -83,34 +78,6 @@ We excluded papers that did not focus on cycling and road lighting (many studies
 In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts, TBC additional papers were selected.
 In total, TBC were reviewed.
 A flow chart of included studies is shown in Figure 1.
-
-```{=html}
-<!-- Papers not accessible:  -->
-
-<!-- - A controversial history of pedestrian space lighting in Moscow -->
-
-<!-- - Safe on the move: The importance of the built environment (Book Chapter)  -->
-
-<!-- - Lighting criteria for road lighting: A review  -->
-
-<!-- - Changing Social and Built Environments to Promote Physical Activity: Recommendations from Low Income, Urban Women -->
-
-<!-- - Macro-spatial approach for evaluating the impact of socio-economics, land use, built environment, and road facility on pedestrian safety -->
-
-<!-- - Is white light the right light? -->
-```
-
-```{r tab1, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
-library(kableExtra)
-stages <- c( 'Combining search and results and excluding duplicates', 'Reviewing abstracts, excluding papers out of scope of review', 'Reading full paper', 'Review of full papers')
-papers <- c('281', 'x', 'x', 'x')
-
-df <- data.frame(stages, papers)
-colnames(df) <- c('Stages', 'Number of papers left')
-kbl(df,
-    caption = "Table 1: Chart flow of included studies") %>%
-    kable_styling()
-```
 
 ```{r fig1, echo=FALSE, fig.align="center", fig.cap="Review flow chart", out.width = '50%'}
 knitr::include_graphics("flow-chart.png")
@@ -122,26 +89,23 @@ knitr::include_graphics("flow-chart.png")
 
 <!-- ## Data extraction -->
 
-<!-- From the included studies, we extracted information regarding: location of study, methodology, active travel uptake and lighting measurements, mode, sign of association, and authors and year. -->
+<!-- From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, mode, sign of association, and authors and year. -->
 
----
-Carry on with the update with only 'cycling' from here to the end
----
 
 # Results
 
 The scientific literature was found to be broadly spread across several disciplines, including transportation, public health, road safety, criminology, social inequalities, and engineering and technology.
 Five main themes were identified:
 
-1.  Active travel behaviour and lighting
+1.  Cycling behaviour and lighting
 
-2.  Active travel collisions and lighting
+2.  Cycling collisions and lighting
 
-3.  Active travel, crime and lighting
+3.  Cycling, crime and lighting
 
-4.  Inequalities in lighting
+4.  Cycling inequalities in lighting
 
-5.  Proper lighting (i.e. optimal use of lighting to enhance reassurance while respecting the environment)
+5.  Proper lighting for cyclists (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment)
 
 Figure 1 shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one).
 
@@ -153,7 +117,7 @@ papers <- read.csv("lrp-papers-summary-full-text.csv")
 
 df = papers %>% replace(is.na(.), 0) %>%
   group_by(type) %>% 
-  summarise("Active travel behaviour and lighting" = sum(behaviour), "Active travel collisions and lighting" = sum(road_safety),  "Active travel, crime and lighting" = sum(crime), "Inqualities in lighting" = sum(inequalities), "Proper lighting" = sum(proper_light)) %>% 
+  summarise("Cycling behaviour and lighting" = sum(behaviour), "Cycling collisions and lighting" = sum(road_safety),  "Cycling, crime and lighting" = sum(crime), "Cycling inqualities in lighting" = sum(inequalities), "Proper lighting for cyclists" = sum(proper_light)) %>% 
   pivot_longer((2:6))
 
 # df$name = as.factor(df$name)
@@ -166,30 +130,10 @@ ggplot(df, aes(x = reorder(name, value), y = value, fill = type)) +
   coord_flip()
 ```
 
-```{r tab3, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
-library(kableExtra)
-
-location <- c('TBD', 'TBD', 'TBD', 'UK', 'UK', 'UK')
-method <-  c('', '', '', '', '', '')
-mode <- c('', '', '', '', '', '')
-uptake <- c('', '', '', '', '', '')
-light <- c('', '', '', '', '', '')
-sign <- c('', '', '', '', '', '')
-authors <- c('@abasahl_gender_2018', '@agarwal_encouraging_2022', '@akar_influence_2009', '@fotios_lighting_2017', '@fotios_pilot_2017', '@uttley_road_2020')
-
-df <- data.frame(location, method, mode, uptake, light, sign, authors)
-colnames(df) <- c('Location', 'Method', 'Mode', 'Uptake\nMeasurement', 'Lighting\nmeasurement', 'Sign of\nassociation', 'Author and year')
-kbl(df,
-    caption = "Table 2: Overview of papers on active travel and road lighting") %>%
-    kable_styling()
-```
-
 Three quarters of the studies were empirical studies and one quarter were reviews.
 Most of the empirical studies were quantitative, five of them qualitative, and one of them mixed methods.
 
-## Active travel behaviour and lighting
-
-<!-- Which structure should i follow? By mode of transport? Walking, cyclng, wheeling? -->
+## Cycling behaviour and lighting
 
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
@@ -226,13 +170,13 @@ df = papers %>%
   select(authors, year, title, type)
 
 kbl(df,
-    caption = "Table 1: Overview of papers on active travel and lighting") %>%
+    caption = "Table 1: Overview of papers on cycling and lighting") %>%
     kable_styling()
 ```
 
-## Active travel collisions and lighting
+## Cycling collisions and lighting
 
-One of the main reasons that active travel decreases in the dark is because active travellers need to see obstacles on the road and be seen by other road users.
+One of the main reasons that cycling decreases in the dark is because cyclists need to see obstacles on the road and be seen by other road users.
 
 The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (e.g. @hennessy_spatial_2021; @wang_fatal_2020; @sullivan_role_2002).
 
@@ -279,11 +223,11 @@ df = papers %>%
   select(authors, year, title, type)
 
 kbl(df,
-    caption = "Table 2: Overview of papers on active travel collisions and lighting") %>%
+    caption = "Table 2: Overview of papers on cycling collisions and lighting") %>%
     kable_styling()
 ```
 
-## Active travel, crime, and lighting
+## Cycling, crime, and lighting
 
 Another fundamental factor that explains less walking and cycling during night-time is fear of crime.
 
@@ -303,17 +247,13 @@ df = papers %>%
   select(authors, year, title, type)
 
 kbl(df,
-    caption = "Table 3: Overview of papers on active travel, crime, and lighting") %>%
+    caption = "Table 3: Overview of papers on cycling, crime, and lighting") %>%
     kable_styling()
 ```
 
-## Inequalities in lighting
+## Cycling inequalities in lighting
 
 Fear of danger of injury from traffic, falls, or violence seems to affect groups differently.
-
-<!-- **fears from traffic** -->
-
-<!-- **fears from crime** -->
 
 "the study also found that age and gender influenced the level of anxiety among pedestrians" [@park_pedestrian_2020].
 
@@ -353,13 +293,11 @@ kbl(df,
     kable_styling()
 ```
 
-## Proper lighting
+## Proper lighting for cyclists
 
 A large number of papers found in our search focused on investigating which type of road lighting is most appropriate to improve pedestrians and cyclists reassurances.
 I.e.
-How lighting attributes such as illuminance, light temperature, uniformity and glare, affect active travel.
-
-<!-- "R"eassurance describes the confidence a pedestrian might gain from road lighting (and other factors) to walk along a footpath or road after dark, and is intended to describe both perceived safety and fear of crime". -->
+How lighting attributes such as illuminance, light temperature, uniformity and glare, affect cycling.
 
 "A satisfactory level of FoS reaches at the illumination levels of 5--17 lx. People feel safer if nighttime light is warm and uniform. Illuminance and uniformity are the main factors affecting PLQ under conditions of low or high illuminance, while glare and color temperature play a more significant role under high illuminance. In addition, a satisfactory level of PLQ is found at illuminance levels of 25--35 lx and light color temperature of 4000 K--5500 K" [@liu_evaluating_2022].
 
@@ -385,10 +323,6 @@ How lighting attributes such as illuminance, light temperature, uniformity and g
 
 "Review of the characteristics of lighting suggests an optimum illuminance of 10 lux, of high S/P ratio, and aimed toward the pedestrian and natural elements of the environment, will enhance reassurance" [@fotios_road_2015].
 
-<!-- There are more empirical papers very technical and most related to regulations which may be over the scope of this review (e.g. @fotios_proposed_2012; @fotios_using_2013; @fotios_using_2015).  -->
-
-<!-- The same happens with a couple of reviews on this topic [@fotios_light_2005 and @fotios_s_road_2010]. Should we keep the reviews and remove emprical papers? Or remove them all? -->
-
 "Both experiments, one with stationary and one with walking participants, demonstrated that people prefer having light in their own immediate surroundings rather than on the road that lies ahead" [@haans_light_2012].
 
 "lamp SPD can be expected to affect the safe movement and perceived safety of pedestrians at night-time" [@fotios_s\_road_2010].
@@ -411,19 +345,19 @@ kbl(df,
 
 # Discussion
 
-The scientific literature on the intersections of active travel and lighting is spread across several disciplines such as transportation, public health, road safety, criminology, studies of social inequalities, and engineering and technology.
+The scientific literature on the intersections of cycling and lighting is spread across several disciplines such as transportation, public health, road safety, criminology, studies of social inequalities, and engineering and technology.
 
-**To what extent does darkness influence active travel behaviour?**
+**To what extent does darkness influence cycling behaviour?**
 
-The positive results obtained in studies looking at the association between active travel uptake and street lighting show the importance of light conditions as a policy measure to encourage active travel in the dark. Lighting conditions improvements not only may increase active trips in general, but also the inclusivity of these modes, since, as has been demonstrated, street lighting will benefit more certain sectors of society such as women, children, the elderly, and certain disadvantaged groups
+The positive results obtained in studies looking at the association between cycling uptake and street lighting show the importance of light conditions as a policy measure to encourage cycling in the dark. Lighting conditions improvements not only may increase cycling trips in general, but also the inclusivity on cycling, since, as has been demonstrated, street lighting will benefit more certain sectors of society such as women, children, the elderly, and certain disadvantaged groups.
 
-**To what degree does darkness increase the risk of road collision among active travellers?**
+**To what degree does darkness increase the risk of road collision among cyclists?**
 
-**To what extent does darkness increase the risk of being a victim of crime among active travellers?**
+**To what extent does darkness increase the risk of being a victim of crime among cyclists?**
 
-**Is the association between active travel and darkness the same between different groups?**
+**Is the association between cycling and darkness the same between different groups?**
 
-**What type of road lighting is the most suitable for active travel to increase and be safer?**
+**What type of road lighting is the most suitable for cycling to increase and be safer?**
 
 What do we know so far on the topic? What are the research gaps? What happens to people who do not walk/cycle when it is dark? Do they change their routes? Do they change their mode of transport?
 
@@ -443,7 +377,7 @@ What do we know so far on the topic? What are the research gaps? What happens to
 
 <!-- Interpretation of the material. -->
 
-<!-- The review presented above highlights the need for more empirical work in the area of active travel uptake and road lighting. -->
+<!-- The review presented above highlights the need for more empirical work in the area of cycling uptake and road lighting. -->
 
 <!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
 
