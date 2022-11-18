@@ -177,8 +177,8 @@
     },
     {
       "type": "text",
-      "version": 1710,
-      "versionNonce": 1829021604,
+      "version": 1714,
+      "versionNonce": 1467013882,
       "isDeleted": false,
       "id": "C3GnlEjqAc2ZCz4yrawiD",
       "fillStyle": "hachure",
@@ -197,17 +197,17 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElements": [],
-      "updated": 1668770537648,
+      "updated": 1668782927143,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Screened abstracts \n(N= 82)",
+      "text": "Screened abstracts \n(N= 71)",
       "baseline": 41,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "eRDBBAaTGjTEN3zC6z-tF",
-      "originalText": "Screened abstracts \n(N= 82)"
+      "originalText": "Screened abstracts \n(N= 71)"
     },
     {
       "type": "rectangle",
