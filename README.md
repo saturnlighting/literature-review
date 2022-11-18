@@ -5,8 +5,9 @@ Cycling and Road Lighting: A Review
 
 Background: Evidence shows that darkness discourages people from
 cycling. This is mostly due to a higher perceived danger of cyclists at
-night from motorised traffic or some other type of violence. This may
-disproportionately affect women, the elderly, and disadvantaged groups.
+night from motorised traffic and personal security. This may
+disproportionately affect women, children, the elderly, and
+disadvantaged groups.
 
 Aim: This paper provides a review on the scientific literature that
 intersects between cycling and road lighting to better understand the
@@ -1097,6 +1098,9 @@ A large number of papers found in our search focused on investigating
 which type of road lighting is most appropriate to improve cyclists
 reassurances. I.e. How lighting attributes such as illuminance, light
 temperature, uniformity and glare, affect cycling.
+
+Smart Street Lighting (that adapts to movement by pedestrians, cyclists,
+and cars) papers.
 
 <!-- "A satisfactory level of FoS reaches at the illumination levels of 5--17 lx. People feel safer if nighttime light is warm and uniform. Illuminance and uniformity are the main factors affecting PLQ under conditions of low or high illuminance, while glare and color temperature play a more significant role under high illuminance. In addition, a satisfactory level of PLQ is found at illuminance levels of 25--35 lx and light color temperature of 4000 K--5500 K" [@liu_evaluating_2022]. -->
 <!-- "Precise estimates of optimal illuminance, these ranging from 8.9 lx to 26 lx, depending on location" [@portnov_establishing_2022]. -->
