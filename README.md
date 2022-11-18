@@ -87,7 +87,7 @@ light\*” OR “public light\*” OR “road light\*” OR “street light\*”
 “city illumination” OR “public illumination” OR “road illumination” OR
 “street illumination” OR “city lamp\*” OR “public lamp\*” OR “road
 lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*” OR “light
-pole\*)”*
+pole\*”)*
 
 This search, based on the content of the title, abstract, and keywords,
 resulted in 262 records. After screening abstracts and full text, TBC
@@ -173,7 +173,7 @@ they are unlit”.
 This supported previous work which “indicated the numbers of pedestrians
 and cyclists during the case period were significantly higher during
 daylight conditions than after-dark, resulting in a 62% increase in
-pedestrians and a 38% increase in cyclists” (Uttley and Fotios 2017b).
+pedestrians and a 38% increase in cyclists” (Uttley and Fotios 2017).
 
 <!-- In a review of forty two quantitative studies that estimated association between neighbourhood build environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive associations with availability of street lights. -->
 
@@ -250,21 +250,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Rahm, Sternudd, and Johansson (2021)
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-“In the evening, I don’t walk in the park”: The interplay between street
-lighting and greenery
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Uttley, Fotios, and Lovelace (2020)
 </td>
 <td style="text-align:right;">
@@ -295,7 +280,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Uttley and Fotios (2017b)
+Uttley and Fotios (2017)
 </td>
 <td style="text-align:right;">
 2017
@@ -325,20 +310,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-S. Fotios and Castleton (2017)
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-Lighting for cycling in the UK - A review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Cerin et al. (2017)
 </td>
 <td style="text-align:right;">
@@ -352,21 +323,6 @@ adults: A systematic review and meta-analysis
 review
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Peña-García, Hurtado, and Aguilar-Luzón (2015)
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Impact of public lighting on pedestrians’ perception of safety and
-well-being
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -378,8 +334,8 @@ users.
 
 The probability of suffering a traffic collision in the dark among
 pedestrians and cyclists is much greater than among other road users
-(e.g. Hennessy and Ai (2021); Wang and Cicchino (2020); John M. Sullivan
-and Flannagan (2002)).
+(e.g. Hennessy and Ai (2021); Wang and Cicchino (2020); Sullivan and
+Flannagan (2002)).
 
 <!-- Poor visibility is one of the greatest risk factors for pedestrians [@stoker_pedestrian_2015]. -->
 
@@ -463,126 +419,6 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-Hossain et al. (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Applying Association Rules Mining to Investigate Pedestrian Fatal and
-Injury Crash Patterns Under Different Lighting Conditions
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Sanders, Schneider, and Proulx (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Pedestrian fatalities in darkness: What do we know, and what can be
-done?
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Alogaili and Mannering (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Differences between day and night pedestrian-injury severities:
-Accounting for temporal and unobserved effects in prediction
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Ferenchak, Gutierrez, and Singleton (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Shedding light on the pedestrian safety crisis: An analysis across the
-injury severity spectrum by lighting condition
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Hennessy and Ai (2021)
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-A spatial comparison of roadway lighting and nonmotorist crashes in
-cambridge, ma
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Wang and Cicchino (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Fatal pedestrian crashes on interstates and other freeways in the United
-States
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Zafri et al. (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Exploring the factors influencing pedestrian-vehicle crash severity in
-Dhaka, Bangladesh
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-J. Liu et al. (2019)
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-Exploring factors affecting the severity of night-time vehicle accidents
-under low illumination conditions
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Asgarzadeh et al. (2018)
 </td>
 <td style="text-align:right;">
@@ -591,21 +427,6 @@ Asgarzadeh et al. (2018)
 <td style="text-align:left;">
 The impact of weather, road surface, time-of-day, and light conditions
 on severity of bicycle-motor vehicle crash injuries
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Uttley and Fotios (2017a)
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-The effect of ambient light condition on road traffic collisions
-involving pedestrians on pedestrian crossings
 </td>
 <td style="text-align:left;">
 empirical
@@ -627,21 +448,6 @@ review
 </tr>
 <tr>
 <td style="text-align:left;">
-Wei et al. (2016)
-</td>
-<td style="text-align:right;">
-2016
-</td>
-<td style="text-align:left;">
-Safety effects of street illuminance at urban signalized intersections
-in Florida
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Nabavi Niaki et al. (2016)
 </td>
 <td style="text-align:right;">
@@ -653,21 +459,6 @@ study in Montreal, Quebec, Canada
 </td>
 <td style="text-align:left;">
 empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Stoker et al. (2015)
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Pedestrian Safety and the Built Environment: A Review of the Risk
-Factors
-</td>
-<td style="text-align:left;">
-review
 </td>
 </tr>
 <tr>
@@ -695,50 +486,6 @@ Wanvik (2009)
 <td style="text-align:left;">
 Effects of road lighting: An analysis based on Dutch accident statistics
 1987-2006
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-John M. Sullivan and Flannagan (2007)
-</td>
-<td style="text-align:right;">
-2007
-</td>
-<td style="text-align:left;">
-Determining the potential safety benefit of improved lighting in three
-pedestrian crash scenarios
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Siddiqui, Chu, and Guttenplan (2006)
-</td>
-<td style="text-align:right;">
-2006
-</td>
-<td style="text-align:left;">
-Crossing locations, light conditions, and pedestrian injury severity
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-John M. Sullivan and Flannagan (2002)
-</td>
-<td style="text-align:right;">
-2002
-</td>
-<td style="text-align:left;">
-The role of ambient light level in fatal crashes: Inferences from
-daylight saving time transitions
 </td>
 <td style="text-align:left;">
 empirical
@@ -794,108 +541,6 @@ type
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-Rahm, Sternudd, and Johansson (2021)
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-“In the evening, I don’t walk in the park”: The interplay between street
-lighting and greenery
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Park and Garcia (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Pedestrian safety perception and urban street settings
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Wu and Kim (2016)
-</td>
-<td style="text-align:right;">
-2016
-</td>
-<td style="text-align:left;">
-The relationship between the pedestrian lighting environment and
-perceived safety
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Peña-García, Hurtado, and Aguilar-Luzón (2015)
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Impact of public lighting on pedestrians’ perception of safety and
-well-being
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Johansson, Rosén, and Küller (2011)
-</td>
-<td style="text-align:right;">
-2011
-</td>
-<td style="text-align:left;">
-Individual factors influencing the assessment of the outdoor lighting of
-an urban footpath
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Loukaitou-Sideris (2006)
-</td>
-<td style="text-align:right;">
-2006
-</td>
-<td style="text-align:left;">
-Is it safe to walk? Neighborhood safety and security considerations and
-their effects on walking
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cozens et al. (2003)
-</td>
-<td style="text-align:right;">
-2003
-</td>
-<td style="text-align:left;">
-A critical review of street lighting, crime and fear of crime in the
-british city
-</td>
-<td style="text-align:left;">
-review
-</td>
 </tr>
 </tbody>
 </table>
@@ -972,64 +617,6 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Basu et al. (2021)
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-The unequal gender effects of the suburban built environment on
-perceptions of security
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Rahm, Sternudd, and Johansson (2021)
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-“In the evening, I don’t walk in the park”: The interplay between street
-lighting and greenery
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Park and Garcia (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Pedestrian safety perception and urban street settings
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Peter R. Boyce (2019)
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-The benefits of light at night
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Lusk et al. (2019)
 </td>
 <td style="text-align:right;">
@@ -1042,51 +629,6 @@ Boston
 </td>
 <td style="text-align:left;">
 empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cheng et al. (2018)
-</td>
-<td style="text-align:right;">
-2018
-</td>
-<td style="text-align:left;">
-Effect of environmental factors on how older pedestrians detect an
-upcoming step
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Johansson, Rosén, and Küller (2011)
-</td>
-<td style="text-align:right;">
-2011
-</td>
-<td style="text-align:left;">
-Individual factors influencing the assessment of the outdoor lighting of
-an urban footpath
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Loukaitou-Sideris (2006)
-</td>
-<td style="text-align:right;">
-2006
-</td>
-<td style="text-align:left;">
-Is it safe to walk? Neighborhood safety and security considerations and
-their effects on walking
-</td>
-<td style="text-align:left;">
-review
 </td>
 </tr>
 </tbody>
@@ -1116,7 +658,7 @@ approximately 2.0 lux” (S. Fotios, Monteiro, and Uttley 2019).
 “Fortunately, careful lighting design, soundly-based outdoor lighting
 standards and new lighting and sensor technology offer the possibility
 of providing the benefits of light at night while minimizing the impact
-on the environment” (Peter R. Boyce 2019).
+on the environment” (Boyce 2019).
 
 “The reassurance of participants can be put in relation with street
 lighting since changes in illuminance levels were highly perceived by
@@ -1160,297 +702,16 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
-M. Liu et al. (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Evaluating Street Lighting Quality in Residential Areas by Combining
-Remote Sensing Tools and a Survey on Pedestrians’ Perceptions of Safety
-and Visual Comfort
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-B. Portnov et al. (2022)
-</td>
-<td style="text-align:right;">
-2022
-</td>
-<td style="text-align:left;">
-Establishing optimal illuminance for pedestrian reassurance using
-segmented regression
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Saad, Portnov, and Trop (2021)
-</td>
-<td style="text-align:right;">
-2021
-</td>
-<td style="text-align:left;">
-Saving energy while maintaining the feeling of safety associated with
-urban street lighting
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-B. A. Portnov et al. (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-Linking nighttime outdoor lighting attributes to pedestrians’ feeling of
-safety: An interactive survey approach
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Svechkina, Trop, and Portnov (2020)
-</td>
-<td style="text-align:right;">
-2020
-</td>
-<td style="text-align:left;">
-How much lighting is required to feel safe when walking through the
-streets at night?
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-S. Fotios, Monteiro, and Uttley (2019)
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-Evaluation of pedestrian reassurance gained by higher illuminances in
-residential streets using the day-dark approach
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Peter R. Boyce (2019)
-</td>
-<td style="text-align:right;">
-2019
-</td>
-<td style="text-align:left;">
-The benefits of light at night
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Uttley and Fotios (2017a)
+S. Fotios and Castleton (2017)
 </td>
 <td style="text-align:right;">
 2017
 </td>
 <td style="text-align:left;">
-The effect of ambient light condition on road traffic collisions
-involving pedestrians on pedestrian crossings
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Mattoni et al. (2017)
-</td>
-<td style="text-align:right;">
-2017
-</td>
-<td style="text-align:left;">
-The pedestrian’s perspective: How do illuminance variations affect
-reassurance?
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Steve Fotios and Castleton (2016)
-</td>
-<td style="text-align:right;">
-2016
-</td>
-<td style="text-align:left;">
-Specifying Enough Light to Feel Reassured on Pedestrian Footpaths
+Lighting for cycling in the UK - A review
 </td>
 <td style="text-align:left;">
 review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cellucci et al. (2016)
-</td>
-<td style="text-align:right;">
-2016
-</td>
-<td style="text-align:left;">
-Lighting distribution affects pedestrians’ sense of security
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Wu and Kim (2016)
-</td>
-<td style="text-align:right;">
-2016
-</td>
-<td style="text-align:left;">
-The relationship between the pedestrian lighting environment and
-perceived safety
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-B. Yang and Fotios (2015)
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Lighting and recognition of emotion conveyed by facial expressions
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Peña-García, Hurtado, and Aguilar-Luzón (2015)
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Impact of public lighting on pedestrians’ perception of safety and
-well-being
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-S. Fotios, Unwin, and Farrall (2015)
-</td>
-<td style="text-align:right;">
-2015
-</td>
-<td style="text-align:left;">
-Road lighting and pedestrian reassurance after dark: A review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Haans and Kort (2012)
-</td>
-<td style="text-align:right;">
-2012
-</td>
-<td style="text-align:left;">
-Light distribution in dynamic street lighting: Two experimental studies
-on its effects on perceived safety, prospect, concealment, and escape
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fotios, S and Cheal, C. (2010)
-</td>
-<td style="text-align:right;">
-2010
-</td>
-<td style="text-align:left;">
-Road lighting for pedestrians in residential areas: Choosing the optimum
-lamp colour characteristics
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-John M. Sullivan and Flannagan (2007)
-</td>
-<td style="text-align:right;">
-2007
-</td>
-<td style="text-align:left;">
-Determining the potential safety benefit of improved lighting in three
-pedestrian crash scenarios
-</td>
-<td style="text-align:left;">
-empirical
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-S. Fotios, Cheal, and Boyce (2005)
-</td>
-<td style="text-align:right;">
-2005
-</td>
-<td style="text-align:left;">
-Light source spectrum, brightness perception and visual performance in
-pedestrian environments: A review
-</td>
-<td style="text-align:left;">
-review
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-P. R. Boyce et al. (2000)
-</td>
-<td style="text-align:right;">
-2000
-</td>
-<td style="text-align:left;">
-Perceptions of safety at night in different lighting conditions
-</td>
-<td style="text-align:left;">
-empirical
 </td>
 </tr>
 </tbody>
@@ -1539,25 +800,6 @@ Vehicle Crash Injuries.” *American Journal of Industrial Medicine* 61
 
 </div>
 
-<div id="ref-basu_unequal_2021" class="csl-entry">
-
-Basu, Nandita, Md Mazharul Haque, Mark King, Md Kamruzzaman, and Oscar
-Oviedo-Trespalacios. 2021. “The Unequal Gender Effects of the Suburban
-Built Environment on Perceptions of Security.” *Journal of Transport &
-Health* 23 (December): 101243.
-<https://doi.org/10.1016/j.jth.2021.101243>.
-
-</div>
-
-<div id="ref-boyce_perceptions_2000" class="csl-entry">
-
-Boyce, P. R., N. H. Eklund, B. J. Hamilton, and L. D. Bruno. 2000.
-“Perceptions of Safety at Night in Different Lighting Conditions.”
-*International Journal of Lighting Research and Technology* 32 (2):
-79–91. <https://doi.org/10.1177/096032710003200205>.
-
-</div>
-
 <div id="ref-boyce_benefits_2019" class="csl-entry">
 
 Boyce, Peter R. 2019. “The Benefits of Light at Night.” *Building and
@@ -1585,15 +827,6 @@ Active Travel in Older Adults: A Systematic Review and Meta-Analysis.”
 
 </div>
 
-<div id="ref-cheng_effect_2018" class="csl-entry">
-
-Cheng, T-J, B Yang, C Holloway, and N Tyler. 2018. “Effect of
-Environmental Factors on How Older Pedestrians Detect an Upcoming Step.”
-*Lighting Research & Technology* 50 (3): 405–15.
-<https://doi.org/10.1177/1477153516669968>.
-
-</div>
-
 <div id="ref-cozens_critical_2003" class="csl-entry">
 
 Cozens, P M, R H Neale, J Whitaker, D Hillier, and M Graham. 2003. “A
@@ -1603,38 +836,11 @@ British City.” *Crime Prevention and Community Safety* 5 (2): 7–24.
 
 </div>
 
-<div id="ref-ferenchak_shedding_2022" class="csl-entry">
-
-Ferenchak, Nicholas N., Risa E. Gutierrez, and Patrick A. Singleton.
-2022. “Shedding Light on the Pedestrian Safety Crisis: An Analysis
-Across the Injury Severity Spectrum by Lighting Condition.” *Traffic
-Injury Prevention* 23 (7): 434–39.
-<https://doi.org/10.1080/15389588.2022.2100362>.
-
-</div>
-
 <div id="ref-fotios_lighting_2017" class="csl-entry">
 
 Fotios, S, and Hf Castleton. 2017. “Lighting for Cycling in the UK—A
 Review.” *Lighting Research & Technology* 49 (3): 381–95.
 <https://doi.org/10.1177/1477153515609391>.
-
-</div>
-
-<div id="ref-fotios_s_road_2010" class="csl-entry">
-
-Fotios, S, and Cheal, C. 2010. “Road Lighting for Pedestrians in
-Residential Areas: Choosing the Optimum Lamp Colour Characteristics.
-Light & Engineering, 18 (1). 91 - 100. ISSN 0236-2945.”
-
-</div>
-
-<div id="ref-fotios_light_2005" class="csl-entry">
-
-Fotios, S, C Cheal, and Pr Boyce. 2005. “Light Source Spectrum,
-Brightness Perception and Visual Performance in Pedestrian Environments:
-A Review.” *Lighting Research & Technology* 37 (4): 271–91.
-<https://doi.org/10.1191/1365782805li139oa>.
 
 </div>
 
@@ -1664,14 +870,6 @@ the Number of Motorized Vehicles, Cyclists, and Pedestrians.”
 
 </div>
 
-<div id="ref-fotios_road_2015" class="csl-entry">
-
-Fotios, S, J Unwin, and S Farrall. 2015. “Road Lighting and Pedestrian
-Reassurance After Dark: A Review.” *Lighting Research & Technology* 47
-(4): 449–69. <https://doi.org/10.1177/1477153514524587>.
-
-</div>
-
 <div id="ref-fotios_whole-year_2019" class="csl-entry">
 
 Fotios, S, J Uttley, and S Fox. 2019. “A Whole-Year Approach Showing
@@ -1690,16 +888,6 @@ Differences in Reassurance.” *Lighting Research & Technology*, June,
 
 </div>
 
-<div id="ref-haans_light_2012" class="csl-entry">
-
-Haans, Antal, and Yvonne A. W. de Kort. 2012. “Light Distribution in
-Dynamic Street Lighting: Two Experimental Studies on Its Effects on
-Perceived Safety, Prospect, Concealment, and Escape.” *Journal of
-Environmental Psychology* 32 (4): 342–52.
-<https://doi.org/10.1016/j.jenvp.2012.05.006>.
-
-</div>
-
 <div id="ref-hennessy_spatial_2021" class="csl-entry">
 
 Hennessy, Emily Rose, and Chengbo Ai. 2021. “A Spatial Comparison of
@@ -1709,43 +897,12 @@ Roadway Lighting and Nonmotorist Crashes in Cambridge, MA.”
 
 </div>
 
-<div id="ref-hossain_applying_2022" class="csl-entry">
-
-Hossain, Ahmed, Xiaoduan Sun, Raju Thapa, and Julius Codjoe. 2022.
-“Applying Association Rules Mining to Investigate Pedestrian Fatal and
-Injury Crash Patterns Under Different Lighting Conditions.”
-*Transportation Research Record* 2676 (6): 659–72.
-<https://doi.org/10.1177/03611981221076120>.
-
-</div>
-
 <div id="ref-johansson_individual_2011" class="csl-entry">
 
 Johansson, M., M. Rosén, and R. Küller. 2011. “Individual Factors
 Influencing the Assessment of the Outdoor Lighting of an Urban
 Footpath.” *Lighting Research & Technology* 43 (1): 31–43.
 <https://doi.org/10.1177/1477153510370757>.
-
-</div>
-
-<div id="ref-liu_exploring_2019" class="csl-entry">
-
-Liu, Jing, Jingyu Li, Kun Wang, Jianyou Zhao, Haozhe Cong, and Ping He.
-2019. “Exploring Factors Affecting the Severity of Night-Time Vehicle
-Accidents Under Low Illumination Conditions.” *Advances in Mechanical
-Engineering* 11 (4): 1687814019840940.
-<https://doi.org/10.1177/1687814019840940>.
-
-</div>
-
-<div id="ref-liu_evaluating_2022" class="csl-entry">
-
-Liu, Ming, Baogang Zhang, Tong Luo, Yue Liu, Boris A. Portnov, Tamar
-Trop, Weili Jiao, Huichan Liu, Yiwei Li, and Qingyuan Liu. 2022.
-“Evaluating Street Lighting Quality in Residential Areas by Combining
-Remote Sensing Tools and a Survey on Pedestrians’ Perceptions of Safety
-and Visual Comfort.” *Remote Sensing* 14 (4): 826.
-<https://doi.org/10.3390/rs14040826>.
 
 </div>
 
@@ -1799,34 +956,6 @@ Transportation* 14 (11): 860–71.
 
 </div>
 
-<div id="ref-pena-garcia_impact_2015" class="csl-entry">
-
-Peña-García, A., A. Hurtado, and M. C. Aguilar-Luzón. 2015. “Impact of
-Public Lighting on Pedestrians’ Perception of Safety and Well-Being.”
-*Safety Science* 78 (October): 142–48.
-<https://doi.org/10.1016/j.ssci.2015.04.009>.
-
-</div>
-
-<div id="ref-portnov_establishing_2022" class="csl-entry">
-
-Portnov, BA, S Fotios, R Saad, and D Kliger. 2022. “Establishing Optimal
-Illuminance for Pedestrian Reassurance Using Segmented Regression.”
-*Lighting Research & Technology*, August, 14771535221080649.
-<https://doi.org/10.1177/14771535221080649>.
-
-</div>
-
-<div id="ref-portnov_linking_2020" class="csl-entry">
-
-Portnov, Boris A., Rami Saad, Tamar Trop, Doron Kliger, and Alina
-Svechkina. 2020. “Linking Nighttime Outdoor Lighting Attributes to
-Pedestrians’ Feeling of Safety: An Interactive Survey Approach.” Edited
-by Quan Yuan. *PLOS ONE* 15 (11): e0242172.
-<https://doi.org/10.1371/journal.pone.0242172>.
-
-</div>
-
 <div id="ref-prince_examining_2022" class="csl-entry">
 
 Prince, Stephanie A., Samantha Lancione, Justin J. Lang, Nana Amankwah,
@@ -1848,49 +977,12 @@ Lighting and Greenery in Perceived Safety.” *URBAN DESIGN International*
 
 </div>
 
-<div id="ref-saad_saving_2021" class="csl-entry">
-
-Saad, Rami, Boris A. Portnov, and Tamar Trop. 2021. “Saving Energy While
-Maintaining the Feeling of Safety Associated with Urban Street
-Lighting.” *Clean Technologies and Environmental Policy* 23 (1): 251–69.
-<https://doi.org/10.1007/s10098-020-01974-0>.
-
-</div>
-
-<div id="ref-sanders_pedestrian_2022" class="csl-entry">
-
-Sanders, Rebecca L., Robert J. Schneider, and Frank R. Proulx. 2022.
-“Pedestrian Fatalities in Darkness: What Do We Know, and What Can Be
-Done?” *Transport Policy* 120 (May): 23–39.
-<https://doi.org/10.1016/j.tranpol.2022.02.010>.
-
-</div>
-
 <div id="ref-siddiqui_crossing_2006" class="csl-entry">
 
 Siddiqui, Naved A., Xuehao Chu, and Martin Guttenplan. 2006. “Crossing
 Locations, Light Conditions, and Pedestrian Injury Severity.”
 *Transportation Research Record* 1982 (1): 141–49.
 <https://doi.org/10.1177/0361198106198200118>.
-
-</div>
-
-<div id="ref-stoker_pedestrian_2015" class="csl-entry">
-
-Stoker, Philip, Andrea Garfinkel-Castro, Meleckidzedeck Khayesi, Wilson
-Odero, Martin N. Mwangi, Margie Peden, and Reid Ewing. 2015. “Pedestrian
-Safety and the Built Environment: A Review of the Risk Factors.”
-*Journal of Planning Literature* 30 (4): 377–92.
-<https://doi.org/10.1177/0885412215595438>.
-
-</div>
-
-<div id="ref-sullivan_determining_2007" class="csl-entry">
-
-Sullivan, John M., and Michael J. Flannagan. 2007. “Determining the
-Potential Safety Benefit of Improved Lighting in Three Pedestrian Crash
-Scenarios.” *Accident Analysis & Prevention* 39 (3): 638–47.
-<https://doi.org/10.1016/j.aap.2006.10.010>.
 
 </div>
 
@@ -1903,15 +995,6 @@ Transitions.” *Accident Analysis & Prevention* 34 (4): 487–98.
 
 </div>
 
-<div id="ref-svechkina_how_2020" class="csl-entry">
-
-Svechkina, Alina, Tamar Trop, and Boris A. Portnov. 2020. “How Much
-Lighting Is Required to Feel Safe When Walking Through the Streets at
-Night?” *Sustainability* 12 (8): 3133.
-<https://doi.org/10.3390/su12083133>.
-
-</div>
-
 <div id="ref-twisk_epidemiological_2013" class="csl-entry">
 
 Twisk, D. A. M., and Martine Reurings. 2013. “An Epidemiological Study
@@ -1921,20 +1004,11 @@ Conspicuity and Alcohol Use.” *Accident Analysis & Prevention* 60
 
 </div>
 
-<div id="ref-uttley_effect_2017" class="csl-entry">
-
-Uttley, Jim, and Steve Fotios. 2017a. “The Effect of Ambient Light
-Condition on Road Traffic Collisions Involving Pedestrians on Pedestrian
-Crossings.” *Accident Analysis & Prevention* 108 (November): 189–200.
-<https://doi.org/10.1016/j.aap.2017.09.005>.
-
-</div>
-
 <div id="ref-uttley_using_2017" class="csl-entry">
 
-———. 2017b. “Using the Daylight Savings Clock Change to Show Ambient
-Light Conditions Significantly Influence Active Travel.” *Journal of
-Environmental Psychology* 53 (November): 1–10.
+Uttley, Jim, and Steve Fotios. 2017. “Using the Daylight Savings Clock
+Change to Show Ambient Light Conditions Significantly Influence Active
+Travel.” *Journal of Environmental Psychology* 53 (November): 1–10.
 <https://doi.org/10.1016/j.jenvp.2017.06.003>.
 
 </div>
@@ -1982,14 +1056,6 @@ Verlag. <https://doi.org/10.14627/537612007>.
 
 </div>
 
-<div id="ref-yang_lighting_2015" class="csl-entry">
-
-Yang, B, and S Fotios. 2015. “Lighting and Recognition of Emotion
-Conveyed by Facial Expressions.” *Lighting Research & Technology* 47
-(8): 964–75. <https://doi.org/10.1177/1477153514547753>.
-
-</div>
-
 <div id="ref-yang_crowdsourced_2022" class="csl-entry">
 
 Yang, Linchuan, Bingjie Yu, Pengpeng Liang, Xianglong Tang, and Ji Li.
@@ -2014,16 +1080,6 @@ Zacharias, John, and Si’an Meng. 2021. “Environmental Correlates of
 Dock-Less Shared Bicycle Trip Origins and Destinations.” *Journal of
 Transport Geography* 92 (April): 103013.
 <https://doi.org/10.1016/j.jtrangeo.2021.103013>.
-
-</div>
-
-<div id="ref-zafri_exploring_2020" class="csl-entry">
-
-Zafri, Niaz Mahmud, Ahmed Aflan Prithul, Ivee Baral, and Moshiur Rahman.
-2020. “Exploring the Factors Influencing Pedestrian-Vehicle Crash
-Severity in Dhaka, Bangladesh.” *International Journal of Injury Control
-and Safety Promotion* 27 (3): 300–307.
-<https://doi.org/10.1080/17457300.2020.1774618>.
 
 </div>
 

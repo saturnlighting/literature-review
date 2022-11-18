@@ -68,7 +68,7 @@ We used a hybrid systematic and snowballing method.
 First, we searched in the SCOPUS electronic databased (on 15 November 2022) for studies investigating the relationship between cycling and road lighting.
 The query string used for the search was as follows:
 
-*(bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*)"* 
+*(bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*")* 
 
 This search, based on the content of the title, abstract, and keywords, resulted in 262 records. 
 After screening abstracts and full text, TBC studies were selected.
@@ -113,7 +113,7 @@ Figure 1 shows the number of papers reviewed for each of the identified themes (
 library(kableExtra)
 library(tidyverse)
 
-papers <- read.csv("lrp-papers-summary-full-text.csv")
+papers <- read.csv("lrp-papers-summary-syst.csv")
 
 df = papers %>% replace(is.na(.), 0) %>%
   group_by(type) %>% 
@@ -163,7 +163,7 @@ Using self-reported commuting data, @yang_longitudinal_2017 found that individua
 library(kableExtra)
 library(tidyverse)
 
-papers <- read.csv("lrp-papers-summary-full-text.csv")
+papers <- read.csv("lrp-papers-summary-syst.csv")
 
 df = papers %>%
   filter(behaviour == 1) %>% 
