@@ -27,20 +27,26 @@ Conclusion:
 Benefits of cycling are well established in the literature. Cycling
 improves physical, mental, and social health; reduces pollution, carbon
 emissions, and congestion; and it is more inclusive than private
-motorised modes, reducing inequalities.
+motorised modes, reducing inequalities. For this reason, governments are
+increasingly promoting cycling. Yet, most people keep choosing to drive
+to cycle.
 
-Many variables (individual, social, and environmental) can affect an
-individual’s decision to cycle.
+One of the main determinants of cycling is fear of motorised
+vehicles<reference needed>. Many studies have explored to what extent
+safe cycling infrastructure affects cycling.<add brief conclusions here>
+However, less investigated have been other micro-built environmental
+factors such as road lighting, which may have a strong influence on
+people’s fear when cycling.
 
-Darkness is one of the environmental factors that most affect cycling.
+<!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in walking and cycling. However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. There is much evidence suggesting darkness puts people off from cycling, and increases the risk of being involved in a collision whilst cycling. Appropriate road or path lighting can increase feelings of reassurance, make hazards more visible, and make the cyclist more visible to other road users. However, there is to date little evidence on the lighting interventions that work best, in combination with other measures. Lighting after dark has costs, both in terms of energy use and harmful ecological effects due to excess light pollution, raising the question: what is the optimal use of lighting to enable safe cycling uptake, at all times and in all seasons? -->
+
 Previous academic literature reviews have touched on elements of the
-relationship between cycling and lighting.
-
-S. Fotios and Castleton (2017) reviewed suggested interventions to
-enable cycling lighting to contribute to the safety of cyclists in the
-UK. However, to the best of our knowledge, no academic paper has
-reviewed the international literature available on the intersection
-between both terms, cycling and road lighting.
+relationship between cycling and lighting. S. Fotios and Castleton
+(2017) reviewed suggested interventions to enable cycling lighting to
+contribute to the safety of cyclists in the UK. However, to the best of
+our knowledge, no academic paper has reviewed the international
+literature available on the intersection between both terms, cycling and
+road lighting.
 
 This paper aims to fill this gap in the literature, reviewing published
 research specifically focussed at the intersection between cycling and
@@ -88,6 +94,8 @@ light\*” OR “public light\*” OR “road light\*” OR “street light\*”
 “street illumination” OR “city lamp\*” OR “public lamp\*” OR “road
 lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*” OR “light
 pole\*”)*
+
+<!-- + -->
 
 This search, based on the content of the title, abstract, and keywords,
 resulted in 262 records. After screening abstracts and full text, TBC
@@ -146,6 +154,8 @@ and Robbins (2022) found that darkness had a significant negative effect
 on the number of pedestrians and cyclists, but not on the number of
 motorized vehicles.
 
+(Castillo-Paredes et al. 2022)
+
 Using Strava Heatmap data and spatial regression models, Linchuan Yang
 et al. (2022) found street lighting positively associated with running,
 but not with cycling.
@@ -203,6 +213,60 @@ type
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left;">
+Castillo-Paredes et al. (2022)
+</td>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+Perceived Neighborhood Safety and Active Transportation in Adults from
+Eight Latin American Countries
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:left;">
+Cycling in sub-Saharan African cities: Differences and similarities with
+developed world cities
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:left;">
+Examining the state, quality and strength of the evidence in the
+research on built environments and physical activity among children and
+youth: An overview of reviews from high income countries
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:left;">
+Road Safety Evaluation Framework for Accessing Park Green Space Using
+Active Travel
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
 <tr>
 <td style="text-align:left;">
 Linchuan Yang et al. (2022)
@@ -334,13 +398,13 @@ users.
 
 The probability of suffering a traffic collision in the dark among
 pedestrians and cyclists is much greater than among other road users
-(e.g. Hennessy and Ai (2021); Wang and Cicchino (2020); Sullivan and
-Flannagan (2002)).
+(e.g. (**hennessy_spatial_2021?**); (**wang_fatal_2020?**);
+(**sullivan_role_2002?**)).
 
 <!-- Poor visibility is one of the greatest risk factors for pedestrians [@stoker_pedestrian_2015]. -->
 
 Not only the frequency but also the severity of injury is higher at
-night-time (Alogaili and Mannering 2022).
+night-time (**alogaili_differences_2022?**).
 
 Most of the research on lighting and road safety is based on the US.
 
@@ -366,7 +430,7 @@ reduce nighttime crash frequency and night-to-day crash ratios by
 approximately 50%. When illuminance was kept at 0.9 fc or higher, the
 risk of fatality and severe injury decreased significantly, especially
 in crashes that involved pedestrians and bicycles, head-on crashes, and
-angle crashes” (Wei et al. 2016).
+angle crashes” (**wei_safety_2016?**).
 
 Nabavi Niaki et al. (2016) found that “an increase in road lighting was
 associated with more bicycle and pedestrian accidents, which might have
@@ -385,7 +449,7 @@ and motorcycle accidents. The risk of injury accidents was found to
 increase in darkness. The average increase in risk was estimated to 17%
 on lit rural roads and 145% on unlit rural roads. The average increase
 in risk with respect to pedestrian accidents is about 140% on lit rural
-roads and about 360% on unlit rural roads” (Wanvik 2009).
+roads and about 360% on unlit rural roads” (**wanvik_effects_2009?**).
 
 “The odds of sustaining a fatal injury are 49% lower at intersections
 than at midblock locations under daylight conditions, 24% lower under
@@ -394,7 +458,7 @@ dark-without-street-lighting conditions. Relative to dark conditions
 without street lighting, daylight reduces the odds of a fatal injury by
 75% at midblock locations and by 83% at intersections, whereas street
 lighting reduces the odds by 42% at midblock locations and by 54% at
-intersections” (Siddiqui, Chu, and Guttenplan 2006).
+intersections” (**siddiqui_crossing_2006?**).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -417,6 +481,33 @@ type
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left;">
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:left;">
+Joint Effect of Heavy Vehicles and Diminished Light Conditions on
+Paediatric Pedestrian Injuries in Backover Crashes: A UK
+Population-Based Study
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:left;">
+Intelligent Nanoscopic Cyclist Crash Modelling for Variable
+Environmental Conditions
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
 <tr>
 <td style="text-align:left;">
 Asgarzadeh et al. (2018)
@@ -478,7 +569,7 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
-Wanvik (2009)
+(**wanvik_effects_2009?**)
 </td>
 <td style="text-align:right;">
 2009
@@ -501,20 +592,20 @@ is fear of crime.
 
 There is evidence that street lighting decreases crime and enhances
 reassurance and confidence of pedestrians and cyclists after dark (e.g.
-Rahm, Sternudd, and Johansson (2021); Loukaitou-Sideris (2006); Cozens
-et al. (2003)).
+(**rahm_evening_2021?**); Loukaitou-Sideris (2006);
+(**cozens_critical_2003?**)).
 
 People’s perceived nighttime safety (qualitative research):
 
 “Proper street lighting is the main contributor to enhancing the feeling
-of safety on streets” (Park and Garcia 2020).
+of safety on streets” (**park_pedestrian_2020?**).
 
 “Important lighting attributes influencing people’s perceived safety are
 identified as: lighting uniformity, facial recognition, concealment, and
 perceived brightness. The findings further indicate that some
 environmental context attributes, environmental perception attributes,
 and socio-demographic attributes, also significantly influence people’s
-perceived safety” (Wu and Kim 2016).
+perceived safety” (**wu_relationship_2016?**).
 
 “Danger was predicted by the pleasantness of the lighting, gender,
 brightness and environmental trust” (Johansson, Rosén, and Küller 2011).
@@ -602,6 +693,19 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:left;">
+Perceived Safety and Security Barriers to Walking and Bicycling:
+Insights from Milwaukee
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 S. Fotios, Uttley, and Gorjimahlabani (2022)
 </td>
 <td style="text-align:right;">
@@ -658,19 +762,20 @@ approximately 2.0 lux” (S. Fotios, Monteiro, and Uttley 2019).
 “Fortunately, careful lighting design, soundly-based outdoor lighting
 standards and new lighting and sensor technology offer the possibility
 of providing the benefits of light at night while minimizing the impact
-on the environment” (Boyce 2019).
+on the environment” (**boyce_benefits_2019?**).
 
 “The reassurance of participants can be put in relation with street
 lighting since changes in illuminance levels were highly perceived by
 test participants. It was also found that reassurance is more related to
 the mean horizontal illuminance than to the minimum illuminance or
-minimum/average uniformity” (Mattoni et al. 2017).
+minimum/average uniformity” (**mattoni_pedestrians_2017?**).
 
 “stimulus range bias in reassurance evaluations. This article also
-recommends alternative methods for future research” (Steve Fotios and
-Castleton 2016).
+recommends alternative methods for future research”
+(**fotios_specifying_2016?**).
 
-“lighting distribution changes perception” (Cellucci et al. 2016).
+“lighting distribution changes perception”
+(**cellucci_lighting_2016?**).
 
 <!-- "Luminance and distance had significant effects on expression recognition. A luminance of 1.0 cd/m2 permits facial expressions to be identified with a 50% probability of correct identification at a distance of 15 m" [@yang_lighting_2015]. -->
 <!-- "Review of the characteristics of lighting suggests an optimum illuminance of 10 lux, of high S/P ratio, and aimed toward the pedestrian and natural elements of the environment, will enhance reassurance" [@fotios_road_2015]. -->
@@ -780,16 +885,6 @@ Other interesting questions to respond:
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
-<div id="ref-alogaili_differences_2022" class="csl-entry">
-
-Alogaili, Asim, and Fred Mannering. 2022. “Differences Between Day and
-Night Pedestrian-Injury Severities: Accounting for Temporal and
-Unobserved Effects in Prediction.” *Analytic Methods in Accident
-Research* 33 (March): 100201.
-<https://doi.org/10.1016/j.amar.2021.100201>.
-
-</div>
-
 <div id="ref-asgarzadeh_impact_2018" class="csl-entry">
 
 Asgarzadeh, Morteza, Dorothee Fischer, Santosh K. Verma, Theodore K.
@@ -800,20 +895,14 @@ Vehicle Crash Injuries.” *American Journal of Industrial Medicine* 61
 
 </div>
 
-<div id="ref-boyce_benefits_2019" class="csl-entry">
+<div id="ref-castillo-paredes_perceived_2022" class="csl-entry">
 
-Boyce, Peter R. 2019. “The Benefits of Light at Night.” *Building and
-Environment* 151 (March): 356–67.
-<https://doi.org/10.1016/j.buildenv.2019.01.020>.
-
-</div>
-
-<div id="ref-cellucci_lighting_2016" class="csl-entry">
-
-Cellucci, Lucia, Fabio Bisegna, Franco Gugliermetti, and Mojtaba Navvab.
-2016. “Lighting Distribution Affects Pedestrians’ Sense of Security.” In
-*2016 IEEE 16th International Conference on Environment and Electrical
-Engineering (EEEIC)*, 1–5. <https://doi.org/10.1109/EEEIC.2016.7555655>.
+Castillo-Paredes, Antonio, Beatriz Iglésias, Claudio Farías-Valenzuela,
+Irina Kovalskys, Georgina Gómez, Attilio Rigotti, Lilia Yadira Cortés,
+et al. 2022. “Perceived Neighborhood Safety and Active Transportation in
+Adults from Eight Latin American Countries.” *International Journal of
+Environmental Research and Public Health* 19 (19): 12811.
+<https://doi.org/10.3390/ijerph191912811>.
 
 </div>
 
@@ -824,15 +913,6 @@ Anthony Barnett. 2017. “The Neighbourhood Physical Environment and
 Active Travel in Older Adults: A Systematic Review and Meta-Analysis.”
 *International Journal of Behavioral Nutrition and Physical Activity* 14
 (1): 15. <https://doi.org/10.1186/s12966-017-0471-5>.
-
-</div>
-
-<div id="ref-cozens_critical_2003" class="csl-entry">
-
-Cozens, P M, R H Neale, J Whitaker, D Hillier, and M Graham. 2003. “A
-Critical Review of Street Lighting, Crime and Fear of Crime in the
-British City.” *Crime Prevention and Community Safety* 5 (2): 7–24.
-<https://doi.org/10.1057/palgrave.cpcs.8140143>.
 
 </div>
 
@@ -850,14 +930,6 @@ Fotios, S, A Liachenko Monteiro, and J Uttley. 2019. “Evaluation of
 Pedestrian Reassurance Gained by Higher Illuminances in Residential
 Streets Using the Day–Dark Approach.” *Lighting Research & Technology*
 51 (4): 557–75. <https://doi.org/10.1177/1477153518775464>.
-
-</div>
-
-<div id="ref-fotios_specifying_2016" class="csl-entry">
-
-Fotios, Steve, and Holly Castleton. 2016. “Specifying Enough Light to
-Feel Reassured on Pedestrian Footpaths.” *LEUKOS* 12 (4): 235–43.
-<https://doi.org/10.1080/15502724.2016.1169931>.
 
 </div>
 
@@ -885,15 +957,6 @@ Fotios, S, J Uttley, and S Gorjimahlabani. 2022. “Extending Observations
 of Ambient Light Level and Active Travel to Explore Age and Gender
 Differences in Reassurance.” *Lighting Research & Technology*, June,
 14771535221080657. <https://doi.org/10.1177/14771535221080657>.
-
-</div>
-
-<div id="ref-hennessy_spatial_2021" class="csl-entry">
-
-Hennessy, Emily Rose, and Chengbo Ai. 2021. “A Spatial Comparison of
-Roadway Lighting and Nonmotorist Crashes in Cambridge, MA.”
-*Transportation Research Record* 2675 (7): 491–500.
-<https://doi.org/10.1177/03611981211026660>.
 
 </div>
 
@@ -926,17 +989,6 @@ Research and Public Health* 16 (3): 484.
 
 </div>
 
-<div id="ref-mattoni_pedestrians_2017" class="csl-entry">
-
-Mattoni, Benedetta, Chiara Burattini, Fabio Bisegna, and Steve Fotios.
-2017. “The Pedestrian’s Perspective: How Do Illuminance Variations
-Affect Reassurance?” In *2017 IEEE International Conference on
-Environment and Electrical Engineering and 2017 IEEE Industrial and
-Commercial Power Systems Europe (EEEIC / I&CPS Europe)*, 1–5.
-<https://doi.org/10.1109/EEEIC.2017.7977648>.
-
-</div>
-
 <div id="ref-nabavi_niaki_road_2016" class="csl-entry">
 
 Nabavi Niaki, Matin S., Ting Fu, Nicolas Saunier, Luis F.
@@ -944,15 +996,6 @@ Miranda-Moreno, Luis Amador, and Jean-François Bruneau. 2016. “Road
 Lighting Effects on Bicycle and Pedestrian Accident Frequency: Case
 Study in Montreal, Quebec, Canada.” *Transportation Research Record*
 2555 (1): 86–94. <https://doi.org/10.3141/2555-12>.
-
-</div>
-
-<div id="ref-park_pedestrian_2020" class="csl-entry">
-
-Park, Yunmi, and Max Garcia. 2020. “Pedestrian Safety Perception and
-Urban Street Settings.” *International Journal of Sustainable
-Transportation* 14 (11): 860–71.
-<https://doi.org/10.1080/15568318.2019.1641577>.
 
 </div>
 
@@ -965,33 +1008,6 @@ Evidence in the Research on Built Environments and Physical Activity
 Among Children and Youth: An Overview of Reviews from High Income
 Countries.” *Health & Place* 76 (July): 102828.
 <https://doi.org/10.1016/j.healthplace.2022.102828>.
-
-</div>
-
-<div id="ref-rahm_evening_2021" class="csl-entry">
-
-Rahm, Johan, Catharina Sternudd, and Maria Johansson. 2021. “‘In the
-Evening, I Don’t Walk in the Park’: The Interplay Between Street
-Lighting and Greenery in Perceived Safety.” *URBAN DESIGN International*
-26 (1): 42–52. <https://doi.org/10.1057/s41289-020-00134-6>.
-
-</div>
-
-<div id="ref-siddiqui_crossing_2006" class="csl-entry">
-
-Siddiqui, Naved A., Xuehao Chu, and Martin Guttenplan. 2006. “Crossing
-Locations, Light Conditions, and Pedestrian Injury Severity.”
-*Transportation Research Record* 1982 (1): 141–49.
-<https://doi.org/10.1177/0361198106198200118>.
-
-</div>
-
-<div id="ref-sullivan_role_2002" class="csl-entry">
-
-Sullivan, John M, and Michael J Flannagan. 2002. “The Role of Ambient
-Light Level in Fatal Crashes: Inferences from Daylight Saving Time
-Transitions.” *Accident Analysis & Prevention* 34 (4): 487–98.
-<https://doi.org/10.1016/S0001-4575(01)00046-X>.
 
 </div>
 
@@ -1019,40 +1035,6 @@ Uttley, Jim, Steve Fotios, and Robin Lovelace. 2020. “Road Lighting
 Density and Brightness Linked with Increased Cycling Rates After-Dark.”
 Edited by Quan Yuan. *PLOS ONE* 15 (5): e0233105.
 <https://doi.org/10.1371/journal.pone.0233105>.
-
-</div>
-
-<div id="ref-wang_fatal_2020" class="csl-entry">
-
-Wang, Jin, and Jessica B. Cicchino. 2020. “Fatal Pedestrian Crashes on
-Interstates and Other Freeways in the United States.” *Journal of Safety
-Research* 74 (September): 1–7.
-<https://doi.org/10.1016/j.jsr.2020.04.009>.
-
-</div>
-
-<div id="ref-wanvik_effects_2009" class="csl-entry">
-
-Wanvik, Per Ole. 2009. “Effects of Road Lighting: An Analysis Based on
-Dutch Accident Statistics 1987–2006.” *Accident Analysis & Prevention*
-41 (1): 123–28. <https://doi.org/10.1016/j.aap.2008.10.003>.
-
-</div>
-
-<div id="ref-wei_safety_2016" class="csl-entry">
-
-Wei, Fulu, Zhenyu Wang, Pei-Sung Lin, Ping P. Hsu, Seckin Ozkul, Jason
-Jackman, and Michael Bato. 2016. “Safety Effects of Street Illuminance
-at Urban Signalized Intersections in Florida.” *Transportation Research
-Record* 2555 (1): 95–102. <https://doi.org/10.3141/2555-13>.
-
-</div>
-
-<div id="ref-wu_relationship_2016" class="csl-entry">
-
-Wu, Siyuan, and Mintai Kim. 2016. *The Relationship Between the
-Pedestrian Lighting Environment and Perceived Safety*. DE: Wichmann
-Verlag. <https://doi.org/10.14627/537612007>.
 
 </div>
 
