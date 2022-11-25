@@ -27,7 +27,7 @@ Conclusion:
 # Introduction
 
 Benefits of cycling are well established in the literature.
-Cycling improves physical, mental, and social health; reduces pollution, carbon emissions, and congestion; and it is more inclusive than private motorised modes, reducing inequalities. For this reason, governments are increasingly promoting cycling. Yet, most people keep choosing to drive to cycle.
+Cycling improves physical, mental, and social health; reduces pollution, carbon emissions, and congestion; and it is more inclusive than private motorised modes, reducing inequalities. For this reason, cycling is being encouraged. Yet, most people keep choosing to drive to cycle.
 
 One of the main determinants of cycling is fear of motorised vehicles<reference needed>. Many studies have explored to what extent safe cycling infrastructure affects cycling.<add brief conclusions here>
 However, less investigated have been other micro-built environmental factors such as road lighting, which may have a strong influence on people's fear when cycling.
@@ -72,12 +72,18 @@ The query string used for the search was as follows:
 
 *(bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*")* 
 
-<!-- + -->
-
 This search, based on the content of the title, abstract, and keywords, resulted in 262 records. 
 After screening abstracts and full text, TBC studies were selected.
 We excluded papers that did not focus on cycling and road lighting (many studies mentioned cycling and lighting in passing but not as the topic of the paper).
-<!-- We excluded six papers that could not be accessed. -->
+
+<!-- We excluded the following papers that could not be accessed: 
+
+- Automated intelligent public lighting system
+
+- Using of green energy from sustainable pavement plates for lighting bikeways
+
+- Changing the DNA of city streets: NACTO's urban street design guide and the new city street design paradigm
+-->
 
 In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts, TBC additional papers were selected.
 In total, TBC were reviewed.
@@ -87,10 +93,6 @@ A flow chart of included studies is shown in Figure 1.
 knitr::include_graphics("flow-chart.png")
 ```
 
-<!-- We need to define scope of the review - we are looking at papers that: Investigate the effects of light and lighting in some way, including road lighting or ambient light, but excluding other types of lighting such as cycle-mounted lighting Relate to cycling rates or cycling propensity, i.e. not related to cyclist safety? -->
-
-<!-- Other parameters for scope? -->
-
 <!-- ## Data extraction -->
 
 <!-- From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, mode, sign of association, and authors and year. -->
@@ -98,20 +100,9 @@ knitr::include_graphics("flow-chart.png")
 
 # Results
 
-The scientific literature was found to be broadly spread across several disciplines, including transportation, public health, road safety, criminology, social inequalities, and engineering and technology.
-Five main themes were identified:
+<subject area>The scientific literature was found to be broadly spread across several disciplines, including engineering and technology, transportation, public health, road safety, and criminology.
 
-1.  Cycling behaviour and lighting
-
-2.  Cycling collisions and lighting
-
-3.  Cycling, crime and lighting
-
-4.  Cycling inequalities in lighting
-
-5.  Proper lighting for cyclists (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment)
-
-Figure 1 shows the number of papers reviewed for each of the identified themes (some of the papers deal with more than one).
+<year>Figure 1 shows the number of papers reviewed by year of publication.
 
 ```{r fig2, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -120,22 +111,17 @@ library(tidyverse)
 papers <- read.csv("lrp-papers-summary-syst.csv")
 
 df = papers %>% replace(is.na(.), 0) %>%
-  group_by(type) %>% 
-  summarise("Cycling behaviour and lighting" = sum(behaviour), "Cycling collisions and lighting" = sum(road_safety),  "Cycling, crime and lighting" = sum(crime), "Cycling inqualities in lighting" = sum(inequalities), "Proper lighting for cyclists" = sum(proper_light)) %>% 
-  pivot_longer((2:6))
+  group_by(year) %>% 
+  summarise(number = n())
 
-# df$name = as.factor(df$name)
-
-ggplot(df, aes(x = reorder(name, value), y = value, fill = type)) +
+ggplot(df, aes(x = year, y = number)) +
   geom_bar(stat="identity") +
   labs(x ="", y="number of papers") +
-  theme_minimal() +
-  theme(axis.text.x=element_text(angle = 90, hjust = 1))+
-  coord_flip()
+  theme_minimal()
 ```
 
-Three quarters of the studies were empirical studies and one quarter were reviews.
-Most of the empirical studies were quantitative, five of them qualitative, and one of them mixed methods.
+<study type>Most of the studies were empirical papers (53) and a few were reviews (9).
+<!-- <type of empirical papers> Most of the empirical studies were quantitative (), five of them qualitative, and one of them mixed methods. -->
 
 ## Cycling behaviour and lighting
 
@@ -150,20 +136,15 @@ Using Strava Heatmap data and spatial regression models, @yang_crowdsourced_2022
 
 Using satellite and street view imagery and linear regressions, @zacharias_environmental_2021 found street lighting highly significantly associated with higher uptake and deposit of dock-less shared bicycle trips.
 
-<!-- @rahm_evening_2021 found that "the quality of urban greenery and street lighting impacted people’s route choices after dark, and some participants felt compelled to make detours. Entrapment, partly due to unkempt greenery in combination with darkness, contributed to avoidance, whereas the presence of other people had the opposite effect".  -->
-
 Using odd ratios, @uttley_road_2020 found that the drop in cycling levels after dark was substantially greater in unlit locations, compared with lit locations. @uttley_road_2020 also found a non-linear relationship between relative brightness and the reduction in cyclists after-dark, suggesting that a minimal amount of lighting could be enough to promote cycling after dark.
 
 @fotios_whole-year_2019 found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
 
 This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
 
-<!-- In a review of forty two quantitative studies that estimated association between neighbourhood build environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive associations with availability of street lights. -->
+In a review of forty two quantitative studies that estimated association between neighbourhood build environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive associations with availability of street lights.
 
 Using self-reported commuting data, @yang_longitudinal_2017 found that individuals living in neighbourhoods with higher density of street light were more likely to active commuting.
-
-<!-- @pena-garcia_impact_2015 found that "well illuminated streets (that is, where lighting is uniform) with higher illuminance levels, tend to make people feel safer and better". -->
-
 
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -184,31 +165,20 @@ kbl(df,
 
 One of the main reasons that cycling decreases in the dark is because cyclists need to see obstacles on the road and be seen by other road users.
 
-The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (e.g. @hennessy_spatial_2021; @wang_fatal_2020; @sullivan_role_2002).
+The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users.
 
-<!-- Poor visibility is one of the greatest risk factors for pedestrians [@stoker_pedestrian_2015]. -->
-
-Not only the frequency but also the severity of injury is higher at night-time [@alogaili_differences_2022].
+Not only the frequency but also the severity of injury is higher at night-time.
 
 Most of the research on lighting and road safety is based on the US.
 
-<!-- In the US the number of pedestrians fatally injured has increased considerably in the last years, and this increase has been happened particularly during the night [@ferenchak_shedding_2022 and others]. -->
-<!-- Compare with UK data. -->
+In the US the number of pedestrians fatally injured has increased considerably in the last years, and this increase has been happened particularly during the night [@ferenchak_shedding_2022 and others].
+Compare with UK data.
 
-<!-- @hossain_applying_2022 found that "pedestrian alcohol/drug involvement as the most frequent item in the dark-with-streetlight condition. This crash type is particularly associated with pedestrian action (crossing intersection/midblock), driver age (55--64 years), speed limit (30--35 mph), and specific area type (business with mixed residential area). Fatal pedestrian crashes were found to be associated with roadways with high speed limits (.50 mph) during the dark without streetlight condition". -->
-
-<!-- "A pedestrian injured in the dark was found to be 5.0 times more likely to be killed than a pedestrian injured during the day. While a lack of street lighting does not seem to be the cause of the disproportionate increase in pedestrian injuries at night, pedestrians struck without a street light were 2.4 times more likely to be killed than those struck in the presence of a street light" [@ferenchak_shedding_2022]. -->
-
-<!-- Less research has been conducted in developing countries. -->
-<!-- In Bangladesh, "seven significant factors influencing pedestrian-vehicle crash severity, including crashes during dawn/dusk period and night period (where street light was absent)" [@zafri_exploring_2020] -->
-
-<!-- In China, "the probabilities of fatal single-vehicle and vehicle--pedestrian night-time accidents are also greater than that of fatal vehicle--vehicle night-time accidents, by factors of 7.6 and 1.7, respectively" [@liu_exploring_2019]. -->
+"A pedestrian injured in the dark was found to be 5.0 times more likely to be killed than a pedestrian injured during the day. While a lack of street lighting does not seem to be the cause of the disproportionate increase in pedestrian injuries at night, pedestrians struck without a street light were 2.4 times more likely to be killed than those struck in the presence of a street light" [@ferenchak_shedding_2022].
 
 A study on bicycle-motor vehicle crashes found that "crashes in low light conditions and during early morning hours are more likely to result in higher injury severity" [@asgarzadeh_impact_2018].
 
 Papers on crashes during darkness in intersections.
-
-<!-- Pedestrian crossings: @sullivan_determining_2007 and @uttley_effect_2017. -->
 
 Intersections: an study showed that "an increase in intersection illuminance from low (\<0.2 fc) to medium (≥ 0.2 fc and \<1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes" [@wei_safety_2016].
 
@@ -218,8 +188,6 @@ Alcohol consumption.
 "The proportion of seriously injured cyclists who have been drinking is highest in early morning darkness and has strongly increased over the last decades" [@twisk_epidemiological_2013].
 
 "Injury accidents in on lit roads are reduced by 50%. The effect on fatal accidents is slightly larger. The effect during twilight is about 2/3 of the effect in darkness. The effects on pedestrian, bicycle and moped accidents are significantly larger than the effects on automobile and motorcycle accidents. The risk of injury accidents was found to increase in darkness. The average increase in risk was estimated to 17% on lit rural roads and 145% on unlit rural roads. The average increase in risk with respect to pedestrian accidents is about 140% on lit rural roads and about 360% on unlit rural roads" [@wanvik_effects_2009].
-
-"The odds of sustaining a fatal injury are 49% lower at intersections than at midblock locations under daylight conditions, 24% lower under dark-with-street-lighting conditions, and 5% lower under dark-without-street-lighting conditions. Relative to dark conditions without street lighting, daylight reduces the odds of a fatal injury by 75% at midblock locations and by 83% at intersections, whereas street lighting reduces the odds by 42% at midblock locations and by 54% at intersections" [@siddiqui_crossing_2006].
 
 ```{r tab5, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -235,13 +203,9 @@ kbl(df,
 
 Another fundamental factor that explains less cycling during night-time is fear of crime.
 
-There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark (e.g. @rahm_evening_2021; @loukaitou-sideris_is_2006; @cozens_critical_2003).
+There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark (e.g. @loukaitou-sideris_is_2006).
 
 People's perceived nighttime safety (qualitative research):
-
-"Proper street lighting is the main contributor to enhancing the feeling of safety on streets" [@park_pedestrian_2020].
-
-"Important lighting attributes influencing people's perceived safety are identified as: lighting uniformity, facial recognition, concealment, and perceived brightness. The findings further indicate that some environmental context attributes, environmental perception attributes, and socio-demographic attributes, also significantly influence people's perceived safety" [@wu_relationship_2016].
 
 "Danger was predicted by the pleasantness of the lighting, gender, brightness and environmental trust" [@johansson_individual_2011].
 
@@ -259,21 +223,17 @@ kbl(df,
 
 Fear of danger of injury from traffic, falls, or violence seems to affect groups differently.
 
-<!-- "the study also found that age and gender influenced the level of anxiety among pedestrians" [@park_pedestrian_2020]. -->
-
-<!-- "Studies that focused on women, children, and the elderly have been able to identify a stronger link between feelings of risk and fear at the neighborhood and high levels of inactivity" [@loukaitou-sideris_is_2006]. -->
+"Studies that focused on women, children, and the elderly have been able to identify a stronger link between feelings of risk and fear at the neighborhood and high levels of inactivity" [@loukaitou-sideris_is_2006].
 
 ### Gender
 
-<!-- "for pedestrians, the deterrence of darkness was similar for males and females" [@fotios_extending_2022]. -->
+"for pedestrians, the deterrence of darkness was similar for males and females" [@fotios_extending_2022].
 
 "Women are more sensitive to dark spaces when walking and cycling than men" [@xie_i\_2018].
 
-<!-- "Women expressed a greater proportion of the comments related to lighting (76%) and perceived safety (69%)" [@rahm_evening_2021]. -->
+"Women have a higher perceived risk of being assaulted/robbed/harassed compared with men. At night, pedestrians perceived suburban environments as insecure, and the change in the level of security was higher for women than men. Also, night time security varied over different land-use types between men and women" [@basu_unequal_2021].
 
-<!-- "Women have a higher perceived risk of being assaulted/robbed/harassed compared with men. At night, pedestrians perceived suburban environments as insecure, and the change in the level of security was higher for women than men. Also, night time security varied over different land-use types between men and women" [@basu_unequal_2021]. -->
-
-<!-- "the participating women in general, assessed the path as more dangerous than did the men" [@johansson_individual_2011]. -->
+"the participating women in general, assessed the path as more dangerous than did the men" [@johansson_individual_2011].
 
 ### Age
 
@@ -281,7 +241,6 @@ Younger people can see better than older.
 A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [@prince_examining_2022].
 
 Older people may detect object differently than younger people.
-<!-- "The processing efficiency for visual information on an upcoming step is slower among older people than among young people. This implies that the vulnerability of older pedestrians maybe be reduced if better lighting or a simplified visual environment is provided" [@cheng_effect_2018]. -->
 
 ### Disadvantaged groups
 
@@ -304,39 +263,9 @@ I.e. How lighting attributes such as illuminance, light temperature, uniformity 
 
 Smart Street Lighting (that adapts to movement by pedestrians, cyclists, and cars) papers.
 
-<!-- "A satisfactory level of FoS reaches at the illumination levels of 5--17 lx. People feel safer if nighttime light is warm and uniform. Illuminance and uniformity are the main factors affecting PLQ under conditions of low or high illuminance, while glare and color temperature play a more significant role under high illuminance. In addition, a satisfactory level of PLQ is found at illuminance levels of 25--35 lx and light color temperature of 4000 K--5500 K" [@liu_evaluating_2022]. -->
-
-<!-- "Precise estimates of optimal illuminance, these ranging from 8.9 lx to 26 lx, depending on location" [@portnov_establishing_2022]. -->
-
-<!-- "using warmer lights and increasing light uniformity can result in 30–50% energy savings on SL. Using this assessment, we estimate that for medium-size cities with population of 200–400 K residents, energy savings on SL can reach 8–23 MWh per annum, which is equal to the output of a small-to-medium-size power plant" [@saad_saving_2021].  -->
-
-<!-- "higher levels of illumination and uniformity positively affect FoS, while lights perceived as warm tend to generate higher FoS than lights perceived as cold" [@portnov_linking_2020]. -->
-
-<!-- "the necessary level of illumination required by urban residents to feel safe differs by city and is significantly higher in Be'er Sheba, other factors held equal, in compare to Haifa and Tel Aviv-Yafo" [@svechkina_how_2020]. -->
-
 "minimum illuminance is a better predictor of reassurance than is mean illuminance. For a day--dark difference of 0.5 units on a 6-point response scale, the results suggest a minimum horizontal illuminance of approximately 2.0 lux" [@fotios_evaluation_2019].
 
-"Fortunately, careful lighting design, soundly-based outdoor lighting standards and new lighting and sensor technology offer the possibility of providing the benefits of light at night while minimizing the impact on the environment" [@boyce_benefits_2019].
-
-"The reassurance of participants can be put in relation with street lighting since changes in illuminance levels were highly perceived by test participants. It was also found that reassurance is more related to the mean horizontal illuminance than to the minimum illuminance or minimum/average uniformity" [@mattoni_pedestrians_2017].
-
-"stimulus range bias in reassurance evaluations. This article also recommends alternative methods for future research" [@fotios_specifying_2016].
-
-"lighting distribution changes perception" [@cellucci_lighting_2016]. 
-
-<!-- "Luminance and distance had significant effects on expression recognition. A luminance of 1.0 cd/m2 permits facial expressions to be identified with a 50% probability of correct identification at a distance of 15 m" [@yang_lighting_2015]. -->
-
-<!-- "Review of the characteristics of lighting suggests an optimum illuminance of 10 lux, of high S/P ratio, and aimed toward the pedestrian and natural elements of the environment, will enhance reassurance" [@fotios_road_2015]. -->
-
-<!-- "Both experiments, one with stationary and one with walking participants, demonstrated that people prefer having light in their own immediate surroundings rather than on the road that lies ahead" [@haans_light_2012]. -->
-
-<!-- "lamp SPD can be expected to affect the safe movement and perceived safety of pedestrians at night-time" [@fotios_s\_road_2010]. -->
-
-<!-- "Relative safety need was determined by combining the dark/light ratio with prevalence data to produce an idealized measure of lifesaving potential. While all three scenarios suggested a potential for safety improvement, scenarios related to high speed roadway environments showed the greatest potential" [@sullivan_determining_2007]. -->
-
-<!-- "Models of mesopic vision predict that SPD is a significant variable in that at a HPS photopic luminance of 0.100 cd/m2, MH need only produce about 0.070-0.075 cd/m2 to be seen as equally bright" [@fotios_light_2005]. -->
-
-<!-- "These studies indicate that an average horizontal illuminance on a parking lot surface or street sidewalk of about 30 Ix provides enough light to ensure that perceptions of safety are close to what they are in daylight" [@boyce_perceptions_2000]. -->
+"Review of the characteristics of lighting suggests an optimum illuminance of 10 lux, of high S/P ratio, and aimed toward the pedestrian and natural elements of the environment, will enhance reassurance" [@fotios_road_2015].
 
 ```{r tab8, echo=FALSE, message=FALSE, warning=FALSE}
 df = papers %>%
@@ -378,13 +307,11 @@ Other interesting questions to respond:
 
 ## Strenghts and limitations
 
--   Systematic but selection of papers we subjectively found more relevant. So there is more literature on this topic not reviewed.
-
 # Conclusions
 
-<!-- Interpretation of the material. -->
+This paper reviewed published research at the intersection between cycling and road lighting.
 
-<!-- The review presented above highlights the need for more empirical work in the area of cycling uptake and road lighting. -->
+<gaps>Although there has been a recent growth of papers on this topic the is still highly under-researched. More empirical work in the area of cycling and road lighting is needed.
 
 <!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
 
