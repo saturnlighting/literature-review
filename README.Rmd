@@ -110,9 +110,11 @@ knitr::include_graphics("flow-chart.png")
 2.  Cycling collisions and lighting
 3.  Cycling, crime and lighting
 4.  Cycling inequalities in lighting
-5.  Proper lighting for cyclists (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment)
+5.  Proper lighting for cyclists 
 
-<Visual>Figure 1 shows the number of papers reviewed by theme and year of publication.
+<!-- (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment) -->
+
+<Study type>Most of the studies were written in the last decade, 53 were empirical and 9 were reviews (Figure 1).
 
 ```{r fig2, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -120,23 +122,17 @@ library(tidyverse)
 
 papers <- read.csv("lrp-papers-summary-syst.csv")
 
-# df = papers %>% replace(is.na(.), 0) %>%
-#   group_by(type) %>% 
-#   summarise("Active travel behaviour and lighting" = sum(behaviour), "Active travel collisions and lighting" = sum(road_safety),  "Active travel, crime and lighting" = sum(crime), "Inqualities in lighting" = sum(inequalities), "Proper lighting" = sum(proper_light)) %>% 
-#   summarise("Cycling behaviour and lighting" = sum(behaviour), "Cycling collisions and lighting" = sum(road_safety),  "Cycling, crime and lighting" = sum(crime), "Cycling inqualities in lighting" = sum(inequalities), "Proper lighting for cyclists" = sum(proper_light)) %>% 
-#   pivot_longer((2:6))
-
 df = papers %>% replace(is.na(.), 0) %>%
-  group_by(year, theme) %>% 
+  group_by(year, type) %>% 
   summarise(number = n())
 
-ggplot(df, aes(x = year, y = number, fill = theme)) +
+ggplot(df, aes(x = year, y = number, fill = type)) +
   geom_bar(stat="identity") +
   labs(x ="", y="number of papers") +
   theme_minimal()
 ```
 
-<Study type>Most of the studies were empirical papers (53) and a few were reviews (9).
+
 <!-- <type of empirical papers> Most of the empirical studies were quantitative (), five of them qualitative, and one of them mixed methods. -->
 
 ## Cycling behaviour and lighting
@@ -241,7 +237,7 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 "Studies that focused on women, children, and the elderly have been able to identify a stronger link between feelings of risk and fear at the neighborhood and high levels of inactivity" [@loukaitou-sideris_is_2006].
 
-### Gender
+<Gender>
 
 "for pedestrians, the deterrence of darkness was similar for males and females" [@fotios_extending_2022].
 
@@ -251,14 +247,14 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 "the participating women in general, assessed the path as more dangerous than did the men" [@johansson_individual_2011].
 
-### Age
+<Age>
 
 Younger people can see better than older.
 A review on environments and physical activity among children and youth found not a very consistent positive associations between street lighting and physical activity [@prince_examining_2022].
 
 Older people may detect object differently than younger people.
 
-### Disadvantaged groups
+<Disadvantaged groups>
 
 Qualitative research on perceptions of fear to crime and rashes of cyclists from most deprived neighbourhoods [@lusk_bicycle_2019].
 

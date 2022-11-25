@@ -127,16 +127,14 @@ transportation, road safety, and public health.
 <Themes>Five main themes emerged: 1. Cycling behaviour and lighting 2.
 Cycling collisions and lighting 3. Cycling, crime and lighting 4.
 Cycling inequalities in lighting 5. Proper lighting for cyclists
-(i.e. optimal use of lighting to enhance cyclists reassurance while
-respecting the environment)
 
-<Visual>Figure 1 shows the number of papers reviewed by theme and year
-of publication.
+<!-- (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment) -->
+
+<Study type>Most of the studies were written in the last decade, 53 were
+empirical and 9 were reviews (Figure 1).
 
 ![](README_files/figure-gfm/fig2-1.png)<!-- -->
 
-<Study type>Most of the studies were empirical papers (53) and a few
-were reviews (9).
 <!-- <type of empirical papers> Most of the empirical studies were quantitative (), five of them qualitative, and one of them mixed methods. -->
 
 ## Cycling behaviour and lighting
@@ -317,6 +315,21 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+S. Fotios, Uttley, and Gorjimahlabani (2022)
+</td>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+Extending observations of ambient light level and active travel to
+explore age and gender differences in reassurance
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Zacharias and Meng (2021)
 </td>
 <td style="text-align:right;">
@@ -424,6 +437,21 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Chandra, Jimenez, and Radhakrishnan (2017)
+</td>
+<td style="text-align:right;">
+2017
+</td>
+<td style="text-align:left;">
+Accessibility evaluations for nighttime walking and bicycling for
+low-income shift workers
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Lin Yang et al. (2017)
 </td>
 <td style="text-align:right;">
@@ -435,6 +463,20 @@ changes in active commuting
 </td>
 <td style="text-align:left;">
 empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+S. Fotios and Castleton (2017)
+</td>
+<td style="text-align:right;">
+2017
+</td>
+<td style="text-align:left;">
+Lighting for cycling in the UK - A review
+</td>
+<td style="text-align:left;">
+review
 </td>
 </tr>
 <tr>
@@ -678,6 +720,22 @@ Mofolasayo (2020)
 </td>
 <td style="text-align:left;">
 Complete Street Concept, and Ensuring Safety of Vulnerable Road Users
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Lusk et al. (2019)
+</td>
+<td style="text-align:right;">
+2019
+</td>
+<td style="text-align:left;">
+Bicycle facilities safest from crime and crashes: Perceptions of
+residents familiar with higher crime/lower income neighborhoods in
+Boston
 </td>
 <td style="text-align:left;">
 empirical
@@ -1018,6 +1076,22 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Lusk et al. (2019)
+</td>
+<td style="text-align:right;">
+2019
+</td>
+<td style="text-align:left;">
+Bicycle facilities safest from crime and crashes: Perceptions of
+residents familiar with higher crime/lower income neighborhoods in
+Boston
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Appleyard and Ferrell (2017)
 </td>
 <td style="text-align:right;">
@@ -1058,7 +1132,7 @@ affect groups differently.
 to identify a stronger link between feelings of risk and fear at the
 neighborhood and high levels of inactivity” (Loukaitou-Sideris 2006).
 
-### Gender
+<Gender>
 
 “for pedestrians, the deterrence of darkness was similar for males and
 females” (S. Fotios, Uttley, and Gorjimahlabani 2022).
@@ -1075,7 +1149,7 @@ types between men and women” (Basu et al. 2021).
 “the participating women in general, assessed the path as more dangerous
 than did the men” (Johansson, Rosén, and Küller 2011).
 
-### Age
+<Age>
 
 Younger people can see better than older. A review on environments and
 physical activity among children and youth found not a very consistent
@@ -1084,7 +1158,7 @@ positive associations between street lighting and physical activity
 
 Older people may detect object differently than younger people.
 
-### Disadvantaged groups
+<Disadvantaged groups>
 
 Qualitative research on perceptions of fear to crime and rashes of
 cyclists from most deprived neighbourhoods (Lusk et al. 2019).
