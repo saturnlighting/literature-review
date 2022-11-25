@@ -4,16 +4,15 @@ Cycling and Road Lighting: A Review
 **Abstract**
 
 <Background>Evidence shows that darkness discourages people from
-cycling. This is mostly due to a higher perceived danger of cyclists at
-night from motorised traffic and personal security. This
-disproportionately affect women, the elderly, and disadvantaged groups.
-<Aim>This paper provides a review on the scientific literature that
-intersects between cycling and road lighting to better understand the
-relationship between both terms. <Method>We used a hybrid systematic and
-snowballing method. TBC studies on several disciplines such as
-engineering and technology, transportation, road safety, and public
-health were reviewed. <Results>The literature suggests that… Gaps in the
-literature are… <Conclusion>
+cycling. This is due to a higher perceived danger of cyclists at night
+from motorised traffic and personal security, which disproportionately
+affect women, the elderly, and disadvantaged groups. <Aim>This paper
+provides a review on the scientific literature that intersects between
+cycling and road lighting to better understand the relationship between
+both terms. <Method>We used a hybrid systematic and snowballing method.
+TBC studies on several disciplines such as engineering, transport, road
+safety, and public health were reviewed. <Results>The literature
+suggests that… Gaps in the literature are… <Conclusion>
 
 **Keywords**
 
@@ -121,8 +120,8 @@ chart of included studies is shown in Figure 1.
 # Results
 
 <Subject area>The scientific literature was found to be broadly spread
-across several disciplines, including engineering and technology,
-transportation, road safety, and public health.
+across several disciplines, including engineering, transport, road
+safety, and public health.
 
 <Themes>Five main themes emerged: 1. Cycling behaviour and lighting 2.
 Cycling collisions and lighting 3. Cycling, crime and lighting 4.
