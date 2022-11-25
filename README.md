@@ -1,26 +1,23 @@
 Cycling and Road Lighting: A Review
 ================
 
-# Abstract
+**Abstract**
 
-Background: Evidence shows that darkness discourages people from
+<Background>Evidence shows that darkness discourages people from
 cycling. This is mostly due to a higher perceived danger of cyclists at
-night from motorised traffic and personal security. This may
-disproportionately affect women, children, the elderly, and
-disadvantaged groups.
-
-Aim: This paper provides a review on the scientific literature that
+night from motorised traffic and personal security. This
+disproportionately affect women, the elderly, and disadvantaged groups.
+<Aim>This paper provides a review on the scientific literature that
 intersects between cycling and road lighting to better understand the
-relationship between both terms.
+relationship between both terms. <Method>We used a hybrid systematic and
+snowballing method. TBC studies on several disciplines such as
+engineering and technology, transportation, road safety, and public
+health were reviewed. <Results>The literature suggests that… Gaps in the
+literature are… <Conclusion>
 
-Method: We used a hybrid systematic and snowballing method. TBC studies
-on several disciplines such as transportation, public health, road
-safety, criminology, social inequalities, and engineering and technology
-were reviewed.
+**Keywords**
 
-Results: The literature suggests that… Gaps in the literature are…
-
-Conclusion:
+Cycling; road lighting; road safety; personal security; inequalities
 
 # Introduction
 
@@ -52,6 +49,8 @@ research specifically focussed at the intersection between cycling and
 road lighting.
 
 The review is guided by the following questions:
+
+<!-- replace darkness with road lighting? -->
 
 1.  To what extent does darkness influence cycling behaviour?
 
@@ -121,16 +120,22 @@ chart of included studies is shown in Figure 1.
 
 # Results
 
-<subject area>The scientific literature was found to be broadly spread
+<Subject area>The scientific literature was found to be broadly spread
 across several disciplines, including engineering and technology,
-transportation, public health, road safety, and criminology.
+transportation, road safety, and public health.
 
-<year>Figure 1 shows the number of papers reviewed by year of
-publication.
+<Themes>Five main themes emerged: 1. Cycling behaviour and lighting 2.
+Cycling collisions and lighting 3. Cycling, crime and lighting 4.
+Cycling inequalities in lighting 5. Proper lighting for cyclists
+(i.e. optimal use of lighting to enhance cyclists reassurance while
+respecting the environment)
+
+<Visual>Figure 1 shows the number of papers reviewed by theme and year
+of publication.
 
 ![](README_files/figure-gfm/fig2-1.png)<!-- -->
 
-<study type>Most of the studies were empirical papers (53) and a few
+<Study type>Most of the studies were empirical papers (53) and a few
 were reviews (9).
 <!-- <type of empirical papers> Most of the empirical studies were quantitative (), five of them qualitative, and one of them mixed methods. -->
 
@@ -232,6 +237,21 @@ developed world cities
 </td>
 <td style="text-align:left;">
 review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Schneider, Wiers, and Schmitz (2022)
+</td>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+Perceived Safety and Security Barriers to Walking and Bicycling:
+Insights from Milwaukee
+</td>
+<td style="text-align:left;">
+empirical
 </td>
 </tr>
 <tr>
@@ -983,6 +1003,21 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
+Schneider, Wiers, and Schmitz (2022)
+</td>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+Perceived Safety and Security Barriers to Walking and Bicycling:
+Insights from Milwaukee
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Appleyard and Ferrell (2017)
 </td>
 <td style="text-align:right;">
@@ -1387,6 +1422,8 @@ cycling and road lighting is needed.
 <!-- Comparing resulting estimates of change in cycling and safety levels will help assess the impact of lighting in those locations, but there is much else to do in this field beyond what is possible in a 24 month research project. -->
 <!-- Further work is needed to better understand how lighting characteristics such as illuminance and the spatial distribution of lighting influence cycling rates and cyclist safety. -->
 <!-- To ensure the policy relevance of future work into road lighting and cycling, it is important that the findings feed into larger models of cycling uptake to support cost effective investment in road and path lighting [@fotios_pilot_2017], as part of balanced packages of interventions, for the benefit of people who stand to benefit from better walking, cycling and wheeling provision worldwide. -->
+
+# Declaration of interest statement
 
 # References
 

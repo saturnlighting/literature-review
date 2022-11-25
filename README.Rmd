@@ -8,21 +8,21 @@ bibliography: saturn.bib
 always_allow_html: true
 ---
 
-# Abstract
+**Abstract**
 
-Background: Evidence shows that darkness discourages people from cycling.
+<Background>Evidence shows that darkness discourages people from cycling.
 This is mostly due to a higher perceived danger of cyclists at night from motorised traffic and personal security.
-This may disproportionately affect women, children, the elderly, and disadvantaged groups.
-
-Aim: This paper provides a review on the scientific literature that intersects between cycling and road lighting to better understand the relationship between both terms.
-
-Method: We used a hybrid systematic and snowballing method.
-TBC studies on several disciplines such as transportation, public health, road safety, criminology, social inequalities, and engineering and technology were reviewed.
-
-Results: The literature suggests that...
+This disproportionately affect women, the elderly, and disadvantaged groups.
+<Aim>This paper provides a review on the scientific literature that intersects between cycling and road lighting to better understand the relationship between both terms.
+<Method>We used a hybrid systematic and snowballing method.
+TBC studies on several disciplines such as engineering and technology, transportation, road safety, and public health were reviewed.
+<Results>The literature suggests that...
 Gaps in the literature are...
+<Conclusion>
 
-Conclusion:
+**Keywords** 
+
+Cycling; road lighting; road safety; personal security; inequalities
 
 # Introduction
 
@@ -36,11 +36,14 @@ However, less investigated have been other micro-built environmental factors suc
 
 
 Previous academic literature reviews have touched on elements of the relationship between cycling and lighting.
-@fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK. However, to the best of our knowledge, no academic paper has reviewed the international literature available on the intersection between both terms, cycling and road lighting. 
+@fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK. 
+However, to the best of our knowledge, no academic paper has reviewed the international literature available on the intersection between both terms, cycling and road lighting. 
 
 This paper aims to fill this gap in the literature, reviewing published research specifically focussed at the intersection between cycling and road lighting.
 
 The review is guided by the following questions:
+
+<!-- replace darkness with road lighting? -->
 
 1.  To what extent does darkness influence cycling behaviour?
 
@@ -100,9 +103,16 @@ knitr::include_graphics("flow-chart.png")
 
 # Results
 
-<subject area>The scientific literature was found to be broadly spread across several disciplines, including engineering and technology, transportation, public health, road safety, and criminology.
+<Subject area>The scientific literature was found to be broadly spread across several disciplines, including engineering and technology, transportation, road safety, and public health.
 
-<year>Figure 1 shows the number of papers reviewed by year of publication.
+<Themes>Five main themes emerged:
+1.  Cycling behaviour and lighting
+2.  Cycling collisions and lighting
+3.  Cycling, crime and lighting
+4.  Cycling inequalities in lighting
+5.  Proper lighting for cyclists (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment)
+
+<Visual>Figure 1 shows the number of papers reviewed by theme and year of publication.
 
 ```{r fig2, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -110,17 +120,23 @@ library(tidyverse)
 
 papers <- read.csv("lrp-papers-summary-syst.csv")
 
+# df = papers %>% replace(is.na(.), 0) %>%
+#   group_by(type) %>% 
+#   summarise("Active travel behaviour and lighting" = sum(behaviour), "Active travel collisions and lighting" = sum(road_safety),  "Active travel, crime and lighting" = sum(crime), "Inqualities in lighting" = sum(inequalities), "Proper lighting" = sum(proper_light)) %>% 
+#   summarise("Cycling behaviour and lighting" = sum(behaviour), "Cycling collisions and lighting" = sum(road_safety),  "Cycling, crime and lighting" = sum(crime), "Cycling inqualities in lighting" = sum(inequalities), "Proper lighting for cyclists" = sum(proper_light)) %>% 
+#   pivot_longer((2:6))
+
 df = papers %>% replace(is.na(.), 0) %>%
-  group_by(year) %>% 
+  group_by(year, theme) %>% 
   summarise(number = n())
 
-ggplot(df, aes(x = year, y = number)) +
+ggplot(df, aes(x = year, y = number, fill = theme)) +
   geom_bar(stat="identity") +
   labs(x ="", y="number of papers") +
   theme_minimal()
 ```
 
-<study type>Most of the studies were empirical papers (53) and a few were reviews (9).
+<Study type>Most of the studies were empirical papers (53) and a few were reviews (9).
 <!-- <type of empirical papers> Most of the empirical studies were quantitative (), five of them qualitative, and one of them mixed methods. -->
 
 ## Cycling behaviour and lighting
@@ -322,5 +338,7 @@ This paper reviewed published research at the intersection between cycling and r
 <!-- Further work is needed to better understand how lighting characteristics such as illuminance and the spatial distribution of lighting influence cycling rates and cyclist safety. -->
 
 <!-- To ensure the policy relevance of future work into road lighting and cycling, it is important that the findings feed into larger models of cycling uptake to support cost effective investment in road and path lighting [@fotios_pilot_2017], as part of balanced packages of interventions, for the benefit of people who stand to benefit from better walking, cycling and wheeling provision worldwide. -->
+
+# Declaration of interest statement
 
 # References
