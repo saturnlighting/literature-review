@@ -147,7 +147,28 @@ and Robbins (2022) found that darkness had a significant negative effect
 on the number of pedestrians and cyclists, but not on the number of
 motorized vehicles.
 
-(Castillo-Paredes et al. 2022)
+“Variables related to crime and lighting of public spaces were
+associated with AT in countries in Latin America” (Castillo-Paredes et
+al. 2022).
+
+“Studies in both developed world and SSA urban contexts point out that
+lack of street lighting can decrease the levels of cycling \[41,42,44\].
+Ribbens et al., \[41\] indicate that cyclists avoid poorly lit streets
+in the townships of South Africa. Kareem et al., \[45\] indicate that
+cyclists in the suburbs of Kampala are likely to forego a trip if the
+access road is not well-lit. Similarly, Winters et al., \[19\] in their
+study in Vancouver (Canada) cite that not well-lit bicycle lanes are
+strongly linked to the reduction of cycling rates. In addition, Chandra
+and Radhakrishnan \[46\] indicate that people avoid cycling in areas
+with cycle paths that do not have street lights at night” (Mendiate et
+al. 2022).
+
+“Studies in both SSA cities and DWC are unanimous that street lighting
+has an enormous influence on cycling. In line with studies by UN-Habitat
+\[59\]andWinters et al., \[19\], lack of street lighting can contribute
+to poor visibility, perception and fear of crime thus decreasing bicycle
+use. This is particularly relevant in SSA due to the generalized lack of
+security and safety.” (Mendiate et al. 2022).
 
 Using Strava Heatmap data and spatial regression models, Linchuan Yang
 et al. (2022) found street lighting positively associated with running,
@@ -668,6 +689,21 @@ empirical
 </tr>
 <tr>
 <td style="text-align:left;">
+Schneider, Wiers, and Schmitz (2022)
+</td>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+Perceived Safety and Security Barriers to Walking and Bicycling:
+Insights from Milwaukee
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Malik, Dala, and Busawon (2022)
 </td>
 <td style="text-align:right;">
@@ -1060,6 +1096,21 @@ type
 <tbody>
 <tr>
 <td style="text-align:left;">
+Castillo-Paredes et al. (2022)
+</td>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+Perceived Neighborhood Safety and Active Transportation in Adults from
+Eight Latin American Countries
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Schneider, Wiers, and Schmitz (2022)
 </td>
 <td style="text-align:right;">
@@ -1158,6 +1209,12 @@ positive associations between street lighting and physical activity
 Older people may detect object differently than younger people.
 
 <Disadvantaged groups>
+
+“Both traffic safety concerns and personal security concerns were most
+strongly associated with poor neighborhood opportunities for exercise.
+Respondents living in lower-income communities reported greater barriers
+to pedestrian and bicycle safety and security than residents from
+wealthier neighborhoods” (Schneider, Wiers, and Schmitz 2022).
 
 Qualitative research on perceptions of fear to crime and rashes of
 cyclists from most deprived neighbourhoods (Lusk et al. 2019).
@@ -1297,6 +1354,34 @@ Gagliardi et al. (2020)
 </td>
 <td style="text-align:left;">
 Advanced adaptive street lighting systems for smart cities
+</td>
+<td style="text-align:left;">
+empirical
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Wood (2020)
+</td>
+<td style="text-align:right;">
+2020
+</td>
+<td style="text-align:left;">
+Nighttime driving: visual, lighting and visibility challenges
+</td>
+<td style="text-align:left;">
+review
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Mofolasayo (2020)
+</td>
+<td style="text-align:right;">
+2020
+</td>
+<td style="text-align:left;">
+Complete Street Concept, and Ensuring Safety of Vulnerable Road Users
 </td>
 <td style="text-align:left;">
 empirical
@@ -1496,7 +1581,9 @@ cycling and road lighting is needed.
 <!-- Further work is needed to better understand how lighting characteristics such as illuminance and the spatial distribution of lighting influence cycling rates and cyclist safety. -->
 <!-- To ensure the policy relevance of future work into road lighting and cycling, it is important that the findings feed into larger models of cycling uptake to support cost effective investment in road and path lighting [@fotios_pilot_2017], as part of balanced packages of interventions, for the benefit of people who stand to benefit from better walking, cycling and wheeling provision worldwide. -->
 
-# Declaration of interest statement
+# Disclosure statement
+
+No potential conflict of interest was reported by the author(s).
 
 # References
 
