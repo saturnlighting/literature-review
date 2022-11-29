@@ -451,9 +451,9 @@ groups.
 This paper reviewed published research at the intersection between
 cycling and road lighting.
 
-<gaps>Although there has been a recent growth of papers on this topic
-the is still highly under-researched. More empirical work in the area of
-cycling and road lighting is needed.
+<gaps>Despite the recent growth of articles on this subject, it is still
+very little researched. More empirical work in the area of cycling and
+road lighting is needed.
 
 <!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
 <!-- During the project we plan to measure change in cycling levels, primarily through cyclists counts, and cycling safety due to darkness as inferred from models of cycling levels and high resolution casualty over multi year timescales and in a number of different locations. -->

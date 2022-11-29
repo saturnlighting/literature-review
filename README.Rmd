@@ -361,7 +361,7 @@ The positive results obtained in studies looking at the association between cycl
 
 This paper reviewed published research at the intersection between cycling and road lighting.
 
-<gaps>Although there has been a recent growth of papers on this topic the is still highly under-researched. More empirical work in the area of cycling and road lighting is needed.
+<gaps>Despite the recent growth of articles on this subject, it is still very little researched. More empirical work in the area of cycling and road lighting is needed.
 
 <!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
 
