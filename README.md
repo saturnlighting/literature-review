@@ -158,11 +158,11 @@ year](README_files/figure-gfm/fig2-1.png)
 Previous research has found a clear association between active travel or
 physical activity levels and road lighting (references needed).
 
-“Studies in both developed world and Sub-Saharan African (SSA) urban
-contexts point out that lack of street lighting can decrease the levels
-of cycling (Ribbens 2008; Segadilha and Sanches 2014; Winters and
-Teschke 2010) . Ribbens (2008) indicate that cyclists avoid poorly lit
-streets in the townships of South Africa. Buyana and Shuaib (2014)
+“Studies in both developed world cities (DWC) and Sub-Saharan African
+(SSA) urban contexts point out that lack of street lighting can decrease
+the levels of cycling (Ribbens 2008; Segadilha and Sanches 2014; Winters
+and Teschke 2010) . Ribbens (2008) indicate that cyclists avoid poorly
+lit streets in the townships of South Africa. Buyana and Shuaib (2014)
 indicate that cyclists in the suburbs of Kampala are likely to forego a
 trip if the access road is not well-lit. Similarly, Winters et al.
 (2010) in their study in Vancouver (Canada) cite that not well-lit
@@ -171,12 +171,12 @@ addition, Chandra and Radhakrishnan (2015) indicate that people avoid
 cycling in areas with cycle paths that do not have street lights at
 night” (Mendiate et al. 2022).
 
-“Studies in both SSA cities and developed world cities (DWC) are
-unanimous that street lighting has an enormous influence on cycling. In
-line with Winters et al. (2010), lack of street lighting can contribute
-to poor visibility, perception and fear of crime thus decreasing bicycle
-use. This is particularly relevant in SSA due to the generalized lack of
-security and safety.” (Mendiate et al. 2022).
+“Studies in both SSA cities and DWC are unanimous that street lighting
+has an enormous influence on cycling. In line with Winters et al.
+(2010), lack of street lighting can contribute to poor visibility,
+perception and fear of crime thus decreasing bicycle use. This is
+particularly relevant in SSA due to the generalized lack of security and
+safety.” (Mendiate et al. 2022).
 
 “Positive associations were found for street lighting” (Prince et al.
 2022).
