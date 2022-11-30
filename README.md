@@ -27,26 +27,24 @@ motorised modes, reducing inequalities (references needed). For this
 reason, cycling is being encouraged. Yet, most people keep choosing to
 drive to cycle.
 
-One of the main determinants of cycling is fear of motorised
-vehicles<reference needed>. Many studies have explored to what extent
-safe cycling infrastructure affects cycling.<add brief conclusions here>
-However, less investigated have been other micro-built environmental
-factors such as road lighting, which may have a strong influence on
-people’s fear when cycling.
+One of the main determinants of cycling is fear of motorised vehicles
+(reference needed). Many studies have explored to what extent safe
+cycling infrastructure affects cycling (add brief conclusions of these
+studies here). However, less investigated have been other micro-built
+environmental factors such as road lighting, which may have a strong
+influence on people’s fear when cycling.
 
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in walking and cycling. However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. There is much evidence suggesting darkness puts people off from cycling, and increases the risk of being involved in a collision whilst cycling. Appropriate road or path lighting can increase feelings of reassurance, make hazards more visible, and make the cyclist more visible to other road users. However, there is to date little evidence on the lighting interventions that work best, in combination with other measures. Lighting after dark has costs, both in terms of energy use and harmful ecological effects due to excess light pollution, raising the question: what is the optimal use of lighting to enable safe cycling uptake, at all times and in all seasons? -->
 
 Previous academic literature reviews have touched on elements of the
 relationship between cycling and lighting. For example, S. Fotios and
 Castleton (2017) reviewed suggested interventions to enable cycling
-lighting to contribute to the safety of cyclists in the UK. However, to
-the best of our knowledge, no academic paper has reviewed the
-international literature available on the intersection between both
-terms, cycling and road lighting.
-
-This paper aims to fill this gap in the literature, reviewing published
-research specifically focussed at the intersection between cycling and
-road lighting.
+lighting to contribute to the safety of cyclists in the UK. Reynolds et
+al. (2009) reviewed the impact of transport infrastructure, including
+street lighting, on cycling collisions. However, to the best of our
+knowledge, no academic paper has reviewed the international literature
+available on the intersection between both terms, cycling and road
+lighting. This paper aims to fill this gap in the literature.
 
 The review is guided by the following questions:
 
@@ -115,7 +113,7 @@ passing but not as the topic of the paper).
 
 In the second stage, we checked the references from the studies selected
 (i.e. snowball technique), and after screening abstracts and full texts,
-6 additional papers were selected. In total, 52 were reviewed. A flow
+8 additional papers were selected. In total, 54 were reviewed. A flow
 chart of included studies is shown in Figure 1.
 
 <img src="flow-chart.png" alt="Figure 1: flow chart" width="50%" style="display: block; margin: auto;" />
@@ -143,8 +141,8 @@ safety, and public health.
 
 <!-- (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment) -->
 
-<Study type>Most of the studies were written in the last decade, 35 were
-empirical and 9 were reviews (Figure 1).
+<Study type>Most of the studies were written in the last decade, 46 were
+empirical and 8 were reviews (Figure 1).
 
 ![Figure 2: number of papers reviewed by type and
 year](README_files/figure-gfm/fig2-1.png)
@@ -156,7 +154,7 @@ year](README_files/figure-gfm/fig2-1.png)
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
 Previous research has found a clear association between active travel or
-physical activity levels and road lighting (references needed).
+physical activity levels and road lighting.
 
 “Studies in both developed world cities (DWC) and Sub-Saharan African
 (SSA) urban contexts point out that lack of street lighting can decrease
@@ -307,6 +305,13 @@ been suggested as an intervention able to improve driver’s visual
 capabilities and ability to detect roadway hazards and to prevent car
 crashes” (Porchia, Baldasseroni, and Dellisanti 2014).
 
+“Cycling in late evening darkness is associated with higher injury rates
+than cycling in daylight conditions. In comparison to late evening
+darkness, relative injury rates in early morning darkness are much
+higher. This is the case for crashes with large differences among the
+age groups, suggesting that in addition to the absence of daylight also
+age related risk factors are at play” (Twisk and Reurings 2013).
+
 “The proportion of seriously injured cyclists who have been drinking is
 highest in early morning darkness and has strongly increased over the
 last decades” (Twisk and Reurings 2013).
@@ -318,6 +323,10 @@ reduction in the odds of severe injury” (Romanow et al. 2012).
 
 “Street lighting is an additional factor that appear to improve cycling
 safety” (Reynolds et al. 2009).
+
+“Darkness without streetlights increases the probability of fatal injury
+by 110.9% in accidents compared to accidents occurring in daylight or
+darkness with streetlights” (Kim et al. 2007).
 
 “Injury accidents in on lit roads are reduced by 50%. The effect on
 fatal accidents is slightly larger. The effect during twilight is about
@@ -645,6 +654,15 @@ Pihlajaniemi, and Toni Österlund. 2018. “Smart and Dynamic Route
 Lighting Control Based on Movement Tracking.” *Building and Environment*
 142 (September): 472–83.
 <https://doi.org/10.1016/j.buildenv.2018.06.048>.
+
+</div>
+
+<div id="ref-kim_bicyclist_2007" class="csl-entry">
+
+Kim, Joon-Ki, Sungyop Kim, Gudmundur F. Ulfarsson, and Luis A. Porrello.
+2007. “Bicyclist Injury Severities in Bicycle–Motor Vehicle Accidents.”
+*Accident Analysis & Prevention* 39 (2): 238–51.
+<https://doi.org/10.1016/j.aap.2006.07.002>.
 
 </div>
 
