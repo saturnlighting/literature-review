@@ -418,13 +418,9 @@ lighting systems that adapts to the movement of pedestrians, cyclists,
 and cars (e.g. Gagliardi et al. (2020); Abdullah et al. (2019); Juntunen
 et al. (2018)).
 
-“Visual function is reduced under the mesopic lighting conditions of
-night driving and that these effects are exacerbated by increasing age
-and visual impairment. Light and glare from road lighting and headlights
-have significant impacts on vision and night driving and these effects
-are likely to change with evolving technologies” (Wood 2020).
-
-<!-- "A number of actions are suggested that should enable lighting's contribution to the safety of cyclists to be realized" [@fotios_lighting_2017]. -->
+“Light and glare from road lighting and headlights have significant
+impacts on vision and night driving and these effects are likely to
+change with evolving technologies” (Wood 2020).
 
 “LED road lighting for vehicular traffic roads generally fulfilled the
 requirements, whereas that for pedestrian and bicycle roads generally
@@ -437,8 +433,8 @@ The scientific literature on the intersections of cycling and lighting
 is spread across several disciplines such as such as engineering,
 transport, road safety, and public health.
 
-Below, and based on the results of the review, we answer the questions
-that guided this paper.
+Below, based on the results of the review, we answer the questions that
+guide this paper.
 
 #### To what extent does darkness influence cycling behaviour?
 
