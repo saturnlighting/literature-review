@@ -156,15 +156,15 @@ ggplot(df, aes(x = year, y = number, fill = type)) +
 
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
-Previous research has found a clear association between active travel or physical activity levels and road lighting.
+Previous research has found a positive association between street lighting and active travel and physical activity (references needed). 
+Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
 
-"Studies in both developed world cities (DWC) and Sub-Saharan African (SSA) urban contexts point out that lack of street lighting can decrease the levels of cycling [@ribbens_impact_2008; @segadilha_identification_2014; @winters_route_2010] . @ribbens_impact_2008 indicate that cyclists avoid poorly lit streets in the townships of South Africa. @buyana_gender_2014 indicate that cyclists in the suburbs of Kampala are likely to forego a trip if the access road is not well-lit. Similarly, @winters_built_2010 in their study in Vancouver (Canada) cite that not well-lit bicycle lanes are strongly linked to the reduction of cycling rates. In addition, @chandra_street_2015 indicate that people avoid cycling in areas with cycle paths that do not have street lights at night" [@mendiate_cycling_2022].
+A recent review on differences and similarities in cycling between sub-Saharan African cities (SSA) and developed world cities (DWC) found that studies in both SSA cities and DWC are unanimous that street lighting has an important influence on cycling [@mendiate_cycling_2022]. "@ribbens_impact_2008 indicate that cyclists avoid poorly lit streets in the townships of South Africa. @buyana_gender_2014 indicate that "cyclists in the suburbs of Kampala are likely to forego a trip if the access road is not well-lit. Similarly, @winters_built_2010 in their study in Vancouver (Canada) cite that not well-lit bicycle lanes are strongly linked to the reduction of cycling rates. In addition, @chandra_street_2015 indicate that people avoid cycling in areas with cycle paths that do not have street lights at night" [@mendiate_cycling_2022].
+"lack of street lighting can contribute to poor visibility, perception and fear of crime thus decreasing bicycle use. This is particularly relevant in SSA due to the generalized lack of security and safety." [@mendiate_cycling_2022].
 
-"Studies in both SSA cities and DWC are unanimous that street lighting has an enormous influence on cycling. In line with @winters_built_2010, lack of street lighting can contribute to poor visibility, perception and fear of crime thus decreasing bicycle use. This is particularly relevant in SSA due to the generalized lack of security and safety." [@mendiate_cycling_2022].
+In a review on research on built environment and physical activity among children and youth, prince_examining_2022 found street lighting positively associated with total physical activity among youth and children/youth, but not among children.
 
-"Positive associations were found for street lighting" [@prince_examining_2022].
-
-"Nighttime brightness have pronounced effects on ATTS" [@luo_road_2022].
+@luo_road_2022 found that nighttime brightness had pronounce effects on active travel.
 
 Using Strava Heatmap data and spatial regression models, @yang_crowdsourced_2022 found street lighting positively associated with running, but not with cycling. 
 
@@ -180,17 +180,17 @@ Using odd ratios, @uttley_road_2020 found that the drop in cycling levels after 
 
 @fotios_whole-year_2019 found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
 
-"Some bicyclists favor routes which are planted with street trees or installed with street lights" [@chen_gps_2018].
-
 This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
+
+"Some bicyclists favor routes which are planted with street trees or installed with street lights" [@chen_gps_2018].
 
 Using self-reported commuting data, @yang_longitudinal_2017 found that individuals living in neighbourhoods with higher density of street light were more likely to active commuting.
 
-In a review of forty two quantitative studies that estimated association between neighbourhood build environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive associations with availability of street lights.
+In a review of forty two quantitative studies that estimated association between neighbourhood built environment and active travel in older adults, @cerin_neighbourhood_2017 observed positive associations with availability of street lights.
 
-"Cycle tracks were valued the most, followed by street lighting and bicycle lanes" [@poorfakhraei_estimating_2015].
+In a paper that estimated welfare change associated with improvements in urban bicycling facilities, @poorfakhraei_estimating_2015 found that "cycle tracks were valued the most, followed by street lighting, and bicycle lanes".
 
-"Respondents reported good lighting is the most important facilitator of walking and cycling" [@lee_neighbourhood_2008].
+Respondents in a study that examined if neighbourhood environments were associated with walking and cycling, reported that good lighting at night is an important facilitator of cycling [@lee_neighbourhood_2008].
 
 ```{r tab4, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 library(kableExtra)
@@ -209,24 +209,25 @@ kbl(df,
 
 ## Cycling collisions and lighting
 
-One of the main reasons that cycling decreases in the dark is because cyclists need to see obstacles on the road and be seen by other road users.
+One of the main reasons that cycling decreases at night is cyclists' fear of not being seen in the dark and thus being hit by a motorised vehicle (reference needed).
+The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (e.g. @wiratama_joint_2022; @samerei_using_2021).
+Not only the frequency of injuries but also their severity is higher at night-time [@asgarzadeh_impact_2018; @wang_statistical_2015].
 
-The probability of suffering a traffic collision in the dark among pedestrians and cyclists is much greater than among other road users (reference needed).
-Not only the frequency but also the severity of injury is higher at night-time (reference needed).
+"Certainly lighting condition is directly related with visibility which primarily affects the risk of accidents, but also affects severity due to lack of evasive action (e.g. driver did not see bicyclist) which leads to greater impact and thus severity" [@kim_bicyclist_2007]. 
 
-"The joint effect of heavy vehicles and diminished light conditions was associated with a 71% increased probability of sustaining KSIs" [@wiratama_joint_2022].
+@wiratama_joint_2022 found that children pedestrians and cyclists "involved in backover crashes with heavy vehicles and diminished light conditions had a 71% higher risk of sustaining Killed or seriously injured than those involved in crashes with other vehicles and optimal light conditions".
 
 "It is found that unsafeness of interaction between rider and infrastructure depends on lighting and road surface meteorological conditions" [@malik_intelligent_2022].
 
-"It was observed that the factors that increase the risk of fatalities and serious injuries of bicyclists (FSI) in all clusters are: elderly bicyclist, not using a helmet, and darkness condition" [@samerei_using_2021].
+@samerei_using_2021 found "that the factors that increase the risk of fatalities and serious injuries of bicyclists in all clusters are elderly bicyclist, not using a helmet, and darkness condition".
 
 A study on bicycle-motor vehicle crashes found that "crashes in low light conditions and during early morning hours are more likely to result in higher injury severity" [@asgarzadeh_impact_2018].
 
 "when cycling on a lit road, cycle lighting frequently offers no benefit for peripheral detection and may make it worse. It was demonstrated that position matters" [@fotios_pilot_2017].
 
-"The safety models showed that cyclist–motorist crashes were nonlinearly associated with light pole densities" [@osama_evaluating_2017].
+"cyclist–motorist crashes were nonlinearly associated with light pole densities" [@osama_evaluating_2017].
 
-Intersections: an study showed that "an increase in intersection illuminance from low (\<0.2 fc) to medium (≥ 0.2 fc and \<1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes" [@wei_safety_2016].
+"An increase in intersection illuminance from low (\<0.2 fc) to medium (≥ 0.2 fc and \<1.1 fc) could reduce nighttime crash frequency and night-to-day crash ratios by approximately 50%. When illuminance was kept at 0.9 fc or higher, the risk of fatality and severe injury decreased significantly, especially in crashes that involved pedestrians and bicycles, head-on crashes, and angle crashes" [@wei_safety_2016].
 
 @nabavi_niaki_road_2016 found that "an increase in road lighting was associated with more bicycle and pedestrian accidents, which might have been explained by the decision to add or increase the amount of lighting at locations in which accidents occurred".
 
@@ -234,12 +235,11 @@ Intersections: an study showed that "an increase in intersection illuminance fro
 
 "Inadequate use of lights in dark conditions were linked with increased injury severity" [@wang_statistical_2015].
 
-"Most nighttime fatal crashes were related to absence of street lightings" [@lu_improving_2015].
+"Most nighttime fatal crashes were related to absence of street lighting" [@lu_improving_2015].
 
 "To improve visibility of pedestrians and cyclists, street lighting has been suggested as an intervention able to improve driver’s visual capabilities and ability to detect roadway hazards and to prevent car crashes" [@porchia_effectiveness_2014].
 
 "Cycling in late evening darkness is associated with higher injury rates than cycling in daylight conditions. In comparison to late evening darkness, relative injury rates in early morning darkness are much higher. This is the case for crashes with large differences among the age groups, suggesting that in addition to the absence of daylight also age related risk factors are at play" [@twisk_epidemiological_2013].
-
 "The proportion of seriously injured cyclists who have been drinking is highest in early morning darkness and has strongly increased over the last decades" [@twisk_epidemiological_2013].
 
 "The presence of street lighting had a point estimate that indicated a reduction in the odds of a severe injury. Some aesthetic and safety items, such as streetlights and high surveillance showed a 30%–40% reduction in the odds of severe injury" [@romanow_environmental_2012].
@@ -266,13 +266,13 @@ kbl(df,
 
 ## Cycling, crime, and lighting
 
-Another fundamental factor that explains less cycling during night-time is fear of crime.
+Another factor that explains why there is less cycling at night is the fear of crime. 
+This is much less investigated than the relationship between lighting and cycling collisions.
+There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark [e.g. @castillo-paredes_perceived_2022].
 
-There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark (e.g. @castillo-paredes_perceived_2022).
+"Variables related to crime and lighting of public spaces were associated with active travel in countries in Latin America" [@castillo-paredes_perceived_2022].
 
-"Variables related to crime and lighting of public spaces were associated with AT in countries in Latin America" [@castillo-paredes_perceived_2022].
-
-"Clean signs, balconies, cafes, street lights, no cuts between buildings, and flowers were low risk for crime and witnesses, little traffic, and bike signals low risk for crash" [@lusk_bicycle_2019]. 
+@lusk_bicycle_2019 asked lower-income predominantly-minority residents what bicycle routes surface or context they perceived as safest from crime and crashes. They reported that "clean signs, balconies, cafes, street lights, no cuts between buildings, and flowers were low risk for crime and witnesses, little traffic, and bike signals low risk for crash". 
 
 "Violent crimes appear to significantly deter people from choosing to walk or bicycle, potentially exposing themselves to threats of personal injury" [@appleyard_influence_2017].
 
@@ -294,17 +294,17 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 <Gender>
 
-"for pedestrians, the  deterrence of darkness was similar for males and females, which disagrees with previous studies" [@fotios_extending_2022].
+@fotios_extending_2022 found that darkness has a greater deterrent effect on female cyclists than male cyclists. 
 
 <!-- "Women are more sensitive to dark spaces when walking and cycling than men" [@xie_i_2018]. -->
 
 <Age>
 
-Older people may detect object differently than younger people (reference needed).
 
 <Disadvantaged groups>
 
-"Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise. Respondents living in lower-income communities reported greater barriers to pedestrian and bicycle safety and security than residents from wealthier neighborhoods" [@schneider_perceived_2022].
+"Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise. 
+Respondents living in lower-income communities reported greater barriers to pedestrian and bicycle safety and security than residents from wealthier neighborhoods" [@schneider_perceived_2022].
 
 ```{r tab7, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 df = papers %>%
@@ -318,14 +318,15 @@ kbl(df,
 
 ## Proper lighting for cyclists
 
-A large number of papers found in our search focused on investigating which type of road lighting is most appropriate to improve cyclists reassurances.
-I.e. How lighting attributes such as illuminance, light temperature, uniformity and glare, affect cycling.
+A substantial number of papers found in our search focused on what type of road lighting is best suited for cyclists.
+That is, in investigating which lighting attributes, such as illuminance, light temperature, uniformity and glare, are the most appropriate to guarantee the safety of cyclists.
 
-Papers on Smart Street Lighting (that adapts to movement by pedestrians, cyclists, and cars)(e.g. @gagliardi_advanced_2020; @abdullah_energy_2019; @juntunen_smart_2018).
+Some of these papers were on Smart Street Lighting. 
+In other words, in lighting systems that adapts to the movement of pedestrians, cyclists, and cars (e.g. @gagliardi_advanced_2020; @abdullah_energy_2019; @juntunen_smart_2018).
 
 "Visual function is reduced under the mesopic lighting conditions of night driving and that these effects are exacerbated by increasing age and visual impairment. Light and glare from road lighting and headlights have significant impacts on vision and night driving and these effects are likely to change with evolving technologies" [@wood_nighttime_2020].
 
-"A number of actions are suggested that should enable lighting's contribution to the safety of cyclists to be realized" [@fotios_lighting_2017].
+<!-- "A number of actions are suggested that should enable lighting's contribution to the safety of cyclists to be realized" [@fotios_lighting_2017]. -->
 
 "LED road lighting for vehicular traffic roads generally fulfilled the requirements, whereas that for pedestrian and bicycle roads generally corresponded to the lowest lighting class for L, and often did not meet the statutory requirements for Uo and UI" [@jagerbrand_led_2016].
 
@@ -343,9 +344,12 @@ kbl(df,
 
 The scientific literature on the intersections of cycling and lighting is spread across several disciplines such as such as engineering, transport, road safety, and public health.
 
+Below, and based on the results of the review, we answer the questions that guided this paper.
+
 #### To what extent does darkness influence cycling behaviour?
 
-The positive results obtained in studies looking at the association between cycling uptake and street lighting show the importance of light conditions as a policy measure to encourage cycling in the dark. Lighting conditions improvements not only may increase cycling trips in general, but also the inclusivity of cycling, since, as has been demonstrated, street lighting will benefit more certain sectors of society such as women, children, the elderly, and certain disadvantaged groups.
+The positive results obtained in studies looking at the association between cycling uptake and street lighting show the importance of light conditions as a policy measure to encourage cycling in the dark. 
+Lighting conditions improvements not only may increase cycling trips in general, but also the inclusivity of cycling, since, as has been demonstrated, street lighting will benefit more certain groups such as women, children, the elderly, and disadvantaged populations.
 
 #### To what extent does darkness increase the risk of road collision among cyclists?
 
