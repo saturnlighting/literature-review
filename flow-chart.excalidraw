@@ -211,8 +211,8 @@
     },
     {
       "type": "rectangle",
-      "version": 961,
-      "versionNonce": 353562579,
+      "version": 980,
+      "versionNonce": 1334622308,
       "isDeleted": false,
       "id": "LRek7VChDnC5tHWs9xBiq",
       "fillStyle": "hachure",
@@ -222,11 +222,11 @@
       "opacity": 100,
       "angle": 0,
       "x": 1045.75,
-      "y": 287.75,
+      "y": 297.75,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 230,
-      "height": 92,
+      "height": 82,
       "seed": 1143616508,
       "groupIds": [],
       "strokeSharpness": "sharp",
@@ -252,14 +252,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1666948349596,
+      "updated": 1669911916777,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 1173,
-      "versionNonce": 584078076,
+      "version": 1195,
+      "versionNonce": 1191473116,
       "isDeleted": false,
       "id": "qeU0z7xEBVxKCL7AScTQ7",
       "fillStyle": "hachure",
@@ -268,27 +268,27 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 1080.75,
-      "y": 299.25,
+      "x": 1093.75,
+      "y": 315.75,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 160,
-      "height": 69,
+      "width": 134,
+      "height": 46,
       "seed": 297802180,
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElements": [],
-      "updated": 1668540139490,
+      "updated": 1669911916777,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Search SCOPUS \nresults \n(N= 262)",
-      "baseline": 64,
+      "text": "Search results \n(N= 262)",
+      "baseline": 41,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "LRek7VChDnC5tHWs9xBiq",
-      "originalText": "Search SCOPUS \nresults \n(N= 262)"
+      "originalText": "Search results \n(N= 262)"
     },
     {
       "type": "rectangle",
@@ -409,8 +409,8 @@
     },
     {
       "type": "arrow",
-      "version": 532,
-      "versionNonce": 1310565127,
+      "version": 573,
+      "versionNonce": 435502820,
       "isDeleted": false,
       "id": "4AYk20KL-wbSonJXtZmOK",
       "fillStyle": "hachure",
@@ -423,20 +423,20 @@
       "y": 379.625,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 0.15229623900518163,
-      "height": 20.874999999999886,
+      "width": 0.1607456104850371,
+      "height": 20.286231884057884,
       "seed": 256706812,
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElements": [],
-      "updated": 1669837938128,
+      "updated": 1669911924504,
       "link": null,
       "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "LRek7VChDnC5tHWs9xBiq",
-        "focus": -0.02322843547017569,
-        "gap": 20.749999999999886
+        "focus": -0.02313695949105062,
+        "gap": 20.161231884057884
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
@@ -447,15 +447,15 @@
           0
         ],
         [
-          0.15229623900518163,
-          20.874999999999886
+          0.1607456104850371,
+          20.286231884057884
         ]
       ]
     },
     {
       "type": "arrow",
-      "version": 419,
-      "versionNonce": 1097069604,
+      "version": 471,
+      "versionNonce": 1159861340,
       "isDeleted": false,
       "id": "1_R3l9_w8FxGN49B-ywOe",
       "fillStyle": "hachure",
@@ -464,27 +464,27 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 1067.4413027373866,
-      "y": 380.75,
+      "x": 1064.9810493814239,
+      "y": 380.82894736842104,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 0.006147195045969056,
-      "height": 0.0028784650183979466,
+      "width": 0.08958753578872347,
+      "height": 0.03663521056978425,
       "seed": 415046279,
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElements": [],
-      "updated": 1667561756207,
+      "updated": 1669911916891,
       "link": null,
       "locked": false,
       "startBinding": {
         "elementId": "LRek7VChDnC5tHWs9xBiq",
-        "gap": 1,
+        "gap": 1.0789473684210524,
         "focus": 0.033125659898264284
       },
       "endBinding": {
         "elementId": "LRek7VChDnC5tHWs9xBiq",
-        "gap": 21.708333333333258,
+        "gap": 19.348731884057905,
         "focus": -0.033125659898264284
       },
       "lastCommittedPoint": null,
@@ -496,8 +496,8 @@
           0
         ],
         [
-          -0.006147195045969056,
-          0.0028784650183979466
+          0.08958753578872347,
+          -0.03663521056978425
         ]
       ]
     },

@@ -296,6 +296,8 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 @fotios_extending_2022 found that darkness has a greater deterrent effect on female cyclists than male cyclists. 
 
+"Recent research [@sustrans_bikelife_2018] found that only 23% of women felt safe cycling during hours of darkness, compared with 36% of men, which suggests that Lighting may also contribute to addressing the current gender imbalance in cycling by encouraging more women to cycle after-dark" [@uttley_road_2020].
+
 <!-- "Women are more sensitive to dark spaces when walking and cycling than men" [@xie_i_2018]. -->
 
 <Age>

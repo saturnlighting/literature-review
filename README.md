@@ -393,6 +393,12 @@ affect groups differently.
 S. Fotios, Uttley, and Gorjimahlabani (2022) found that darkness has a
 greater deterrent effect on female cyclists than male cyclists.
 
+“Recent research (Sustrans 2018) found that only 23% of women felt safe
+cycling during hours of darkness, compared with 36% of men, which
+suggests that Lighting may also contribute to addressing the current
+gender imbalance in cycling by encouraging more women to cycle
+after-dark” (Uttley, Fotios, and Lovelace 2020).
+
 <!-- "Women are more sensitive to dark spaces when walking and cycling than men" [@xie_i_2018]. -->
 
 <Age>
@@ -836,6 +842,13 @@ Schneider, Robert James, Hayley Wiers, and Andrew Schmitz. 2022.
 Insights from Milwaukee.” *Transportation Research Record: Journal of
 the Transportation Research Board* 2676 (9): 325–38.
 <https://doi.org/10.1177/03611981221086646>.
+
+</div>
+
+<div id="ref-sustrans_bikelife_2018" class="csl-entry">
+
+Sustrans. 2018. “BIKElife, All Cities Publication. Inclusive City
+Cycling. Women: Reducingthe Gender Gap.”
 
 </div>
 
