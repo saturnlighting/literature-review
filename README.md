@@ -118,7 +118,7 @@ In the second stage, we checked the references from the studies selected
 8 additional papers were selected. In total, 54 were reviewed. A flow
 chart of included studies is shown in Figure 1.
 
-<img src="flow-chart.png" title="Figure 1: flow chart" alt="Figure 1: flow chart" width="50%" style="display: block; margin: auto;" />
+<img src="flow-chart.png" alt="Figure 1: flow chart" width="50%" style="display: block; margin: auto;" />
 
 <!-- ## Data extraction -->
 <!-- From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, mode, sign of association, and authors and year. -->
