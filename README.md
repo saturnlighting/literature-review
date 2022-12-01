@@ -3,8 +3,6 @@ Cycling and Road Lighting: A Review
 
 **Abstract**
 
-test
-
 <Background>Evidence shows that darkness discourages people from
 cycling. This is due to a higher perceived danger of cyclists at night
 from motorised traffic and personal security, which disproportionately
