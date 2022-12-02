@@ -1,6 +1,6 @@
 ---
 output: 
-    github_document
+   github_document
   # word_document
 editor_options:
   markdown:
@@ -371,9 +371,9 @@ Lighting conditions improvements not only may increase cycling trips in general,
 
 # Conclusions
 
-This paper reviewed published research at the intersection between cycling and road lighting.
+This paper reviewed published research on the intersection between cycling and road lighting.
 
-<gaps>Despite the recent growth of articles on this subject, it is still very little researched. More empirical work in the area of cycling and road lighting is needed.
+<gaps>Despite the recent growth of articles on this subject, it is still under-researched. More empirical work in the area of cycling and road lighting is needed.
 
 <!-- We plan to undertake some of this work over the coming months in the SATURN (Supporting Active Travel Using Road lighting at Night) project, which has been funded by the UK Research and Innovation body. -->
 
