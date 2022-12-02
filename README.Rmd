@@ -16,7 +16,7 @@ always_allow_html: true
 This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups.
 <Aim>This paper provides a review of the scientific literature that intersects cycling and road lighting to better understand the relationship between both terms.
 <Method>We used a hybrid systematic and snowballing method.
-52 studies on several disciplines such as engineering, transport, road safety, and public health were reviewed.
+57 studies on several disciplines such as engineering, transport, road safety, and public health were reviewed.
 <Results>The literature suggests that...
 Gaps in the literature are...
 <Conclusion>
