@@ -113,7 +113,7 @@ passing but not as the topic of the paper).
 
 In the second stage, we checked the references from the studies selected
 (i.e. snowball technique), and after screening abstracts and full texts,
-8 additional papers were selected. In total, 54 were reviewed. A flow
+11 additional papers were selected. In total, 57 were reviewed. A flow
 chart of included studies is shown in Figure 1.
 
 <img src="flow-chart.png" alt="Figure 1: flow chart" width="50%" style="display: block; margin: auto;" />
@@ -141,7 +141,7 @@ safety, and public health.
 
 <!-- (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment) -->
 
-<Study type>Most of the studies were written in the last decade, 46 were
+<Study type>Most of the studies were written in the last decade, 49 were
 empirical and 8 were reviews (Figure 1).
 
 ![Figure 2: number of papers reviewed by type and
@@ -245,6 +245,12 @@ urban bicycling facilities, Poorfakhraei and Rowangould (2015) found
 that “cycle tracks were valued the most, followed by street lighting,
 and bicycle lanes”.
 
+“Winters et al. (2011) found that a major deterrent to cycling was if
+the route was not well lit after-dark. The deterrent effect was largest
+for people who don’t currently cycle but potentially would do in the
+future, highlighting the importance of lighting in encouraging uptake of
+cycling” (Uttley, Fotios, and Lovelace 2020).
+
 Respondents in a study that examined if neighbourhood environments were
 associated with walking and cycling, reported that good lighting at
 night is an important facilitator of cycling (Lee and Moudon 2008).
@@ -332,6 +338,13 @@ reduction in the odds of severe injury” (Romanow et al. 2012).
 
 “Street lighting is an additional factor that appear to improve cycling
 safety” (Reynolds et al. 2009).
+
+“The most important variables influencing non-motorist injury severity
+are the age of the individual (the elderly are more injury-prone), the
+speed limit on the roadway (higher speed limits lead to higher injury
+severity levels), location of crashes (those at signalized intersections
+are less severe than those elsewhere), and time-of-day” (Eluru, Bhat,
+and Hensher 2008).
 
 “Darkness without streetlights increases the probability of fatal injury
 by 110.9% in accidents compared to accidents occurring in daylight or
@@ -584,6 +597,16 @@ Chen, Peng, Qing Shen, and Suzanne Childress. 2018. “A GPS Data-Based
 Analysis of Built Environment Influences on Bicyclist Route
 Preferences.” *International Journal of Sustainable Transportation* 12
 (3): 218–31. <https://doi.org/10.1080/15568318.2017.1349222>.
+
+</div>
+
+<div id="ref-eluru_mixed_2008" class="csl-entry">
+
+Eluru, Naveen, Chandra R. Bhat, and David A. Hensher. 2008. “A Mixed
+Generalized Ordered Response Model for Examining Pedestrian and
+Bicyclist Injury Severity Level in Traffic Crashes.” *Accident Analysis
+& Prevention* 40 (3): 1033–54.
+<https://doi.org/10.1016/j.aap.2007.11.010>.
 
 </div>
 
@@ -912,6 +935,15 @@ Winters, Meghan, Michael Brauer, Eleanor M. Setton, and Kay Teschke.
 2010. “Built Environment Influences on Healthy Transportation Choices:
 Bicycling Versus Driving.” *Journal of Urban Health* 87 (6): 969–93.
 <https://doi.org/10.1007/s11524-010-9509-6>.
+
+</div>
+
+<div id="ref-winters_motivators_2011" class="csl-entry">
+
+Winters, Meghan, Gavin Davidson, Diana Kao, and Kay Teschke. 2011.
+“Motivators and Deterrents of Bicycling: Comparing Influences on
+Decisions to Ride.” *Transportation* 38 (1): 153–68.
+<https://doi.org/10.1007/s11116-010-9284-y>.
 
 </div>
 

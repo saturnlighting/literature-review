@@ -99,8 +99,8 @@ We excluded papers that did not focus on cycling and road lighting (many studies
 - Changing the DNA of city streets: NACTO's urban street design guide and the new city street design paradigm
 -->
 
-In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts, 8 additional papers were selected.
-In total, 54 were reviewed.
+In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts, 11 additional papers were selected.
+In total, 57 were reviewed.
 A flow chart of included studies is shown in Figure 1.
 
 ```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '50%'}
@@ -130,7 +130,7 @@ knitr::include_graphics("flow-chart.png")
 
 <!-- (i.e. optimal use of lighting to enhance cyclists reassurance while respecting the environment) -->
 
-<Study type>Most of the studies were written in the last decade, 46 were empirical and 8 were reviews (Figure 1).
+<Study type>Most of the studies were written in the last decade, 49 were empirical and 8 were reviews (Figure 1).
 
 ```{r fig2, fig.cap="Figure 2: number of papers reviewed by type and year", echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -190,6 +190,8 @@ In a review of forty two quantitative studies that estimated association between
 
 In a paper that estimated welfare change associated with improvements in urban bicycling facilities, @poorfakhraei_estimating_2015 found that "cycle tracks were valued the most, followed by street lighting, and bicycle lanes".
 
+"@winters_motivators_2011 found that a major deterrent to cycling was if the route was not well lit after-dark. The deterrent effect was largest for people who don’t currently cycle but potentially would do in the future, highlighting the importance of lighting in encouraging uptake of cycling" [@uttley_road_2020]. 
+
 Respondents in a study that examined if neighbourhood environments were associated with walking and cycling, reported that good lighting at night is an important facilitator of cycling [@lee_neighbourhood_2008].
 
 ```{r tab4, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
@@ -245,6 +247,8 @@ A study on bicycle-motor vehicle crashes found that "crashes in low light condit
 "The presence of street lighting had a point estimate that indicated a reduction in the odds of a severe injury. Some aesthetic and safety items, such as streetlights and high surveillance showed a 30%–40% reduction in the odds of severe injury" [@romanow_environmental_2012].
 
 "Street lighting is an additional factor that appear to improve cycling safety" [@reynolds_impact_2009].
+
+"The most important variables influencing non-motorist injury severity are the age of the individual (the elderly are more injury-prone), the speed limit on the roadway (higher speed limits lead to higher injury severity levels), location of crashes (those at signalized intersections are less severe than those elsewhere), and time-of-day" [@eluru_mixed_2008].
 
 "Darkness without streetlights increases the probability of fatal injury by 110.9% in accidents compared to accidents occurring in daylight or darkness with streetlights" [@kim_bicyclist_2007].
 
