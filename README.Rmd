@@ -14,7 +14,7 @@ always_allow_html: true
 
 <Background>Evidence shows that darkness discourages people from cycling.
 This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups.
-<Aim>This paper provides a review on the scientific literature that intersects between cycling and road lighting to better understand the relationship between both terms.
+<Aim>This paper provides a review of the scientific literature that intersects cycling and road lighting to better understand the relationship between both terms.
 <Method>We used a hybrid systematic and snowballing method.
 52 studies on several disciplines such as engineering, transport, road safety, and public health were reviewed.
 <Results>The literature suggests that...
@@ -159,7 +159,7 @@ ggplot(df, aes(x = year, y = number, fill = type)) +
 Previous research has found a positive association between street lighting and active travel and physical activity (references needed). 
 Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
 
-A recent review on differences and similarities in cycling between sub-Saharan African cities (SSA) and developed world cities (DWC) found that studies in both SSA cities and DWC are unanimous that street lighting has an important influence on cycling [@mendiate_cycling_2022]. "@ribbens_impact_2008 indicate that cyclists avoid poorly lit streets in the townships of South Africa. @buyana_gender_2014 indicate that "cyclists in the suburbs of Kampala are likely to forego a trip if the access road is not well-lit. Similarly, @winters_built_2010 in their study in Vancouver (Canada) cite that not well-lit bicycle lanes are strongly linked to the reduction of cycling rates. In addition, @chandra_street_2015 indicate that people avoid cycling in areas with cycle paths that do not have street lights at night" [@mendiate_cycling_2022].
+A recent review on differences and similarities in cycling between sub-Saharan African cities (SSA) and developed world cities (DWC) found that studies in both SSA cities and DWC are unanimous that street lighting has an important influence on cycling [@mendiate_cycling_2022]. "@ribbens_impact_2008 indicate that cyclists avoid poorly lit streets in the townships of South Africa. @buyana_gender_2014 indicate that cyclists in the suburbs of Kampala are likely to forego a trip if the access road is not well-lit. Similarly, @winters_built_2010 in their study in Vancouver (Canada) cite that not well-lit bicycle lanes are strongly linked to the reduction of cycling rates. In addition, @chandra_street_2015 indicate that people avoid cycling in areas with cycle paths that do not have street lights at night" [@mendiate_cycling_2022].
 "lack of street lighting can contribute to poor visibility, perception and fear of crime thus decreasing bicycle use. This is particularly relevant in SSA due to the generalized lack of security and safety." [@mendiate_cycling_2022].
 
 In a review on research on built environment and physical activity among children and youth, prince_examining_2022 found street lighting positively associated with total physical activity among youth and children/youth, but not among children.
@@ -298,7 +298,7 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 <Gender>
 
-@fotios_extending_2022 found that darkness has a greater deterrent effect on female cyclists than male cyclists. 
+@fotios_extending_2022 found that darkness has a greater deterrent effect on female cyclists than on male cyclists. 
 
 "Recent research [@sustrans_bikelife_2018] found that only 23% of women felt safe cycling during hours of darkness, compared with 36% of men, which suggests that Lighting may also contribute to addressing the current gender imbalance in cycling by encouraging more women to cycle after-dark" [@uttley_road_2020].
 
@@ -325,10 +325,10 @@ kbl(df,
 ## Proper lighting for cyclists
 
 A substantial number of papers found in our search focused on what type of road lighting is best suited for cyclists.
-That is, in investigating which lighting attributes, such as illuminance, light temperature, uniformity and glare, are the most appropriate to guarantee the safety of cyclists.
+That is, in investigating which lighting attributes, such as illuminance, light temperature, uniformity, and glare, are the most appropriate to guarantee the safety of cyclists.
 
 Some of these papers were on Smart Street Lighting. 
-In other words, in lighting systems that adapts to the movement of pedestrians, cyclists, and cars (e.g. @gagliardi_advanced_2020; @abdullah_energy_2019; @juntunen_smart_2018).
+In other words, in lighting systems that adapt to the movement of pedestrians, cyclists, and cars (e.g. @gagliardi_advanced_2020; @abdullah_energy_2019; @juntunen_smart_2018).
 
 "Light and glare from road lighting and headlights have significant impacts on vision and night driving and these effects are likely to change with evolving technologies" [@wood_nighttime_2020].
 
@@ -346,7 +346,7 @@ kbl(df,
 
 # Discussion
 
-The scientific literature on the intersections of cycling and lighting is spread across several disciplines such as such as engineering, transport, road safety, and public health.
+The scientific literature on the intersections of cycling and lighting is spread across several disciplines such as engineering, transport, road safety, and public health.
 
 Below, based on the results of the review, we answer the questions that guide this paper.
 

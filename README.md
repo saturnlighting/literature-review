@@ -7,10 +7,10 @@ Cycling and Road Lighting: A Review
 cycling. This is due to a higher perceived danger of cyclists at night
 from motorised traffic and personal security, which disproportionately
 affect women, the elderly, and disadvantaged groups. <Aim>This paper
-provides a review on the scientific literature that intersects between
-cycling and road lighting to better understand the relationship between
-both terms. <Method>We used a hybrid systematic and snowballing method.
-52 studies on several disciplines such as engineering, transport, road
+provides a review of the scientific literature that intersects cycling
+and road lighting to better understand the relationship between both
+terms. <Method>We used a hybrid systematic and snowballing method. 52
+studies on several disciplines such as engineering, transport, road
 safety, and public health were reviewed. <Results>The literature
 suggests that… Gaps in the literature are… <Conclusion>
 
@@ -165,17 +165,17 @@ sub-Saharan African cities (SSA) and developed world cities (DWC) found
 that studies in both SSA cities and DWC are unanimous that street
 lighting has an important influence on cycling (Mendiate et al. 2022).
 “Ribbens (2008) indicate that cyclists avoid poorly lit streets in the
-townships of South Africa. Buyana and Shuaib (2014) indicate
-that”cyclists in the suburbs of Kampala are likely to forego a trip if
-the access road is not well-lit. Similarly, Winters et al. (2010) in
-their study in Vancouver (Canada) cite that not well-lit bicycle lanes
-are strongly linked to the reduction of cycling rates. In addition,
-Chandra and Radhakrishnan (2015) indicate that people avoid cycling in
-areas with cycle paths that do not have street lights at night”
-(Mendiate et al. 2022). “lack of street lighting can contribute to poor
-visibility, perception and fear of crime thus decreasing bicycle use.
-This is particularly relevant in SSA due to the generalized lack of
-security and safety.” (Mendiate et al. 2022).
+townships of South Africa. Buyana and Shuaib (2014) indicate that
+cyclists in the suburbs of Kampala are likely to forego a trip if the
+access road is not well-lit. Similarly, Winters et al. (2010) in their
+study in Vancouver (Canada) cite that not well-lit bicycle lanes are
+strongly linked to the reduction of cycling rates. In addition, Chandra
+and Radhakrishnan (2015) indicate that people avoid cycling in areas
+with cycle paths that do not have street lights at night” (Mendiate et
+al. 2022). “lack of street lighting can contribute to poor visibility,
+perception and fear of crime thus decreasing bicycle use. This is
+particularly relevant in SSA due to the generalized lack of security and
+safety.” (Mendiate et al. 2022).
 
 In a review on research on built environment and physical activity among
 children and youth, prince_examining_2022 found street lighting
@@ -404,7 +404,7 @@ affect groups differently.
 <Gender>
 
 S. Fotios, Uttley, and Gorjimahlabani (2022) found that darkness has a
-greater deterrent effect on female cyclists than male cyclists.
+greater deterrent effect on female cyclists than on male cyclists.
 
 “Recent research (Sustrans 2018) found that only 23% of women felt safe
 cycling during hours of darkness, compared with 36% of men, which
@@ -429,11 +429,11 @@ wealthier neighborhoods” (Schneider, Wiers, and Schmitz 2022).
 A substantial number of papers found in our search focused on what type
 of road lighting is best suited for cyclists. That is, in investigating
 which lighting attributes, such as illuminance, light temperature,
-uniformity and glare, are the most appropriate to guarantee the safety
+uniformity, and glare, are the most appropriate to guarantee the safety
 of cyclists.
 
 Some of these papers were on Smart Street Lighting. In other words, in
-lighting systems that adapts to the movement of pedestrians, cyclists,
+lighting systems that adapt to the movement of pedestrians, cyclists,
 and cars (e.g. Gagliardi et al. (2020); Abdullah et al. (2019); Juntunen
 et al. (2018)).
 
@@ -449,8 +449,8 @@ the statutory requirements for Uo and UI” (Jägerbrand 2016).
 # Discussion
 
 The scientific literature on the intersections of cycling and lighting
-is spread across several disciplines such as such as engineering,
-transport, road safety, and public health.
+is spread across several disciplines such as engineering, transport,
+road safety, and public health.
 
 Below, based on the results of the review, we answer the questions that
 guide this paper.
