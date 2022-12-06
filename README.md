@@ -37,7 +37,7 @@ influence on people’s fear when cycling.
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in walking and cycling. However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability. There is much evidence suggesting darkness puts people off from cycling, and increases the risk of being involved in a collision whilst cycling. Appropriate road or path lighting can increase feelings of reassurance, make hazards more visible, and make the cyclist more visible to other road users. However, there is to date little evidence on the lighting interventions that work best, in combination with other measures. Lighting after dark has costs, both in terms of energy use and harmful ecological effects due to excess light pollution, raising the question: what is the optimal use of lighting to enable safe cycling uptake, at all times and in all seasons? -->
 
 Previous academic literature reviews have touched on elements of the
-relationship between cycling and lighting. For example, S. Fotios and
+relationship between cycling and lighting. For example, Fotios and
 Castleton (2017) reviewed suggested interventions to enable cycling
 lighting to contribute to the safety of cyclists in the UK. Reynolds et
 al. (2009) reviewed the impact of transport infrastructure, including
@@ -190,9 +190,9 @@ et al. (2022) found street lighting positively associated with running,
 but not with cycling.
 
 Using odd ratios to compare traffic flows in case and control hours,
-Steve Fotios and Robbins (2022) found that darkness had a significant
-negative effect on the number of pedestrians and cyclists, but not on
-the number of motorized vehicles.
+Fotios and Robbins (2022) found that darkness had a significant negative
+effect on the number of pedestrians and cyclists, but not on the number
+of motorized vehicles.
 
 Using satellite and street view imagery and linear regressions,
 Zacharias and Meng (2021) found street lighting highly significantly
@@ -217,7 +217,7 @@ with building lower than 6 floors, 50% retail shops in frontage, more
 greenery, lamps between 15 m and 30 m, more crossing facilities, wider
 sidewalk/bike lane and not crowded” (Liu et al. 2020).
 
-S. Fotios, Uttley, and Fox (2019) found that “ambient light has a
+Fotios, Uttley, and Fox (2019) found that “ambient light has a
 significant impact: For a given time of day, more people walk or cycle
 when it is daylight than after dark and more people cycle on cycle
 trails and walk on foot paths after dark when they are lit than when
@@ -290,7 +290,7 @@ result in higher injury severity” (Asgarzadeh et al. 2018).
 
 “when cycling on a lit road, cycle lighting frequently offers no benefit
 for peripheral detection and may make it worse. It was demonstrated that
-position matters” (S. Fotios et al. 2017).
+position matters” (Fotios et al. 2017).
 
 “cyclist–motorist crashes were nonlinearly associated with light pole
 densities” (Osama and Sayed 2017).
@@ -403,7 +403,7 @@ affect groups differently.
 
 <Gender>
 
-S. Fotios, Uttley, and Gorjimahlabani (2022) found that darkness has a
+Fotios, Uttley, and Gorjimahlabani (2022) found that darkness has a
 greater deterrent effect on female cyclists than on male cyclists.
 
 “Recent research (Sustrans 2018) found that only 23% of women felt safe
@@ -621,15 +621,14 @@ Journal of the Transportation Research Board* 2320 (1): 55–63.
 
 <div id="ref-fotios_lighting_2017" class="csl-entry">
 
-Fotios, S, and Hf Castleton. 2017. “Lighting for Cycling in the UK—A
-Review.” *Lighting Research & Technology* 49 (3): 381–95.
-<https://doi.org/10.1177/1477153515609391>.
+Fotios, and HF Castleton. 2017. “Lighting for Cycling in the UK—A
+Review.” *Lighting Res. Technol.*, 15.
 
 </div>
 
 <div id="ref-fotios_pilot_2017" class="csl-entry">
 
-Fotios, S, H Qasem, C Cheal, and J Uttley. 2017. “A Pilot Study of Road
+Fotios, H Qasem, C Cheal, and J Uttley. 2017. “A Pilot Study of Road
 Lighting, Cycle Lighting and Obstacle Detection.” *Lighting Research &
 Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
 
@@ -637,8 +636,8 @@ Technology* 49 (5): 586–602. <https://doi.org/10.1177/1477153515625103>.
 
 <div id="ref-fotios_effect_2022" class="csl-entry">
 
-Fotios, Steve, and Chloe Jade Robbins. 2022. “Effect of Ambient Light on
-the Number of Motorized Vehicles, Cyclists, and Pedestrians.”
+Fotios, and Chloe Jade Robbins. 2022. “Effect of Ambient Light on the
+Number of Motorized Vehicles, Cyclists, and Pedestrians.”
 *Transportation Research Record* 2676 (2): 593–605.
 <https://doi.org/10.1177/03611981211044469>.
 
@@ -646,17 +645,16 @@ the Number of Motorized Vehicles, Cyclists, and Pedestrians.”
 
 <div id="ref-fotios_whole-year_2019" class="csl-entry">
 
-Fotios, S, J Uttley, and S Fox. 2019. “A Whole-Year Approach Showing
-That Ambient Light Level Influences Walking and Cycling.” *Lighting
-Research & Technology* 51 (1): 55–64.
-<https://doi.org/10.1177/1477153517738306>.
+Fotios, J Uttley, and S Fox. 2019. “A Whole-Year Approach Showing That
+Ambient Light Level Influences Walking and Cycling.” *Lighting Research
+& Technology* 51 (1): 55–64. <https://doi.org/10.1177/1477153517738306>.
 
 </div>
 
 <div id="ref-fotios_extending_2022" class="csl-entry">
 
-Fotios, S, J Uttley, and S Gorjimahlabani. 2022. “Extending Observations
-of Ambient Light Level and Active Travel to Explore Age and Gender
+Fotios, J Uttley, and S Gorjimahlabani. 2022. “Extending Observations of
+Ambient Light Level and Active Travel to Explore Age and Gender
 Differences in Reassurance.” *Lighting Research & Technology*, June,
 14771535221080657. <https://doi.org/10.1177/14771535221080657>.
 

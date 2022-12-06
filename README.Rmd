@@ -64,7 +64,7 @@ The review is guided by the following questions:
 
 <!-- - Is traffic stress or darkness a bigger barrier to cycling (and impact of lighting)? -->
 
-We focus on road and/or ambient lighting, excluding studies on lighting equipment for cyclists, such as reflective clothing or bicycle-mounted lights.
+We focus on road lighting, excluding studies on lighting equipment for cyclists, such as reflective clothing or bicycle-mounted lights.
 
 The review is organized as follows.
 Section 2 describes the method.
