@@ -68,9 +68,8 @@ The review is guided by the following questions:
 <!-- - What happens to people who do not cycle when it is dark? Do they change their routes? Do they change their mode of transport? -->
 <!-- - Is traffic stress or darkness a bigger barrier to cycling (and impact of lighting)? -->
 
-We focus on road and/or ambient lighting, excluding studies on lighting
-equipment for cyclists, such as reflective clothing or bicycle-mounted
-lights.
+We focus on road lighting, excluding studies on lighting equipment for
+cyclists, such as reflective clothing or bicycle-mounted lights.
 
 The review is organized as follows. Section 2 describes the method.
 Section 3 presents the findings of the papers reviewed. Section 4
