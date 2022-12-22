@@ -196,6 +196,8 @@ In a paper that estimated welfare change associated with improvements in urban b
 
 Respondents in a study that examined if neighbourhood environments were associated with walking and cycling, reported that good lighting at night is an important facilitator of cycling [@lee_neighbourhood_2008].
 
+"Nightfall was more of a deterrent to bicycling than walking" [@cervero_walking_2003]. 
+
 ```{r tab4, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 library(kableExtra)
 library(tidyverse)
@@ -303,6 +305,10 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 @fotios_extending_2022 found that darkness has a greater deterrent effect on female cyclists than on male cyclists. 
 
 "Recent research [@sustrans_bikelife_2018] found that only 23% of women felt safe cycling during hours of darkness, compared with 36% of men, which suggests that Lighting may also contribute to addressing the current gender imbalance in cycling by encouraging more women to cycle after-dark" [@uttley_road_2020].
+
+"Women are less likely to cycle to work in the dark, so women are more sensitive to the absence of daylight" [@heinen_day--day_2011].
+
+"Darkness was also more important to women than to men, but with a mean grading of 3.0 in the survey of 1998, and 2.7 in the survey of 2000, this factor could still not, not even for women, be considered to be important in the choice of mode" [@bergstrom_potential_2003].
 
 <!-- "Women are more sensitive to dark spaces when walking and cycling than men" [@xie_i_2018]. -->
 
