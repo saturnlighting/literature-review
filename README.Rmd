@@ -190,6 +190,8 @@ In a review of forty two quantitative studies that estimated association between
 
 In a paper that estimated welfare change associated with improvements in urban bicycling facilities, @poorfakhraei_estimating_2015 found that "cycle tracks were valued the most, followed by street lighting, and bicycle lanes".
 
+"The presence of street lighting increased the likelihood of daily cycling in < 75 years old females and rural females but not in other subgroups" [@van_cauwenberg_physical_2012].
+
 "@winters_motivators_2011 found that a major deterrent to cycling was if the route was not well lit after-dark. The deterrent effect was largest for people who don’t currently cycle but potentially would do in the future, highlighting the importance of lighting in encouraging uptake of cycling" [@uttley_road_2020]. 
 
 Respondents in a study that examined if neighbourhood environments were associated with walking and cycling, reported that good lighting at night is an important facilitator of cycling [@lee_neighbourhood_2008].
