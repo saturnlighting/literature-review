@@ -1,0 +1,19 @@
+---
+title: "Cycling and Road Lighting"
+output: word_document
+bibliography: saturn.bib
+always_allow_html: true
+---
+
+# Summary
+
+Evidence shows that darkness discourages people from cycling [@mendiate_cycling_2022; @ribbens_impact_2008; @winters_built_2010; @uttley_road_2020].
+This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women [@sustrans_bikelife_2018].
+
+Road lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
+
+Using night lighting data, Strava Metro data, and other environmental datasets, we intend to examine in-depth the relationship between road lighting and cycling.
+
+Our findings are intended to influence future lighting design and cycling infrastructure standards to make cycling safer and more equitable. 
+
+# References
