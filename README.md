@@ -3,20 +3,23 @@ Road Lighting and Cycling Uptake: A review
 
 **Abstract**
 
-<Background>Safe cycling infrastructure have received the bulk of
-research and policy attention in relation to investment in cycling.
-However, localised treatments such as appropriate lighting can have a
-major impact on cyclability. There is evidence suggesting that darkness
-discourages people from cycling. This is due to a higher perceived
-danger of cyclists at night from motorised traffic and personal
-security, which disproportionately affect women, the elderly, and
-disadvantaged groups. <Aim>This paper provides a review of the
-scientific literature that intersects cycling and road lighting to
-better understand the relationship between both terms. <Method>We used a
-hybrid systematic and snowballing method. TBC studies on several
-disciplines such as engineering, transport, road safety, and public
-health were reviewed. <Results>The literature suggests that… Gaps in the
-literature are… <Conclusion>
+<Background>Linear cycling infrastructure at ground level, such as cycle
+lanes, have received the bulk of research and policy attention in
+relation to investment in cycling. Much less attention has been given to
+localised treatments such as appropriate lighting or cycle parking which
+can have a major impact on cyclability. There is evidence suggesting
+that darkness discourages people from cycling. This is due to a higher
+perceived danger of cyclists at night from motorised traffic and
+personal security, which disproportionately affect women, the elderly,
+and disadvantaged groups. Appropriate road lighting can increase
+feelings of reassurance, make hazards more visible, and make the cyclist
+more visible to other road users, which can increase cycling uptake and
+make it safer and more equitable. <Aim>This paper provides a review of
+the scientific literature that investigates how road lighting affects
+cycling uptake. <Method>We used a hybrid systematic and snowballing
+method. TBC studies on several disciplines such as engineering,
+transport, road safety, and public health were reviewed. <Results>The
+literature suggests that… Gaps in the literature are… <Conclusion>
 
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling.  -->
 <!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability.  -->
@@ -34,7 +37,7 @@ Cycling; road lighting; road safety; personal security; inequalities
 Benefits of cycling are well established in the literature. Cycling
 improves physical, mental, and social health; reduces pollution, carbon
 emissions, and congestion; and it is more inclusive than private
-motorised modes, reducing inequalities (references needed). For this
+motorised modes, reducing inequalities (Oja et al. 2011). For this
 reason, cycling is encouraged. Yet, most people keep choosing to drive
 to cycle.
 
@@ -42,8 +45,14 @@ Many studies have explored the extent to which the built environment
 (e.g. population density, land use mix, proximity, spatial connectivity)
 and especially safe cycling infrastructure affects cycling uptake.
 However, less investigated have been micro-built environmental factors
-such as road lighting, which may have a strong influence on people’s
-fear (to be run over or assaulted in the dark) when cycling.
+such as road lighting, which may have a strong influence on people
+choice to cycle.
+
+There is evidence suggesting that darkness discourages people from
+cycling (e.g…). This is due to a higher perceived danger of cyclists at
+night from motorised traffic and personal security, which
+disproportionately affect women, the elderly, and disadvantaged groups
+(reference needed).
 
 Previous academic literature reviews have touched on elements of the
 relationship between cycling and lighting. For example, Fotios and
@@ -103,9 +112,9 @@ chart of included studies is shown in Figure 1.
 
 ## Data extraction
 
-From the included studies, we extracted information regarding: location
-of study, methodology, cycling uptake and lighting measurements, mode,
-sign of association, and authors and year.
+From the included studies, we extracted information regarding: author(s)
+and year, method, measurements, trip purpose, sign of association,
+location of study, sample size.
 
 # Results
 
@@ -134,7 +143,10 @@ year](README_files/figure-gfm/fig2-1.png)
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
 Previous research has found a positive association between street
-lighting and active travel and physical activity (references needed).
+lighting and active travel and physical activity (Bonaccorsi et al.
+2020).
+<!-- Add perhaps other reviews. I should not include reviews on our papers reviewed! -->
+
 Street lighting increases cyclists’ sense of safety at night by helping
 them see and be seen by other road users during their journey. It also
 provides them with a greater sense of security against possible threats
@@ -268,6 +280,11 @@ injury” (Appleyard and Ferrell 2017).
 “High-crime neighborhoods tend to discourage residents from walking or
 riding a bicycle” (Ferrell and Mathur 2012).
 
+Cervero and Kockelman (1997) “suggested that the presence of road
+lighting and the distance between lamps were significant aspects of
+neighbourhood design that contributed to encouraging non-automobile
+travel”.
+
 ## Cycling inequalities in lighting
 
 Fear of danger of injury from traffic, falls, or violence seems to
@@ -313,14 +330,11 @@ Table 1: Overview of papers on cycling and lighting
 <th style="text-align:left;">
 authors
 </th>
-<th style="text-align:right;">
-year
+<th style="text-align:left;">
+method
 </th>
 <th style="text-align:left;">
-title
-</th>
-<th style="text-align:left;">
-type
+location
 </th>
 </tr>
 </thead>
@@ -329,404 +343,281 @@ type
 <td style="text-align:left;">
 Mendiate et al. (2022)
 </td>
-<td style="text-align:right;">
-2022
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Cycling in sub-Saharan African cities: Differences and similarities with
-developed world cities
-</td>
-<td style="text-align:left;">
-review
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Prince et al. (2022)
 </td>
-<td style="text-align:right;">
-2022
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Examining the state, quality and strength of the evidence in the
-research on built environments and physical activity among children and
-youth: An overview of reviews from high income countries
-</td>
-<td style="text-align:left;">
-review
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Luo et al. (2022)
 </td>
-<td style="text-align:right;">
-2022
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Road Safety Evaluation Framework for Accessing Park Green Space Using
-Active Travel
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Linchuan Yang et al. (2022)
 </td>
-<td style="text-align:right;">
-2022
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Crowdsourced Data for Physical Activity-Built Environment Research:
-Applying Strava Data in Chengdu, China
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Fotios and Robbins (2022)
 </td>
-<td style="text-align:right;">
-2022
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Effect of Ambient Light on the Number of Motorized Vehicles, Cyclists,
-and Pedestrians
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Zacharias and Meng (2021)
 </td>
-<td style="text-align:right;">
-2021
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Environmental correlates of dock-less shared bicycle trip origins and
-destinations
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Bonaccorsi et al. (2020)
 </td>
-<td style="text-align:right;">
-2020
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Impact of the built environment and the neighborhood in promoting the
-physical activity and the healthy aging in older people: An umbrella
-review
-</td>
-<td style="text-align:left;">
-review
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Uttley, Fotios, and Lovelace (2020)
 </td>
-<td style="text-align:right;">
-2020
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Road lighting density and brightness linked with increased cycling rates
-after-dark
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Liu et al. (2020)
 </td>
-<td style="text-align:right;">
-2020
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Analysis of the impact of street-scale built environment design near
-metro stations on pedestrian and cyclist road segment choice: A stated
-choice experiment
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Fotios, Uttley, and Fox (2019)
 </td>
-<td style="text-align:right;">
-2019
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-A whole-year approach showing that ambient light level influences
-walking and cycling
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Chen, Shen, and Childress (2018)
 </td>
-<td style="text-align:right;">
-2018
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-A GPS data-based analysis of built environment influences on bicyclist
-route preferences
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Uttley and Fotios (2017)
 </td>
-<td style="text-align:right;">
-2017
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Using the daylight savings clock change to show ambient light conditions
-significantly influence active travel
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Lin Yang et al. (2017)
 </td>
-<td style="text-align:right;">
-2017
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Longitudinal associations between built environment characteristics and
-changes in active commuting
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Cerin et al. (2017)
 </td>
-<td style="text-align:right;">
-2017
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-The neighbourhood physical environment and active travel in older
-adults: A systematic review and meta-analysis
-</td>
-<td style="text-align:left;">
-review
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Poorfakhraei and Rowangould (2015)
 </td>
-<td style="text-align:right;">
-2015
+<td style="text-align:left;">
+qualitative
 </td>
 <td style="text-align:left;">
-Estimating welfare change associated with improvements in urban
-bicycling facilities
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Lee and Moudon (2008)
 </td>
-<td style="text-align:right;">
-2008
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Neighbourhood design and physical activity
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Ribbens (2008)
 </td>
-<td style="text-align:right;">
-2008
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Impact of an Adequate Road Environment on the Safety of Non-motorised
-Road Users
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Segadilha and Sanches (2014)
 </td>
-<td style="text-align:right;">
-2014
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Identification of factors that influence cyclistś route choice
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Winters and Teschke (2010)
 </td>
-<td style="text-align:right;">
-2010
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Route preferences among adults in the near market for bicycling:
-findings of the cycling in cities study
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Winters et al. (2010)
 </td>
-<td style="text-align:right;">
-2010
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Built environment influences on healthy transportation choices:
-bicycling versus driving
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Buyana and Shuaib (2014)
 </td>
-<td style="text-align:right;">
-2014
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Gender responsiveness in infrastructure provision for African cities:
-the case of Kampala in Uganda
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Chandra and Radhakrishnan (2015)
 </td>
-<td style="text-align:right;">
-2015
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Street visibility-dependent path finding for pedestrians and bicyclists
-in urban areas
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Winters et al. (2011)
 </td>
-<td style="text-align:right;">
-2011
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Motivators and deterrents ofbicycling: comparinginfluences on decisions
-toride
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Van Cauwenberg et al. (2012)
 </td>
-<td style="text-align:right;">
-2012
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Physical environmental factors related to walking and cycling in older
-adults: the Belgian aging studies
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 (**heinen_day?**)–day_2011
 </td>
-<td style="text-align:right;">
-2011
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Day-to-Day Choice to Commute or Not by Bicycle
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Bergström and Magnusson (2003)
 </td>
-<td style="text-align:right;">
-2003
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Potential of transferring car trips to bicycle during winter
-</td>
-<td style="text-align:left;">
-empirical
+NA
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 Cervero and Duncan (2003)
 </td>
-<td style="text-align:right;">
-2003
+<td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Influence of Individual Perceptions and Bicycle Infrastructure on
-Decision to Bike
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Cervero and Kockelman (1997)
 </td>
 <td style="text-align:left;">
-empirical
+</td>
+<td style="text-align:left;">
+NA
 </td>
 </tr>
 </tbody>
@@ -866,6 +757,15 @@ Journal of Public Health* 93 (9): 1478–83.
 
 </div>
 
+<div id="ref-cervero_travel_1997" class="csl-entry">
+
+Cervero, Robert, and Kara Kockelman. 1997. “Travel Demand and the 3Ds:
+Density, Diversity, and Design.” *Transportation Research Part D:
+Transport and Environment* 2 (3): 199–219.
+<https://doi.org/10.1016/S1361-9209(97)00009-6>.
+
+</div>
+
 <div id="ref-chandra_street_2015" class="csl-entry">
 
 Chandra, Shailesh, and Ramalingam Radhakrishnan. 2015. “Street
@@ -969,6 +869,16 @@ Mendiate, Classio Joao, Alphonse Nkurunziza, Julio A. Soria-Lara, and
 Andres Monzon. 2022. “Cycling in Sub-Saharan African Cities: Differences
 and Similarities with Developed World Cities.” *IATSS Research* 46 (3):
 398–410. <https://doi.org/10.1016/j.iatssr.2022.05.003>.
+
+</div>
+
+<div id="ref-oja_health_2011" class="csl-entry">
+
+Oja, P., S. Titze, A. Bauman, B. de Geus, P. Krenn, B. Reger-Nash, and
+T. Kohlberger. 2011. “Health Benefits of Cycling: A Systematic Review:
+Cycling and Health.” *Scandinavian Journal of Medicine & Science in
+Sports* 21 (4): 496–509.
+<https://doi.org/10.1111/j.1600-0838.2011.01299.x>.
 
 </div>
 

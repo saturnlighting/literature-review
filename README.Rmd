@@ -12,7 +12,7 @@ always_allow_html: true
 
 **Abstract**
 
-<Background>Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling. Much less attention has been given to localised treatments such as appropriate lighting.
+<Background>Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling. Much less attention has been given to localised treatments such as appropriate lighting or cycle parking which can have a major impact on cyclability.
 There is evidence suggesting that darkness discourages people from cycling. 
 This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups. 
 Appropriate road lighting can increase feelings of reassurance, make hazards more visible, and make the cyclist more visible to other road users, which can increase cycling uptake and make it safer and more equitable.
@@ -37,11 +37,14 @@ Cycling; road lighting; road safety; personal security; inequalities
 # Introduction
 
 Benefits of cycling are well established in the literature.
-Cycling improves physical, mental, and social health; reduces pollution, carbon emissions, and congestion; and it is more inclusive than private motorised modes, reducing inequalities (references needed). 
+Cycling improves physical, mental, and social health; reduces pollution, carbon emissions, and congestion; and it is more inclusive than private motorised modes, reducing inequalities [@oja_health_2011]. 
 For this reason, cycling is encouraged. Yet, most people keep choosing to drive to cycle.
 
 Many studies have explored the extent to which the built environment (e.g. population density, land use mix, proximity, spatial connectivity) and especially safe cycling infrastructure affects cycling uptake.
-However, less investigated have been micro-built environmental factors such as road lighting, which may have a strong influence on people's fear (in terms of road and personal safety) when cycling.
+However, less investigated have been micro-built environmental factors such as road lighting, which may have a strong influence on people choice to cycle. 
+
+There is evidence suggesting that darkness discourages people from cycling (e.g...). 
+This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups (reference needed). 
 
 Previous academic literature reviews have touched on elements of the relationship between cycling and lighting.
 For example, @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK. 
@@ -92,7 +95,7 @@ knitr::include_graphics("flow-chart.png")
 
 ## Data extraction
 
-From the included studies, we extracted information regarding: location of study, methodology, cycling uptake and lighting measurements, mode, sign of association, and authors and year.
+From the included studies, we extracted information regarding: author(s) and year, method, measurements, trip purpose, sign of association, location of study, sample size.
 
 # Results
 
@@ -138,7 +141,9 @@ ggplot(df, aes(x = year, y = number, fill = type)) +
 
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
-Previous research has found a positive association between street lighting and active travel and physical activity (references needed). 
+Previous research has found a positive association between street lighting and active travel and physical activity [@bonaccorsi_impact_2020]. 
+<!-- Add perhaps other reviews. I should not include reviews on our papers reviewed! -->
+
 Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
 
 A recent review on differences and similarities in cycling between sub-Saharan African cities (SSA) and developed world cities (DWC) found that studies in both SSA cities and DWC are unanimous that street lighting has an important influence on cycling [@mendiate_cycling_2022]. "@ribbens_impact_2008 indicate that cyclists avoid poorly lit streets in the townships of South Africa. @buyana_gender_2014 indicate that cyclists in the suburbs of Kampala are likely to forego a trip if the access road is not well-lit. Similarly, @winters_built_2010 in their study in Vancouver (Canada) cite that not well-lit bicycle lanes are strongly linked to the reduction of cycling rates. In addition, @chandra_street_2015 indicate that people avoid cycling in areas with cycle paths that do not have street lights at night" [@mendiate_cycling_2022].
@@ -194,6 +199,9 @@ There is evidence that street lighting decreases crime and enhances reassurance 
 
 "High-crime neighborhoods tend to discourage residents from walking or riding a bicycle" [@ferrell_influences_2012].
 
+@cervero_travel_1997 "suggested that the presence of road lighting and the distance between lamps were significant aspects of neighbourhood design that contributed to encouraging non-automobile travel".
+
+
 ## Cycling inequalities in lighting
 
 Fear of danger of injury from traffic, falls, or violence seems to affect groups differently.
@@ -218,7 +226,6 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 "Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise. 
 Respondents living in lower-income communities reported greater barriers to pedestrian and bicycle safety and security than residents from wealthier neighborhoods" [@schneider_perceived_2022].
 
-
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
 library(tidyverse)
@@ -227,7 +234,7 @@ papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
   filter(behaviour == 1) %>% 
-  select(authors, year, title, type)
+  select(authors, method, location)
 
 kbl(df,
     caption = "Table 1: Overview of papers on cycling and lighting") %>%
