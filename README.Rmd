@@ -10,6 +10,8 @@ bibliography: saturn-literature-review.bib
 always_allow_html: true
 ---
 
+<!-- Shouldn't be darkness instead of road lighting? -->
+
 **Abstract**
 
 <Background>Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling. Much less attention has been given to localised treatments such as appropriate lighting or cycle parking which can have a major impact on cyclability.
@@ -245,10 +247,10 @@ papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
   filter(behaviour == 1) %>% 
-  select(authors, method, location, sample, association)
+  select(authors, location, cycling, lighting, method, sample, association)
 
 kbl(df,
-    caption = "Table 1: Overview of papers that have examined associations between road lighting and cycling") %>%
+    caption = "Table 1: Overview of papers that have examined the association between lighting and cycling") %>%
     kable_styling()
 ```
 
@@ -285,7 +287,7 @@ Lighting conditions improvements not only may increase cycling trips in general,
 
 ## Strenghts and limitations
 
-
+- We do not know whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022].
 
 # Conclusions
 
