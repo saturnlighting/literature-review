@@ -44,7 +44,7 @@ Many studies have explored the extent to which the built environment (e.g. popul
 However, less investigated have been micro-built environmental factors such as road lighting, which may have a strong influence on people choice to cycle. 
 
 There is evidence suggesting that darkness discourages people from cycling (e.g...). 
-This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups (reference needed). 
+This is due to a higher perceived danger of cyclists at night from motorised traffic and crime and personal security, which disproportionately affect women, the elderly, and disadvantaged groups [@schneider_perceived_2022]. 
 
 Previous academic literature reviews have touched on elements of the relationship between cycling and lighting.
 For example, @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK. 
@@ -75,7 +75,7 @@ Section 5 closes the work with the conclusions.
 <!-- For completeness, separate smaller searches and snowballing were applied for the theoretical review as well as when the researchers were aware that a body of literature existed, but our systematic search had not picked up on it.  -->
 
 We used a hybrid systematic and snowballing method.
-First, we searched in the SCOPUS electronic databased (on 15 November 2022) for studies investigating the relationship between cycling and road lighting.
+First, we searched in the SCOPUS electronic databased (on 15 November 2022) for empirical studies investigating the relationship between cycling and road lighting.
 The query string used for the search was as follows:
 
 *(bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*")* 
@@ -92,6 +92,14 @@ A flow chart of included studies is shown in Figure 1.
 ```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '50%'}
 knitr::include_graphics("flow-chart.png")
 ```
+
+<!-- We removed the reviews such as: -->
+
+<!-- - Cycling in sub-Saharan African cities: Differences and similarities with developed world cities -->
+
+<!-- Paper we did not have access: -->
+
+<!-- - S. Chandra, R. Radhakrishnan, Street visibility-dependent path finding for pedestrians and bicyclists in urban areas, Transportation Research Board 94th Annual Meeting, Transportation Research Board, Washington DC, United States, 2015. -->
 
 ## Data extraction
 
@@ -117,7 +125,7 @@ From the included studies, we extracted information regarding: author(s) and yea
 
 <Study type>Most of the studies were written in the last decade, TBC were empirical and TBC were reviews (Figure 1).
 
-```{r fig2, fig.cap="Figure 2: number of papers reviewed by type and year", echo=FALSE, message=FALSE, warning=FALSE}
+```{r fig2, eval=FALSE, fig.cap="Figure 2: number of papers reviewed by type and year", message=FALSE, warning=FALSE, include=FALSE}
 library(kableExtra)
 library(tidyverse)
 
@@ -141,7 +149,8 @@ ggplot(df, aes(x = year, y = number, fill = type)) +
 
 <!-- I could also divide the section on quantitative studies and objective and subjective. -->
 
-Previous research has found a positive association between street lighting and active travel and physical activity [@bonaccorsi_impact_2020]. 
+Previous research has found a positive association between street lighting and physical activity (PA) and active travel (AT). In children [@prince_examining_2022] and older people [@bonaccorsi_impact_2020].
+
 <!-- Add perhaps other reviews. I should not include reviews on our papers reviewed! -->
 
 Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
@@ -201,6 +210,8 @@ There is evidence that street lighting decreases crime and enhances reassurance 
 
 @cervero_travel_1997 "suggested that the presence of road lighting and the distance between lamps were significant aspects of neighbourhood design that contributed to encouraging non-automobile travel".
 
+"Children whose routes had a high density of streetlights were less likely to cycle to school" [@panter_neighborhood_2010].
+
 
 ## Cycling inequalities in lighting
 
@@ -234,10 +245,10 @@ papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
   filter(behaviour == 1) %>% 
-  select(authors, method, location)
+  select(authors, method, location, sample, association)
 
 kbl(df,
-    caption = "Table 1: Overview of papers on cycling and lighting") %>%
+    caption = "Table 1: Overview of papers that have examined associations between road lighting and cycling") %>%
     kable_styling()
 ```
 
@@ -248,6 +259,8 @@ The scientific literature on the intersections of cycling and lighting is spread
 Below, based on the results of the review, we answer the questions that guide this paper.
 
 In some cities the influence of road lighting will have a bigger impact than in others. For example in Madrid, Valencia and Seville there are around 2,900 hours of annual sunshine. Barcelona: 2,400. Compared to 1632 hours of sunlight per year in Oslo.
+
+Street lighting provision. Big differences countries. Sprawl/dense urban areas. 69.9% agree that streets are well lit Latin America [@castillo-paredes_perceived_2022]. Spain vs the UK.
 
 #### To what extent does darkness influence cycling uptake?
 
@@ -266,9 +279,13 @@ Lighting conditions improvements not only may increase cycling trips in general,
 
 ## Research gaps
 
+- Many studies fail to separate walking and cycling. The characteristics of environments encouraging walking may be different from those supporting cycling.
+
 <!-- -   Lack of research in developing countries -->
 
 ## Strenghts and limitations
+
+
 
 # Conclusions
 
