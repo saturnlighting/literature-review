@@ -18,12 +18,14 @@ always_allow_html: true
 There is evidence suggesting that darkness discourages people from cycling. 
 This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups. 
 Appropriate road lighting can increase feelings of reassurance, make hazards more visible, and make the cyclist more visible to other road users, which can increase cycling uptake and make it safer and more equitable.
-<Aim>This paper provides a review of the scientific literature that investigates how road lighting affects cycling uptake.
+<Aim>This paper provides a review of the scientific literature that investigates how road lighting/darkness affects cycling uptake.
 <Method>We used a hybrid systematic and snowballing method.
 TBC studies on several disciplines such as engineering, transport, road safety, and public health were reviewed.
 <Results>The literature suggests that...
 Gaps in the literature are...
 <Conclusion>
+
+<!-- To what extent darkness or lack of road lighting deter people from cycling? -->
 
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling.  -->
 <!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability.  -->
@@ -47,6 +49,8 @@ However, less investigated have been micro-built environmental factors such as r
 
 There is evidence suggesting that darkness discourages people from cycling (e.g...). 
 This is due to a higher perceived danger of cyclists at night from motorised traffic and crime and personal security, which disproportionately affect women, the elderly, and disadvantaged groups [@schneider_perceived_2022]. 
+
+<!-- Mention the rest of literature review fond in the search? -->
 
 Previous academic literature reviews have touched on elements of the relationship between cycling and lighting.
 For example, @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK. 
@@ -246,8 +250,8 @@ library(tidyverse)
 papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
-  filter(behaviour == 1) %>% 
-  select(authors, location, cycling, lighting, method, sample, association)
+  filter(full_text == 1) %>% 
+  select(authors, location, cycling, lighting, method, association)
 
 kbl(df,
     caption = "Table 1: Overview of papers that have examined the association between lighting and cycling") %>%
@@ -282,6 +286,8 @@ Lighting conditions improvements not only may increase cycling trips in general,
 ## Research gaps
 
 - Many studies fail to separate walking and cycling. The characteristics of environments encouraging walking may be different from those supporting cycling.
+
+- Differences in different latitudes.
 
 <!-- -   Lack of research in developing countries -->
 

@@ -17,12 +17,14 @@ and disadvantaged groups. Appropriate road lighting can increase
 feelings of reassurance, make hazards more visible, and make the cyclist
 more visible to other road users, which can increase cycling uptake and
 make it safer and more equitable. <Aim>This paper provides a review of
-the scientific literature that investigates how road lighting affects
-cycling uptake. <Method>We used a hybrid systematic and snowballing
-method. TBC studies on several disciplines such as engineering,
-transport, road safety, and public health were reviewed. <Results>The
-literature suggests that… Gaps in the literature are… <Conclusion>
+the scientific literature that investigates how road lighting/darkness
+affects cycling uptake. <Method>We used a hybrid systematic and
+snowballing method. TBC studies on several disciplines such as
+engineering, transport, road safety, and public health were reviewed.
+<Results>The literature suggests that… Gaps in the literature are…
+<Conclusion>
 
+<!-- To what extent darkness or lack of road lighting deter people from cycling? -->
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling.  -->
 <!-- However, localised treatments such as appropriate lighting and cycle parking can have a major impact on cyclability.  -->
 <!-- There is evidence suggesting darkness discourages people from cycling, and increases the risk of being involved in a collision whilst cycling.  -->
@@ -55,6 +57,8 @@ cycling (e.g…). This is due to a higher perceived danger of cyclists at
 night from motorised traffic and crime and personal security, which
 disproportionately affect women, the elderly, and disadvantaged groups
 (Schneider, Wiers, and Schmitz 2022).
+
+<!-- Mention the rest of literature review fond in the search? -->
 
 Previous academic literature reviews have touched on elements of the
 relationship between cycling and lighting. For example, Fotios and
@@ -352,9 +356,6 @@ lighting
 method
 </th>
 <th style="text-align:left;">
-sample
-</th>
-<th style="text-align:left;">
 association
 </th>
 </tr>
@@ -377,10 +378,7 @@ streets are well lit?
 Logistic and linear regression models
 </td>
 <td style="text-align:left;">
-8547
-</td>
-<td style="text-align:left;">
-ns
+not statistically significant
 </td>
 </tr>
 <tr>
@@ -400,27 +398,7 @@ poor lighting at night
 Logistic regression model
 </td>
 <td style="text-align:left;">
-564
-</td>
-<td style="text-align:left;">
-ns
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Luo et al. (2022)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
+not statistically significant
 </td>
 </tr>
 <tr>
@@ -440,10 +418,7 @@ lighting data
 Spatial regression models
 </td>
 <td style="text-align:left;">
-2788
-</td>
-<td style="text-align:left;">
-ns
+not statistically significant
 </td>
 </tr>
 <tr>
@@ -454,7 +429,7 @@ Fotios and Robbins (2022)
 Cambridge (UK)
 </td>
 <td style="text-align:left;">
-cyclists counts
+automated cycle counters
 </td>
 <td style="text-align:left;">
 ambient light
@@ -463,10 +438,28 @@ ambient light
 ORs
 </td>
 <td style="text-align:left;">
-66925
+positively associated
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Fotios, Uttley, and Gorjimahlabani (2022)
 </td>
 <td style="text-align:left;">
-pos.
+Sheffield (UK)
+</td>
+<td style="text-align:left;">
+in person counting
+</td>
+<td style="text-align:left;">
+daylight/dark
+</td>
+<td style="text-align:left;">
+ORs (comparing time savings)
+</td>
+<td style="text-align:left;">
+There are fewer people cycling after dark. The deterrent is greater for
+females than for males.
 </td>
 </tr>
 <tr>
@@ -474,34 +467,19 @@ pos.
 Zacharias and Meng (2021)
 </td>
 <td style="text-align:left;">
-test
+Beijing (CN)
 </td>
 <td style="text-align:left;">
+Dock-less shared bicycles uptake and deposit
 </td>
 <td style="text-align:left;">
+Lighting (0 = no; 1 = yes)
 </td>
 <td style="text-align:left;">
+Linear regression
 </td>
 <td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Bonaccorsi et al. (2020)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
+positively associated
 </td>
 </tr>
 <tr>
@@ -509,378 +487,24 @@ Bonaccorsi et al. (2020)
 Uttley, Fotios, and Lovelace (2020)
 </td>
 <td style="text-align:left;">
+Birmingham (UK)
 </td>
 <td style="text-align:left;">
+automated cycle counters
 </td>
 <td style="text-align:left;">
+lantern density and relative brightness
 </td>
 <td style="text-align:left;">
+ORs
 </td>
 <td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Liu et al. (2020)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
+A non linear relationship was found between relative brightness at a
+location at night and the reduction in cyclists after-dark
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Fotios, Uttley, and Fox (2019)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Chen, Shen, and Childress (2018)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Uttley and Fotios (2017)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Lin Yang et al. (2017)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cerin et al. (2017)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Poorfakhraei and Rowangould (2015)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Lee and Moudon (2008)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Ribbens (2008)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Segadilha and Sanches (2014)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Winters and Teschke (2010)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Winters et al. (2010)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Buyana and Shuaib (2014)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Chandra and Radhakrishnan (2015)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Winters et al. (2011)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Van Cauwenberg et al. (2012)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-(**heinen_day?**)–day_2011
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Bergström and Magnusson (2003)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cervero and Duncan (2003)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cervero and Kockelman (1997)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Panter et al. (2010)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-
-- </td>
-  </tr>
-  </tbody>
-  </table>
+</tbody>
+</table>
 
 # Discussion
 
@@ -925,6 +549,8 @@ women, children, the elderly, and disadvantaged populations.
 - Many studies fail to separate walking and cycling. The characteristics
   of environments encouraging walking may be different from those
   supporting cycling.
+
+- Differences in different latitudes.
 
 <!-- -   Lack of research in developing countries -->
 
@@ -1214,15 +840,6 @@ the Transportation Research Board* 2676 (9): 325–38.
 
 </div>
 
-<div id="ref-segadilha_identification_2014" class="csl-entry">
-
-Segadilha, Ana Beatriz Pereira, and Suely da Penha Sanches. 2014.
-“Identification of Factors That Influence Cyclistś Route Choice.”
-*Procedia - Social and Behavioral Sciences* 160 (December): 372–80.
-<https://doi.org/10.1016/j.sbspro.2014.12.149>.
-
-</div>
-
 <div id="ref-sustrans_bikelife_2018" class="csl-entry">
 
 Sustrans. 2018. “BIKElife, All Cities Publication. Inclusive City
@@ -1274,15 +891,6 @@ Winters, Meghan, Gavin Davidson, Diana Kao, and Kay Teschke. 2011.
 “Motivators and Deterrents of Bicycling: Comparing Influences on
 Decisions to Ride.” *Transportation* 38 (1): 153–68.
 <https://doi.org/10.1007/s11116-010-9284-y>.
-
-</div>
-
-<div id="ref-winters_route_2010" class="csl-entry">
-
-Winters, Meghan, and Kay Teschke. 2010. “Route Preferences Among Adults
-in the Near Market for Bicycling: Findings of the Cycling in Cities
-Study.” *American Journal of Health Promotion* 25 (1): 40–47.
-<https://doi.org/10.4278/ajhp.081006-QUAN-236>.
 
 </div>
 
