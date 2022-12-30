@@ -347,6 +347,9 @@ authors
 location
 </th>
 <th style="text-align:left;">
+type
+</th>
+<th style="text-align:left;">
 cycling
 </th>
 <th style="text-align:left;">
@@ -356,7 +359,7 @@ lighting
 method
 </th>
 <th style="text-align:left;">
-association
+result
 </th>
 </tr>
 </thead>
@@ -369,6 +372,9 @@ Castillo-Paredes et al. (2022)
 8 latin american countries
 </td>
 <td style="text-align:left;">
+subjective
+</td>
+<td style="text-align:left;">
 \>= 10 min/week
 </td>
 <td style="text-align:left;">
@@ -378,7 +384,7 @@ streets are well lit?
 Logistic and linear regression models
 </td>
 <td style="text-align:left;">
-not statistically significant
+not statistically significant.
 </td>
 </tr>
 <tr>
@@ -387,6 +393,9 @@ Schneider, Wiers, and Schmitz (2022)
 </td>
 <td style="text-align:left;">
 Milwaukee (US)
+</td>
+<td style="text-align:left;">
+subjective
 </td>
 <td style="text-align:left;">
 perceived barriers to cycle
@@ -398,7 +407,7 @@ poor lighting at night
 Logistic regression model
 </td>
 <td style="text-align:left;">
-not statistically significant
+not statistically significant.
 </td>
 </tr>
 <tr>
@@ -407,6 +416,9 @@ Linchuan Yang et al. (2022)
 </td>
 <td style="text-align:left;">
 Central Chengdu (CN)
+</td>
+<td style="text-align:left;">
+objective
 </td>
 <td style="text-align:left;">
 strava heatmap
@@ -418,7 +430,7 @@ lighting data
 Spatial regression models
 </td>
 <td style="text-align:left;">
-not statistically significant
+not statistically significant.
 </td>
 </tr>
 <tr>
@@ -427,6 +439,9 @@ Fotios and Robbins (2022)
 </td>
 <td style="text-align:left;">
 Cambridge (UK)
+</td>
+<td style="text-align:left;">
+objective
 </td>
 <td style="text-align:left;">
 automated cycle counters
@@ -438,7 +453,7 @@ ambient light
 ORs
 </td>
 <td style="text-align:left;">
-positively associated
+positively associated.
 </td>
 </tr>
 <tr>
@@ -447,6 +462,9 @@ Fotios, Uttley, and Gorjimahlabani (2022)
 </td>
 <td style="text-align:left;">
 Sheffield (UK)
+</td>
+<td style="text-align:left;">
+objective
 </td>
 <td style="text-align:left;">
 in person counting
@@ -470,6 +488,9 @@ Zacharias and Meng (2021)
 Beijing (CN)
 </td>
 <td style="text-align:left;">
+objective
+</td>
+<td style="text-align:left;">
 Dock-less shared bicycles uptake and deposit
 </td>
 <td style="text-align:left;">
@@ -479,7 +500,7 @@ Lighting (0 = no; 1 = yes)
 Linear regression
 </td>
 <td style="text-align:left;">
-positively associated
+positively associated.
 </td>
 </tr>
 <tr>
@@ -488,6 +509,9 @@ Uttley, Fotios, and Lovelace (2020)
 </td>
 <td style="text-align:left;">
 Birmingham (UK)
+</td>
+<td style="text-align:left;">
+objective
 </td>
 <td style="text-align:left;">
 automated cycle counters
@@ -500,7 +524,104 @@ ORs
 </td>
 <td style="text-align:left;">
 A non linear relationship was found between relative brightness at a
-location at night and the reduction in cyclists after-dark
+location at night and the reduction in cyclists after-dark.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Fotios, Uttley, and Fox (2019)
+</td>
+<td style="text-align:left;">
+Arlington County (US)
+</td>
+<td style="text-align:left;">
+objective
+</td>
+<td style="text-align:left;">
+automated cycle counters
+</td>
+<td style="text-align:left;">
+ambient light
+</td>
+<td style="text-align:left;">
+ORs
+</td>
+<td style="text-align:left;">
+More people cycle when it is daylight and on cycle trails after dark
+when they are lit.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Chen, Shen, and Childress (2018)
+</td>
+<td style="text-align:left;">
+Seattle (US)
+</td>
+<td style="text-align:left;">
+objective
+</td>
+<td style="text-align:left;">
+GPS data
+</td>
+<td style="text-align:left;">
+Number of street lights per mile in 50-ft buffers
+</td>
+<td style="text-align:left;">
+Mixed logistic regression models
+</td>
+<td style="text-align:left;">
+Some bicyclists favor routes which are planted with street trees or
+installed with street lights.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Uttley and Fotios (2017)
+</td>
+<td style="text-align:left;">
+Arlington County (US)
+</td>
+<td style="text-align:left;">
+objective
+</td>
+<td style="text-align:left;">
+automated cycle counters
+</td>
+<td style="text-align:left;">
+ambient light
+</td>
+<td style="text-align:left;">
+ORs (comparing time savings)
+</td>
+<td style="text-align:left;">
+The numbers of cyclists were significantly higher (+38%) during daylight
+conditions than after-dark.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Poorfakhraei and Rowangould (2015)
+</td>
+<td style="text-align:left;">
+Montreal (Canada)
+</td>
+<td style="text-align:left;">
+subjective
+</td>
+<td style="text-align:left;">
+Cyclists
+</td>
+<td style="text-align:left;">
+street lighting
+</td>
+<td style="text-align:left;">
+a Stated Preference survey was created and a random utility model was
+used to estimate Willingness to Pay including street lighting
+</td>
+<td style="text-align:left;">
+Cycle tracks were valued the most, followed by street lighting and
+bicycle lanes.
 </td>
 </tr>
 </tbody>
