@@ -229,7 +229,7 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 "Recent research [@sustrans_bikelife_2018] found that only 23% of women felt safe cycling during hours of darkness, compared with 36% of men, which suggests that Lighting may also contribute to addressing the current gender imbalance in cycling by encouraging more women to cycle after-dark" [@uttley_road_2020].
 
-"Women are less likely to cycle to work in the dark, so women are more sensitive to the absence of daylight" [@heinen_day--day_2011].
+"Women are less likely to cycle to work in the dark, so women are more sensitive to the absence of daylight" [@heinen_day_2011].
 
 "Darkness was also more important to women than to men, but with a mean grading of 3.0 in the survey of 1998, and 2.7 in the survey of 2000, this factor could still not, not even for women, be considered to be important in the choice of mode" [@bergstrom_potential_2003].
 
@@ -237,11 +237,12 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 <Age>
 
-
 <Disadvantaged groups>
 
 "Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise. 
 Respondents living in lower-income communities reported greater barriers to pedestrian and bicycle safety and security than residents from wealthier neighborhoods" [@schneider_perceived_2022].
+
+"The dominant deterrents to bicycle commuting are unpleasant weather and inadequate daylight" [@stinson_frequency_2004]
 
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -251,7 +252,7 @@ papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
   filter(full_text == 1) %>% 
-  select(authors, location, type_measure, cycling, lighting, method, result)
+  select(authors, location, cycling, lighting, method, result)
 
 kbl(df,
     caption = "Table 1: Overview of papers that have examined the association between lighting and cycling") %>%

@@ -314,7 +314,7 @@ gender imbalance in cycling by encouraging more women to cycle
 after-dark” (Uttley, Fotios, and Lovelace 2020).
 
 “Women are less likely to cycle to work in the dark, so women are more
-sensitive to the absence of daylight” (**heinen_day?**–day_2011).
+sensitive to the absence of daylight” (Heinen, Maat, and Wee 2011).
 
 “Darkness was also more important to women than to men, but with a mean
 grading of 3.0 in the survey of 1998, and 2.7 in the survey of 2000,
@@ -333,6 +333,9 @@ Respondents living in lower-income communities reported greater barriers
 to pedestrian and bicycle safety and security than residents from
 wealthier neighborhoods” (Schneider, Wiers, and Schmitz 2022).
 
+“The dominant deterrents to bicycle commuting are unpleasant weather and
+inadequate daylight” (Stinson and Bhat 2004)
+
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 Table 1: Overview of papers that have examined the association between
@@ -345,9 +348,6 @@ authors
 </th>
 <th style="text-align:left;">
 location
-</th>
-<th style="text-align:left;">
-type
 </th>
 <th style="text-align:left;">
 cycling
@@ -372,9 +372,6 @@ Castillo-Paredes et al. (2022)
 8 latin american countries
 </td>
 <td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
 \>= 10 min/week
 </td>
 <td style="text-align:left;">
@@ -393,9 +390,6 @@ Schneider, Wiers, and Schmitz (2022)
 </td>
 <td style="text-align:left;">
 Milwaukee (US)
-</td>
-<td style="text-align:left;">
-subjective
 </td>
 <td style="text-align:left;">
 perceived barriers to cycle
@@ -418,9 +412,6 @@ Linchuan Yang et al. (2022)
 Central Chengdu (CN)
 </td>
 <td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
 strava heatmap
 </td>
 <td style="text-align:left;">
@@ -441,9 +432,6 @@ Fotios and Robbins (2022)
 Cambridge (UK)
 </td>
 <td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
 automated cycle counters
 </td>
 <td style="text-align:left;">
@@ -462,9 +450,6 @@ Fotios, Uttley, and Gorjimahlabani (2022)
 </td>
 <td style="text-align:left;">
 Sheffield (UK)
-</td>
-<td style="text-align:left;">
-objective
 </td>
 <td style="text-align:left;">
 in person counting
@@ -488,9 +473,6 @@ Zacharias and Meng (2021)
 Beijing (CN)
 </td>
 <td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
 Dock-less shared bicycles uptake and deposit
 </td>
 <td style="text-align:left;">
@@ -509,9 +491,6 @@ Uttley, Fotios, and Lovelace (2020)
 </td>
 <td style="text-align:left;">
 Birmingham (UK)
-</td>
-<td style="text-align:left;">
-objective
 </td>
 <td style="text-align:left;">
 automated cycle counters
@@ -535,9 +514,6 @@ Fotios, Uttley, and Fox (2019)
 Arlington County (US)
 </td>
 <td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
 automated cycle counters
 </td>
 <td style="text-align:left;">
@@ -557,9 +533,6 @@ Chen, Shen, and Childress (2018)
 </td>
 <td style="text-align:left;">
 Seattle (US)
-</td>
-<td style="text-align:left;">
-objective
 </td>
 <td style="text-align:left;">
 GPS data
@@ -583,9 +556,6 @@ Uttley and Fotios (2017)
 Arlington County (US)
 </td>
 <td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
 automated cycle counters
 </td>
 <td style="text-align:left;">
@@ -607,9 +577,6 @@ Poorfakhraei and Rowangould (2015)
 Montreal (Canada)
 </td>
 <td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
 Cyclists
 </td>
 <td style="text-align:left;">
@@ -622,6 +589,135 @@ used to estimate Willingness to Pay including street lighting
 <td style="text-align:left;">
 Cycle tracks were valued the most, followed by street lighting and
 bicycle lanes.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Segadilha and Sanches (2014)
+</td>
+<td style="text-align:left;">
+São Carlos (BR)
+</td>
+<td style="text-align:left;">
+Frequent commuter cyclists
+</td>
+<td style="text-align:left;">
+street lighting
+</td>
+<td style="text-align:left;">
+descriptive statistics
+</td>
+<td style="text-align:left;">
+Street lighting and security are two of the main factors (5 and 6 out of
+18) for cycle commuting routes after 1) number of trucks 2) buses and 3)
+traffic volume and 4) speed.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Van Cauwenberg et al. (2012)
+</td>
+<td style="text-align:left;">
+135 Flemish municipalities
+</td>
+<td style="text-align:left;">
+Cycling for transportation (\>=65)
+</td>
+<td style="text-align:left;">
+Presence of street lighting
+</td>
+<td style="text-align:left;">
+Multilevel logistic regression
+</td>
+<td style="text-align:left;">
+Presence of street lighting increased the likelihood of daily cycling in
+\< 75 years old females and rural females but not in other subgroups.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Heinen, Maat, and Wee (2011)
+</td>
+<td style="text-align:left;">
+Delft, Zwolle, Midden-Delfland, and PijnackerNootdorp (NL)
+</td>
+<td style="text-align:left;">
+Part-time bicycle commuters
+</td>
+<td style="text-align:left;">
+cycling in the dark
+</td>
+<td style="text-align:left;">
+Logistic Generalized estimating equation (GEE) and logistic random
+coefficient analysis (RCA)
+</td>
+<td style="text-align:left;">
+Women are less likely to cycle to work in the dark, so women are more
+sensitive to the absence of daylight.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Cervero and Duncan (2003)
+</td>
+<td style="text-align:left;">
+San Francisco region
+</td>
+<td style="text-align:left;">
+Bicycling
+</td>
+<td style="text-align:left;">
+dark (before sunrise or after sunset)
+</td>
+<td style="text-align:left;">
+Discrete-choice logit model
+</td>
+<td style="text-align:left;">
+Nightfall was more of a deterrent to bicycling than to walking
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Panter et al. (2010)
+</td>
+<td style="text-align:left;">
+Norfolk (UK)
+</td>
+<td style="text-align:left;">
+cycle to school
+</td>
+<td style="text-align:left;">
+Streetlight density Number of streetlights divided by total road length
+</td>
+<td style="text-align:left;">
+Multilevel statistical models were fıtted
+</td>
+<td style="text-align:left;">
+Children whose routes had a high density of streetlights were less
+likely to cycle to school.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Stinson and Bhat (2004)
+</td>
+<td style="text-align:left;">
+Global (online)
+</td>
+<td style="text-align:left;">
+bicycle commuters and nonbicycle commuters
+</td>
+<td style="text-align:left;">
+Not enough daylight to ride safely
+</td>
+<td style="text-align:left;">
+Descriptive examination of the deterrents to bicycle to work
+</td>
+<td style="text-align:left;">
+The main deterrents for cycle commuting are unpleasant weather, personal
+issues, and not enough daylight to ride safely. Noncycle commuters have
+a much higher likelihood of identifying not enough daylight to ride
+safely as a deterrent than cyclists.
 </td>
 </tr>
 </tbody>
@@ -847,6 +943,15 @@ Differences in Reassurance.” *Lighting Research & Technology*, June,
 
 </div>
 
+<div id="ref-heinen_day_2011" class="csl-entry">
+
+Heinen, Eva, Kees Maat, and Bert van Wee. 2011. “Day to Day Choice to
+Commute or Not by Bicycle.” *Transportation Research Record: Journal of
+the Transportation Research Board* 2230 (1): 9–18.
+<https://doi.org/10.3141/2230-02>.
+
+</div>
+
 <div id="ref-lee_neighbourhood_2008" class="csl-entry">
 
 Lee, Chanam, and Anne Vernez Moudon. 2008. “Neighbourhood Design and
@@ -958,6 +1063,24 @@ Schneider, Robert James, Hayley Wiers, and Andrew Schmitz. 2022.
 Insights from Milwaukee.” *Transportation Research Record: Journal of
 the Transportation Research Board* 2676 (9): 325–38.
 <https://doi.org/10.1177/03611981221086646>.
+
+</div>
+
+<div id="ref-segadilha_identification_2014" class="csl-entry">
+
+Segadilha, Ana Beatriz Pereira, and Suely da Penha Sanches. 2014.
+“Identification of Factors That Influence Cyclistś Route Choice.”
+*Procedia - Social and Behavioral Sciences* 160 (December): 372–80.
+<https://doi.org/10.1016/j.sbspro.2014.12.149>.
+
+</div>
+
+<div id="ref-stinson_frequency_2004" class="csl-entry">
+
+Stinson, Monique A., and Chandra R. Bhat. 2004. “Frequency of Bicycle
+Commuting: Internet-Based Survey Analysis.” *Transportation Research
+Record: Journal of the Transportation Research Board* 1878 (1): 122–30.
+<https://doi.org/10.3141/1878-15>.
 
 </div>
 
