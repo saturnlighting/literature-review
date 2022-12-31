@@ -251,7 +251,7 @@ papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
   filter(full_text == 1) %>% 
-  select(authors, location, type, cycling, lighting, method, result)
+  select(authors, location, type_measure, cycling, lighting, method, result)
 
 kbl(df,
     caption = "Table 1: Overview of papers that have examined the association between lighting and cycling") %>%
