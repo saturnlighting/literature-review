@@ -14,13 +14,14 @@ always_allow_html: true
 
 **Abstract**
 
-<Background>Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling. Much less attention has been given to localised treatments such as appropriate lighting or cycle parking which can have a major impact on cyclability.
-There is evidence suggesting that darkness discourages people from cycling. 
-This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups. 
-Appropriate road lighting can increase feelings of reassurance, make hazards more visible, and make the cyclist more visible to other road users, which can increase cycling uptake and make it safer and more equitable.
-<Aim>This paper provides a review of the scientific literature that investigates how road lighting/darkness affects cycling uptake.
+<Background>There is a large body of literature examining the effect linear ground-level cycling infrastructure, such as cycle lanes, has on cycling levels. Much less attention has been paid to the impact that localised treatments, such as road lighting, can have on cycling.
+There is evidence suggesting that darkness discourages people from cycling.
+This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups.
+Appropriate road lighting makes hazards more visible and cyclists more visible to other road users. 
+This can increase feelings of reassurance among cyclists increasing their number and diversity.
+<Aim>This paper provides a review of the scientific literature that investigates the relationship between road lighting and cycling uptake.
 <Method>We used a hybrid systematic and snowballing method.
-TBC studies on several disciplines such as engineering, transport, road safety, and public health were reviewed.
+TBC studies on several disciplines such as engineering, environmental science, social science, and public health were reviewed.
 <Results>The literature suggests that...
 Gaps in the literature are...
 <Conclusion>
@@ -113,7 +114,7 @@ From the included studies, we extracted information regarding: author(s) and yea
 
 # Results
 
-<Subject area>The scientific literature was found to be broadly spread across several disciplines, including engineering, transport, road safety, and public health.
+<Subject area>The scientific literature was found to be broadly spread across several disciplines, including engineering, environmental science, social science, and public health were reviewed.
 
 <!-- <Themes>Five main themes emerged: -->
 
@@ -261,7 +262,7 @@ kbl(df,
 
 # Discussion
 
-The scientific literature on the intersections of cycling and lighting is spread across several disciplines such as engineering, transport, road safety, and public health.
+The scientific literature on the intersections of cycling and lighting is spread across several disciplines such as engineering, environmental science, social science, and public health were reviewed.
 
 Below, based on the results of the review, we answer the questions that guide this paper.
 
