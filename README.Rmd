@@ -14,11 +14,12 @@ always_allow_html: true
 
 **Abstract**
 
-<Background>There is a large body of literature examining the effect linear ground-level cycling infrastructure, such as cycle lanes, has on cycling levels. Much less attention has been paid to the impact that localised treatments, such as road lighting, can have on cycling.
-There is evidence suggesting that darkness discourages people from cycling.
-This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups.
-Appropriate road lighting makes hazards more visible and cyclists more visible to other road users. 
-This can increase feelings of reassurance among cyclists increasing their number and diversity.
+<Background>Many studies have explored the extent to which the built environment (e.g. population density, land use mix, proximity, spatial connectivity) and especially safe cycling infrastructure affects cycling uptake.
+Less attention has been paid to the impact that micro-environmental factors such as road lighting may have on people's choice to ride a bicycle.
+<!-- There is evidence suggesting that darkness discourages people from cycling. -->
+<!-- This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups. -->
+<!-- Appropriate road lighting makes hazards more visible and cyclists more visible to other road users.  -->
+<!-- This can increase cycling and make it safer and more equitable.  -->
 <Aim>This paper provides a review of the scientific literature that investigates the relationship between road lighting and cycling uptake.
 <Method>We used a hybrid systematic and snowballing method.
 TBC studies on several disciplines such as engineering, environmental science, social science, and public health were reviewed.

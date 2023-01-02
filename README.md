@@ -5,24 +5,22 @@ Road Lighting and Cycling Uptake: A review
 
 **Abstract**
 
-<Background>Linear cycling infrastructure at ground level, such as cycle
-lanes, have received the bulk of research and policy attention in
-relation to investment in cycling. Much less attention has been given to
-localised treatments such as appropriate lighting or cycle parking which
-can have a major impact on cyclability. There is evidence suggesting
-that darkness discourages people from cycling. This is due to a higher
-perceived danger of cyclists at night from motorised traffic and
-personal security, which disproportionately affect women, the elderly,
-and disadvantaged groups. Appropriate road lighting can increase
-feelings of reassurance, make hazards more visible, and make the cyclist
-more visible to other road users, which can increase cycling uptake and
-make it safer and more equitable. <Aim>This paper provides a review of
-the scientific literature that investigates how road lighting/darkness
-affects cycling uptake. <Method>We used a hybrid systematic and
-snowballing method. TBC studies on several disciplines such as
-engineering, transport, road safety, and public health were reviewed.
-<Results>The literature suggests that… Gaps in the literature are…
-<Conclusion>
+<Background>Many studies have explored the extent to which the built
+environment (e.g. population density, land use mix, proximity, spatial
+connectivity) and especially safe cycling infrastructure affects cycling
+uptake. Less attention has been paid to the impact that
+micro-environmental factors such as road lighting may have on people’s
+choice to ride a bicycle.
+<!-- There is evidence suggesting that darkness discourages people from cycling. -->
+<!-- This is due to a higher perceived danger of cyclists at night from motorised traffic and personal security, which disproportionately affect women, the elderly, and disadvantaged groups. -->
+<!-- Appropriate road lighting makes hazards more visible and cyclists more visible to other road users.  -->
+<!-- This can increase cycling and make it safer and more equitable.  -->
+<Aim>This paper provides a review of the scientific literature that
+investigates the relationship between road lighting and cycling uptake.
+<Method>We used a hybrid systematic and snowballing method. TBC studies
+on several disciplines such as engineering, environmental science,
+social science, and public health were reviewed. <Results>The literature
+suggests that… Gaps in the literature are… <Conclusion>
 
 <!-- To what extent darkness or lack of road lighting deter people from cycling? -->
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling.  -->
@@ -130,8 +128,8 @@ location of study, sample size.
 # Results
 
 <Subject area>The scientific literature was found to be broadly spread
-across several disciplines, including engineering, transport, road
-safety, and public health.
+across several disciplines, including engineering, environmental
+science, social science, and public health were reviewed.
 
 <!-- <Themes>Five main themes emerged: -->
 <!-- 1.  Cycling behaviour and lighting -->
@@ -726,8 +724,8 @@ safely as a deterrent than cyclists.
 # Discussion
 
 The scientific literature on the intersections of cycling and lighting
-is spread across several disciplines such as engineering, transport,
-road safety, and public health.
+is spread across several disciplines such as engineering, environmental
+science, social science, and public health were reviewed.
 
 Below, based on the results of the review, we answer the questions that
 guide this paper.
