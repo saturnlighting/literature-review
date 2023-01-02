@@ -14,10 +14,13 @@ choice to cycle. <Aim>This paper provides a review of the scientific
 literature on the relationship between road lighting and cycling uptake
 and identifies existing gaps in research and knowledge. <Method>We used
 a hybrid systematic and snowballing method. TBC studies were reviewed.
-<Results>The literature suggests that road lighting has a strong effect
-on cyclng levels. This effect is higher among women than the rest of
-cyclits… Gaps in the literature are more research in deveolping
-countries… More research on differencens on age or deprived populations.
+Subjective and objective studies were found. <Results>The literature
+suggests that road lighting has a strong positive effect on cycling
+levels during the night. The impact is higher among women. <Gaps>More
+research on the effect of road lighting specifically on cycling is
+needed, including in developing countries, in countries with different
+latitudes to most Western countries, and on the different impact that
+road lighting has on cyclists of different ages and social groups.
 <Conclusion>
 
 <!-- To what extent darkness or lack of road lighting deter people from cycling? -->
@@ -769,12 +772,13 @@ women, children, the elderly, and disadvantaged populations.
   of environments encouraging walking may be different from those
   supporting cycling.
 
-- Differences in different latitudes.
-
 - More research in developing countries. “lack of street lighting can
   contribute to poor visibility, perception and fear of crime thus
   decreasing bicycle use. This is particularly relevant in SSA due to
   the generalized lack of security and safety.” (Mendiate et al. 2022).
+
+- More research in countries with different latitudes to most Western
+  countries.
 
 - We do not know whether there is difference in terms of age. Fotios,
   Uttley, and Gorjimahlabani (2022) considered age only for pedestrians.
@@ -788,16 +792,16 @@ women, children, the elderly, and disadvantaged populations.
 
 ## Strenghts and limitations
 
-<Strength>This is the first review on the relationship between cycling
-road and cycling uptake.
+<Strength>This is the first review on the relationship between road
+lighting and cycling uptake.
 
 <Limitations>We could have included the term darkness in the query
-string? We could have search on additional electronic databases.
+string? We could have searched on additional electronic databases.
 
 # Conclusions
 
-This paper reviewed published research on the intersection between
-cycling and road lighting.
+This paper reviewed published research on the intersection between road
+lighting and cycling uptake.
 
 <gaps>Despite the recent growth of articles on this subject, it is still
 under-researched. More empirical work in the area of cycling and road

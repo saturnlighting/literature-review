@@ -18,9 +18,9 @@ always_allow_html: true
 Less attention has been paid to the impact that micro-environmental factors such as road lighting may have on people's choice to cycle.
 <Aim>This paper provides a review of the scientific literature on the relationship between road lighting and cycling uptake and identifies existing gaps in research and knowledge.
 <Method>We used a hybrid systematic and snowballing method.
-TBC studies were reviewed.
-<Results>The literature suggests that road lighting has a strong effect on cyclng levels. This effect is higher among women than the rest of cyclits...
-Gaps in the literature are more research in deveolping countries... More research on differencens on age or deprived populations.
+TBC studies were reviewed. Subjective and objective studies were found.
+<Results>The literature suggests that road lighting has a strong positive effect on cycling levels during the night. The impact is higher among women.
+<Gaps>More research on the effect of road lighting specifically on cycling is needed, including in developing countries, in countries with different latitudes to most Western countries, and on the different impact that road lighting has on cyclists of different ages and social groups. 
 <Conclusion>
 
 <!-- To what extent darkness or lack of road lighting deter people from cycling? -->
@@ -248,11 +248,11 @@ Lighting conditions improvements not only may increase cycling trips in general,
 
 ## Research gaps
 
-- Many studies fail to separate walking and cycling. The characteristics of environments encouraging walking may be different from those supporting cycling.
-
-- Differences in different latitudes.
+- Many studies fail to separate walking and cycling. The characteristics of environments encouraging walking may be different from those supporting cycling. 
 
 - More research in developing countries. "lack of street lighting can contribute to poor visibility, perception and fear of crime thus decreasing bicycle use. This is particularly relevant in SSA due to the generalized lack of security and safety." [@mendiate_cycling_2022].
+
+- More research in countries with different latitudes to most Western countries.
 
 - We do not know whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022].
 
@@ -260,14 +260,14 @@ Lighting conditions improvements not only may increase cycling trips in general,
 
 ## Strenghts and limitations
 
-<Strength>This is the first review on the relationship between cycling road and cycling uptake.
+<Strength>This is the first review on the relationship between road lighting and cycling uptake.
 
 <Limitations>We could have included the term darkness in the query string?
-We could have search on additional electronic databases. 
+We could have searched on additional electronic databases. 
 
 # Conclusions
 
-This paper reviewed published research on the intersection between cycling and road lighting.
+This paper reviewed published research on the intersection between road lighting and cycling uptake.
 
 <gaps>Despite the recent growth of articles on this subject, it is still under-researched. More empirical work in the area of cycling and road lighting is needed.
 
