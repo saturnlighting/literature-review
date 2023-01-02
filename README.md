@@ -10,14 +10,14 @@ environment (e.g. population density, land use mix, proximity, spatial
 connectivity) and especially safe cycling infrastructure affects cycling
 uptake. Less attention has been paid to the impact that
 micro-environmental factors such as road lighting may have on people’s
-choice to cycle. <Aim>This paper provides a review of the scientific
+choice to cycle. This paper provides a review of the scientific
 literature on the relationship between road lighting and cycling uptake
 and identifies existing gaps in research and knowledge. <Method>We used
-a hybrid systematic and snowballing method. TBC studies were reviewed.
-Subjective and objective studies were found. <Results>The literature
-suggests that road lighting has a strong positive effect on cycling
-levels during the night. The impact is higher among women. <Gaps>More
-research on the effect of road lighting specifically on cycling is
+a hybrid systematic and snowballing method. TBC empirical studies were
+reviewed. The studies used subjective and objective methods.
+<Results>Results suggest that road lighting has a strong positive effect
+on cycling levels during the night. The impact is higher among women.
+More research on the effect of road lighting specifically on cycling is
 needed, including in developing countries, in countries with different
 latitudes to most Western countries, and on the different impact that
 road lighting has on cyclists of different ages and social groups.
@@ -118,9 +118,11 @@ chart of included studies is shown in Figure 1.
 
 ## Data extraction
 
-From the included studies, we extracted information regarding: author(s)
+The following information was extracted from each manuscript: author(s)
 and year, type of method, method, measurements, location of study, and
-results.
+results. For analytical reasons, the type of method was classified into
+subjective and objective, depending on whether the associations were
+perceived (subjective) or objectively measured (objective).
 
 # Results
 
@@ -133,8 +135,8 @@ science, social science, and public health.
 <Study type>Most of the studies were written in the last decade (Figure
 1).
 
-![Figure 2: number of papers reviewed by type and
-year](README_files/figure-gfm/fig2-1.png)
+![Figure 2: number of studies
+reviewed](README_files/figure-gfm/fig2-1.png)
 
 ## Methods used
 
@@ -768,6 +770,8 @@ women, children, the elderly, and disadvantaged populations.
 
 ## Research gaps
 
+Based on these findings, we highlight the following research needs.
+
 - Many studies fail to separate walking and cycling. The characteristics
   of environments encouraging walking may be different from those
   supporting cycling.
@@ -792,11 +796,15 @@ women, children, the elderly, and disadvantaged populations.
 
 ## Strenghts and limitations
 
-<Strength>This is the first review on the relationship between road
-lighting and cycling uptake.
-
-<Limitations>We could have included the term darkness in the query
-string? We could have searched on additional electronic databases.
+<Strength>This paper provides a review of the scientific literature on
+the relationship between road lighting and cycling uptake and identifies
+existing gaps in research and knowledge. To the best of our knowledge,
+no papers had looked at this association before.
+<Limitations>Nevertheless, the paper has several limitations. Although
+we used a hybrid systematic and snowballing search method to avoid
+missing existing studies, we could have been more strict by using more
+than one electronic database. We could have included the term ‘darkness’
+in the query string?
 
 # Conclusions
 
