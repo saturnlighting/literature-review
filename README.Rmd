@@ -106,18 +106,18 @@ knitr::include_graphics("flow-chart.png")
 
 ## Data extraction
 
-The following information was extracted from each manuscript: author(s) and year, type of method, method, measurements, location of study, and results (Table 1). 
+The following information was extracted from each manuscript: author(s) and year, type of measurements, measurements for cycling and lighting, method, location of study, and results (Table 1). 
 <!-- For analytical reasons, the type of measurements were classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective). -->
 
 # Results
 
 ## Trends of research
 
-<Subject area>The scientific literature was found to be broadly spread across several disciplines, including engineering, environmental science, social science, and public health.
+The scientific literature was found to be broadly spread across several disciplines, including engineering, environmental science, social science, and public health.
 
-<Study type>Most of the studies were written in the last decade (Figure 1).
+Most of the studies were written in the last decade, with 2022 being the year in which the most studies on this topic were published (Figure 1).
 
-```{r fig2, echo=FALSE, fig.cap="Figure 2: number of studies reviewed", message=FALSE, warning=FALSE}
+```{r fig2, echo=FALSE, fig.cap="Figure 2: Number of studies reviewed", message=FALSE, warning=FALSE}
 library(kableExtra)
 library(tidyverse)
 
@@ -131,7 +131,7 @@ x_axis_labels <- min(df[,"year"]):max(df[,"year"])
 
 ggplot(df, aes(x = year, y = number)) +
   geom_bar(stat="identity") +
-  labs(x ="", y="number of studies reviewed") +
+  labs(x ="", y="Number of studies reviewed") +
   scale_y_continuous(breaks= c(0, 2, 4, 6, 8, 10)) +
   scale_x_continuous(labels = x_axis_labels, breaks = x_axis_labels) +
   theme_minimal() +
@@ -140,10 +140,12 @@ ggplot(df, aes(x = year, y = number)) +
 
 ## Types of studies 
 
-Studies looking at the association between road lighting and cycling uptake can be roughly divided between those that used subjective measurements and objective measurements.
+Studies looking at the association between road lighting and cycling uptake can be divided between those that used subjective measurements and objective measurements.
 
 "Subjective measures of reassurance are, however, prone to stimulus range bias and socially desirable responding, and, as stated preferences, it is unknown whether they are reflected in behaviour (revealed preference).
 A more direct approach to investigating whether changes in light influence walking and cycling is to count the number of people using these transport modes in different light conditions. If darkness reduces reassurance, then there will be fewer pedestrians and cyclists. This has been investigated, and confirmed, in studies taking advantage of variation in daylight, either the seasonal variation or the sudden transition imposed by biannual daylight saving clock changes" [@fotios_extending_2022].
+
+"The daylight savings method of analysis better isolates changes in weather from the effects of ambient light on travel choice than does the whole-year method" [@fotios_whole-year_2019].
 
 ```{r fig3, echo=FALSE, fig.align="center", fig.cap="Figure 2: Study types", out.width = '60%'}
 knitr::include_graphics("study-types.png")
@@ -235,7 +237,7 @@ df = papers %>%
   select(authors, measurements, cycling, lighting, method, location, result)
 
 kbl(df,
-    caption = "Table 1: Overview of papers that have examined the association between lighting and cycling") %>%
+    caption = "Table 1: Overview of studies that have examined the association between lighting and cycling") %>%
     kable_styling()
 ```
 

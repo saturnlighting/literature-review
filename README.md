@@ -124,29 +124,29 @@ chart of included studies is shown in Figure 1.
 ## Data extraction
 
 The following information was extracted from each manuscript: author(s)
-and year, type of method, method, measurements, location of study, and
-results (Table 1).
+and year, type of measurements, measurements for cycling and lighting,
+method, location of study, and results (Table 1).
 <!-- For analytical reasons, the type of measurements were classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective). -->
 
 # Results
 
 ## Trends of research
 
-<Subject area>The scientific literature was found to be broadly spread
-across several disciplines, including engineering, environmental
-science, social science, and public health.
+The scientific literature was found to be broadly spread across several
+disciplines, including engineering, environmental science, social
+science, and public health.
 
-<Study type>Most of the studies were written in the last decade (Figure
-1).
+Most of the studies were written in the last decade, with 2022 being the
+year in which the most studies on this topic were published (Figure 1).
 
-![Figure 2: number of studies
+![Figure 2: Number of studies
 reviewed](README_files/figure-gfm/fig2-1.png)
 
 ## Types of studies
 
 Studies looking at the association between road lighting and cycling
-uptake can be roughly divided between those that used subjective
-measurements and objective measurements.
+uptake can be divided between those that used subjective measurements
+and objective measurements.
 
 “Subjective measures of reassurance are, however, prone to stimulus
 range bias and socially desirable responding, and, as stated
@@ -159,6 +159,10 @@ cyclists. This has been investigated, and confirmed, in studies taking
 advantage of variation in daylight, either the seasonal variation or the
 sudden transition imposed by biannual daylight saving clock changes”
 (Fotios, Uttley, and Gorjimahlabani 2022).
+
+“The daylight savings method of analysis better isolates changes in
+weather from the effects of ambient light on travel choice than does the
+whole-year method” (Fotios, Uttley, and Fox 2019).
 
 <img src="study-types.png" alt="Figure 2: Study types" width="60%" style="display: block; margin: auto;" />
 
@@ -291,7 +295,7 @@ inadequate daylight” (Stinson and Bhat 2004)
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-Table 1: Overview of papers that have examined the association between
+Table 1: Overview of studies that have examined the association between
 lighting and cycling
 </caption>
 <thead>
@@ -329,7 +333,7 @@ Subjective
 </td>
 <td style="text-align:left;">
 Cycling participation (people who cycled 10 or more min/week) and
-cycling duration (min/week cycling) (self-reported cycling behaviour)
+cycling duration (min/week cycling)
 </td>
 <td style="text-align:left;">
 Streets well lit?
@@ -354,7 +358,7 @@ Subjective
 </td>
 <td style="text-align:left;">
 People who reported traffic safety or personal security barriers to
-cycling (self-reported cycling behaviour)
+cycling
 </td>
 <td style="text-align:left;">
 Poor light at night?
