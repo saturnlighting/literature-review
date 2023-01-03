@@ -15,13 +15,13 @@ literature on the relationship between road lighting and cycling uptake
 and identifies existing gaps in research and knowledge. <Method>We used
 a hybrid systematic and snowballing method. TBC empirical studies were
 reviewed. The studies used subjective and objective methods.
-<Results>Results suggest that road lighting has a strong positive effect
-on cycling levels during the night. The impact is higher among women.
-More research on the effect of road lighting specifically on cycling is
-needed, including in developing countries, in countries with different
-latitudes to most Western countries, and on the different impact that
-road lighting has on cyclists of different ages and social groups.
-<Conclusion>
+<Results>Most of the studies analysed suggest that road lighting has a
+strong positive effect on cycling levels during the night. The impact is
+higher among women. More research on the effect of road lighting
+specifically on cycling is needed, including in developing countries, in
+countries with different latitudes to most Western countries, and on the
+different impact that road lighting has on cyclists of different ages
+and social groups. <Conclusion>
 
 <!-- To what extent darkness or lack of road lighting deter people from cycling? -->
 <!-- Linear cycling infrastructure at ground level, such as cycle lanes, have received the bulk of research and policy attention in relation to investment in cycling.  -->
@@ -50,6 +50,8 @@ and especially safe cycling infrastructure affects cycling uptake.
 However, less investigated have been micro-built environmental factors
 such as road lighting, which may have a strong influence on people
 choice to cycle.
+
+<!-- Previous research has found a positive association between street lighting and physical activity (PA) and active travel (AT) [@prince_examining_2022; @bonaccorsi_impact_2020]. -->
 
 There is evidence suggesting that darkness discourages people from
 cycling (e.g…). This is due to a higher perceived danger of cyclists at
@@ -120,9 +122,10 @@ chart of included studies is shown in Figure 1.
 
 The following information was extracted from each manuscript: author(s)
 and year, type of method, method, measurements, location of study, and
-results. For analytical reasons, the type of method was classified into
-subjective and objective, depending on whether the associations were
-perceived (subjective) or objectively measured (objective).
+results (Table 1). For analytical reasons, the type of method was
+classified into subjective and objective, depending on whether the
+associations were perceived (subjective) or objectively measured
+(objective).
 
 # Results
 
@@ -138,26 +141,23 @@ science, social science, and public health.
 ![Figure 2: number of studies
 reviewed](README_files/figure-gfm/fig2-1.png)
 
-## Methods used
+## Types of studies
 
-Table 1.
-
-### Subjective
-
-### Objective
+Studies looking at the association between road lighting and cycling
+uptake can be roughly divided between those that use subjective
+measurements and objective measurements.
 
 ## Empirical findings
 
-Previous research has found a positive association between street
-lighting and physical activity (PA) and active travel (AT). In children
-(Prince et al. 2022) and older people (Bonaccorsi et al. 2020).
-
 <!-- Add perhaps other reviews -->
 
-Street lighting increases cyclists’ sense of safety at night by helping
-them see and be seen by other road users during their journey. It also
-provides them with a greater sense of security against possible threats
-in the dark.
+The odds of cycling 1) participation and 2) duration was not higher in
+participants who agreed that streets were well lit (Castillo-Paredes et
+al. 2022).
+
+Perception of poor light at night was not significantly associated with
+people who reported 1) traffic safety or 2) personal security barriers
+to cycling (Schneider, Wiers, and Schmitz 2022).
 
 Using Strava Heatmap data and spatial regression models, Yang et al.
 (2022) found street lighting positively associated with running, but not
@@ -285,16 +285,16 @@ lighting and cycling
 authors
 </th>
 <th style="text-align:left;">
-type
-</th>
-<th style="text-align:left;">
-method
+measurements
 </th>
 <th style="text-align:left;">
 cycling
 </th>
 <th style="text-align:left;">
 lighting
+</th>
+<th style="text-align:left;">
+method
 </th>
 <th style="text-align:left;">
 location
@@ -310,436 +310,451 @@ result
 Castillo-Paredes et al. (2022)
 </td>
 <td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
-Logistic and linear regression models
-</td>
-<td style="text-align:left;">
-\>= 10 min/week
-</td>
-<td style="text-align:left;">
-streets are well lit?
-</td>
-<td style="text-align:left;">
-8 latin american countries
-</td>
-<td style="text-align:left;">
-not statistically significant.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Schneider, Wiers, and Schmitz (2022)
-</td>
-<td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
-Logistic regression model
-</td>
-<td style="text-align:left;">
-perceived barriers to cycle
-</td>
-<td style="text-align:left;">
-poor lighting at night
-</td>
-<td style="text-align:left;">
-Milwaukee (US)
-</td>
-<td style="text-align:left;">
-not statistically significant.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Yang et al. (2022)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-Spatial regression models
-</td>
-<td style="text-align:left;">
-strava heatmap
-</td>
-<td style="text-align:left;">
-lighting data
-</td>
-<td style="text-align:left;">
-Central Chengdu (CN)
-</td>
-<td style="text-align:left;">
-not statistically significant.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fotios and Robbins (2022)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-ORs
-</td>
-<td style="text-align:left;">
-automated cycle counters
-</td>
-<td style="text-align:left;">
-ambient light
-</td>
-<td style="text-align:left;">
-Cambridge (UK)
-</td>
-<td style="text-align:left;">
-positively associated.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fotios, Uttley, and Gorjimahlabani (2022)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-ORs (comparing time savings)
-</td>
-<td style="text-align:left;">
-in person counting
-</td>
-<td style="text-align:left;">
-daylight/dark
-</td>
-<td style="text-align:left;">
-Sheffield (UK)
-</td>
-<td style="text-align:left;">
-There are fewer people cycling after dark. The deterrent is greater for
-females than for males.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Zacharias and Meng (2021)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-Linear regression
-</td>
-<td style="text-align:left;">
-Dock-less shared bicycles uptake and deposit
-</td>
-<td style="text-align:left;">
-Lighting (0 = no; 1 = yes)
-</td>
-<td style="text-align:left;">
-Beijing (CN)
-</td>
-<td style="text-align:left;">
-positively associated.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Uttley, Fotios, and Lovelace (2020)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-ORs
-</td>
-<td style="text-align:left;">
-automated cycle counters
-</td>
-<td style="text-align:left;">
-lantern density and relative brightness
-</td>
-<td style="text-align:left;">
-Birmingham (UK)
-</td>
-<td style="text-align:left;">
-A non linear relationship was found between relative brightness at a
-location at night and the reduction in cyclists after-dark.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fotios, Uttley, and Fox (2019)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-ORs
-</td>
-<td style="text-align:left;">
-automated cycle counters
-</td>
-<td style="text-align:left;">
-ambient light
-</td>
-<td style="text-align:left;">
-Arlington County (US)
-</td>
-<td style="text-align:left;">
-More people cycle when it is daylight and on cycle trails after dark
-when they are lit.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Chen, Shen, and Childress (2018)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-Mixed logistic regression models
-</td>
-<td style="text-align:left;">
-GPS data
-</td>
-<td style="text-align:left;">
-Number of street lights per mile in 50-ft buffers
-</td>
-<td style="text-align:left;">
-Seattle (US)
-</td>
-<td style="text-align:left;">
-Some bicyclists favor routes which are planted with street trees or
-installed with street lights.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Uttley and Fotios (2017)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-ORs (comparing time savings)
-</td>
-<td style="text-align:left;">
-automated cycle counters
-</td>
-<td style="text-align:left;">
-ambient light
-</td>
-<td style="text-align:left;">
-Arlington County (US)
-</td>
-<td style="text-align:left;">
-The numbers of cyclists were significantly higher (+38%) during daylight
-conditions than after-dark.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Poorfakhraei and Rowangould (2015)
-</td>
-<td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
-a Stated Preference survey was created and a random utility model was
-used to estimate Willingness to Pay including street lighting
-</td>
-<td style="text-align:left;">
-Cyclists
-</td>
-<td style="text-align:left;">
-street lighting
-</td>
-<td style="text-align:left;">
-Montreal (Canada)
-</td>
-<td style="text-align:left;">
-Cycle tracks were valued the most, followed by street lighting and
-bicycle lanes.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Lee and Moudon (2008)
-</td>
-<td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
-descriptive statistics
-</td>
-<td style="text-align:left;">
-Cyclists
-</td>
-<td style="text-align:left;">
-Good lighting at night
-</td>
-<td style="text-align:left;">
-Washington State (US)
-</td>
-<td style="text-align:left;">
-For cycling, frequently mentioned facilitators included good lighting at
-night (194)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Segadilha and Sanches (2014)
-</td>
-<td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
-descriptive statistics
-</td>
-<td style="text-align:left;">
-Frequent commuter cyclists
-</td>
-<td style="text-align:left;">
-street lighting
-</td>
-<td style="text-align:left;">
-São Carlos (BR)
-</td>
-<td style="text-align:left;">
-Street lighting and security are two of the main factors (5 and 6 out of
-18) for cycle commuting routes after 1) number of trucks 2) buses and 3)
-traffic volume and 4) speed.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Van Cauwenberg et al. (2012)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-Multilevel logistic regression
-</td>
-<td style="text-align:left;">
-Cycling for transportation (\>=65)
-</td>
-<td style="text-align:left;">
-Presence of street lighting
-</td>
-<td style="text-align:left;">
-135 Flemish municipalities
-</td>
-<td style="text-align:left;">
-Presence of street lighting increased the likelihood of daily cycling in
-\< 75 years old females and rural females but not in other subgroups.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Heinen, Maat, and Wee (2011)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-Logistic Generalized estimating equation (GEE) and logistic random
-coefficient analysis (RCA)
-</td>
-<td style="text-align:left;">
-Part-time bicycle commuters
-</td>
-<td style="text-align:left;">
-cycling in the dark
-</td>
-<td style="text-align:left;">
-Delft, Zwolle, Midden-Delfland, and PijnackerNootdorp (NL)
-</td>
-<td style="text-align:left;">
-Women are less likely to cycle to work in the dark, so women are more
-sensitive to the absence of daylight.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cervero and Duncan (2003)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-Discrete-choice logit model
-</td>
-<td style="text-align:left;">
-Bicycling
-</td>
-<td style="text-align:left;">
-dark (before sunrise or after sunset)
-</td>
-<td style="text-align:left;">
-San Francisco region
-</td>
-<td style="text-align:left;">
-Nightfall was more of a deterrent to bicycling than to walking
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Panter et al. (2010)
-</td>
-<td style="text-align:left;">
-objective
-</td>
-<td style="text-align:left;">
-Multilevel statistical models were fıtted
-</td>
-<td style="text-align:left;">
-cycle to school
-</td>
-<td style="text-align:left;">
-Streetlight density Number of streetlights divided by total road length
-</td>
-<td style="text-align:left;">
-Norfolk (UK)
-</td>
-<td style="text-align:left;">
-Children whose routes had a high density of streetlights were less
-likely to cycle to school.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Stinson and Bhat (2004)
-</td>
-<td style="text-align:left;">
-subjective
-</td>
-<td style="text-align:left;">
-Descriptive examination of the deterrents to bicycle to work
-</td>
-<td style="text-align:left;">
-bicycle commuters and nonbicycle commuters
-</td>
-<td style="text-align:left;">
-Not enough daylight to ride safely
-</td>
-<td style="text-align:left;">
-Global (online)
-</td>
-<td style="text-align:left;">
-The main deterrents for cycle commuting are unpleasant weather, personal
-issues, and not enough daylight to ride safely. Noncycle commuters have
-a much higher likelihood of identifying not enough daylight to ride
-safely as a deterrent than cyclists.
-</td>
-</tr>
-</tbody>
-</table>
+Subjective
+</td>
+<td style="text-align:left;">
+
+1)  10 or more min/week cycling? 2) Minutes/week cycling?
+    </td>
+    <td style="text-align:left;">
+    Streets well lit?
+    </td>
+    <td style="text-align:left;">
+
+    1)  Logistic regression model and 2) linear regression model
+        </td>
+        <td style="text-align:left;">
+        8 Latin American countries (AR, BR, CL, CO, CR, EC, PE, and VE)
+        </td>
+        <td style="text-align:left;">
+        The odds of cycling 1) participation and 2) duration was not
+        higher in participants who agreed that streets were well lit.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Schneider, Wiers, and Schmitz (2022)
+        </td>
+        <td style="text-align:left;">
+        Subjective
+        </td>
+        <td style="text-align:left;">
+        People who reported 1) traffic safety or 2) personal security
+        barriers to cycling
+        </td>
+        <td style="text-align:left;">
+        Poor light at night?
+        </td>
+        <td style="text-align:left;">
+        Logistic regression model
+        </td>
+        <td style="text-align:left;">
+        Milwaukee (US)
+        </td>
+        <td style="text-align:left;">
+        Perception of poor light at night was not significantly
+        associated with people who reported 1) traffic safety or 2)
+        personal security barriers to cycling.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Yang et al. (2022)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        Cycling intensity index (Strava heatmap)
+        </td>
+        <td style="text-align:left;">
+        Light index (nighttime light data)
+        </td>
+        <td style="text-align:left;">
+        Spatial regression models
+        </td>
+        <td style="text-align:left;">
+        Central Chengdu (CN)
+        </td>
+        <td style="text-align:left;">
+        The light index have positive associations with running but not
+        with cycling.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Fotios and Robbins (2022)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        automated cycle counters
+        </td>
+        <td style="text-align:left;">
+        ambient light
+        </td>
+        <td style="text-align:left;">
+        ORs
+        </td>
+        <td style="text-align:left;">
+        Cambridge (UK)
+        </td>
+        <td style="text-align:left;">
+        positively associated.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Fotios, Uttley, and Gorjimahlabani (2022)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        in person counting
+        </td>
+        <td style="text-align:left;">
+        daylight/dark
+        </td>
+        <td style="text-align:left;">
+        ORs (comparing time savings)
+        </td>
+        <td style="text-align:left;">
+        Sheffield (UK)
+        </td>
+        <td style="text-align:left;">
+        There are fewer people cycling after dark. The deterrent is
+        greater for females than for males.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Zacharias and Meng (2021)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        Dock-less shared bicycles uptake and deposit
+        </td>
+        <td style="text-align:left;">
+        Lighting (0 = no; 1 = yes)
+        </td>
+        <td style="text-align:left;">
+        Linear regression
+        </td>
+        <td style="text-align:left;">
+        Beijing (CN)
+        </td>
+        <td style="text-align:left;">
+        positively associated.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Uttley, Fotios, and Lovelace (2020)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        automated cycle counters
+        </td>
+        <td style="text-align:left;">
+        lantern density and relative brightness
+        </td>
+        <td style="text-align:left;">
+        ORs
+        </td>
+        <td style="text-align:left;">
+        Birmingham (UK)
+        </td>
+        <td style="text-align:left;">
+        A non linear relationship was found between relative brightness
+        at a location at night and the reduction in cyclists after-dark.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Fotios, Uttley, and Fox (2019)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        automated cycle counters
+        </td>
+        <td style="text-align:left;">
+        ambient light
+        </td>
+        <td style="text-align:left;">
+        ORs
+        </td>
+        <td style="text-align:left;">
+        Arlington County (US)
+        </td>
+        <td style="text-align:left;">
+        More people cycle when it is daylight and on cycle trails after
+        dark when they are lit.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Chen, Shen, and Childress (2018)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        GPS data
+        </td>
+        <td style="text-align:left;">
+        Number of street lights per mile in 50-ft buffers
+        </td>
+        <td style="text-align:left;">
+        Mixed logistic regression models
+        </td>
+        <td style="text-align:left;">
+        Seattle (US)
+        </td>
+        <td style="text-align:left;">
+        Some bicyclists favor routes which are planted with street trees
+        or installed with street lights.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Uttley and Fotios (2017)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        automated cycle counters
+        </td>
+        <td style="text-align:left;">
+        ambient light
+        </td>
+        <td style="text-align:left;">
+        ORs (comparing time savings)
+        </td>
+        <td style="text-align:left;">
+        Arlington County (US)
+        </td>
+        <td style="text-align:left;">
+        The numbers of cyclists were significantly higher (+38%) during
+        daylight conditions than after-dark.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Poorfakhraei and Rowangould (2015)
+        </td>
+        <td style="text-align:left;">
+        Subjective
+        </td>
+        <td style="text-align:left;">
+        Cyclists
+        </td>
+        <td style="text-align:left;">
+        street lighting
+        </td>
+        <td style="text-align:left;">
+        a Stated Preference survey was created and a random utility
+        model was used to estimate Willingness to Pay including street
+        lighting
+        </td>
+        <td style="text-align:left;">
+        Montreal (Canada)
+        </td>
+        <td style="text-align:left;">
+        Cycle tracks were valued the most, followed by street lighting
+        and bicycle lanes.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Lee and Moudon (2008)
+        </td>
+        <td style="text-align:left;">
+        Subjective
+        </td>
+        <td style="text-align:left;">
+        Cyclists
+        </td>
+        <td style="text-align:left;">
+        Good lighting at night
+        </td>
+        <td style="text-align:left;">
+        descriptive statistics
+        </td>
+        <td style="text-align:left;">
+        Washington State (US)
+        </td>
+        <td style="text-align:left;">
+        For cycling, frequently mentioned facilitators included good
+        lighting at night (194)
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Segadilha and Sanches (2014)
+        </td>
+        <td style="text-align:left;">
+        Subjective
+        </td>
+        <td style="text-align:left;">
+        Frequent commuter cyclists
+        </td>
+        <td style="text-align:left;">
+        street lighting
+        </td>
+        <td style="text-align:left;">
+        descriptive statistics
+        </td>
+        <td style="text-align:left;">
+        São Carlos (BR)
+        </td>
+        <td style="text-align:left;">
+        Street lighting and security are two of the main factors (5 and
+        6 out of 18) for cycle commuting routes after 1) number of
+        trucks 2) buses and 3) traffic volume and 4) speed.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Van Cauwenberg et al. (2012)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        Cycling for transportation (\>=65)
+        </td>
+        <td style="text-align:left;">
+        Presence of street lighting
+        </td>
+        <td style="text-align:left;">
+        Multilevel logistic regression
+        </td>
+        <td style="text-align:left;">
+        135 Flemish municipalities (BE)
+        </td>
+        <td style="text-align:left;">
+        Presence of street lighting increased the likelihood of daily
+        cycling in \< 75 years old females and rural females but not in
+        other subgroups.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Heinen, Maat, and Wee (2011)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        Part-time bicycle commuters
+        </td>
+        <td style="text-align:left;">
+        cycling in the dark
+        </td>
+        <td style="text-align:left;">
+        Logistic Generalized estimating equation (GEE) and logistic
+        random coefficient analysis (RCA)
+        </td>
+        <td style="text-align:left;">
+        Delft, Zwolle, Midden-Delfland, and PijnackerNootdorp (NL)
+        </td>
+        <td style="text-align:left;">
+        Women are less likely to cycle to work in the dark, so women are
+        more sensitive to the absence of daylight.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Cervero and Duncan (2003)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        Bicycling
+        </td>
+        <td style="text-align:left;">
+        dark (before sunrise or after sunset)
+        </td>
+        <td style="text-align:left;">
+        Discrete-choice logit model
+        </td>
+        <td style="text-align:left;">
+        San Francisco region (US)
+        </td>
+        <td style="text-align:left;">
+        Nightfall was more of a deterrent to bicycling than to walking
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Panter et al. (2010)
+        </td>
+        <td style="text-align:left;">
+        Objective
+        </td>
+        <td style="text-align:left;">
+        cycle to school
+        </td>
+        <td style="text-align:left;">
+        Streetlight density Number of streetlights divided by total road
+        length
+        </td>
+        <td style="text-align:left;">
+        Multilevel statistical models were fıtted
+        </td>
+        <td style="text-align:left;">
+        Norfolk (UK)
+        </td>
+        <td style="text-align:left;">
+        Children whose routes had a high density of streetlights were
+        less likely to cycle to school.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:left;">
+        Stinson and Bhat (2004)
+        </td>
+        <td style="text-align:left;">
+        Subjective
+        </td>
+        <td style="text-align:left;">
+        bicycle commuters and nonbicycle commuters
+        </td>
+        <td style="text-align:left;">
+        Not enough daylight to ride safely
+        </td>
+        <td style="text-align:left;">
+        Descriptive examination of the deterrents to bicycle to work
+        </td>
+        <td style="text-align:left;">
+        Global (online)
+        </td>
+        <td style="text-align:left;">
+        The main deterrents for cycle commuting are unpleasant weather,
+        personal issues, and not enough daylight to ride safely.
+        Noncycle commuters have a much higher likelihood of identifying
+        not enough daylight to ride safely as a deterrent than cyclists.
+        </td>
+        </tr>
+        </tbody>
+        </table>
 
 # Discussion
+
+Street lighting increases cyclists’ sense of safety at night by helping
+them see and be seen by other road users during their journey. It also
+provides them with a greater sense of security against possible threats
+in the dark.
 
 In some cities the influence of road lighting will have a bigger impact
 than in others. For example in Madrid, Valencia and Seville there are
@@ -836,18 +851,6 @@ Bergström, A, and R Magnusson. 2003. “Potential of Transferring Car
 Trips to Bicycle During Winter.” *Transportation Research Part A: Policy
 and Practice* 37 (8): 649–66.
 <https://doi.org/10.1016/S0965-8564(03)00012-0>.
-
-</div>
-
-<div id="ref-bonaccorsi_impact_2020" class="csl-entry">
-
-Bonaccorsi, Guglielmo, Federico Manzi, Marco Del Riccio, Nicoletta
-Setola, Eletta Naldi, Chiara Milani, Duccio Giorgetti, Claudia
-Dellisanti, and Chiara Lorini. 2020. “Impact of the Built Environment
-and the Neighborhood in Promoting the Physical Activity and the Healthy
-Aging in Older People: An Umbrella Review.” *International Journal of
-Environmental Research and Public Health* 17 (17): 6127.
-<https://doi.org/10.3390/ijerph17176127>.
 
 </div>
 
@@ -964,18 +967,6 @@ Poorfakhraei, Amir, and Gregory M. Rowangould. 2015. “Estimating Welfare
 Change Associated with Improvements in Urban Bicycling Facilities.”
 *Journal of Transportation Engineering* 141 (11): 04015025.
 <https://doi.org/10.1061/(ASCE)TE.1943-5436.0000799>.
-
-</div>
-
-<div id="ref-prince_examining_2022" class="csl-entry">
-
-Prince, Stephanie A., Samantha Lancione, Justin J. Lang, Nana Amankwah,
-Margaret de Groh, Alejandra Jaramillo Garcia, Katherine Merucci, and
-Robert Geneau. 2022. “Examining the State, Quality and Strength of the
-Evidence in the Research on Built Environments and Physical Activity
-Among Children and Youth: An Overview of Reviews from High Income
-Countries.” *Health & Place* 76 (July): 102828.
-<https://doi.org/10.1016/j.healthplace.2022.102828>.
 
 </div>
 

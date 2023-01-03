@@ -19,7 +19,7 @@ Less attention has been paid to the impact that micro-environmental factors such
 This paper provides a review of the scientific literature on the relationship between road lighting and cycling uptake and identifies existing gaps in research and knowledge.
 <Method>We used a hybrid systematic and snowballing method.
 TBC empirical studies were reviewed. The studies used subjective and objective methods.
-<Results>Results suggest that road lighting has a strong positive effect on cycling levels during the night. The impact is higher among women.
+<Results>Most of the studies analysed suggest that road lighting has a strong positive effect on cycling levels during the night. The impact is higher among women.
 More research on the effect of road lighting specifically on cycling is needed, including in developing countries, in countries with different latitudes to most Western countries, and on the different impact that road lighting has on cyclists of different ages and social groups. 
 <Conclusion>
 
@@ -44,6 +44,8 @@ For this reason, cycling is encouraged. Yet, most people keep choosing to drive 
 
 Many studies have explored the extent to which the built environment (e.g. population density, land use mix, proximity, spatial connectivity) and especially safe cycling infrastructure affects cycling uptake.
 However, less investigated have been micro-built environmental factors such as road lighting, which may have a strong influence on people choice to cycle. 
+
+<!-- Previous research has found a positive association between street lighting and physical activity (PA) and active travel (AT) [@prince_examining_2022; @bonaccorsi_impact_2020]. -->
 
 There is evidence suggesting that darkness discourages people from cycling (e.g...). 
 This is due to a higher perceived danger of cyclists at night from motorised traffic and crime and personal security, which disproportionately affect women, the elderly, and disadvantaged groups [@schneider_perceived_2022]. 
@@ -101,7 +103,7 @@ knitr::include_graphics("flow-chart.png")
 
 ## Data extraction
 
-The following information was extracted from each manuscript: author(s) and year, type of method, method, measurements, location of study, and results. 
+The following information was extracted from each manuscript: author(s) and year, type of method, method, measurements, location of study, and results (Table 1). 
 For analytical reasons, the type of method was classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective).
 
 # Results
@@ -133,21 +135,17 @@ ggplot(df, aes(x = year, y = number)) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 ```
 
-## Methods used 
+## Types of studies 
 
-Table 1.
-
-### Subjective
-
-### Objective 
+Studies looking at the association between road lighting and cycling uptake can be roughly divided between those that use subjective measurements and objective measurements.
 
 ## Empirical findings
 
-Previous research has found a positive association between street lighting and physical activity (PA) and active travel (AT). In children [@prince_examining_2022] and older people [@bonaccorsi_impact_2020].
-
 <!-- Add perhaps other reviews -->
 
-Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
+The odds of cycling 1) participation and 2) duration was not higher in participants who agreed that streets were well lit [@castillo-paredes_perceived_2022].
+
+Perception of poor light at night was not significantly associated with people who reported 1) traffic safety or 2) personal security barriers to cycling [@schneider_perceived_2022].
 
 Using Strava Heatmap data and spatial regression models, @yang_crowdsourced_2022 found street lighting positively associated with running, but not with cycling. 
 
@@ -225,7 +223,7 @@ papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
   filter(full_text == 1) %>% 
-  select(authors, type, method, cycling, lighting, location, result)
+  select(authors, measurements, cycling, lighting, method, location, result)
 
 kbl(df,
     caption = "Table 1: Overview of papers that have examined the association between lighting and cycling") %>%
@@ -233,6 +231,8 @@ kbl(df,
 ```
 
 # Discussion
+
+Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
 
 In some cities the influence of road lighting will have a bigger impact than in others. For example in Madrid, Valencia and Seville there are around 2,900 hours of annual sunshine. Barcelona: 2,400. Compared to 1632 hours of sunlight per year in Oslo.
 
