@@ -105,7 +105,7 @@ knitr::include_graphics("flow-chart.png")
 ## Data extraction
 
 The following information was extracted from each manuscript: author(s) and year, type of method, method, measurements, location of study, and results (Table 1). 
-For analytical reasons, the type of method was classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective).
+<!-- For analytical reasons, the type of measurements were classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective). -->
 
 # Results
 
@@ -141,7 +141,7 @@ ggplot(df, aes(x = year, y = number)) +
 Studies looking at the association between road lighting and cycling uptake can be roughly divided between those that used subjective measurements and objective measurements.
 
 "Subjective measures of reassurance are, however, prone to stimulus range bias and socially desirable responding, and, as stated preferences, it is unknown whether they are reflected in behaviour (revealed preference).
-A more direct approach to investigating whether changes in light influence walking and cycling is to count the number of people using these transport modes in different light conditions"  [@fotios_extending_2022].
+A more direct approach to investigating whether changes in light influence walking and cycling is to count the number of people using these transport modes in different light conditions. If darkness reduces reassurance, then there will be fewer pedestrians and cyclists. This has been investigated, and confirmed, in studies taking advantage of variation in daylight, either the seasonal variation or the sudden transition imposed by biannual daylight saving clock changes" [@fotios_extending_2022].
 
 ## Empirical findings
 
@@ -264,9 +264,11 @@ Based on these findings, we highlight the following research needs.
 
 - More research in countries with different latitudes to most Western countries.
 
-- We do not know whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022].
+- We do not know whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022]. Also gender age groups are under-research. Do young female perceive cycling in the dark more dangerous than other women-age groups due to the risk of sexual assault?
 
 - "If fewer people are walking or cycling after dark, the remainder must be doing something else instead. Consider three possibilities. First, they are making the same journey but instead driving using a personal motorized vehicle: darkness is a suggested factor in the choice of travel mode for short trips. Second, they are again making the same journey but using some form of shared motorized transport for some part of it, such as sharing a private vehicle or using public transport. Third, they are not leaving their home. This could be investigated by repeating the ambient light level analysis for motorized vehicles in addition to pedestrians and cyclists" [@fotios_effect_2022].
+
+- Further research is needed to validate the optimum illuminance, the appropriate metric for characterising lamp spectral power distribution, and the most desirable aims of spatial distribution.
 
 <!-- -   Lack of research in developing countries -->
 

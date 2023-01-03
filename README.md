@@ -123,10 +123,8 @@ chart of included studies is shown in Figure 1.
 
 The following information was extracted from each manuscript: author(s)
 and year, type of method, method, measurements, location of study, and
-results (Table 1). For analytical reasons, the type of method was
-classified into subjective and objective, depending on whether the
-associations were perceived (subjective) or objectively measured
-(objective).
+results (Table 1).
+<!-- For analytical reasons, the type of measurements were classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective). -->
 
 # Results
 
@@ -153,7 +151,11 @@ range bias and socially desirable responding, and, as stated
 preferences, it is unknown whether they are reflected in behaviour
 (revealed preference). A more direct approach to investigating whether
 changes in light influence walking and cycling is to count the number of
-people using these transport modes in different light conditions”
+people using these transport modes in different light conditions. If
+darkness reduces reassurance, then there will be fewer pedestrians and
+cyclists. This has been investigated, and confirmed, in studies taking
+advantage of variation in daylight, either the seasonal variation or the
+sudden transition imposed by biannual daylight saving clock changes”
 (Fotios, Uttley, and Gorjimahlabani 2022).
 
 ## Empirical findings
@@ -322,7 +324,9 @@ Castillo-Paredes et al. (2022)
 Subjective
 </td>
 <td style="text-align:left;">
-People who cycled 10 or more min/week and min/week cycling per person
+Cycling participation (1 = People who cycled 10 or more min/week) and
+cycling duration (min/week cycling per person) (self-reported cycling
+behaviour)
 </td>
 <td style="text-align:left;">
 Streets well lit?
@@ -347,7 +351,7 @@ Subjective
 </td>
 <td style="text-align:left;">
 People who reported traffic safety or personal security barriers to
-cycling
+cycling (self-reported cycling behaviour)
 </td>
 <td style="text-align:left;">
 Poor light at night?
@@ -444,19 +448,20 @@ Zacharias and Meng (2021)
 Objective
 </td>
 <td style="text-align:left;">
-Dock-less shared bicycles uptake and deposit
+Dock-less shared bicycle uptake and deposit
 </td>
 <td style="text-align:left;">
 Lighting (0 = no; 1 = yes)
 </td>
 <td style="text-align:left;">
-Linear regression
+Linear regression model
 </td>
 <td style="text-align:left;">
 Beijing (CN)
 </td>
 <td style="text-align:left;">
-positively associated.
+Street lighting is positively associated with dock-less shared bicycle
+uptake and deposit.
 </td>
 </tr>
 <tr>
@@ -594,7 +599,7 @@ Cyclists
 Good lighting at night
 </td>
 <td style="text-align:left;">
-descriptive statistics
+Descriptive statistics
 </td>
 <td style="text-align:left;">
 Washington State (US)
@@ -618,7 +623,7 @@ Frequent commuter cyclists
 street lighting
 </td>
 <td style="text-align:left;">
-descriptive statistics
+Descriptive statistics
 </td>
 <td style="text-align:left;">
 São Carlos (BR)
@@ -810,7 +815,9 @@ Based on these findings, we highlight the following research needs.
   significantly different (young OR = 1.58, old OR = 3.38, z = 3.800,
   p\<0.001), indicating that darkness is a greater deterrent to old
   pedestrians than to young pedestrians” (Fotios, Uttley, and
-  Gorjimahlabani 2022).
+  Gorjimahlabani 2022). Also gender age groups are under-research. Do
+  young female perceive cycling in the dark more dangerous than other
+  women-age groups due to the risk of sexual assault?
 
 - “If fewer people are walking or cycling after dark, the remainder must
   be doing something else instead. Consider three possibilities. First,
@@ -823,6 +830,10 @@ Based on these findings, we highlight the following research needs.
   investigated by repeating the ambient light level analysis for
   motorized vehicles in addition to pedestrians and cyclists” (Fotios
   and Robbins 2022).
+
+- Further research is needed to validate the optimum illuminance, the
+  appropriate metric for characterising lamp spectral power
+  distribution, and the most desirable aims of spatial distribution.
 
 <!-- -   Lack of research in developing countries -->
 
