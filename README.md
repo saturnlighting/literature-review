@@ -2,6 +2,8 @@ Road Lighting and Cycling Uptake: A review
 ================
 
 <!-- Shouldn't be darkness instead of road lighting? -->
+<!-- Alternative title:
+- Ambient light, lighting, and cycling rates -->
 
 **Abstract**
 
@@ -114,7 +116,7 @@ In the second stage, we checked the references from the studies selected
 TBC additional papers were selected. In total, TBC were reviewed. A flow
 chart of included studies is shown in Figure 1.
 
-<img src="flow-chart.png" alt="Figure 1: flow chart" width="50%" style="display: block; margin: auto;" />
+<img src="flow-chart.png" alt="Figure 1: flow chart" width="40%" style="display: block; margin: auto;" />
 
 <!-- Paper we did not have access: -->
 <!-- - S. Chandra, R. Radhakrishnan, Street visibility-dependent path finding for pedestrians and bicyclists in urban areas, Transportation Research Board 94th Annual Meeting, Transportation Research Board, Washington DC, United States, 2015. -->
@@ -157,6 +159,8 @@ cyclists. This has been investigated, and confirmed, in studies taking
 advantage of variation in daylight, either the seasonal variation or the
 sudden transition imposed by biannual daylight saving clock changes”
 (Fotios, Uttley, and Gorjimahlabani 2022).
+
+<img src="study-types.png" alt="Figure 2: Study types" width="60%" style="display: block; margin: auto;" />
 
 ## Empirical findings
 
@@ -324,9 +328,8 @@ Castillo-Paredes et al. (2022)
 Subjective
 </td>
 <td style="text-align:left;">
-Cycling participation (1 = People who cycled 10 or more min/week) and
-cycling duration (min/week cycling per person) (self-reported cycling
-behaviour)
+Cycling participation (people who cycled 10 or more min/week) and
+cycling duration (min/week cycling) (self-reported cycling behaviour)
 </td>
 <td style="text-align:left;">
 Streets well lit?
@@ -636,6 +639,47 @@ traffic volume and 4) speed.
 </tr>
 <tr>
 <td style="text-align:left;">
+Winters et al. (2011)
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Descriptive statistics
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+If the route is not well lit after-dark is a major deterrent to cycling.
+The deterrent effect was largest for people who don’t currently cycle
+but potentially would do in the future.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Sustrans (2018)
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Descriptive statistics
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Only 23% of females felt safe cycling after dark, compared with 36% of
+males.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Van Cauwenberg et al. (2012)
 </td>
 <td style="text-align:left;">
@@ -806,8 +850,10 @@ Based on these findings, we highlight the following research needs.
   decreasing bicycle use. This is particularly relevant in SSA due to
   the generalized lack of security and safety.” (Mendiate et al. 2022).
 
-- More research in countries with different latitudes to most Western
-  countries.
+- More research in locations with different latitudes to most Western
+  countries. More extreme latitude locations have longer durations of
+  darkness during parts of the year than countries at less extreme
+  latitudes.
 
 - We do not know whether there is difference in terms of age. Fotios,
   Uttley, and Gorjimahlabani (2022) considered age only for pedestrians.

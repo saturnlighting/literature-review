@@ -11,6 +11,8 @@ always_allow_html: true
 ---
 
 <!-- Shouldn't be darkness instead of road lighting? -->
+<!-- Alternative title:
+- Ambient light, lighting, and cycling rates -->
 
 **Abstract**
 
@@ -94,7 +96,7 @@ In the second stage, we checked the references from the studies selected (i.e. s
 In total, TBC were reviewed.
 A flow chart of included studies is shown in Figure 1.
 
-```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '50%'}
+```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '40%'}
 knitr::include_graphics("flow-chart.png")
 ```
 
@@ -142,6 +144,10 @@ Studies looking at the association between road lighting and cycling uptake can 
 
 "Subjective measures of reassurance are, however, prone to stimulus range bias and socially desirable responding, and, as stated preferences, it is unknown whether they are reflected in behaviour (revealed preference).
 A more direct approach to investigating whether changes in light influence walking and cycling is to count the number of people using these transport modes in different light conditions. If darkness reduces reassurance, then there will be fewer pedestrians and cyclists. This has been investigated, and confirmed, in studies taking advantage of variation in daylight, either the seasonal variation or the sudden transition imposed by biannual daylight saving clock changes" [@fotios_extending_2022].
+
+```{r fig3, echo=FALSE, fig.align="center", fig.cap="Figure 2: Study types", out.width = '60%'}
+knitr::include_graphics("study-types.png")
+```
 
 ## Empirical findings
 
@@ -262,7 +268,7 @@ Based on these findings, we highlight the following research needs.
 
 - More research in developing countries. "lack of street lighting can contribute to poor visibility, perception and fear of crime thus decreasing bicycle use. This is particularly relevant in SSA due to the generalized lack of security and safety." [@mendiate_cycling_2022].
 
-- More research in countries with different latitudes to most Western countries.
+- More research in locations with different latitudes to most Western countries. More extreme latitude locations have longer durations of darkness during parts of the year than countries at less extreme latitudes.
 
 - We do not know whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022]. Also gender age groups are under-research. Do young female perceive cycling in the dark more dangerous than other women-age groups due to the risk of sexual assault?
 
