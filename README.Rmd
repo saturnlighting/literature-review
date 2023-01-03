@@ -18,7 +18,8 @@ always_allow_html: true
 Less attention has been paid to the impact that micro-environmental factors such as road lighting may have on people's choice to cycle.
 This paper provides a review of the scientific literature on the relationship between road lighting and cycling uptake and identifies existing gaps in research and knowledge.
 <Method>We used a hybrid systematic and snowballing method.
-TBC empirical studies were reviewed. The studies used subjective and objective methods.
+TBC empirical studies were reviewed. 
+These studies can be divided into those that use subjective measurements and those that use objective measurements.
 <Results>Most of the studies analysed suggest that road lighting has a strong positive effect on cycling levels during the night. The impact is higher among women.
 More research on the effect of road lighting specifically on cycling is needed, including in developing countries, in countries with different latitudes to most Western countries, and on the different impact that road lighting has on cyclists of different ages and social groups. 
 <Conclusion>
@@ -137,15 +138,18 @@ ggplot(df, aes(x = year, y = number)) +
 
 ## Types of studies 
 
-Studies looking at the association between road lighting and cycling uptake can be roughly divided between those that use subjective measurements and objective measurements.
+Studies looking at the association between road lighting and cycling uptake can be roughly divided between those that used subjective measurements and objective measurements.
+
+"Subjective measures of reassurance are, however, prone to stimulus range bias and socially desirable responding, and, as stated preferences, it is unknown whether they are reflected in behaviour (revealed preference).
+A more direct approach to investigating whether changes in light influence walking and cycling is to count the number of people using these transport modes in different light conditions"  [@fotios_extending_2022].
 
 ## Empirical findings
 
 <!-- Add perhaps other reviews -->
 
-The odds of cycling 1) participation and 2) duration was not higher in participants who agreed that streets were well lit [@castillo-paredes_perceived_2022].
+The odds of cycling participation and duration was not higher in participants who agreed that streets were well lit [@castillo-paredes_perceived_2022].
 
-Perception of poor light at night was not significantly associated with people who reported 1) traffic safety or 2) personal security barriers to cycling [@schneider_perceived_2022].
+Perception of poor light at night was not significantly associated with people who reported traffic safety or personal security barriers to cycling [@schneider_perceived_2022].
 
 Using Strava Heatmap data and spatial regression models, @yang_crowdsourced_2022 found street lighting positively associated with running, but not with cycling. 
 
@@ -207,7 +211,6 @@ Fear of danger of injury from traffic, falls, or violence seems to affect groups
 
 "Children whose routes had a high density of streetlights were less likely to cycle to school" [@panter_neighborhood_2010].
 
-
 <Disadvantaged groups>
 
 "Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise. 
@@ -263,6 +266,8 @@ Based on these findings, we highlight the following research needs.
 
 - We do not know whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022].
 
+- "If fewer people are walking or cycling after dark, the remainder must be doing something else instead. Consider three possibilities. First, they are making the same journey but instead driving using a personal motorized vehicle: darkness is a suggested factor in the choice of travel mode for short trips. Second, they are again making the same journey but using some form of shared motorized transport for some part of it, such as sharing a private vehicle or using public transport. Third, they are not leaving their home. This could be investigated by repeating the ambient light level analysis for motorized vehicles in addition to pedestrians and cyclists" [@fotios_effect_2022].
+
 <!-- -   Lack of research in developing countries -->
 
 ## Strenghts and limitations
@@ -272,6 +277,7 @@ To the best of our knowledge, no papers had looked at this association before.
 <Limitations>Nevertheless, the paper has several limitations. 
 Although we used a hybrid systematic and snowballing search method to avoid missing existing studies, we could have been more strict by using more than one electronic database.
 We could have included the term 'darkness' in the query string?
+We do not include and analyse the controls used in each of the studies.
 
 # Conclusions
 
