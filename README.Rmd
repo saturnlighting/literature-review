@@ -245,14 +245,12 @@ kbl(df,
 
 Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
 
-In some cities the influence of road lighting will have a bigger impact than in others. For example in Madrid, Valencia and Seville there are around 2,900 hours of annual sunshine. Barcelona: 2,400. Compared to 1632 hours of sunlight per year in Oslo.
-
-Street lighting provision. Big differences countries. Sprawl/dense urban areas. 69.9% agree that streets are well lit Latin America [@castillo-paredes_perceived_2022]. Spain vs the UK.
+Street lighting provision. There may be a big differences between countries. Urban density factor. Parks in Spain are all lighted, not the same in the UK. E.g. 69.9% agree that streets are well lit Latin America [@castillo-paredes_perceived_2022].
 
 #### To what extent does darkness influence cycling uptake?
 
 The positive results obtained in studies looking at the association between cycling uptake and street lighting show the importance of light conditions as a policy measure to encourage cycling in the dark. 
-Lighting conditions improvements not only may increase cycling trips in general, but also the inclusivity of cycling, since, as has been demonstrated, street lighting will benefit more certain groups such as women, children, the elderly, and disadvantaged populations.
+Lighting conditions improvements not only may increase cycling trips in general, but also the inclusivity of cycling, since, as has been demonstrated, street lighting will benefit more certain groups such as women.
 
 #### Is this negative effect due to fear of being run over by motorirsed traffic or a victim of crime in the dark?
 
