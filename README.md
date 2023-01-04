@@ -158,7 +158,11 @@ darkness reduces reassurance, then there will be fewer pedestrians and
 cyclists. This has been investigated, and confirmed, in studies taking
 advantage of variation in daylight, either the seasonal variation or the
 sudden transition imposed by biannual daylight saving clock changes”
-(Fotios, Uttley, and Gorjimahlabani 2022).
+(Fotios, Uttley, and Gorjimahlabani 2022). Objective measures of
+behaviour provide stronger evidence.
+
+Range bias in evaluations of perceived safety (S. Fotios and Castleton
+2016).
 
 “The daylight savings method of analysis better isolates changes in
 weather from the effects of ambient light on travel choice than does the
@@ -533,7 +537,7 @@ GPS data
 Number of street lights per mile in 50-ft buffers
 </td>
 <td style="text-align:left;">
-Mixed logistic regression models
+Route choice modelling and mixed logistic regression models
 </td>
 <td style="text-align:left;">
 Seattle (US)
@@ -562,8 +566,8 @@ Daylight savings method using ORs
 Arlington County (US)
 </td>
 <td style="text-align:left;">
-The numbers of cyclists were significantly higher (+38%) during daylight
-conditions than after-dark.
+The numbers of pedestrians (+62%) and cyclists (+38%) were significantly
+higher during daylight conditions than after-dark.
 </td>
 </tr>
 <tr>
@@ -876,6 +880,15 @@ Based on these findings, we highlight the following research needs.
   motorized vehicles in addition to pedestrians and cyclists” (Fotios
   and Robbins 2022).
 
+- We do not know exactly the reasons why road lighting is important for
+  cyclists. It is because it helps them to visualize their route in the
+  dark (allowing obstacles and trip hazards to be seen and avoided)? or
+  because it makes cyclists feel more visible and less at risk of being
+  hit by motorised traffic during the night? Or perhaps because it makes
+  them feel safer from being a victim of crime? Answers to these
+  questions may help to adopt policies to reduce the impact of darkness
+  on cycling levels.
+
 - Further research is needed to validate the optimum illuminance, the
   appropriate metric for characterising lamp spectral power
   distribution, and the most desirable aims of spatial distribution.
@@ -954,6 +967,14 @@ Chen, Peng, Qing Shen, and Suzanne Childress. 2018. “A GPS Data-Based
 Analysis of Built Environment Influences on Bicyclist Route
 Preferences.” *International Journal of Sustainable Transportation* 12
 (3): 218–31. <https://doi.org/10.1080/15568318.2017.1349222>.
+
+</div>
+
+<div id="ref-fotios_specifying_2016" class="csl-entry">
+
+Fotios, Steve, and Holly Castleton. 2016. “Specifying Enough Light to
+Feel Reassured on Pedestrian Footpaths.” *LEUKOS* 12 (4): 235–43.
+<https://doi.org/10.1080/15502724.2016.1169931>.
 
 </div>
 
