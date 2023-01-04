@@ -44,8 +44,8 @@
     },
     {
       "type": "text",
-      "version": 1683,
-      "versionNonce": 649566926,
+      "version": 1687,
+      "versionNonce": 2116792716,
       "isDeleted": false,
       "id": "hIOAtHjYd28zbsL3HCgNV",
       "fillStyle": "hachure",
@@ -64,17 +64,17 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1672829662397,
+      "updated": 1672857141151,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Total included studies (N= 20) ",
+      "text": "Total included studies (N= 19) ",
       "baseline": 18,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "OiF2oJStEY5OqUiABTEoq",
-      "originalText": "Total included studies (N= 20) "
+      "originalText": "Total included studies (N= 19) "
     },
     {
       "type": "rectangle",
@@ -485,8 +485,8 @@
     },
     {
       "type": "text",
-      "version": 1895,
-      "versionNonce": 716456146,
+      "version": 1897,
+      "versionNonce": 1797928756,
       "isDeleted": false,
       "id": "4p9rp4eUmzQ3beknlxRlg",
       "fillStyle": "hachure",
@@ -505,17 +505,17 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1672829656501,
+      "updated": 1672857133697,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Screened full text \nreferences (N= 8)",
+      "text": "Screened full text \nreferences (N= 7)",
       "baseline": 41,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "L1KYj1Qvbxb3T8IhH0fg4",
-      "originalText": "Screened full text references (N= 8)"
+      "originalText": "Screened full text references (N= 7)"
     },
     {
       "type": "arrow",
@@ -663,49 +663,6 @@
       ]
     },
     {
-      "type": "line",
-      "version": 72,
-      "versionNonce": 563831822,
-      "isDeleted": false,
-      "id": "L3Bzvj1a2TVvlcNWWKKpe",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "angle": 0,
-      "x": 1174.5527815553883,
-      "y": 457.9358038637373,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "width": 0,
-      "height": 0,
-      "seed": 1353952773,
-      "groupIds": [],
-      "roundness": {
-        "type": 2
-      },
-      "boundElements": [],
-      "updated": 1672829595118,
-      "link": null,
-      "locked": false,
-      "startBinding": null,
-      "endBinding": null,
-      "lastCommittedPoint": null,
-      "startArrowhead": null,
-      "endArrowhead": null,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          0,
-          0
-        ]
-      ]
-    },
-    {
       "type": "arrow",
       "version": 921,
       "versionNonce": 1195018263,
@@ -793,8 +750,8 @@
     },
     {
       "type": "text",
-      "version": 2118,
-      "versionNonce": 1352741559,
+      "version": 2124,
+      "versionNonce": 1503267468,
       "isDeleted": false,
       "id": "4hm_WQnzxS1AnUHNOn0LE",
       "fillStyle": "hachure",
@@ -813,17 +770,17 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1672594743636,
+      "updated": 1672857127913,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Screened abstracts \nreferences (N= 14)",
+      "text": "Screened abstracts \nreferences (N= 13)",
       "baseline": 41,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "eVoTHHvNC1ELBJOdNfq31",
-      "originalText": "Screened abstracts \nreferences (N= 14)"
+      "originalText": "Screened abstracts \nreferences (N= 13)"
     },
     {
       "type": "line",

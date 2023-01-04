@@ -43,7 +43,7 @@ Cycling; road lighting; road safety; personal security; inequalities
 
 Benefits of cycling are well established in the literature.
 Cycling improves physical, mental, and social health; reduces pollution, carbon emissions, and congestion; and it is more inclusive than private motorised modes, reducing inequalities [@oja_health_2011]. 
-For this reason, cycling is encouraged. Yet, most people keep choosing to drive to cycle.
+For this reason, cycling is encouraged. Still, cycling levels are low in most cities.
 
 Many studies have explored the extent to which the built environment (e.g. population density, land use mix, proximity, spatial connectivity) and especially safe cycling infrastructure affects cycling uptake.
 However, less investigated have been micro-built environmental factors such as road lighting, which may have a strong influence on people choice to cycle. 

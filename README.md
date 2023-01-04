@@ -44,8 +44,8 @@ Benefits of cycling are well established in the literature. Cycling
 improves physical, mental, and social health; reduces pollution, carbon
 emissions, and congestion; and it is more inclusive than private
 motorised modes, reducing inequalities (Oja et al. 2011). For this
-reason, cycling is encouraged. Yet, most people keep choosing to drive
-to cycle.
+reason, cycling is encouraged. Still, cycling levels are low in most
+cities.
 
 Many studies have explored the extent to which the built environment
 (e.g. population density, land use mix, proximity, spatial connectivity)
@@ -649,166 +649,149 @@ traffic volume and 4) speed.
 Winters et al. (2011)
 </td>
 <td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-Descriptive statistics
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-If the route is not well lit after-dark is a major deterrent to cycling.
-The deterrent effect was largest for people who don’t currently cycle
-but potentially would do in the future.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Sustrans (2018)
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-Descriptive statistics
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-Only 23% of females felt safe cycling after dark, compared with 36% of
-males.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Van Cauwenberg et al. (2012)
-</td>
-<td style="text-align:left;">
-Objective
-</td>
-<td style="text-align:left;">
-Cycling for transportation (\>=65)
-</td>
-<td style="text-align:left;">
-Presence of street lighting
-</td>
-<td style="text-align:left;">
-Multilevel logistic regression
-</td>
-<td style="text-align:left;">
-135 Flemish municipalities (BE)
-</td>
-<td style="text-align:left;">
-Presence of street lighting increased the likelihood of daily cycling in
-\< 75 years old females and rural females but not in other subgroups.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Heinen, Maat, and Wee (2011)
-</td>
-<td style="text-align:left;">
-Objective
-</td>
-<td style="text-align:left;">
-Part-time bicycle commuters
-</td>
-<td style="text-align:left;">
-cycling in the dark
-</td>
-<td style="text-align:left;">
-Logistic Generalized estimating equation (GEE) and logistic random
-coefficient analysis (RCA)
-</td>
-<td style="text-align:left;">
-Delft, Zwolle, Midden-Delfland, and PijnackerNootdorp (NL)
-</td>
-<td style="text-align:left;">
-Women are less likely to cycle to work in the dark, so women are more
-sensitive to the absence of daylight.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Cervero and Duncan (2003)
-</td>
-<td style="text-align:left;">
-Objective
-</td>
-<td style="text-align:left;">
-Bicycling
-</td>
-<td style="text-align:left;">
-dark (before sunrise or after sunset)
-</td>
-<td style="text-align:left;">
-Discrete-choice logit model
-</td>
-<td style="text-align:left;">
-San Francisco region (US)
-</td>
-<td style="text-align:left;">
-Nightfall was more of a deterrent to bicycling than to walking
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Panter et al. (2010)
-</td>
-<td style="text-align:left;">
-Objective
-</td>
-<td style="text-align:left;">
-cycle to school
-</td>
-<td style="text-align:left;">
-Streetlight density Number of streetlights divided by total road length
-</td>
-<td style="text-align:left;">
-Multilevel statistical models were fıtted
-</td>
-<td style="text-align:left;">
-Norfolk (UK)
-</td>
-<td style="text-align:left;">
-Children whose routes had a high density of streetlights were less
-likely to cycle to school.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Stinson and Bhat (2004)
-</td>
-<td style="text-align:left;">
 Subjective
 </td>
 <td style="text-align:left;">
-bicycle commuters and nonbicycle commuters
-</td>
-<td style="text-align:left;">
-Not enough daylight to ride safely
-</td>
-<td style="text-align:left;">
-Descriptive examination of the deterrents to bicycle to work
-</td>
-<td style="text-align:left;">
-Global (online)
-</td>
-<td style="text-align:left;">
-The main deterrents for cycle commuting are unpleasant weather, personal
-issues, and not enough daylight to ride safely. Noncycle commuters have
-a much higher likelihood of identifying not enough daylight to ride
-safely as a deterrent than cyclists.
-</td>
-</tr>
-</tbody>
-</table>
+
+- </td>
+  <td style="text-align:left;">
+
+  - </td>
+    <td style="text-align:left;">
+    Descriptive statistics
+    </td>
+    <td style="text-align:left;">
+    Metro Vancouver
+    </td>
+    <td style="text-align:left;">
+    If the route is not well lit after-dark is a major deterrent to
+    cycling, especially for potential cyclists.
+    </td>
+    </tr>
+    <tr>
+    <td style="text-align:left;">
+    Van Cauwenberg et al. (2012)
+    </td>
+    <td style="text-align:left;">
+    Objective
+    </td>
+    <td style="text-align:left;">
+    Cycling for transportation (\>=65)
+    </td>
+    <td style="text-align:left;">
+    Presence of street lighting
+    </td>
+    <td style="text-align:left;">
+    Multilevel logistic regression
+    </td>
+    <td style="text-align:left;">
+    135 Flemish municipalities (BE)
+    </td>
+    <td style="text-align:left;">
+    Presence of street lighting increased the likelihood of daily
+    cycling in \< 75 years old females and rural females but not in
+    other subgroups.
+    </td>
+    </tr>
+    <tr>
+    <td style="text-align:left;">
+    Heinen, Maat, and Wee (2011)
+    </td>
+    <td style="text-align:left;">
+    Objective
+    </td>
+    <td style="text-align:left;">
+    Part-time bicycle commuters
+    </td>
+    <td style="text-align:left;">
+    cycling in the dark
+    </td>
+    <td style="text-align:left;">
+    Logistic Generalized estimating equation (GEE) and logistic random
+    coefficient analysis (RCA)
+    </td>
+    <td style="text-align:left;">
+    Delft, Zwolle, Midden-Delfland, and PijnackerNootdorp (NL)
+    </td>
+    <td style="text-align:left;">
+    Women are less likely to cycle to work in the dark, so women are
+    more sensitive to the absence of daylight.
+    </td>
+    </tr>
+    <tr>
+    <td style="text-align:left;">
+    Cervero and Duncan (2003)
+    </td>
+    <td style="text-align:left;">
+    Objective
+    </td>
+    <td style="text-align:left;">
+    Bicycling
+    </td>
+    <td style="text-align:left;">
+    dark (before sunrise or after sunset)
+    </td>
+    <td style="text-align:left;">
+    Discrete-choice logit model
+    </td>
+    <td style="text-align:left;">
+    San Francisco region (US)
+    </td>
+    <td style="text-align:left;">
+    Nightfall was more of a deterrent to bicycling than to walking
+    </td>
+    </tr>
+    <tr>
+    <td style="text-align:left;">
+    Panter et al. (2010)
+    </td>
+    <td style="text-align:left;">
+    Objective
+    </td>
+    <td style="text-align:left;">
+    cycle to school
+    </td>
+    <td style="text-align:left;">
+    Streetlight density Number of streetlights divided by total road
+    length
+    </td>
+    <td style="text-align:left;">
+    Multilevel statistical models were fıtted
+    </td>
+    <td style="text-align:left;">
+    Norfolk (UK)
+    </td>
+    <td style="text-align:left;">
+    Children whose routes had a high density of streetlights were less
+    likely to cycle to school.
+    </td>
+    </tr>
+    <tr>
+    <td style="text-align:left;">
+    Stinson and Bhat (2004)
+    </td>
+    <td style="text-align:left;">
+    Subjective
+    </td>
+    <td style="text-align:left;">
+    bicycle commuters and nonbicycle commuters
+    </td>
+    <td style="text-align:left;">
+    Not enough daylight to ride safely
+    </td>
+    <td style="text-align:left;">
+    Descriptive examination of the deterrents to bicycle to work
+    </td>
+    <td style="text-align:left;">
+    Global (online)
+    </td>
+    <td style="text-align:left;">
+    One of the main deterrents for cycle commuting is not enough
+    daylight to ride safely, especially among noncycle commuters.
+    </td>
+    </tr>
+    </tbody>
+    </table>
 
 # Discussion
 
