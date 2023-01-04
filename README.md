@@ -413,7 +413,7 @@ Automated cycle counts
 Ambient light
 </td>
 <td style="text-align:left;">
-Clock change method using ORs
+Daylight savings method using ORs
 </td>
 <td style="text-align:left;">
 Cambridge (UK)
@@ -437,7 +437,7 @@ Manual cycle counts
 Ambient light
 </td>
 <td style="text-align:left;">
-Clock change method using ORs
+Daylight savings method using ORs
 </td>
 <td style="text-align:left;">
 Sheffield (UK)
@@ -539,8 +539,7 @@ Mixed logistic regression models
 Seattle (US)
 </td>
 <td style="text-align:left;">
-Some bicyclists favor routes which are planted with street trees or
-installed with street lights.
+Some cyclists favor routes which are installed with street lights.
 </td>
 </tr>
 <tr>
@@ -557,7 +556,7 @@ Automated cycle counts
 Ambient light
 </td>
 <td style="text-align:left;">
-ORs (comparing time savings)
+Daylight savings method using ORs
 </td>
 <td style="text-align:left;">
 Arlington County (US)
