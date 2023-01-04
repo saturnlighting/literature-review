@@ -113,7 +113,7 @@ The following information was extracted from each manuscript: author(s) and year
 
 ## Trends of research
 
-The scientific literature was found to be broadly spread across several disciplines, including engineering, environmental science, social science, and public health.
+The scientific literature was found to be broadly spread across several disciplines, including engineering, public health, urban design/planning and transport planning.
 
 Most of the studies were written in the last decade, with 2022 being the year in which the most studies on this topic were published (Figure 1).
 

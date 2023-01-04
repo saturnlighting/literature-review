@@ -133,8 +133,8 @@ method, location of study, and results (Table 1).
 ## Trends of research
 
 The scientific literature was found to be broadly spread across several
-disciplines, including engineering, environmental science, social
-science, and public health.
+disciplines, including engineering, public health, urban design/planning
+and transport planning.
 
 Most of the studies were written in the last decade, with 2022 being the
 year in which the most studies on this topic were published (Figure 1).
@@ -578,14 +578,14 @@ Poorfakhraei and Rowangould (2015)
 Subjective
 </td>
 <td style="text-align:left;">
-Cyclists
+Students
 </td>
 <td style="text-align:left;">
-street lighting
+Presence of lighting in dark time trips
 </td>
 <td style="text-align:left;">
-a Stated Preference survey was created and a random utility model was
-used to estimate Willingness to Pay including street lighting
+A stated preference survey was created and a random utility model was
+used to estimate willingness to pay including street lighting
 </td>
 <td style="text-align:left;">
 Montreal (Canada)
