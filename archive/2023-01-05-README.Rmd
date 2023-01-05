@@ -5,7 +5,7 @@ output:
 editor_options:
   markdown:
     wrap: sentence
-title: 'The effect of road lighting in cycling uptake: A review'
+title: 'Road Lighting and Cycling Uptake: A review'
 bibliography: saturn-literature-review.bib
 always_allow_html: true
 ---
@@ -119,14 +119,13 @@ The scientific literature was found to be broadly spread across several discipli
 
 Most of the studies were written in the last decade, with 2022 being the year in which the most studies on this topic were published (Figure 1).
 
-```{r fig2, eval=FALSE, fig.cap="Figure 2: Number of studies reviewed", message=FALSE, warning=FALSE, include=FALSE}
+```{r fig2, echo=FALSE, fig.cap="Figure 2: Number of studies reviewed", message=FALSE, warning=FALSE}
 library(kableExtra)
 library(tidyverse)
 
 papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>% replace(is.na(.), 0) %>%
-  filter(road_light == 1) %>% 
   group_by(year) %>% 
   summarise(number = n())
 
@@ -172,12 +171,9 @@ The odds of cycling participation and duration was not higher in participants wh
 
 Perception of poor light at night was not significantly associated with people who reported traffic safety or personal security barriers to cycling [@schneider_perceived_2022].
 
-"Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise. 
-Respondents living in lower-income communities reported greater barriers to pedestrian and bicycle safety and security than residents from wealthier neighborhoods" [@schneider_perceived_2022].
-
 Using Strava Heatmap data and spatial regression models, @yang_crowdsourced_2022 found street lighting positively associated with running, but not with cycling. 
 
-<!-- Using odd ratios to compare traffic flows in case and control hours, @fotios_effect_2022 found that darkness had a significant negative effect on the number of pedestrians and cyclists, but not on the number of motorized vehicles. -->
+Using odd ratios to compare traffic flows in case and control hours, @fotios_effect_2022 found that darkness had a significant negative effect on the number of pedestrians and cyclists, but not on the number of motorized vehicles.
 
 Using satellite and street view imagery and linear regressions, @zacharias_environmental_2021 found street lighting highly significantly associated with higher uptake and deposit of dock-less shared bicycle trips.
 
@@ -185,19 +181,19 @@ Using odd ratios, @uttley_road_2020 found that the drop in cycling levels after 
 
 @fotios_whole-year_2019 found that "ambient light has a significant impact: For a given time of day, more people walk or cycle when it is daylight than after dark and more people cycle on cycle trails and walk on foot paths after dark when they are lit than when they are unlit".
 
-<!-- This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017]. -->
+This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017].
 
 "Some bicyclists favor routes which are planted with street trees or installed with street lights" [@chen_gps_2018].
 
 In a paper that estimated welfare change associated with improvements in urban bicycling facilities, @poorfakhraei_estimating_2015 found that "cycle tracks were valued the most, followed by street lighting, and bicycle lanes".
 
-<!-- "@winters_motivators_2011 found that a major deterrent to cycling was if the route was not well lit after-dark. The deterrent effect was largest for people who don’t currently cycle but potentially would do in the future, highlighting the importance of lighting in encouraging uptake of cycling" [@uttley_road_2020].  -->
+"The presence of street lighting increased the likelihood of daily cycling in < 75 years old females and rural females but not in other subgroups." [@van_cauwenberg_physical_2012].
+
+"@winters_motivators_2011 found that a major deterrent to cycling was if the route was not well lit after-dark. The deterrent effect was largest for people who don’t currently cycle but potentially would do in the future, highlighting the importance of lighting in encouraging uptake of cycling" [@uttley_road_2020]. 
 
 Respondents in a study that examined if neighbourhood environments were associated with walking and cycling, reported that good lighting at night is an important facilitator of cycling [@lee_neighbourhood_2008].
 
-<!-- "Nightfall was more of a deterrent to bicycling than walking" [@cervero_walking_2003].  -->
-
-"The presence of street lighting increased the likelihood of daily cycling in < 75 years old females and rural females but not in other subgroups." [@van_cauwenberg_physical_2012].
+"Nightfall was more of a deterrent to bicycling than walking" [@cervero_walking_2003]. 
 
 <!-- ## Cycling, crime, and lighting -->
 
@@ -206,8 +202,6 @@ This is much less investigated than the relationship between lighting and cyclin
 There is evidence that street lighting decreases crime and enhances reassurance and confidence of pedestrians and cyclists after dark [e.g. @castillo-paredes_perceived_2022].
 
 "Variables related to crime and lighting of public spaces were associated with active travel in countries in Latin America" [@castillo-paredes_perceived_2022].
-
-"Children whose routes had a high density of streetlights were less likely to cycle to school" [@panter_neighborhood_2010].
 
 <!-- @lusk_bicycle_2019 asked lower-income predominantly-minority residents what bicycle routes surface or context they perceived as safest from crime and crashes. They reported that "clean signs, balconies, cafes, street lights, no cuts between buildings, and flowers were low risk for crime and witnesses, little traffic, and bike signals low risk for crash".  -->
 
@@ -219,23 +213,30 @@ There is evidence that street lighting decreases crime and enhances reassurance 
 
 <!-- ## Cycling inequalities in lighting -->
 
-<!-- Fear of danger of injury from traffic, falls, or violence seems to affect groups differently. -->
+Fear of danger of injury from traffic, falls, or violence seems to affect groups differently.
 
-<!-- <Gender> -->
+<Gender>
 
-<!-- @fotios_extending_2022 found that darkness has a greater deterrent effect on female cyclists than on male cyclists.  -->
+@fotios_extending_2022 found that darkness has a greater deterrent effect on female cyclists than on male cyclists. 
 
-<!-- "Recent research [@sustrans_bikelife_2018] found that only 23% of women felt safe cycling during hours of darkness, compared with 36% of men, which suggests that Lighting may also contribute to addressing the current gender imbalance in cycling by encouraging more women to cycle after-dark" [@uttley_road_2020]. -->
+"Recent research [@sustrans_bikelife_2018] found that only 23% of women felt safe cycling during hours of darkness, compared with 36% of men, which suggests that Lighting may also contribute to addressing the current gender imbalance in cycling by encouraging more women to cycle after-dark" [@uttley_road_2020].
 
-<!-- "Women are less likely to cycle to work in the dark, so women are more sensitive to the absence of daylight" [@heinen_day_2011]. -->
+"Women are less likely to cycle to work in the dark, so women are more sensitive to the absence of daylight" [@heinen_day_2011].
 
-<!-- "Darkness was also more important to women than to men, but with a mean grading of 3.0 in the survey of 1998, and 2.7 in the survey of 2000, this factor could still not, not even for women, be considered to be important in the choice of mode" [@bergstrom_potential_2003]. -->
+"Darkness was also more important to women than to men, but with a mean grading of 3.0 in the survey of 1998, and 2.7 in the survey of 2000, this factor could still not, not even for women, be considered to be important in the choice of mode" [@bergstrom_potential_2003].
 
 <!-- "Women are more sensitive to dark spaces when walking and cycling than men" [@xie_i_2018]. -->
 
-<!-- <Disadvantaged groups> -->
+<Age>
 
-<!-- "The dominant deterrents to bicycle commuting are unpleasant weather and inadequate daylight" [@stinson_frequency_2004] -->
+"Children whose routes had a high density of streetlights were less likely to cycle to school" [@panter_neighborhood_2010].
+
+<Disadvantaged groups>
+
+"Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise. 
+Respondents living in lower-income communities reported greater barriers to pedestrian and bicycle safety and security than residents from wealthier neighborhoods" [@schneider_perceived_2022].
+
+"The dominant deterrents to bicycle commuting are unpleasant weather and inadequate daylight" [@stinson_frequency_2004]
 
 ```{r tab4, echo=FALSE, message=FALSE, warning=FALSE}
 library(kableExtra)
@@ -244,12 +245,12 @@ library(tidyverse)
 papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
-  filter(road_light == 1) %>% 
+  filter(full_text == 1) %>% 
   
   select(authors, location, research_method, analytical_tool, result)
 
 kbl(df,
-    caption = "Table 1: Overview of studies that have examined the association between road lighting and cycling uptake") %>%
+    caption = "Table 1: Overview of studies that have examined the association between lighting and cycling") %>%
     kable_styling()
 ```
 
@@ -259,14 +260,16 @@ Street lighting increases cyclists' sense of safety at night by helping them see
 
 Street lighting provision. There may be big differences between countries. E.g. parks in Spain are all well lit, while in the UK most of them are unlit. Population density may be an important factor. 
 
-#### To what extent does road lighting influence cycling uptake?
+#### To what extent does darkness influence cycling uptake?
 
 The positive results obtained in studies looking at the association between cycling uptake and street lighting show the importance of light conditions as a policy measure to encourage cycling in the dark. 
 Lighting conditions improvements not only may increase cycling trips in general, but also the inclusivity of cycling, since, as has been demonstrated, street lighting will benefit more certain groups such as women.
 
-#### Is this positive effect due to fear of being run over by motorirsed traffic or a victim of crime in the dark?
+#### Is this negative effect due to fear of being run over by motorirsed traffic or a victim of crime in the dark?
 
-#### Is the association between road lighting and cycling uptake the same between different groups?
+#### Is the association between cycling and darkness the same between different groups?
+
+#### What happens to people who do not cycle when it is dark? Do they avoid their trips? Do they change their mode of transport? Do they change their routes? 
 
 #### What type of road lighting is the most suitable for cycling to increase and be safer?
 
@@ -280,7 +283,7 @@ Based on these findings, we highlight the following research needs.
 
 - More research in locations with different latitudes to most Western countries. More extreme latitude locations have longer durations of darkness during parts of the year than countries at less extreme latitudes.
 
-- We do not know whether road lighting affects differently different groups. We know that darkness has a strongerr effect on cyclists women [@fotios_extending_2022], but does road lighting solve this problem? We do not know either whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022]. Also gender age groups are under-research. Do young female perceive cycling in the dark more dangerous than other women-age groups due to the risk of sexual assault?
+- We do not know whether there is difference in terms of age. @fotios_extending_2022 considered age only for pedestrians. "The ORs for younger and older pedestrians were suggested to be significantly different (young OR = 1.58, old OR = 3.38, z = 3.800, p<0.001), indicating that darkness is a greater deterrent to old pedestrians than to young pedestrians" [@fotios_extending_2022]. Also gender age groups are under-research. Do young female perceive cycling in the dark more dangerous than other women-age groups due to the risk of sexual assault?
 
 - "If fewer people are walking or cycling after dark, the remainder must be doing something else instead. Consider three possibilities. First, they are making the same journey but instead driving using a personal motorized vehicle: darkness is a suggested factor in the choice of travel mode for short trips. Second, they are again making the same journey but using some form of shared motorized transport for some part of it, such as sharing a private vehicle or using public transport. Third, they are not leaving their home. This could be investigated by repeating the ambient light level analysis for motorized vehicles in addition to pedestrians and cyclists" [@fotios_effect_2022].
 
