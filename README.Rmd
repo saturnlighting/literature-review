@@ -140,6 +140,14 @@ ggplot(df, aes(x = year, y = number)) +
 
 ## Types of studies 
 
+<!-- 
+
+- Objective and subjective research
+
+- Exploratory, Descriptive, and Explanatory research
+
+-->
+
 Studies looking at the association between road lighting and cycling uptake can be divided between those that used subjective measurements and objective measurements.
 
 "Subjective measures of reassurance are, however, prone to stimulus range bias and socially desirable responding, and, as stated preferences, it is unknown whether they are reflected in behaviour (revealed preference).
@@ -236,7 +244,8 @@ papers <- read.csv("lrp-papers-summary.csv")
 
 df = papers %>%
   filter(full_text == 1) %>% 
-  select(authors, measurements, cycling, lighting, method, location, result)
+  
+  select(authors, research_method, lighting_measurement, analytical_tool, location, result)
 
 kbl(df,
     caption = "Table 1: Overview of studies that have examined the association between lighting and cycling") %>%
@@ -247,7 +256,7 @@ kbl(df,
 
 Street lighting increases cyclists' sense of safety at night by helping them see and be seen by other road users during their journey. It also provides them with a greater sense of security against possible threats in the dark.
 
-Street lighting provision. There may be a big differences between countries. Urban density factor. Parks in Spain are all lighted, not the same in the UK. E.g. 69.9% agree that streets are well lit Latin America [@castillo-paredes_perceived_2022].
+Street lighting provision. There may be big differences between countries. E.g. parks in Spain are all well lit, while in the UK most of them are unlit. Population density may be an important factor. 
 
 #### To what extent does darkness influence cycling uptake?
 
@@ -296,7 +305,6 @@ We do not include and analyse the controls used in each of the studies.
 This paper reviewed published research on the intersection between road lighting and cycling uptake.
 
 <gaps>Despite the recent growth of articles on this subject, it is still under-researched. More empirical work in the area of cycling and road lighting is needed.
-
 
 <!-- The review presented above highlights the need for more empirical work in the area of cycling uptake (which means tackling the barriers to cycling including road safety and perceived personal safety) and lighting.  -->
 
