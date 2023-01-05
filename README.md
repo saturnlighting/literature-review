@@ -673,13 +673,14 @@ Subjective
     Van Cauwenberg et al. (2012)
     </td>
     <td style="text-align:left;">
-    Objective
+    Subjective
     </td>
     <td style="text-align:left;">
-    Cycling for transportation (\>=65)
+    ‘How often do you cycle for transportation?’
     </td>
     <td style="text-align:left;">
-    Presence of street lighting
+    ‘Are the following facilities sufficiently present in your
+    neighborhood?’ yes/no. Presence of street lighting
     </td>
     <td style="text-align:left;">
     Multilevel logistic regression
@@ -689,7 +690,7 @@ Subjective
     </td>
     <td style="text-align:left;">
     Presence of street lighting increased the likelihood of daily
-    cycling in \< 75 years old females and rural females but not in
+    cycling in \< 75 years old females and rural females, but not in
     other subgroups.
     </td>
     </tr>
@@ -701,10 +702,10 @@ Subjective
     Objective
     </td>
     <td style="text-align:left;">
-    Part-time bicycle commuters
+    Bicycle vs nonbicycle
     </td>
     <td style="text-align:left;">
-    cycling in the dark
+    Darkness while commuting and interaction female-darkness
     </td>
     <td style="text-align:left;">
     Logistic Generalized estimating equation (GEE) and logistic random
@@ -720,16 +721,42 @@ Subjective
     </tr>
     <tr>
     <td style="text-align:left;">
+    Bergström and Magnusson (2003)
+    </td>
+    <td style="text-align:left;">
+    Subjective
+    </td>
+    <td style="text-align:left;">
+    Winter cyclist, Summer-only cyclists, Never cyclist
+    </td>
+    <td style="text-align:left;">
+    Factor darkness
+    </td>
+    <td style="text-align:left;">
+    Descriptive statistics
+    </td>
+    <td style="text-align:left;">
+    Lulea and Linkoping (SE)
+    </td>
+    <td style="text-align:left;">
+    Darkness was also more important to women than to men, but with a
+    mean grading of 3.0 in the survey of 1998, and 2.7 in the survey of
+    2000, this factor could still not, not even for women, be considered
+    to be important in the choice of mode.
+    </td>
+    </tr>
+    <tr>
+    <td style="text-align:left;">
     Cervero and Duncan (2003)
     </td>
     <td style="text-align:left;">
     Objective
     </td>
     <td style="text-align:left;">
-    Bicycling
+    Cycling trip
     </td>
     <td style="text-align:left;">
-    dark (before sunrise or after sunset)
+    Dark (1 = yes, 0 = no) (before sunrise or after sunset)
     </td>
     <td style="text-align:left;">
     Discrete-choice logit model
@@ -749,10 +776,10 @@ Subjective
     Objective
     </td>
     <td style="text-align:left;">
-    cycle to school
+    Cycle to school
     </td>
     <td style="text-align:left;">
-    Streetlight density Number of streetlights divided by total road
+    Streetlight density = number of streetlights divided by total road
     length
     </td>
     <td style="text-align:left;">
@@ -780,7 +807,7 @@ Subjective
     Not enough daylight to ride safely
     </td>
     <td style="text-align:left;">
-    Descriptive examination of the deterrents to bicycle to work
+    Descriptive statistics
     </td>
     <td style="text-align:left;">
     Global (online)
