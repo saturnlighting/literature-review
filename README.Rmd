@@ -90,7 +90,7 @@ All searches were based on the content of the title, abstract, and keywords, and
 *(bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*")* 
 
 This search resulted in 262 records in Scopus and 206 in WoS. 
-Studies that did not focus on the association between road lighting and cycling uptake were excluded (many studies mentioned cycling and lighting in passing but not as the topic of the paper, others looked at the relationship between road lighting and cycling safety, but not cycling uptake).
+Studies that did not focus on the association between road lighting and cycling uptake were excluded (many studies mentioned cycling and lighting in passing but not as the topic of the paper, others looked at the relationship between road lighting and cycling traffic safety, but not cycling uptake).
 After combining search results, excluding duplicates, and screening abstracts and full texts, TBC studies were selected.
 
 Second, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts of these references, TBC additional papers were selected.
