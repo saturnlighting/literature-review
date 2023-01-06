@@ -91,11 +91,13 @@ Section 5 closes the work with the conclusions.
 ## Search strategy
 
 We used a hybrid systematic and snowballing method. First, we searched
-two electronic databases, SCOPUS and Web of Science (WOS) (on 6 January
-2023), for empirical studies investigating the relationship between
-cycling and road lighting, All searches were based on the content of the
-title, abstract, and keywords, and the query string used for the search
-was as follows:
+in two of the main sources for citation data, Elsevierś Scopus and Web
+of Science (WoS) (on 6 January 2023), for empirical studies
+investigating the relationship between cycling and road lighting. All
+searches were based on the content of the title, abstract, and keywords,
+and the query string used for the search was as follows:
+
+<!-- the two the main sources for citation data, Elsevierś Scopus and Web of Science (WoS) (on 6 January 2023) [@mongeon_journal_2016] -->
 
 *(bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire”) AND (“city
 light\*” OR “public light\*” OR “road light\*” OR “street light\*” or
@@ -104,18 +106,18 @@ light\*” OR “public light\*” OR “road light\*” OR “street light\*”
 lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*” OR “light
 pole\*”)*
 
-This search resulted in 262 records in SCOPUS and 206 in WOS. After
-combining search results, excluding duplicates, and screening abstracts
-and full texts, TBC studies were selected. We excluded papers that did
-not focus on cycling and road lighting (many studies mentioned cycling
-and lighting in passing but not as the topic of the paper). We also
-excluded the papers referring to how light influenced not cycling uptake
-but the road safety of cyclists.
+This search resulted in 262 records in Scopus and 206 in WoS. Studies
+that did not focus on the association between road lighting and cycling
+uptake were excluded (many studies mentioned cycling and lighting in
+passing but not as the topic of the paper, others looked at the
+relationship between road lighting and cycling safety, but not cycling
+uptake). After combining search results, excluding duplicates, and
+screening abstracts and full texts, TBC studies were selected.
 
 Second, we checked the references from the studies selected
-(i.e. snowball technique), and after screening abstracts and full texts,
-TBC additional papers were selected. In total, TBC were reviewed. A flow
-chart of the search strategy is shown in Figure 1.
+(i.e. snowball technique), and after screening abstracts and full texts
+of these references, TBC additional papers were selected. In total, TBC
+were reviewed. A flow chart of the search strategy is shown in Figure 1.
 
 <div class="figure" style="text-align: center">
 
@@ -144,8 +146,11 @@ The scientific literature was found to be broadly spread across several
 disciplines, including engineering, public health, urban design/planning
 and transport planning.
 
-Most of the studies were written in the last decade, with 2022 being the
-year in which the most studies on this topic were published (Figure 1).
+All the studies were written in the last fifteen years, with 2022 being
+the year in which most studies on this topic were published.
+
+![Figure 2: Number of studies
+reviewed](README_files/figure-gfm/fig2-1.png)
 
 ## Types of studies
 
@@ -451,6 +456,26 @@ used to estimate willingness to pay including street lighting
 <td style="text-align:left;">
 Cycle tracks were valued the most, followed by street lighting and
 bicycle lanes.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Sanders and Cooper (2013)
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Increasing street lighting is one of the top five suggestions for all
+road users groups. Similar preference alignment was found for street
+improvements to encourage more visits to the corridor.
 </td>
 </tr>
 <tr>
