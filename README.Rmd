@@ -82,21 +82,20 @@ Section 5 closes the work with the conclusions.
 ## Search strategy
 
 We used a hybrid systematic and snowballing method.
-First, we searched in the SCOPUS electronic database (on 15 November 2022) for empirical studies investigating the relationship between cycling and road lighting.
-The query string used for the search was as follows:
+First, we searched two electronic databases, SCOPUS and Web of Science (WOS) (on 6 January 2023), for empirical studies investigating the relationship between cycling and road lighting, 
+All searches were based on the content of the title, abstract, and keywords, and the query string used for the search was as follows:
 
 *(bicycl\* OR bik\* OR cycling OR cyclist\* OR "cycle hire") AND ("city light\*" OR "public light\*" OR "road light\*" OR "street light\*" or "city illumination" OR "public illumination" OR "road illumination" OR "street illumination" OR "city lamp\*" OR "public lamp\*" OR "road lamp\*" OR "street lamp\*" OR "lamp post\*" OR "light post\*" OR "light pole\*")* 
 
-This search, based on the content of the title, abstract, and keywords, resulted in 262 records. 
-After screening abstracts and full text, TBC studies were selected.
+This search resulted in 262 records in SCOPUS and 206 in WOS. After combining search results, excluding duplicates, and screening abstracts and full texts, TBC studies were selected.
 We excluded papers that did not focus on cycling and road lighting (many studies mentioned cycling and lighting in passing but not as the topic of the paper).
 We also excluded the papers referring to how light influenced not cycling uptake but the road safety of cyclists.
 
-In the second stage, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts, TBC additional papers were selected.
+Second, we checked the references from the studies selected (i.e. snowball technique), and after screening abstracts and full texts, TBC additional papers were selected.
 In total, TBC were reviewed.
-A flow chart of included studies is shown in Figure 1.
+A flow chart of the search strategy is shown in Figure 1.
 
-```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '40%'}
+```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '50%'}
 knitr::include_graphics("flow-chart.png")
 ```
 
@@ -106,7 +105,7 @@ knitr::include_graphics("flow-chart.png")
 
 ## Data extraction
 
-The following information was extracted from each manuscript: author(s) and year, location of study, measurements for cycling and lighting, type of measurements, method or analytical tool, and results (Table 1). 
+The following information was extracted from each study: author(s) and year, location of study, measurements for cycling and lighting, type of measurements, method or analytical tool, and results (Table 1). 
 <!-- For analytical reasons, the type of measurements were classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective). -->
 
 # Results
@@ -151,6 +150,8 @@ ggplot(df, aes(x = year, y = number)) +
 
 Studies looking at the association between road lighting and cycling uptake can be divided between those that used subjective measurements and objective measurements.
 
+Correlational research studies and Descriptive research studies.
+
 <!-- "Subjective measures of reassurance are prone to stimulus range bias and socially desirable responding, and, as stated preferences, it is unknown whether they are reflected in behaviour (revealed preference). -->
 <!-- A more direct approach to investigating whether road lighting influence cycling is to count the number of people using these transport modes in different light conditions. If darkness reduces reassurance, then there will be fewer pedestrians and cyclists. This has been investigated, and confirmed, in studies taking advantage of variation in daylight, either the seasonal variation or the sudden transition imposed by biannual daylight saving clock changes" [@fotios_extending_2022]. Objective measures of behaviour provide stronger evidence. -->
 
@@ -188,6 +189,8 @@ Using odd ratios, @uttley_road_2020 found that the drop in cycling levels after 
 In a paper that estimated welfare change associated with improvements in urban bicycling facilities, @poorfakhraei_estimating_2015 found that "cycle tracks were valued the most, followed by street lighting, and bicycle lanes".
 
 <!-- "@winters_motivators_2011 found that a major deterrent to cycling was if the route was not well lit after-dark. The deterrent effect was largest for people who don’t currently cycle but potentially would do in the future, highlighting the importance of lighting in encouraging uptake of cycling" [@uttley_road_2020].  -->
+
+[@sanders_all_2013]
 
 Respondents in a study that examined if neighbourhood environments were associated with walking and cycling, reported that good lighting at night is an important facilitator of cycling [@lee_neighbourhood_2008].
 
@@ -270,6 +273,9 @@ There is evidence that street lighting decreases crime and enhances reassurance 
 
 #### What type of road lighting is the most suitable for cycling to increase and be safer?
 
+Studies used different measurements for road lighting, without specifying the type or levels of lighting.
+Find out the most suitable, environmentally friendly and "green" solution to fulfill the cyclists road lighting requirements. 
+
 [@fotios_lighting_2017]
 
 ## Research gaps
@@ -277,7 +283,7 @@ There is evidence that street lighting decreases crime and enhances reassurance 
 Based on these findings, we highlight the following research needs:
 
 - More focus on the effect of road lighting specifically on cycling. 
-Many studies look at road lighting and active travel, failing to separate walking and cycling. 
+Many studies look at road lighting and physical activity and active travel, failing to separate walking and cycling. 
 The characteristics of environments encouraging walking may be different from those supporting cycling. 
 
 - More research in developing countries. 

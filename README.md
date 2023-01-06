@@ -91,9 +91,11 @@ Section 5 closes the work with the conclusions.
 ## Search strategy
 
 We used a hybrid systematic and snowballing method. First, we searched
-in the SCOPUS electronic database (on 15 November 2022) for empirical
-studies investigating the relationship between cycling and road
-lighting. The query string used for the search was as follows:
+two electronic databases, SCOPUS and Web of Science (WOS) (on 6 January
+2023), for empirical studies investigating the relationship between
+cycling and road lighting, All searches were based on the content of the
+title, abstract, and keywords, and the query string used for the search
+was as follows:
 
 *(bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire”) AND (“city
 light\*” OR “public light\*” OR “road light\*” OR “street light\*” or
@@ -102,29 +104,36 @@ light\*” OR “public light\*” OR “road light\*” OR “street light\*”
 lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*” OR “light
 pole\*”)*
 
-This search, based on the content of the title, abstract, and keywords,
-resulted in 262 records. After screening abstracts and full text, TBC
-studies were selected. We excluded papers that did not focus on cycling
-and road lighting (many studies mentioned cycling and lighting in
-passing but not as the topic of the paper). We also excluded the papers
-referring to how light influenced not cycling uptake but the road safety
-of cyclists.
+This search resulted in 262 records in SCOPUS and 206 in WOS. After
+combining search results, excluding duplicates, and screening abstracts
+and full texts, TBC studies were selected. We excluded papers that did
+not focus on cycling and road lighting (many studies mentioned cycling
+and lighting in passing but not as the topic of the paper). We also
+excluded the papers referring to how light influenced not cycling uptake
+but the road safety of cyclists.
 
-In the second stage, we checked the references from the studies selected
+Second, we checked the references from the studies selected
 (i.e. snowball technique), and after screening abstracts and full texts,
 TBC additional papers were selected. In total, TBC were reviewed. A flow
-chart of included studies is shown in Figure 1.
+chart of the search strategy is shown in Figure 1.
 
-<img src="flow-chart.png" alt="Figure 1: flow chart" width="40%" style="display: block; margin: auto;" />
+<div class="figure" style="text-align: center">
+
+<img src="flow-chart.png" alt="Figure 1: flow chart" width="50%" />
+<p class="caption">
+Figure 1: flow chart
+</p>
+
+</div>
 
 <!-- Paper we did not have access: -->
 <!-- - S. Chandra, R. Radhakrishnan, Street visibility-dependent path finding for pedestrians and bicyclists in urban areas, Transportation Research Board 94th Annual Meeting, Transportation Research Board, Washington DC, United States, 2015. -->
 
 ## Data extraction
 
-The following information was extracted from each manuscript: author(s)
-and year, location of study, measurements for cycling and lighting, type
-of measurements, method or analytical tool, and results (Table 1).
+The following information was extracted from each study: author(s) and
+year, location of study, measurements for cycling and lighting, type of
+measurements, method or analytical tool, and results (Table 1).
 <!-- For analytical reasons, the type of measurements were classified into subjective and objective, depending on whether the associations were perceived (subjective) or objectively measured (objective). -->
 
 # Results
@@ -151,6 +160,8 @@ year in which the most studies on this topic were published (Figure 1).
 Studies looking at the association between road lighting and cycling
 uptake can be divided between those that used subjective measurements
 and objective measurements.
+
+Correlational research studies and Descriptive research studies.
 
 <!-- "Subjective measures of reassurance are prone to stimulus range bias and socially desirable responding, and, as stated preferences, it is unknown whether they are reflected in behaviour (revealed preference). -->
 <!-- A more direct approach to investigating whether road lighting influence cycling is to count the number of people using these transport modes in different light conditions. If darkness reduces reassurance, then there will be fewer pedestrians and cyclists. This has been investigated, and confirmed, in studies taking advantage of variation in daylight, either the seasonal variation or the sudden transition imposed by biannual daylight saving clock changes" [@fotios_extending_2022]. Objective measures of behaviour provide stronger evidence. -->
@@ -208,6 +219,8 @@ that “cycle tracks were valued the most, followed by street lighting,
 and bicycle lanes”.
 
 <!-- "@winters_motivators_2011 found that a major deterrent to cycling was if the route was not well lit after-dark. The deterrent effect was largest for people who don’t currently cycle but potentially would do in the future, highlighting the importance of lighting in encouraging uptake of cycling" [@uttley_road_2020].  -->
+
+(Sanders and Cooper 2013)
 
 Respondents in a study that examined if neighbourhood environments were
 associated with walking and cycling, reported that good lighting at
@@ -578,6 +591,11 @@ found that women are less likely to cycle to work in the dark.
 
 #### What type of road lighting is the most suitable for cycling to increase and be safer?
 
+Studies used different measurements for road lighting, without
+specifying the type or levels of lighting. Find out the most suitable,
+environmentally friendly and “green” solution to fulfill the cyclists
+road lighting requirements.
+
 (Fotios and Castleton 2017)
 
 ## Research gaps
@@ -585,9 +603,10 @@ found that women are less likely to cycle to work in the dark.
 Based on these findings, we highlight the following research needs:
 
 - More focus on the effect of road lighting specifically on cycling.
-  Many studies look at road lighting and active travel, failing to
-  separate walking and cycling. The characteristics of environments
-  encouraging walking may be different from those supporting cycling.
+  Many studies look at road lighting and physical activity and active
+  travel, failing to separate walking and cycling. The characteristics
+  of environments encouraging walking may be different from those
+  supporting cycling.
 
 - More research in developing countries. “Lack of street lighting can
   contribute to poor visibility, perception and fear of crime thus
@@ -757,6 +776,16 @@ Meghan Winters. 2009. “The Impact of Transportation Infrastructure on
 Bicycling Injuries and Crashes: A Review of the Literature.”
 *Environmental Health* 8 (1): 47.
 <https://doi.org/10.1186/1476-069X-8-47>.
+
+</div>
+
+<div id="ref-sanders_all_2013" class="csl-entry">
+
+Sanders, Rebecca L., and Jill F. Cooper. 2013. “Do All Roadway Users
+Want the Same Things?: Results from Roadway Design Survey of San
+Francisco Bay Area Pedestrians, Drivers, Bicyclists, and Transit Users.”
+*Transportation Research Record: Journal of the Transportation Research
+Board* 2393 (1): 155–63. <https://doi.org/10.3141/2393-18>.
 
 </div>
 
