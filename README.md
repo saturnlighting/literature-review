@@ -174,7 +174,7 @@ Range bias in evaluations of perceived safety (S. Fotios and Castleton
 weather from the effects of ambient light on travel choice than does the
 whole-year method” (Fotios, Uttley, and Fox 2019).
 
-<img src="study-types2.png" alt="Figure 2: Study types" width="60%" style="display: block; margin: auto;" />
+<img src="study-types.png" alt="Figure 2: Study types" width="60%" style="display: block; margin: auto;" />
 
 ## Empirical findings
 

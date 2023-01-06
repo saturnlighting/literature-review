@@ -161,7 +161,7 @@ Range bias in evaluations of perceived safety [@fotios_specifying_2016].
 "The daylight savings method of analysis better isolates changes in weather from the effects of ambient light on travel choice than does the whole-year method" [@fotios_whole-year_2019].
 
 ```{r fig3, echo=FALSE, fig.align="center", fig.cap="Figure 2: Study types", out.width = '60%'}
-knitr::include_graphics("study-types2.png")
+knitr::include_graphics("study-types.png")
 ```
 
 ## Empirical findings
