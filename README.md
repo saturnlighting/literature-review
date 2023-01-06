@@ -110,9 +110,9 @@ This search resulted in 262 records in Scopus and 206 in WoS. Studies
 that did not focus on the association between road lighting and cycling
 uptake were excluded (many studies mentioned cycling and lighting in
 passing but not as the topic of the paper, others looked at the
-relationship between road lighting and cycling safety, but not cycling
-uptake). After combining search results, excluding duplicates, and
-screening abstracts and full texts, TBC studies were selected.
+relationship between road lighting and cycling traffic safety, but not
+cycling uptake). After combining search results, excluding duplicates,
+and screening abstracts and full texts, TBC studies were selected.
 
 Second, we checked the references from the studies selected
 (i.e. snowball technique), and after screening abstracts and full texts
@@ -463,19 +463,24 @@ bicycle lanes.
 Sanders and Cooper (2013)
 </td>
 <td style="text-align:left;">
+San Francisco Bay Area (US)
 </td>
 <td style="text-align:left;">
+Randomly intercept participants on foot or bicycle at eight sites along
+the study corridor
 </td>
 <td style="text-align:left;">
+Types of street improvements they thought would improve traffic safety.
 </td>
 <td style="text-align:left;">
+Subjective
 </td>
 <td style="text-align:left;">
+Descriptive statistics
 </td>
 <td style="text-align:left;">
-Increasing street lighting is one of the top five suggestions for all
-road users groups. Similar preference alignment was found for street
-improvements to encourage more visits to the corridor.
+Increasing street lighting is the second top suggestions for cyclists to
+improve safety.
 </td>
 </tr>
 <tr>
