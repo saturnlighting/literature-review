@@ -102,7 +102,7 @@ Second, to make sure we didn't miss any important studies, we checked the refere
 In total, TBC were reviewed.
 A flow chart of the search strategy is shown in Figure 1.
 
-```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '50%'}
+```{r fig1, echo=FALSE, fig.align="center", fig.cap="Figure 1: flow chart", out.width = '40%'}
 knitr::include_graphics("flow-chart.png")
 ```
 
@@ -125,7 +125,7 @@ Research on this relationship is very recent and seems to be increasing. All the
 
 Methodologically, the studies can be roughly divided into those that used subjective measurements and objective measurements.
 
-```{r fig2, echo=FALSE, fig.cap="Figure 2: Trends and types of studies reviewed", message=FALSE, warning=FALSE, out.width='75%'}
+```{r fig2, echo=FALSE, fig.align="center", fig.cap="Figure 2: Trends and types of studies reviewed", message=FALSE, warning=FALSE, out.width='75%'}
 library(kableExtra)
 library(tidyverse)
 

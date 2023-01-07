@@ -134,7 +134,7 @@ chart of the search strategy is shown in Figure 1.
 
 <div class="figure" style="text-align: center">
 
-<img src="flow-chart.png" alt="Figure 1: flow chart" width="50%" />
+<img src="flow-chart.png" alt="Figure 1: flow chart" width="40%" />
 <p class="caption">
 Figure 1: flow chart
 </p>
@@ -167,7 +167,7 @@ the year in which most studies on this topic were published (Figure 2).
 Methodologically, the studies can be roughly divided into those that
 used subjective measurements and objective measurements.
 
-<div class="figure">
+<div class="figure" style="text-align: center">
 
 <img src="README_files/figure-gfm/fig2-1.png" alt="Figure 2: Trends and types of studies reviewed" width="75%" />
 <p class="caption">
