@@ -44,8 +44,8 @@
     },
     {
       "type": "text",
-      "version": 2113,
-      "versionNonce": 1612383592,
+      "version": 2115,
+      "versionNonce": 1322398050,
       "isDeleted": false,
       "id": "hIOAtHjYd28zbsL3HCgNV",
       "fillStyle": "hachure",
@@ -64,17 +64,17 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1673034749035,
+      "updated": 1673085295865,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Total included studies \n(N= 12) ",
+      "text": "Total included studies \n(N= 13) ",
       "baseline": 41,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "OiF2oJStEY5OqUiABTEoq",
-      "originalText": "Total included studies \n(N= 12) "
+      "originalText": "Total included studies \n(N= 13) "
     },
     {
       "type": "rectangle",
@@ -263,8 +263,8 @@
     },
     {
       "type": "text",
-      "version": 2417,
-      "versionNonce": 1509103128,
+      "version": 2419,
+      "versionNonce": 1515438562,
       "isDeleted": false,
       "id": "BVIHrdJvC8OXpLUVcUSL8",
       "fillStyle": "hachure",
@@ -283,17 +283,17 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1673034932173,
+      "updated": 1673085291408,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "Screened full text \n(N= 10)",
+      "text": "Screened full text \n(N= 11)",
       "baseline": 41,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "vUivIyv2iDDXBVr1yLvwO",
-      "originalText": "Screened full text \n(N= 10)"
+      "originalText": "Screened full text \n(N= 11)"
     },
     {
       "type": "arrow",
@@ -1019,7 +1019,7 @@
       "roundness": {
         "type": 2
       },
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1673034868049,
       "link": null,
       "locked": false,
