@@ -9,13 +9,13 @@ The effect of road lighting on cycling uptake: A review
 
 <Background>Many studies have explored the extent to which macro-built
 environmental attributes (e.g. population density, land use mix,
-proximity, spatial connectivity) and especially safe cycling
-infrastructure affects cycling uptake. Less attention has been paid to
+proximity, spatial connectivity), and especially safe cycling
+infrastructure, affect cycling uptake. Less attention has been paid to
 the impact that micro-built environmental factors such as road lighting
 may have on people’s choice to cycle. This paper provides a review of
 the scientific literature on the relationship between road lighting and
 cycling uptake and identifies existing gaps in research and knowledge.
-<Method>We used a hybrid systematic and snowballing method. TBC
+<Method>We used a hybrid systematic and snowballing method. Ten
 empirical scientific studies were reviewed. These studies can be divided
 into those that use subjective measurements and those that use objective
 measurements. <Results>Most of the studies analysed suggest that road
@@ -82,10 +82,10 @@ The review is guided by the following questions:
 
 1.  To what extent does road lighting influence cycling uptake?
 
-2.  Is the association between road lighting and cycling uptake the same
-    between different groups?
+2.  What are the possible causes of this positive relationship?
 
-3.  What are the possible causes of this positive relationship?
+3.  Is the association between road lighting and cycling uptake the same
+    between different groups?
 
 4.  What type of road lighting is the most suitable for cycling to
     increase and be safer?
@@ -101,7 +101,7 @@ conclusions.
 ## Search strategy
 
 We used a hybrid systematic and snowballing method. First, we searched
-in Elsevierś Scopus and Web of Science (WoS) (on 6 January 2023) for
+in Elsevierś Scopus and Web of Science (WoS) (on 9 January 2023) for
 empirical studies investigating the relationship between cycling and
 road lighting. All searches were based on the content of the title,
 abstract, and keywords, and the query string used for the search was as
@@ -109,28 +109,28 @@ follows:
 
 <!-- the two the main sources for citation data, Elsevierś Scopus and Web of Science (WoS) (on 6 January 2023) [@mongeon_journal_2016] -->
 
-*(bicycl\* OR bik\* OR cycling OR cyclist\* OR “cycle hire”) AND (“city
-light\*” OR “public light\*” OR “road light\*” OR “street light\*” or
-“city illumination” OR “public illumination” OR “road illumination” OR
-“street illumination” OR “city lamp\*” OR “public lamp\*” OR “road
-lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light post\*” OR “light
-pole\*”)*
+*(“city light\*” OR “public light\*” OR “road light\*” OR “street
+light\*” or “city illumination” OR “public illumination” OR “road
+illumination” OR “street illumination” OR “city lamp\*” OR “public
+lamp\*” OR “road lamp\*” OR “street lamp\*” OR “lamp post\*” OR “light
+post\*” OR “light pole\*”) AND (bicycl\* OR bik\* OR cycling OR
+cyclist\* OR “cycle hire”)*
 
-The search resulted in 262 records in Scopus and 206 in WoS. Studies
-that did not focus on the association between road lighting and cycling
-uptake were excluded. Many studies mentioned cycling and lighting in
-passing but not as the topic of the paper. Others looked at the
-relationship between road lighting and cycling traffic safety, but not
-cycling uptake. After combining search results, excluding duplicates,
-and screening abstracts and full texts, TBC studies were selected.
-
-<!-- We focus on road lighting, excluding studies on lighting equipment for cyclists, such as reflective clothing or bicycle-mounted lights. -->
+The search resulted in 258 records in Scopus and 206 in WoS. Studies
+that strictly focused on the relationship between road lighting and
+cycling uptake were selected. We excluded, therefore, studies that
+observed the relationship between road lighting and the road safety of
+cyclists, studies examining the relationship between ambient lighting or
+darkness and cycling, and studies on lighting equipment for cyclists,
+such as reflective clothing or bicycle-mounted lights. After combining
+the search results, excluding duplicates, and examining abstracts and
+full texts for this content, 8 studies were selected.
 
 Second, to make sure we didn’t miss any important studies, we checked
 the references from the studies selected (i.e. snowball technique), and
-after screening abstracts and full texts of these references, TBC
-additional papers were selected. In total, TBC were reviewed. A flow
-chart of the search strategy is shown in Figure 1.
+after screening abstracts and full texts of these references, 2
+additional papers were selected. In total, 10 studies were reviewed. A
+flow chart of the search strategy is shown in Figure 1.
 
 <div class="figure" style="text-align: center">
 
@@ -160,12 +160,10 @@ cycling uptake was found to be broadly spread across several
 disciplines, including engineering, public health, urban
 design/planning, and transport planning.
 
-Research on this relationship is very recent and seems to be increasing.
-All the studies were written in the last fifteen years, with 2022 being
-the year in which most studies on this topic were published (Figure 2).
-
-Methodologically, the studies can be roughly divided into those that
-used subjective measurements and objective measurements.
+Research on this relationship is very recent. All the studies were
+written in the last fifteen years (Figure 2). Methodologically, the
+studies can be roughly divided into those that used subjective
+measurements and objective measurements.
 
 <div class="figure" style="text-align: center">
 
@@ -184,45 +182,17 @@ Figure 2: Trends and types of studies reviewed
 
 ## Empirical findings
 
+### Subjective studies
+
 “The odds of cycling participation and duration is not higher in
 participants who agreed that streets were well lit” (Castillo-Paredes et
 al. 2022).
 
-“Perception of poor light at night is not significantly associated with
-people who reported traffic safety or personal security barriers to
-cycling” (Schneider, Wiers, and Schmitz 2022).
-
-“Both traffic safety concerns and personal security concerns were most
-strongly associated with poor neighborhood opportunities for exercise.
-Respondents living in lower-income communities reported greater barriers
-to pedestrian and bicycle safety and security than residents from
-wealthier neighborhoods” (Schneider, Wiers, and Schmitz 2022).
-
-Using Strava Heatmap data and spatial regression models, Yang et al.
-(2022) found that “the light index has positive associations with
-running but not with cycling”.
-
+<!-- "Perception of poor light at night is not significantly associated with people who reported traffic safety or personal security barriers to cycling" [@schneider_perceived_2022]. -->
+<!-- "Both traffic safety concerns and personal security concerns were most strongly associated with poor neighborhood opportunities for exercise.  -->
+<!-- Respondents living in lower-income communities reported greater barriers to pedestrian and bicycle safety and security than residents from wealthier neighborhoods" [@schneider_perceived_2022]. -->
+<!-- Using Strava Heatmap data and spatial regression models, @yang_crowdsourced_2022 found that "the light index has positive associations with running but not with cycling".  -->
 <!-- Using odd ratios to compare traffic flows in case and control hours, @fotios_effect_2022 found that darkness had a significant negative effect on the number of pedestrians and cyclists, but not on the number of motorized vehicles. -->
-
-Using satellite and street view imagery and linear regressions,
-Zacharias and Meng (2021) found that “street lighting is positively
-associated with dock-less shared bicycle uptake and deposit”.
-
-Using odd ratios, Uttley, Fotios, and Lovelace (2020) found that the
-drop in cycling levels after dark was substantially greater in unlit
-locations, compared with lit locations. Uttley, Fotios, and Lovelace
-(2020) also found “a non-linear relationship between relative brightness
-and the reduction in cyclists after-dark, suggesting that a minimal
-amount of lighting could be enough to promote cycling after dark”.
-
-Fotios, Uttley, and Fox (2019) found that “more people cycle on cycle
-trails and walk on foot paths after dark when they are lit than when
-they are unlit”.
-
-<!-- This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017]. -->
-
-“Some bicyclists favor routes which are planted with street trees or
-installed with street lights” (Chen, Shen, and Childress 2018).
 
 In a paper that estimated welfare change associated with improvements in
 urban bicycling facilities, Poorfakhraei and Rowangould (2015) found
@@ -244,12 +214,33 @@ to improve safety” (Sanders and Cooper 2013).
 cycling in \< 75 years old females and rural females, but not in other
 subgroups.” (Van Cauwenberg et al. 2012).
 
-“Children whose routes had a high density of streetlights were less
-likely to cycle to school” (Panter et al. 2010).
+<!-- "Children whose routes had a high density of streetlights were less likely to cycle to school" [@panter_neighborhood_2010]. -->
 
 Respondents in a study that examined if neighbourhood environments were
 associated with walking and cycling, reported that good lighting at
 night is an important facilitator of cycling (Lee and Moudon 2008).
+
+### Objective studies
+
+Using satellite and street view imagery and linear regressions,
+Zacharias and Meng (2021) found that “street lighting is positively
+associated with dock-less shared bicycle uptake and deposit”.
+
+Using odd ratios, Uttley, Fotios, and Lovelace (2020) found that the
+drop in cycling levels after dark was substantially greater in unlit
+locations, compared with lit locations. Uttley, Fotios, and Lovelace
+(2020) also found “a non-linear relationship between relative brightness
+and the reduction in cyclists after-dark, suggesting that a minimal
+amount of lighting could be enough to promote cycling after dark”.
+
+Fotios, Uttley, and Fox (2019) found that “more people cycle on cycle
+trails and walk on foot paths after dark when they are lit than when
+they are unlit”.
+
+<!-- This supported previous work which "indicated the numbers of pedestrians and cyclists during the case period were significantly higher during daylight conditions than after-dark, resulting in a 62% increase in pedestrians and a 38% increase in cyclists" [@uttley_using_2017]. -->
+
+“Some bicyclists favor routes which are planted with street trees or
+installed with street lights” (Chen, Shen, and Childress 2018).
 
 <!-- ## Cycling, crime, and lighting -->
 <!-- "Variables related to crime and lighting of public spaces were associated with active travel in countries in Latin America" [@castillo-paredes_perceived_2022]. -->
@@ -325,56 +316,6 @@ participants who agreed that streets were well lit.
 </tr>
 <tr>
 <td style="text-align:left;">
-Schneider, Wiers, and Schmitz (2022)
-</td>
-<td style="text-align:left;">
-Milwaukee (US)
-</td>
-<td style="text-align:left;">
-People who reported traffic safety barriers or personal security
-barriers to cycling
-</td>
-<td style="text-align:left;">
-Poor light at night?
-</td>
-<td style="text-align:left;">
-Subjective
-</td>
-<td style="text-align:left;">
-Logistic regression model
-</td>
-<td style="text-align:left;">
-Perception of poor light at night is not significantly associated with
-people who reported traffic safety or personal security barriers to
-cycling.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Yang et al. (2022)
-</td>
-<td style="text-align:left;">
-Central Chengdu (CN)
-</td>
-<td style="text-align:left;">
-Cycling intensity index (Strava heatmap)
-</td>
-<td style="text-align:left;">
-Light index (nighttime light data)
-</td>
-<td style="text-align:left;">
-Objective
-</td>
-<td style="text-align:left;">
-Spatial regression models
-</td>
-<td style="text-align:left;">
-The light index has positive associations with running but not with
-cycling.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Zacharias and Meng (2021)
 </td>
 <td style="text-align:left;">
@@ -419,30 +360,6 @@ Whole-year method using ORs
 <td style="text-align:left;">
 A non linear relationship was found between relative brightness at a
 location at night and the reduction in cyclists after-dark.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fotios, Uttley, and Fox (2019)
-</td>
-<td style="text-align:left;">
-Arlington County (US)
-</td>
-<td style="text-align:left;">
-Automated cycle counts
-</td>
-<td style="text-align:left;">
-Ambient light
-</td>
-<td style="text-align:left;">
-Objective
-</td>
-<td style="text-align:left;">
-Whole-year method using ORs
-</td>
-<td style="text-align:left;">
-More people cycle on cycle trails and walk on foot paths after dark when
-they are lit than when they are unlit.
 </td>
 </tr>
 <tr>
@@ -568,6 +485,30 @@ traffic volume and 4) speed.
 </tr>
 <tr>
 <td style="text-align:left;">
+Fotios, Uttley, and Fox (2019)
+</td>
+<td style="text-align:left;">
+Arlington County (US)
+</td>
+<td style="text-align:left;">
+Automated cycle counts
+</td>
+<td style="text-align:left;">
+Ambient light
+</td>
+<td style="text-align:left;">
+Objective
+</td>
+<td style="text-align:left;">
+Whole-year method using ORs
+</td>
+<td style="text-align:left;">
+More people cycle on cycle trails and walk on foot paths after dark when
+they are lit than when they are unlit.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Van Cauwenberg et al. (2012)
 </td>
 <td style="text-align:left;">
@@ -588,31 +529,6 @@ Multilevel logistic regression
 <td style="text-align:left;">
 Presence of street lighting increased the likelihood of daily cycling in
 \< 75 years old females and rural females, but not in other subgroups.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Panter et al. (2010)
-</td>
-<td style="text-align:left;">
-Norfolk (UK)
-</td>
-<td style="text-align:left;">
-Cycle to school
-</td>
-<td style="text-align:left;">
-Streetlight density = number of streetlights divided by total road
-length
-</td>
-<td style="text-align:left;">
-Objective
-</td>
-<td style="text-align:left;">
-Multilevel statistical models were fıtted
-</td>
-<td style="text-align:left;">
-Children whose routes had a high density of streetlights were less
-likely to cycle to school.
 </td>
 </tr>
 </tbody>
@@ -692,7 +608,7 @@ Based on these findings, we highlight the following research needs:
   contribute to poor visibility, perception and fear of crime thus
   decreasing bicycle use. This is particularly relevant in Sub-Saharan
   Africa due to the generalized lack of security and safety” (Mendiate
-  et al. 2022).
+  et al. 2022). Poor infrastructure. Low road lighting density.
 
 - More research in extreme latitude locations, which have longer
   durations of darkness during parts of the year.
@@ -824,15 +740,6 @@ Sports* 21 (4): 496–509.
 
 </div>
 
-<div id="ref-panter_neighborhood_2010" class="csl-entry">
-
-Panter, Jenna R., Andrew P. Jones, Esther M. F. Van Sluijs, and Simon J.
-Griffin. 2010. “Neighborhood, Route, and School Environments and
-Children’s Active Commuting.” *American Journal of Preventive Medicine*
-38 (3): 268–78. <https://doi.org/10.1016/j.amepre.2009.10.040>.
-
-</div>
-
 <div id="ref-poorfakhraei_estimating_2015" class="csl-entry">
 
 Poorfakhraei, Amir, and Gregory M. Rowangould. 2015. “Estimating Welfare
@@ -907,15 +814,6 @@ Sarah Dury, and Benedicte Deforche. 2012. “Physical Environmental
 Factors Related to Walking and Cycling in Older Adults: The Belgian
 Aging Studies.” *BMC Public Health* 12 (1): 142.
 <https://doi.org/10.1186/1471-2458-12-142>.
-
-</div>
-
-<div id="ref-yang_crowdsourced_2022" class="csl-entry">
-
-Yang, Linchuan, Bingjie Yu, Pengpeng Liang, Xianglong Tang, and Ji Li.
-2022. “Crowdsourced Data for Physical Activity-Built Environment
-Research: Applying Strava Data in Chengdu, China.” *Frontiers in Public
-Health* 10 (April): 883177. <https://doi.org/10.3389/fpubh.2022.883177>.
 
 </div>
 
