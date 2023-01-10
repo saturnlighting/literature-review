@@ -16,7 +16,7 @@ always_allow_html: true
 
 **Abstract**
 
-<Background>Many studies have explored the extent to which macro-built environmental attributes (e.g. population density, land use mix, proximity, spatial connectivity), and especially safe cycling infrastructure, affect cycling uptake.
+<Background>Many studies have explored the extent to which macro-built environmental attributes (e.g. population density, land use mix, proximity, spatial connectivity), and especially safe bicycle paths and lanes, affect cycling uptake.
 Less attention has been paid to the impact that micro-built environmental factors such as road lighting may have on people's choice to cycle.
 This paper provides a review of the scientific literature on the relationship between road lighting and cycling uptake and identifies existing gaps in research and knowledge.
 <Method>We used a hybrid systematic and snowballing method.
@@ -105,7 +105,10 @@ knitr::include_graphics("flow-chart.png")
 
 <!-- Paper we did not have access: -->
 
-<!-- - S. Chandra, R. Radhakrishnan, Street visibility-dependent path finding for pedestrians and bicyclists in urban areas, Transportation Research Board 94th Annual Meeting, Transportation Research Board, Washington DC, United States, 2015. -->
+<!-- - S. Chandra, R. Radhakrishnan, Street visibility-dependent path finding for pedestrians and bicyclists in urban areas, Transportation Research Board 94th Annual Meeting, Transportation Research Board, Washington DC, United States, 2015. 
+
+- REFERENCE: Categorizing bicycling environments using GPS-based public bicycle speed data
+-->
 
 ## Data extraction
 
@@ -120,6 +123,8 @@ The scientific literature on the relationship between road lighting and cycling 
 
 Research on this relationship is very recent. All the studies were written in the last fifteen years (Figure 2).
 Methodologically, the studies can be roughly divided into those that used subjective measurements and objective measurements.
+
+<!-- Many route choice modelling on cycling. Almost none of them include road lighting. -->
 
 ```{r fig2, echo=FALSE, fig.align="center", fig.cap="Figure 2: Trends and types of studies reviewed", message=FALSE, warning=FALSE, out.width='75%'}
 library(kableExtra)
@@ -158,6 +163,8 @@ knitr::include_graphics("study-types.png")
 ```
 
 ## Empirical findings
+
+### Perceived road lighting and cycling
 
 <!-- Divide perhaps between objective and subjective studies -->
 
@@ -305,9 +312,11 @@ Also gender-age groups are under-research. Do young female perceive cycling in t
 
 <Strength>This paper provides a review of the scientific literature on the relationship between road lighting and cycling uptake and identifies existing gaps in research and knowledge. 
 To the best of our knowledge, no papers had looked at this association and gaps in the literature before.
-<Limitations>Nevertheless, the paper has several limitations. 
-Although we used a hybrid systematic and snowballing search method to avoid missing existing studies, we could have been more strict by using more than one electronic database.
-We do not include and analyse the controls used in each of the studies.
+<Limitations>Nevertheless, the paper has several limitations: 
+
+- The method used for this review (using two search databases and the snowball technique) tries to guarantee a wide coverage. However, we are aware that some studies not included in the selected search databased, nor in the references of the papers found, or included in the search databased but not found when filtering by title, abstract, and keywords have not been reviewed.
+
+- We do not include and analyse the controls used in each of the studies.
 
 # Conclusions
 
