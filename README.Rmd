@@ -51,8 +51,8 @@ However, less investigated have been micro-built environmental factors such as r
 There is evidence suggesting that darkness discourages people from cycling [@fotios_effect_2022; @fotios_extending_2022, @fotios_whole-year_2019; @uttley_using_2017]. 
 This is due to a higher perceived danger of cyclists at night from motorised traffic and crime and personal security, which disproportionately affect women, the elderly, and disadvantaged groups [@schneider_perceived_2022]. 
 
+Road lighting has a big potential as a policy measure to encourage cycling after-dark.
 Road lighting can provide reassurance to cyclists to overcome this barrier, increasing cycling levels, and making cycling safer and more equitable.
-
 <!-- Any other relevant literature review fond in the search? -->
 <!-- Previous research has found a positive association between street lighting and physical activity (PA) and active travel (AT) [@prince_examining_2022; @bonaccorsi_impact_2020]. -->
 
