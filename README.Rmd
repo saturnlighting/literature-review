@@ -59,7 +59,7 @@ Road lighting can provide reassurance to cyclists to overcome this barrier, incr
 Previous academic literature reviews have touched on elements of the relationship between cycling and lighting.
 For example, @fotios_lighting_2017 reviewed suggested interventions to enable cycling lighting to contribute to the safety of cyclists in the UK. 
 @reynolds_impact_2009 reviewed the impact of transport infrastructure, including street lighting, on cycling collisions.
-Other reviews have look at the association between active travel or physical and environmental factors, including street lighting (e.g. @cerin_neighbourhood_2017; @prince_examining_2022). 
+Other reviews have looked at the associations between active travel or physical and environmental factors, including street lighting (e.g. @cerin_neighbourhood_2017; @prince_examining_2022). 
 However, to the best of our knowledge, no academic paper has reviewed the international literature available on the relationship between road lighting and specifically cycling uptake.
 This paper aims to fill this gap in the literature.
 
@@ -78,8 +78,7 @@ Section 2 describes the method.
 Section 3 presents the findings of the papers reviewed.
 Section 4 critically analyses the findings, responding the review 
 questions, and identifies gaps in the literature.
-Section 5 closes the work with the conclusio
-ns.
+Section 5 closes the work with the conclusions.
 
 # Method
 
@@ -124,12 +123,10 @@ The following information was extracted from each study: author(s) and year, loc
 
 The scientific literature on the relationship between road lighting and cycling uptake was found to be broadly spread across several disciplines, including engineering, public health, urban design/planning, and transport planning.
 
-Research on this relationship seems very recent. All the studies found were written in the last fifteen years.
-Methodologically, the studies can be roughly divided into those that used subjective measurements and objective measurements.
+Research on the relationship between road lighting and cycling uptake seems very recent. All the studies found were written in the last fifteen years. Most of the studies were from North America (5), 2 from South America, 1 from the United Kingdom, and 1 from China. 
 
-Most of the studies were from North America (5), 2 from South America, 1 British, and 1 Chinese.  
-
-<!-- Many route choice modelling on cycling. Almost none of them include road lighting. -->
+For the purposes of this analysis, the studies can be divided into those that examine the relationships between road lighting and cycling uptake using descriptive analysis and inferential analysis. 
+Another useful categorization of studies is based on the type of road lighting measurement, which can be subjective or objective.
 
 ```{r fig2, eval=FALSE, fig.align="center", fig.cap="Figure 2: Trends and types of studies reviewed", message=FALSE, warning=FALSE, include=FALSE, out.width='75%'}
 library(kableExtra)
@@ -170,8 +167,7 @@ knitr::include_graphics("study-types.png")
 ## Empirical findings
 
 <!-- Divide perhaps between objective and subjective studies -->
-
-"The odds of cycling participation and duration is not higher in participants who agreed that streets were well lit" [@castillo-paredes_perceived_2022].
+An study that examined the association between perceived neighborhood safety indicators and domain-specific active transportation in Latin America found that "the odds of cycling participation and duration is not higher in participants who agreed that streets were well lit" [@castillo-paredes_perceived_2022].
 
 Using satellite and street view imagery and linear regressions, @zacharias_environmental_2021 found that "street lighting is positively associated with dock-less shared bicycle uptake and deposit".
 
@@ -206,6 +202,10 @@ kbl(df,
 ```
 
 # Discussion
+
+This paper reviewed the scientific literature on the relationship between road lighting and cycling uptake.
+
+<!-- Use papers on ambient lighting and darkness to guess responses the current studies do not answer. -->
 
 #### To what extent does road lighting influence cycling uptake?
 
@@ -264,7 +264,7 @@ To make them feel more visible and less at risk of being hit?
 Or to make them feel safer from being a victim of crime? 
 Answers to these questions may help to adopt different policies to reduce the impact of darkness on cycling levels.
 
-- Deeper understanding on how road lighting affects different cyclist groups. 
+- Deeper understanding on how road lighting affects different cyclist groups (frequent cyclists, occasional cyclists, or potential cyclists). 
 Also gender-age groups are under-research. Do young female perceive cycling in the dark more dangerous than other women-age groups due to the risk of sexual assault?
 
 - Further research is needed on the specific type of road lighting appropriate for cyclists. 
