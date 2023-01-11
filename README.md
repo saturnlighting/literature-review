@@ -166,9 +166,9 @@ disciplines, including engineering, public health, urban
 design/planning, and transport planning.
 
 Research on this relationship seems very recent. All the studies found
-were written in the last fifteen years (Figure 2). Methodologically, the
-studies can be roughly divided into those that used subjective
-measurements and objective measurements.
+were written in the last fifteen years. Methodologically, the studies
+can be roughly divided into those that used subjective measurements and
+objective measurements.
 
 Most of the studies were from North America (5), 2 from South America, 1
 British, and 1 Chinese.
@@ -561,6 +561,9 @@ Based on these findings, we highlight the following research needs:
 
 - More research in extreme latitude locations, which have longer
   durations of darkness during parts of the year.
+
+- Who is most affected by the need for road lighting when cycling?
+  Frequent cyclists, occasional cyclists, or potential cyclists?
 
 <!-- -   Lack of research in developing countries -->
 
